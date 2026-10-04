@@ -1,15 +1,15 @@
 {
  "date": "2026-10-05",
- "genere": "2026-10-05T01:13+02:00",
+ "genere": "2026-10-05T01:14+02:00",
  "journaux": [
   {
    "id": "figaro",
    "nom": "Le Figaro",
    "couleur": "#163860",
    "une": {
-    "fichier": "unes/figaro.webp",
+    "fichier": "unes/figaro.jpg",
     "date": "2026-10-05",
-    "source": "https://www.frontpages.com/t/2026/10/05/le-figaro-000905ey8.webp"
+    "source": "https://static.milibris.com/thumbnail/issue/d8883069-0a40-4205-972e-ef1924c9221f/front/catalog-cover-large.jpeg"
    },
    "articles": [
     {
@@ -69,8 +69,8 @@
    "couleur": "#111111",
    "une": {
     "fichier": "unes/monde.webp",
-    "date": "2026-10-03",
-    "source": "https://www.frontpages.com/t/2026/10/03/le-monde-232743brn.webp"
+    "date": "2026-10-04",
+    "source": "https://www.frontpages.com/t/2026/10/03/le-monde-232743brn@2x.webp"
    },
    "articles": [
     {
@@ -190,9 +190,9 @@
    "nom": "L'Équipe",
    "couleur": "#e2001a",
    "une": {
-    "fichier": "unes/equipe.jpg",
-    "date": "2026-10-04",
-    "source": "https://img.kiosko.net/2026/10/04/fr/l_equip.750.jpg"
+    "fichier": "unes/equipe.webp",
+    "date": "2026-10-05",
+    "source": "https://www.frontpages.com/t/2026/10/05/l-equipe-010108f0f@2x.webp"
    },
    "articles": [
     {
