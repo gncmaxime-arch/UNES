@@ -159,6 +159,9 @@ def pertinent(it, s):
     titre = " " + sans_accents(it["titre"]) + " "
     if any(sans_accents(m) in titre for m in s.get("mots_exclus", [])):
         return False
+    source = sans_accents(it.get("source") or "")
+    if any(m in source for m in s.get("sources_exclues", [])):
+        return False
     requis = s.get("mots_requis")
     return not requis or any(sans_accents(m) in titre for m in requis)
 

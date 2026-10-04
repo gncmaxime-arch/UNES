@@ -108,6 +108,8 @@ SECTIONS = [
         "mots_exclus": ["que faire", "nuit du droit", "rendez-vous", "agenda", "sortir", "pourquoi saisir", "voici ce qu", "comment contester", "comment ", " ma maison", "mon ", "ce que l'arret", "recue au", "visite", "classe de",
                         "cameroun", "senegal", "mauritanie", "gabon", "benin", "cote d'ivoire", "togo", "mali", "burkina", "guinee",
                         "congo", "tchad", "madagascar", "algerie", "maroc", "tunisie conseil constitutionnel", "football", "ligue 1"],
+        # Sites de cabinets et conseils pratiques : pas de l'actualité juridique
+        "sources_exclues": ["avocat", "cabinet", "village de la justice", "juritravail", "legavox", "dossierfamilial"],
         "flux": [
             gnews("\"Conseil constitutionnel\" France -Cameroun -Sénégal -Mauritanie -Gabon -Bénin -Côte when:3d"),
             gnews("\"Conseil d'État\" décision when:3d"),
