@@ -69,7 +69,7 @@ jobs:
             const b = await chromium.launch();
             for (const [nom, vp] of [['mobile', { width: 390, height: 844 }], ['ordi', { width: 1366, height: 900 }]]) {
               const p = await b.newPage({ viewport: vp, deviceScaleFactor: 1 });
-              const r = await p.goto('https://gncmaxime-arch.github.io/UNES/?t=' + Date.now(), { waitUntil: 'networkidle' });
+              const r = await p.goto('https://minaillevibecoding.github.io/UNES/?t=' + Date.now(), { waitUntil: 'networkidle' });
               console.log(nom, 'HTTP', r.status());
               await p.waitForTimeout(2000);
               await p.screenshot({ path: `apercu/${nom}.jpg`, type: 'jpeg', quality: 60, fullPage: nom === 'mobile' });
