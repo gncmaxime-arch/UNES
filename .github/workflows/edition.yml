@@ -33,10 +33,10 @@ jobs:
         with:
           python-version: "3.12"
       - name: Collecter et générer le site
-        run: python scripts/build.py
+        run: python scripts/build.py 2> data/journal.txt; cat data/journal.txt >&2
       - name: Sonde (temporaire)
         continue-on-error: true
-        run: python scripts/sonde.py
+        run: python scripts/sonde.py > data/sonde.txt 2>&1
       - name: Archiver les données du jour
         run: |
           mkdir -p data/archives
