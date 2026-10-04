@@ -34,9 +34,6 @@ jobs:
           python-version: "3.12"
       - name: Collecter et générer le site
         run: python scripts/build.py
-      - name: Sonde (temporaire)
-        continue-on-error: true
-        run: python scripts/sonde.py
       - name: Archiver les données du jour
         run: |
           mkdir -p data/archives

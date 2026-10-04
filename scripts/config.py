@@ -9,7 +9,8 @@ JOURNAUX = [
         "id": "figaro",
         "nom": "Le Figaro",
         "couleur": "#163860",
-        "kiosko": ["lefigaro", "le_figaro", "figaro"],
+        "kiosko": [],
+        "frontpages": "le-figaro",
         "flux": [
             "https://www.lefigaro.fr/rss/figaro_actualites.xml",
             "https://www.lefigaro.fr/rss/figaro_flash-actu.xml",
@@ -20,7 +21,8 @@ JOURNAUX = [
         "id": "monde",
         "nom": "Le Monde",
         "couleur": "#111111",
-        "kiosko": ["le_monde", "lemonde", "monde"],
+        "kiosko": [],
+        "frontpages": "le-monde",
         "flux": [
             "https://www.lemonde.fr/rss/une.xml",
             gnews("site:lemonde.fr when:1d"),
@@ -31,6 +33,7 @@ JOURNAUX = [
         "nom": "La Croix",
         "couleur": "#c8102e",
         "kiosko": ["lacroix", "la_croix"],
+        "frontpages": "la-croix",
         "flux": [
             "https://www.la-croix.com/feeds/rss/site.xml",
             "https://www.la-croix.com/RSS/UNIVERS",
@@ -42,6 +45,7 @@ JOURNAUX = [
         "nom": "L'Équipe",
         "couleur": "#e2001a",
         "kiosko": ["l_equip", "lequipe", "l_equipe"],
+        "frontpages": "l-equipe",
         "flux": [
             "https://dwh.lequipe.fr/api/edito/rss?path=/",
             gnews("site:lequipe.fr when:1d"),

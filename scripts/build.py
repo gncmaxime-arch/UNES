@@ -193,7 +193,45 @@ def slugs_kiosko():
     return trouves
 
 
+def une_frontpages(j):
+    """frontpages.com expose la une du jour en og:image (…/g/AAAA/MM/JJ/<nom>.webp.jpg)."""
+    try:
+        page = get(f"https://www.frontpages.com/{j['frontpages']}/").decode("utf-8", "ignore")
+    except Exception as err:
+        log(f"  frontpages {j['nom']}: {type(err).__name__}")
+        return None
+    m = re.search(r'og:image"\s+content="(https://www\.frontpages\.com/g/(\d{4})/(\d{2})/(\d{2})/[^"]+)"', page)
+    if not m:
+        return None
+    url, a, mo, d = m.groups()
+    try:
+        data = get(url, timeout=20)
+    except Exception:
+        return None
+    ext = "jpg" if data[:2] == b"\xff\xd8" else "webp" if data[:4] == b"RIFF" else None
+    if not ext or len(data) < 15000:
+        return None
+    (SITE / "unes").mkdir(parents=True, exist_ok=True)
+    nom = f"unes/{j['id']}.{ext}"
+    (SITE / nom).write_bytes(data)
+    log(f"  une {j['nom']}: {url}")
+    return {"fichier": nom, "date": f"{a}-{mo}-{d}", "source": url}
+
+
 def chercher_une(j, connus):
+    une = une_kiosko(j, connus) if j["kiosko"] else None
+    recente = AUJOURDHUI - dt.timedelta(days=1)
+    if une and une["date"] >= recente.isoformat():
+        return une
+    autre = une_frontpages(j) if j.get("frontpages") else None
+    if autre and (not une or autre["date"] > une["date"]):
+        return autre
+    if not une:
+        log(f"  une {j['nom']}: introuvable")
+    return une
+
+
+def une_kiosko(j, connus):
     """Kiosko publie la une sous img.kiosko.net/AAAA/MM/JJ/fr/<slug>.750.jpg.
     Le Monde est daté du lendemain, Le Figaro ne paraît pas le dimanche :
     on essaie demain, aujourd'hui, puis jusqu'à trois jours en arrière."""
@@ -213,7 +251,7 @@ def chercher_une(j, connus):
                 (SITE / nom).write_bytes(data)
                 log(f"  une {j['nom']}: {url}")
                 return {"fichier": nom, "date": jour.isoformat(), "source": url}
-    log(f"  une {j['nom']}: introuvable (slugs essayés : {slugs})")
+    log(f"  kiosko {j['nom']}: rien (slugs essayés : {slugs})")
     return None
 
 
