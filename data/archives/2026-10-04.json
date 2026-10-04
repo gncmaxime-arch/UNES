@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "genere": "2026-10-04T18:01+02:00",
+ "genere": "2026-10-04T18:02+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -98,10 +98,10 @@
      "image": "https://img.lemde.fr/2026/10/04/612/0/7375/3687/644/322/60/0/fc36e83_ftp-1-eh8hm9xyegsu-fbc39168241a43c0800e3e0aea12c6ed-0-1c3d088339074572a7d4e3a743f1721c.jpg"
     },
     {
-     "titre": "A Viginum, les analystes cherchent à anticiper les ingérences étrangères : « Si on s’arrête à la menace prorusse, on se coupe d’une partie du sujet »",
+     "titre": "Dans les coulisses de Viginum, la cellule gouvernementale d’experts qui traque les ingérences étrangères sur Internet",
      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/10/04/a-viginum-les-analystes-cherchent-a-anticiper-les-ingerences-etrangeres-si-on-s-arrete-a-la-menace-prorusse-on-se-coupe-d-une-partie-du-sujet_6788259_4355770.html",
-     "resume": "Au sein d’une cellule d’experts d’Internet, ce service gouvernemental traque les évolutions du cyberespace, sur TikTok ou ailleurs. Les « attaquants » sont parfois étatiques, parfois non, ce qui nécessite d’avoir une approche globale, sur tout un écosystème.",
-     "date": "2026-10-04T14:00:08+02:00",
+     "resume": "Au sein d’une cellule d’experts, ce service traque les évolutions du cyberespace, sur TikTok ou ailleurs. Les « attaquants » sont parfois étatiques, parfois non, ce qui nécessite d’avoir une approche globale, sur tout un écosystème.",
+     "date": "2026-10-04T14:00:06+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/09/27/560/0/6720/3360/644/322/60/0/615f678_ftp-1-sdrubnledrva-5194434-01-06.jpg"
     },
@@ -252,7 +252,7 @@
      "date": "2026-10-04T05:30:02+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/02/660/0/7926/3963/644/322/60/0/0ee2b06_ftp-1-hkb0s2qmssm5-5248203-01-06.jpg",
-     "reprises": 12
+     "reprises": 9
     },
     {
      "titre": "EN DIRECT, guerre en Ukraine : Kiev « achètera davantage d’armes et d’équipements à l’Allemagne », assure Volodymyr Zelensky lors d’une visite de Frierich Merz à Kiev",
@@ -343,6 +343,15 @@
      "reprises": 3
     },
     {
+     "titre": "L’intelligence artificielle est-elle une menace pour les auteurs ? Le débat s’invite à la fête du livre de Merlieux",
+     "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZzVMODdmN1FjeW1xcEZ0U2RYNFJWTkctVWFCUjFMSmJpeGpnMEpVUWFVUkJzaXV1Q25NYU0xYkdtWXdMMTdLMXFmSnlvaWZBVmlxRVNXWGplUE9UQjhEdU5feDUtRzNGLXFocFQ1YTRJVFpKazFEbnNabVlaTENhYUY1WGx4NWFDSV8tam9HUmNDTzMzLVNxTFRrNU5sUWdtX3Q5eU1vNF91dWJ3Nm9INzBwc2V0bmxfLTE2RWxEYk0tRzNaeHpPVkNB?oc=5",
+     "resume": "L’intelligence artificielle est-elle une menace pour les auteurs ? Le débat s’invite à la fête du livre de Merlieux L'Union",
+     "date": "2026-10-04T17:59:22+02:00",
+     "source": "L'Union",
+     "image": null,
+     "reprises": 3
+    },
+    {
      "titre": "Après l'affaire Thélyson Orélien, qu'est-ce qu'un écrivain à l'heure de l'IA?",
      "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcWlRWF91ZnZwUDQ0X3VaRS1XQmswQ1hKcEs4eWZzZ29FeGsyd09hcHg1V1h0RjFWS2ZWN2RmZFFJdTg3X3Nwdk1xNkJvTVBudTdkMEZzaWRNTTltemwyRzUxcnZFVlpjQThlMkZjX0xmbHJRNm5UOHE0bnFlZ0dBNEpsOFBCUXFBaVZLV1RoaDJBbWdfcmRkUnhtcE9Xdlc3U0JrV2lnb0ZUY2ZQRDhVUjFVbXpQR1V5dlNMbWs0OTY1YTM2YVFMTlZfbGRPYTFqdTdKOHRjMThiSmplajJZWThWa2F4bXBMNGJ2cW83cnExVVZERUtTb1EyaTBwWjA?oc=5",
      "resume": "Après l'affaire Thélyson Orélien, qu'est-ce qu'un écrivain à l'heure de l'IA? letemps.ch",
@@ -361,15 +370,6 @@
      "reprises": 2
     },
     {
-     "titre": "Maroc et Mistral AI : premiers outils IA open source livrés",
-     "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRUFvQ3NSNnVKdXN1YUlNbnhjWktpVVdfUmg5a1IzcHEyYTQwU0wzRzU1V2MzQVppZWswcHBMUlFKVjlUV2RGVUpYdVFTUHdGRE9aRlNBM2RibEc0R2hnbEIxMG55a3FhRldadG1QUU9UTmd5UGl1NDlwMXpaX2luejFsZk9kTFVncy05d09YSQ?oc=5",
-     "resume": "Maroc et Mistral AI : premiers outils IA open source livrés vu-magazine.com",
-     "date": "2026-10-04T09:11:43+02:00",
-     "source": "vu-magazine.com",
-     "image": null,
-     "reprises": 2
-    },
-    {
      "titre": "Un employé d'OpenAI démissionne et appelle à renforcer les pratiques de sécurité du secteur de l'IA, face aux incidents récents",
      "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOWDEtT3pTQlY5N1NzZHA1T21LbEhLRVFnZGFyOUdQUk5SNGN4b3B6RWVoaVMtLVhvRC1Qd1hYZlg1WXhGcDNlSmtfV1JtSk5zcjdKSDBDbm4zWW92SEN5V09nTmFxbTlTc1JOOU1zeFVONTJSUmlFTFFiU1R4TDlBYm5IeHJOdjNlYjZmNU9RalVCWWlieTJxRWpsT3g3ZWZwMFNoLUVZZ3YwcXg2NVl0d3BiOThvMl9Sb0RBSGl0cGVxbjJkSU9uME50X3VrbGJFYmJFLUNtRlZuU1BYc3U4emhTcnhsT3hra2FGNVZvb2JpLVlzMWRaUnh1WHREcjE4SGJYSUt3enlTVXNWNGpYWEZLVGlGaXAxMVlTTmRaLUNBYXFOWXV3?oc=5",
      "resume": "Un employé d'OpenAI démissionne et appelle à renforcer les pratiques de sécurité du secteur de l'IA, face aux incidents récents franceinfo",
@@ -379,20 +379,20 @@
      "reprises": 2
     },
     {
+     "titre": "Maroc et Mistral AI : premiers outils IA open source livrés",
+     "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRUFvQ3NSNnVKdXN1YUlNbnhjWktpVVdfUmg5a1IzcHEyYTQwU0wzRzU1V2MzQVppZWswcHBMUlFKVjlUV2RGVUpYdVFTUHdGRE9aRlNBM2RibEc0R2hnbEIxMG55a3FhRldadG1QUU9UTmd5UGl1NDlwMXpaX2luejFsZk9kTFVncy05d09YSQ?oc=5",
+     "resume": "Maroc et Mistral AI : premiers outils IA open source livrés vu-magazine.com",
+     "date": "2026-10-04T09:11:43+02:00",
+     "source": "vu-magazine.com",
+     "image": null,
+     "reprises": 2
+    },
+    {
      "titre": "Corée du Nord : Kim Jong Un a supervisé le lancement d’un missile utilisant l’IA",
      "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcGpxTjk1ZWt5ZUhrckRVaHNuSVdEQmhnT1ppLXQ2UVVjQmpibUcyQ1hBd05vOVRoZzVtOHVWWHVoc3RmT3dNSUs1OW9GazFaRUJybXJKbE5sSWluR1Y3NWpVQldCcUdYV29KWk04UE9xeTZSamxGSm1DWlY4VkJYTXBmR0RPTGZmOFNwVHExVlBYMjVPOElsZm8zR3U1Y1dWbTk3Ui1XZkJQcjQwOVd2REt5Q2hkNU5wSjBxcEhzbEpNX2FaLTBCTlVDOW5mQnZ3allKajd6VVJaOVhrZExZTEpDcVNEYnBQbmt2U1hCVQ?oc=5",
      "resume": "Corée du Nord : Kim Jong Un a supervisé le lancement d’un missile utilisant l’IA Le Parisien",
      "date": "2026-10-04T13:46:32+02:00",
      "source": "Le Parisien",
-     "image": null,
-     "reprises": 2
-    },
-    {
-     "titre": "Entre gain de temps et peur de l’inconnu, l’intelligence artificielle s’invite et divise dans les petites communes rurales.",
-     "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQS3UwbDFNR3BIVl9tRFpTeWZpOGJVbXBsdXJmRmJJU3EwTmpSSWVfd0ZjOGRWNUdtWnR5SXcwcW5NeFM1UGMzOHNSbTE3Q1hsNmRkaEprMkgtUzgzZGJxTFJFT21uMDlmMWpTWE9VQjU4blZqbVQxLVJINWZvX3dMMVhBLXI1UWM3VXpRc054SnA0MGVXNVRScTlQZEt1N2FxaklPRmhOY0tzd0tzY0VkVTQ4b3RqUUdfWXhOdVdXN2swOWE4a3otejA0S0pmcjhiM3Zya01RRy1kTEFmcEhfLVdFZm0wRmpGRjlRZ2RWRjAxMTlhNXJKZ3VYMlQ5dXp4cHlvag?oc=5",
-     "resume": "Entre gain de temps et peur de l’inconnu, l’intelligence artificielle s’invite et divise dans les petites communes rurales. lanouvellerepublique.fr",
-     "date": "2026-10-04T10:00:00+02:00",
-     "source": "lanouvellerepublique.fr",
      "image": null,
      "reprises": 2
     }
@@ -436,11 +436,21 @@
     {
      "titre": "Nuit du Droit 2026 : quatre rendez-vous en Loire-Atlantique ce lundi 5 octobre",
      "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUZOdTBwQjk3SFVJUWpnLVZlQzBtNDg5ZXltNFVuSWdRcjNjSUh5dS1TU09QRGFRUUZZT2N4WWFrVVpoZE1MTGhHSWp4Z1RLT0lhaWVqVXRzTERnWm0wYi1fQUUzSkpRSnFVVkhGb0EyVWtmNzlGcmtmU2pnZDloa09fN0RRdUNkc0k1VGxJR0xDNGN5Znljc3JwXzk4WXpy?oc=5",
-     "resume": "Nuit du Droit 2026 : quatre rendez-vous en Loire-Atlantique ce lundi 5 octobre actu44.fr",
+     "resume": "Nuit du Droit 2026 : quatre rendez-vous en Loire-Atlantique ce lundi 5 octobre Actu44",
      "date": "2026-10-02T13:20:18+02:00",
-     "source": "actu44.fr",
+     "source": "Actu44",
      "image": null,
      "reprises": 4,
+     "libertes": false
+    },
+    {
+     "titre": "Assigné comme gérant de fait après la liquidation : contester la requalification et limiter l'insuffisance d'actif (2026)",
+     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzFnSmFSQS1QLXlLRFNnaFhjVnhWaTZxdW1PTFpFMHFoWVgzWWVoaDBad290OXoydjlyamtQWHRDTmlmaTRwWHlfMjZYYXhTcDhCYmRwTnowVTdZQnE0blFEc0s5dFZfc2djZ1RrWWhhT0ZaLXR4OUREbmo2ZHFpb25rNTczdi11azJVNEtmdnF2TE1XaEZnUFpIUkR4WndIc3ZkNW11SGMxbUZBdjctd0lkQ2pJWHNE?oc=5",
+     "resume": "Assigné comme gérant de fait après la liquidation : contester la requalification et limiter l'insuffisance d'actif (2026) Kohen Avocats",
+     "date": "2026-10-03T22:27:00+02:00",
+     "source": "Kohen Avocats",
+     "image": null,
+     "reprises": 1,
      "libertes": false
     },
     {
@@ -476,9 +486,9 @@
     {
      "titre": "Pourquoi saisir la Cour de cassation ? Voici ce qu’elle peut réellement décider",
      "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSW85RThlQzFPVEtzU1dGLU5oN1MzeHNKeHJuQXU2YzNGNEluQkpyTmxyNERCOVUxbUlnQjRSY1BjdjhWZ280Y2VIMXVodERRSkZrbjhtZWNJOXBNVGxURjRvQW1NWE1hWFdlM1ZlV3A5Sk5jZ1U0MmdkNkVpMWJtb0t5U1cyOENHU0IxVllqOA?oc=5",
-     "resume": "Pourquoi saisir la Cour de cassation ? Voici ce qu’elle peut réellement décider geo.fr",
+     "resume": "Pourquoi saisir la Cour de cassation ? Voici ce qu’elle peut réellement décider magazine GEO",
      "date": "2026-10-03T08:13:00+02:00",
-     "source": "geo.fr",
+     "source": "magazine GEO",
      "image": null,
      "reprises": 1,
      "libertes": false
@@ -491,16 +501,6 @@
      "source": "lejdd.fr",
      "image": null,
      "reprises": 2,
-     "libertes": true
-    },
-    {
-     "titre": "Décision n° 2026-1222 QPC du 1er octobre 2026",
-     "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MdDQ4WTJCNGFfZlF5OUo2TWx4dDN1XzVQT1MyWS04aVlneEo5SkI3dDhBTmxVWXFEQTRWWTBJYXo2RGJjQm12M0w5Y2pnbmZSaE9mUkR3a1JDTDA3TkNBWm5ISEFXTlR0RXl5YlFheWptaHZQdmZN?oc=5",
-     "resume": "Décision n° 2026-1222 QPC du 1er octobre 2026 Conseil constitutionnel",
-     "date": "2026-10-01T18:33:11+02:00",
-     "source": "Conseil constitutionnel",
-     "image": null,
-     "reprises": 1,
      "libertes": true
     }
    ]
