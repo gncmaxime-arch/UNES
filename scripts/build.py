@@ -38,8 +38,12 @@ def log(*a):
     print(*a, file=sys.stderr, flush=True)
 
 
-def get(url, timeout=20):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Language": "fr-FR,fr;q=0.9"})
+def get(url, timeout=20, referer=None):
+    entetes = {"User-Agent": UA, "Accept-Language": "fr-FR,fr;q=0.9",
+               "Accept": "image/avif,image/webp,image/*,*/*;q=0.8" if referer else "*/*"}
+    if referer:
+        entetes["Referer"] = referer
+    req = urllib.request.Request(url, headers=entetes)
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read()
 
@@ -212,10 +216,18 @@ def une_frontpages(j):
 
 
 def telecharger_frontpages(j, url, a, mo, d):
-    try:
-        data = get(url, timeout=20)
-    except Exception as err:
-        log(f"  frontpages {j['nom']}: {type(err).__name__} sur {url}")
+    page_url = f"https://www.frontpages.com/{j['frontpages']}/"
+    data = None
+    # L'image pleine taille est protégée contre les liens directs : on présente la page d'origine en Referer,
+    # puis on se rabat sur la vignette /t/ si besoin.
+    for essai in (url, url.replace(".webp.jpg", ".webp"), url.replace("/g/", "/t/").replace(".webp.jpg", ".webp")):
+        try:
+            data = get(essai, timeout=20, referer=page_url)
+            url = essai
+            break
+        except Exception as err:
+            log(f"  frontpages {j['nom']}: {err} sur {essai}")
+    if data is None:
         return None
     ext = "jpg" if data[:2] == b"\xff\xd8" else "webp" if data[:4] == b"RIFF" else None
     if not ext or len(data) < 15000:
