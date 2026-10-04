@@ -140,6 +140,12 @@ def bloc_notion(n):
             f'{cite}</aside>')
 
 
+def coquillettes():
+    import base64
+    with open(__file__.replace("render.py", "assets/coquillettes.jpg"), "rb") as f:
+        return "data:image/jpeg;base64," + base64.b64encode(f.read()).decode()
+
+
 def render(ed):
     edito = ed.get("editorial") or {}
     ed_journaux = edito.get("journaux") or {}
@@ -166,4 +172,5 @@ def render(ed):
             .replace("{{POINTS}}", points)
             .replace("{{PANNEAUX}}", panneaux)
             .replace("{{SECTIONS}}", sections)
+            .replace("{{COQUILLETTES}}", coquillettes())
             .replace("{{CLAUDE}}", "Sélection et résumés rédigés par Claude" if edito else "Sélection automatique"))

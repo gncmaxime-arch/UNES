@@ -53,6 +53,13 @@ h1{font-family:var(--titre);font-weight:800;font-size:clamp(58px,15vw,136px);lin
 .themes [data-t="light"]{background:#f4efe6}
 .themes [data-t="dark"]{background:#14120f}
 .themes [data-t="rose"]{background:#f2a7c1}
+/* Troll du thème rose : pluie de 💅 et de coquillettes */
+.troll{position:fixed;inset:0;z-index:9999;pointer-events:none;overflow:hidden}
+.troll::before{content:"";position:absolute;inset:0;background:radial-gradient(circle at var(--x,50%) var(--y,10%),#ff8fc0,#fbeef2 70%);animation:troll-flash 3.2s ease forwards}
+.troll i{position:absolute;left:var(--l);top:-15vh;font-style:normal;font-size:var(--t);line-height:1;will-change:transform;animation:troll-chute var(--d) cubic-bezier(.3,.1,.6,1) var(--r) forwards}
+.troll i.p{width:var(--t);height:var(--t);border-radius:50%;background:url("{{COQUILLETTES}}") var(--bp)/260% no-repeat;box-shadow:0 4px 10px rgba(120,60,0,.25)}
+@keyframes troll-flash{0%{opacity:0}12%{opacity:.85}60%{opacity:.6}100%{opacity:0}}
+@keyframes troll-chute{0%{transform:translate(0,0) rotate(0)}100%{transform:translate(var(--dx),130vh) rotate(var(--rot))}}
 h1 span{display:inline-block;opacity:0;transform:translateY(.4em) rotateX(-70deg);transform-origin:50% 100%;animation:lettre .9s cubic-bezier(.2,.8,.2,1) forwards;animation-delay:calc(var(--i)*55ms)}
 @keyframes lettre{to{opacity:1;transform:none}}
 .date{font-family:var(--titre);font-style:italic;font-size:20px;color:var(--encre-2)}
@@ -229,8 +236,34 @@ footer{margin:70px 0 0;padding:26px 0 40px;border-top:3px double var(--filet);te
   choisir(lire());
   pastilles.forEach(b => b.addEventListener("click", () => {
     const v = b.dataset.t === "auto" ? null : b.dataset.t;
+    const avant = racine.getAttribute("data-theme");
     ecrire(v); choisir(v);
+    if (v === "rose" && avant !== "rose") troll(b);
   }));
+
+  // Passage en rose : pluie de 💅 et de coquillettes pendant 3 secondes
+  function troll(b) {
+    const r = b.getBoundingClientRect();
+    const boite = document.createElement("div");
+    boite.className = "troll";
+    boite.style.setProperty("--x", (r.left + r.width / 2) + "px");
+    boite.style.setProperty("--y", (r.top + r.height / 2) + "px");
+    const nb = reduit ? 25 : (innerWidth < 700 ? 55 : 90);
+    const alea = (a, z) => a + Math.random() * (z - a);
+    for (let i = 0; i < nb; i++) {
+      const el = document.createElement("i");
+      if (Math.random() < .5) { el.textContent = "💅"; el.style.setProperty("--t", alea(28, 64) + "px"); }
+      else { el.className = "p"; el.style.setProperty("--t", alea(50, 110) + "px"); el.style.setProperty("--bp", alea(0, 100) + "% " + alea(0, 100) + "%"); }
+      el.style.setProperty("--l", alea(-5, 100) + "vw");
+      el.style.setProperty("--dx", alea(-20, 20) + "vw");
+      el.style.setProperty("--rot", alea(-540, 540) + "deg");
+      el.style.setProperty("--d", alea(1.6, 2.8) + "s");
+      el.style.setProperty("--r", alea(0, .9) + "s");
+      boite.appendChild(el);
+    }
+    document.body.appendChild(boite);
+    setTimeout(() => boite.remove(), 4000);
+  }
 
   // Titre lettre par lettre
   const h1 = document.getElementById("titre");
