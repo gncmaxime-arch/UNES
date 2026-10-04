@@ -200,16 +200,26 @@ def une_frontpages(j):
     except Exception as err:
         log(f"  frontpages {j['nom']}: {type(err).__name__}")
         return None
-    m = re.search(r'og:image"\s+content="(https://www\.frontpages\.com/g/(\d{4})/(\d{2})/(\d{2})/[^"]+)"', page)
+    slug = re.escape(j["frontpages"])
+    m = re.search(rf'((?:https://www\.frontpages\.com)?/g/(\d{{4}})/(\d{{2}})/(\d{{2}})/{slug}-[^"\'\s)]+)', page)
     if not m:
+        log(f"  frontpages {j['nom']}: image non repérée dans la page")
         return None
     url, a, mo, d = m.groups()
+    if url.startswith("/"):
+        url = "https://www.frontpages.com" + url
+    return telecharger_frontpages(j, url, a, mo, d)
+
+
+def telecharger_frontpages(j, url, a, mo, d):
     try:
         data = get(url, timeout=20)
-    except Exception:
+    except Exception as err:
+        log(f"  frontpages {j['nom']}: {type(err).__name__} sur {url}")
         return None
     ext = "jpg" if data[:2] == b"\xff\xd8" else "webp" if data[:4] == b"RIFF" else None
     if not ext or len(data) < 15000:
+        log(f"  frontpages {j['nom']}: fichier inattendu ({len(data)} octets) {url}")
         return None
     (SITE / "unes").mkdir(parents=True, exist_ok=True)
     nom = f"unes/{j['id']}.{ext}"
