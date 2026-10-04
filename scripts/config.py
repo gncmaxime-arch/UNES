@@ -85,10 +85,10 @@ SECTIONS = [
         "nb": 5,
         "mots_requis": [" ia ", " ia,", " ia.", "l'ia", "d'ia", "intelligence artificielle", " ai ", " ai,", "a.i.", "openai", "anthropic", "claude",
                         "chatgpt", "gemini", "mistral", "deepmind", "llm", "copilot", "nvidia", "agent ia", "modele de langage", "machine learning", "artificial intelligence"],
-        "mots_exclus": ["meilleurs outils", "bon plan", "promo", "code promo", "test :", "comparatif", "horoscope", "fete du livre"],
+        "mots_exclus": ["meilleurs outils", "bon plan", "promo", "code promo", "test :", "comparatif", "horoscope", "fete du livre", "salon du livre", "comice", "s'invite"],
         "flux": [
             gnews("intelligence artificielle when:1d"),
-            gnews("OpenAI OR Anthropic OR \"Google DeepMind\" OR \"Mistral AI\" lang:fr when:2d"),
+            gnews("OpenAI OR Anthropic OR \"Google DeepMind\" OR \"Mistral AI\" when:2d"),
             "https://www.numerama.com/tech/intelligence-artificielle/feed/",
             "https://siecledigital.fr/intelligence-artificielle/feed/",
         ],
