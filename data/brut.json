@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "genere": "2026-10-05T01:21+02:00",
+ "genere": "2026-10-05T01:22+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -260,8 +260,8 @@
      "date": "2026-10-04T23:14:20+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/0/0/4500/2250/644/322/60/0/5be74a0_ftp-1-5ssdvsntqx2r-2026-10-04t120959z-602533101-rc28wnafjzy5-rtrmadp-3-ukraine-crisis-germany.JPG",
-     "reprises": 13,
-     "score": 35.89
+     "reprises": 14,
+     "score": 38.33
     },
     {
      "titre": "🔴 Présidentielle au Brésil en direct : fermeture des bureaux de vote, le dépouillement a commencé",
@@ -274,16 +274,6 @@
      "score": 33.99
     },
     {
-     "titre": "Yémen : les houthistes encerclent désormais Taëz, grande ville du Sud-Ouest ; le président annonce une offensive pour reprendre l’ensemble du pays",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html",
-     "resume": "Les affrontements font rage depuis plusieurs jours dans le pays, à l’intérieur des terres et sur les hauteurs surplombant les régions côtières récemment conquises par les houthistes. Plus de 70 personnes sont mortes ces dernières vingt-quatre heures dans les…",
-     "date": "2026-10-04T14:32:11+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/03/668/0/3999/1999/644/322/60/0/1450936_ftp-1-fvfk4bcqp0uu-5254686-01-06.jpg",
-     "reprises": 5,
-     "score": 9.94
-    },
-    {
      "titre": "Vol Flydubai : Benyamin Nétanyahou ordonne un examen des mesures de sécurité prises sur les vols internationaux vers Israël",
      "lien": "https://www.lemonde.fr/international/article/2026/10/04/vol-flydubai-benyamin-netanyahou-ordonne-un-examen-des-mesures-de-securite-sur-les-vols-internationaux-vers-israel_6788330_3210.html",
      "resume": "Un vol transportant 174 personnes avait dû atterrir en urgence en Arabie saoudite après une apparente tentative du copilote de provoquer un crash. L’opposition israélienne réclame des investigations sur d’éventuelles failles de sécurité.",
@@ -291,7 +281,17 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/220/0/2645/1322/644/322/60/0/2a3d9c5_ftp-1-1umhbp1wqvqe-2026-10-04t143706z-234243230-rc2rtnagne7d-rtrmadp-3-israel-gulf-flight-australia.JPG",
      "reprises": 3,
-     "score": 8.11
+     "score": 8.02
+    },
+    {
+     "titre": "Yémen : les houthistes encerclent désormais Taëz, grande ville du Sud-Ouest ; le président annonce une offensive pour reprendre l’ensemble du pays",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html",
+     "resume": "Les affrontements font rage depuis plusieurs jours dans le pays, à l’intérieur des terres et sur les hauteurs surplombant les régions côtières récemment conquises par les houthistes. Plus de 70 personnes sont mortes ces dernières vingt-quatre heures dans les…",
+     "date": "2026-10-04T14:32:11+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/03/668/0/3999/1999/644/322/60/0/1450936_ftp-1-fvfk4bcqp0uu-5254686-01-06.jpg",
+     "reprises": 4,
+     "score": 7.47
     },
     {
      "titre": "Espagne : les inondations font plusieurs morts près de Barcelone",
@@ -365,7 +365,7 @@
      "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXBVMTNnSUtqYVRjMVpNYVQ3dEIyc0pWQ3BFMS1vaFRYdjVhUWNLRm9pa3cwZ05sbXRCV2NuSnpUczJjRVJnN0Q2ay16enZ3QkktTTdmMWdlTHpaN0xZelN5ZTVjM3A1dlJleUVTNWt1dGg2UTV5VUJXamNqS3k3d2RISDZSWHNieDg0akZYNnlkb2Rwcks3TW5HRno?oc=5",
      "resume": "",
      "date": "2026-10-04T05:04:37+02:00",
-     "source": "BlogNT",
+     "source": "blog-nouvelles-technologies.fr",
      "image": null,
      "reprises": 2,
      "score": 2.58
@@ -385,29 +385,7 @@
      "source": "La République des Pyrénées",
      "image": null,
      "reprises": 24,
-     "score": 44.83,
-     "libertes": false
-    },
-    {
-     "titre": "Décaissement et atteinte aux soubassements en copropriété : l'arrêt du 17 septembre 2026, la preuve de l'imputabilité des travaux et les recours du syndicat",
-     "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkVaRTR4THFEc3FUWUJwWVJGV0RkSXlJWFVHUjQ1NFFEdEZMQkNfYUtvMHhpQ0JlMURVYjZGd2FER1pvVV9yVnFxc0diaTBteG8xVlhnVkk5WXg3cGhNdW1mOVVRanlQNFhIcU5Pa05Gb09FZGxSSXAyaFYySXJsd3NNVEdlMnpUc0FObjQ5WERKR2lhcG1sLTZHaVlDekV5REY2MzcyS0dROWdQMDJSWnRENDc0OWdLLXhXandVSndMeWdUUkE?oc=5",
-     "resume": "",
-     "date": "2026-10-02T23:45:00+02:00",
-     "source": "kohenavocats.fr",
-     "image": null,
-     "reprises": 1,
-     "score": 6.29,
-     "libertes": false
-    },
-    {
-     "titre": "Solidarité fiscale des époux et surendettement des particuliers : sort de la dette fiscale commune, décharge de l'article 1691 bis du CGI et pouvoirs du juge",
-     "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWFFyZldHMl9LVE1CbzVSaXNycDlJUzUtdjQ0WF9aaDI1THhrellZSXAzWjhCQXczWC1JUlE2WEFjV2QyaE91c3RDYWVoeWczUlkzeXV0TkpwQTFUU1FKRE9hTnAwZG9JWTN6QUlVcXNHVm05Qy1XZC1zSFdyU3B0RjFhdkRlWGdUQTQzZUNXWWs0bFVyZ1dmZzhueFdYekdxZkIyTHRJdzdvWjFyZ3QzOEZn?oc=5",
-     "resume": "",
-     "date": "2026-10-03T04:06:00+02:00",
-     "source": "kohenavocats.fr",
-     "image": null,
-     "reprises": 1,
-     "score": 5.46,
+     "score": 44.82,
      "libertes": false
     },
     {
@@ -440,8 +418,30 @@
      "source": "Force Ouvrière",
      "image": null,
      "reprises": 1,
-     "score": 2.78,
+     "score": 3.02,
      "libertes": true
+    },
+    {
+     "titre": "Protéger contre les discriminations sans mettre en péril la liberté d’expression : Reem Alsalem vivement préoccupée par une décision de justice française",
+     "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORGlZRWIwWnlWbXpoMFB3N0Q5LV94S3Z3eXlPUy1xNHhNbWdrUWVzT0stTjFfWGN4RVRHRjcwU3hGWGxOWUlLRDBUQVdzNm41aXh3SGwwelk4ci1VU1RJZVFLUUs1MzB3cF9lSnJ6R21ObkxRQUZkbHFyX1ZYRTJ5a0hwNjV1NTQ4aUF4cW9XMEhnWGFNdU1xQkdUWUlXM0xBM09GdmRzeUZic2w0aTJ3VWwxb29UR0J4THNocUpQTHMzaWg4NFp2VFZzQXk5cDFFVWJPSUtsMVYxM2RnNDlyUkxxV1N0a05oMnZyVXkyUnVIY196SlEteGF5ajJHdHVod1ZNOA?oc=5",
+     "resume": "",
+     "date": "2026-10-04T17:04:32+02:00",
+     "source": "Gènéthique",
+     "image": null,
+     "reprises": 1,
+     "score": 1.53,
+     "libertes": true
+    },
+    {
+     "titre": "Oui, les médecins peuvent critiquer l’homéopathie : une décision essentielle du Conseil d’Etat",
+     "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ2duZTN2ZTlUM1cyNWlkR0gtYm1ONm9FNHJ0TWNyeHBfZGdET1lNTUhGOWlSLUZ4MkhocE1RdmY3WHUxMURPazg4N1d4QlJGNTBDNWlxeC1qby1fRzRPZGlMOFNmZjRwUENJS0tCYnBJeUIyY3JLOGJUb3R0NzM5VXhyTkEzYkdkODlzamFWXzFRN2d1TElvRy1oN0w5QTBzbHhjY0JuZHpIaHM5Z3RxMEVOWmVzSmUxY2xNVHhnUnVDMkJDUHlfdFNaWmJVaDVUTF9HbFZWcWYzc2RvUXBoMmFUaldLUVdCeTREaQ?oc=5",
+     "resume": "",
+     "date": "2026-10-04T16:00:00+02:00",
+     "source": "L'Express",
+     "image": null,
+     "reprises": 1,
+     "score": 1.39,
+     "libertes": false
     }
    ]
   }
