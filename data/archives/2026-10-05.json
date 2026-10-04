@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "genere": "2026-10-05T01:02+02:00",
+ "genere": "2026-10-05T01:04+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -260,7 +260,7 @@
      "date": "2026-10-04T23:14:20+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/0/0/4500/2250/644/322/60/0/5be74a0_ftp-1-5ssdvsntqx2r-2026-10-04t120959z-602533101-rc28wnafjzy5-rtrmadp-3-ukraine-crisis-germany.JPG",
-     "reprises": 14
+     "reprises": 15
     },
     {
      "titre": "🔴 Présidentielle au Brésil en direct : fermeture des bureaux de vote, le dépouillement a commencé",
@@ -422,13 +422,13 @@
      "libertes": false
     },
     {
-     "titre": "Nuit du Droit 2026 : quatre rendez-vous en Loire-Atlantique ce lundi 5 octobre",
-     "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUZOdTBwQjk3SFVJUWpnLVZlQzBtNDg5ZXltNFVuSWdRcjNjSUh5dS1TU09QRGFRUUZZT2N4WWFrVVpoZE1MTGhHSWp4Z1RLT0lhaWVqVXRzTERnWm0wYi1fQUUzSkpRSnFVVkhGb0EyVWtmNzlGcmtmU2pnZDloa09fN0RRdUNkc0k1VGxJR0xDNGN5Znljc3JwXzk4WXpy?oc=5",
+     "titre": "Que faire ce lundi à Paris ? Sorties et bons plans du 5 octobre 2026",
+     "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTU0SlM0Q0pwdFhDWkxORFN4OE9zUFpGeHlyVkFkeXZCXzR6VkdXNFZ2aU1PQVptT19CSm05Z1lmXzQwZXpVT1BaZVlLMUlLdlNkcHdqUWROMXhNSXZxc2hUaXZ5YVdsUE01TnBaeEdKVlZWWGRWbDc2bFUwX1N0cTVvN2NaX1JDNnRka3FrQ1VQT3ZXWTliQVdMV1U1WUVSQ2otazN5eW81TmxnUlZ6b2trdGdTdTY1X2Nzd2Zycm1qX3pWNlB3?oc=5",
      "resume": "",
-     "date": "2026-10-02T13:20:18+02:00",
-     "source": "Actu44",
+     "date": "2026-10-04T04:35:05+02:00",
+     "source": "Sortir à Paris",
      "image": null,
-     "reprises": 4,
+     "reprises": 3,
      "libertes": false
     },
     {
