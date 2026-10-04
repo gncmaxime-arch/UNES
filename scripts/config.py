@@ -115,8 +115,6 @@ SECTIONS = [
             gnews("CEDH OR \"Cour européenne des droits de l'homme\" when:3d"),
             gnews("\"libertés fondamentales\" OR \"liberté d'expression\" OR QPC when:3d"),
             "https://www.dalloz-actualite.fr/rss.xml",
-            "https://www.village-justice.com/articles/spip.php?page=backend",
-            "https://www.conseil-constitutionnel.fr/rss.xml",
         ],
         "mots_libertes": [
             "liberté", "libertés", "droit fondamental", "droits fondamentaux", "cedh",
