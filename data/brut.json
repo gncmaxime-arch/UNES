@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "genere": "2026-10-05T01:23+02:00",
+ "genere": "2026-10-05T01:24+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -260,8 +260,8 @@
      "date": "2026-10-04T23:14:20+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/0/0/4500/2250/644/322/60/0/5be74a0_ftp-1-5ssdvsntqx2r-2026-10-04t120959z-602533101-rc28wnafjzy5-rtrmadp-3-ukraine-crisis-germany.JPG",
-     "reprises": 13,
-     "score": 35.88
+     "reprises": 14,
+     "score": 38.3
     },
     {
      "titre": "🔴 Présidentielle au Brésil en direct : fermeture des bureaux de vote, le dépouillement a commencé",
@@ -271,17 +271,7 @@
      "source": "france24.com",
      "image": null,
      "reprises": 8,
-     "score": 29.32
-    },
-    {
-     "titre": "Yémen : les houthistes encerclent désormais Taëz, grande ville du Sud-Ouest ; le président annonce une offensive pour reprendre l’ensemble du pays",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html",
-     "resume": "Les affrontements font rage depuis plusieurs jours dans le pays, à l’intérieur des terres et sur les hauteurs surplombant les régions côtières récemment conquises par les houthistes. Plus de 70 personnes sont mortes ces dernières vingt-quatre heures dans les…",
-     "date": "2026-10-04T14:32:11+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/03/668/0/3999/1999/644/322/60/0/1450936_ftp-1-fvfk4bcqp0uu-5254686-01-06.jpg",
-     "reprises": 5,
-     "score": 9.94
+     "score": 29.31
     },
     {
      "titre": "Vol Flydubai : Benyamin Nétanyahou ordonne un examen des mesures de sécurité prises sur les vols internationaux vers Israël",
@@ -291,7 +281,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/220/0/2645/1322/644/322/60/0/2a3d9c5_ftp-1-1umhbp1wqvqe-2026-10-04t143706z-234243230-rc2rtnagne7d-rtrmadp-3-israel-gulf-flight-australia.JPG",
      "reprises": 3,
-     "score": 8.1
+     "score": 8.0
     },
     {
      "titre": "Espagne : les inondations font plusieurs morts près de Barcelone",
@@ -302,6 +292,16 @@
      "image": "https://www.franceinfo.fr/pictures/5lovzE9aC-VJqiW1iA2kD1Nyeu0/0x5:1461x827/432x243/filters:format(jpg)/2026/10/04/6ac29db0235b9125447326.jpg",
      "reprises": 2,
      "score": 7.21
+    },
+    {
+     "titre": "Yémen : les houthistes encerclent désormais Taëz, grande ville du Sud-Ouest ; le président annonce une offensive pour reprendre l’ensemble du pays",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html",
+     "resume": "Les affrontements font rage depuis plusieurs jours dans le pays, à l’intérieur des terres et sur les hauteurs surplombant les régions côtières récemment conquises par les houthistes. Plus de 70 personnes sont mortes ces dernières vingt-quatre heures dans les…",
+     "date": "2026-10-04T14:32:11+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/03/668/0/3999/1999/644/322/60/0/1450936_ftp-1-fvfk4bcqp0uu-5254686-01-06.jpg",
+     "reprises": 4,
+     "score": 7.18
     },
     {
      "titre": "Cheikh Hamidou Kane, écrivain sénégalais et figure de la littérature africaine, est mort à l’âge de 98 ans",
@@ -327,48 +327,48 @@
      "date": "2026-10-04T23:50:02+02:00",
      "source": "Libération",
      "image": null,
-     "reprises": 9,
-     "score": 18.4
+     "reprises": 11,
+     "score": 22.26
     },
     {
-     "titre": "« L’IA ça peut être rigolo ? Assécher nos rivières, c’est rigolo ? » Les auteurs réagissent au salon du livre du Mans",
-     "lien": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNSEhFQVZUVWRYbUpYNW9zZ0wyUnl3RmZIYVlsRFhxblhBcDhEQXBfNmVIYjVJcHI5YmFNbmQ2VjVfSEw2MkZHSTFJanozbGRQYVdnUmlsNWhRMzJib0ZyTmR1X1JoaWMtbDZUdWcycE5rMHRsUnZ1U0w2VGtBcHhvN2o5Qi1zUDZHV0JXMmZfU3hIQnE0MVFveHFzdlphRXBfc09IaXJXVC1oZ0dRZEtBa0I0WnhYaDFFNkFXVHpoMUJvYkppRGUwQ1RvcjB6WHVOMktNdXl6YU41S0tiQ2tkTktrWWgzRnZlT0tPOXMzNTdoV3ZYRG5fZExUQVg2Vjlia3pheFZQdDUxdGI4aWhWTE5jekFnY2lBd0czMzg5ODdkakpWQTlUUTdEOGhqb2hl?oc=5",
+     "titre": "Un employé d'OpenAI démissionne et appelle à renforcer les pratiques de sécurité du secteur de l'IA, face aux incidents récents",
+     "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOWDEtT3pTQlY5N1NzZHA1T21LbEhLRVFnZGFyOUdQUk5SNGN4b3B6RWVoaVMtLVhvRC1Qd1hYZlg1WXhGcDNlSmtfV1JtSk5zcjdKSDBDbm4zWW92SEN5V09nTmFxbTlTc1JOOU1zeFVONTJSUmlFTFFiU1R4TDlBYm5IeHJOdjNlYjZmNU9RalVCWWlieTJxRWpsT3g3ZWZwMFNoLUVZZ3YwcXg2NVl0d3BiOThvMl9Sb0RBSGl0cGVxbjJkSU9uME50X3VrbGJFYmJFLUNtRlZuU1BYc3U4emhTcnhsT3hra2FGNVZvb2JpLVlzMWRaUnh1WHREcjE4SGJYSUt3enlTVXNWNGpYWEZLVGlGaXAxMVlTTmRaLUNBYXFOWXV3?oc=5",
      "resume": "",
-     "date": "2026-10-04T19:30:17+02:00",
-     "source": "Ouest-France",
+     "date": "2026-10-04T10:15:27+02:00",
+     "source": "franceinfo",
+     "image": null,
+     "reprises": 4,
+     "score": 8.84
+    },
+    {
+     "titre": "Le directeur général d’OpenAI, Altman, estime que les bénéfices de l’IA justifient d’accepter certains risques",
+     "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdzVqelZ4R1JlS0FZUFVRM01tc3VNM0ZmaGZNTXBtVVFLMlMyUGRVSl8wQnRMb3FHVUJtYlUwekdHSnhMVl9mV3diM3VWRzEtMUlaSVROYUNmV0xac01wVGVsX1dDckhXaVRHSU96UGdFLXdGYlo3WUpBbE5hWUVneThpUl9qYnlJeFpPVjBMajUwR0duTTBZdTN0WjY0ZDBuZ2dxMGJVSUZHZFhYY2lzSzQ5OU9rQ2txc1kxeGlJaDRpbGNrQUJtSXJ5OTUzQmRSNzFIczhUNU5lWjMyT2pjNW04WlE4aWs3OWc?oc=5",
+     "resume": "",
+     "date": "2026-10-05T00:31:15+02:00",
+     "source": "Zonebourse Suisse",
+     "image": null,
+     "reprises": 3,
+     "score": 7.73
+    },
+    {
+     "titre": "Une nouvelle démission choc chez OpenAI s'ajoute aux débats sur les dangers de l'IA",
+     "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ3ZGQldvcG9EbzJFaTdlWDB0T0Fobm5HeUFKdDF4Wi1QQXhBRkVxNzFleUlNbXVEck9uVHV2TnctU0tXaEt5OGFoV296eXF4VjFwTVBrUC1tWlkzd3N2RHVtZjhNZGVxblNvbmkxZU54dGpxZzFKaklvLU5jbUR0LURzQ2JtOFloaFVfQ212SlVwcGRGWmM4Q2xDSERKbVBWU0hzbVFZcGdzZnBGOE4wOUFEUkxjOGRhZjd6S3RHWXBJdElrMURrZ2RrTzdUelNLc0lCam0zYU1waFJpMG56dGpTN3BMZw?oc=5",
+     "resume": "",
+     "date": "2026-10-03T19:16:37+02:00",
+     "source": "Les Echos",
+     "image": null,
+     "reprises": 4,
+     "score": 6.63
+    },
+    {
+     "titre": "L’ancien chercheur d’Anthropic Coxon témoignera lors d’une audition sur l’intelligence artificielle à New York, rapporte Bloomberg News",
+     "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYjZuMUZlck1SRzVSSVNPSHlWVGQ3czRZZ2J5cWRQSmVBUnJYU2ZCMVdDWVNqbEdCUERNMW0zbzk0Zmp6Q0FoZDNtaXhINW03Y1NOZG9LX0hwWnp0bm5HYnA4aUNSSjUzcGlFQUpweGRxVklMSFVDY2FkNmtGNWM5el9nTmxPUHllalphM042d2pzLUl5eGpGRzF0Z1VieVF0XzZURG9jYktwWW91Tmtld2k0XzhibGxjMnpMMWRuUXp1WkJtYXY5c21hMEhBRGpPOC1YdXNRc2xOR1FKcXdpOWtQdU5mYV82QldDbQ?oc=5",
+     "resume": "",
+     "date": "2026-10-04T22:44:18+02:00",
+     "source": "Zonebourse Suisse",
      "image": null,
      "reprises": 2,
-     "score": 2.93
-    },
-    {
-     "titre": "« C’est une aide importante » : l’intelligence artificielle s’invite au comice de la race normande, à Livarot",
-     "lien": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPYy1uWGZCS243Z3Mydld1U0tkSGZ6MWU1LWZCQ0NKeUNPRUhYczE2aHdZa3BtbEE3OUVfTmJqcDNZRnJVbGQyZDRuRHRMNHVqZFd4NVhyTENqS2VxeGZpX1duSy1QRGlFdmcwdTVoT05DNW5YaDMxelVLcHhTYVEwS09VTjdJSWF5UmZocWd0dWJTaWM2NkxjMmhqc05YT0lqdlZtWDBQdzRuMEdLZnE3cXlRN3pLOXo5c3F3MFpKMFNEdzJRek9kZGd3V2s2bFA3dnR4ZVVCX1BqN0ZjSUlUMWhyNW5DS1YySF9XeWFBQVhXemlfZlVFZm9JTzBva2tabGJZaFRhUnRucnlHbVdWc21lbHFUZnZXSzUtNmQzR2dxMW92ZGc?oc=5",
-     "resume": "",
-     "date": "2026-10-04T19:01:06+02:00",
-     "source": "Ouest-France",
-     "image": null,
-     "reprises": 2,
-     "score": 2.53
-    },
-    {
-     "titre": "Avant même d’arriver en France, Muse, le nouvel agent IA de Meta devance tous ses concurrents en matière de collecte de données",
-     "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOM2Q1cHNWNXYxSjlaNVgySnBuZlhMaXllSE1ON3hsdDZjZC1sSlNPOEhfU3owc29aN0MzcG1MUENMY2VqWTVfWmw2SDVvQWx1a0puZGQyal9sSDM0YnRmZTB0RElwU1ByTldLeGc5NzBQbnlFQW5WdXhheUt5RnlOSllEbmdwMGFfVldBZGZIUGYxWVhubUpudDExaElRWEJlLUxtX0hldHQtXzkzZkk5aHhkTWdCOTJKSENMSlN5eHJGWFJybENsa2NRdjBEWkkwS0FLdnBWUWJHVExDQ1BFdktxWE1uOG8?oc=5",
-     "resume": "",
-     "date": "2026-10-04T17:56:58+02:00",
-     "source": "decideo.fr",
-     "image": null,
-     "reprises": 2,
-     "score": 2.5
-    },
-    {
-     "titre": "Le fléau cyber prend de l’ampleur et deux scénarios se distinguent : c’est quoi le LLM-jacking ?",
-     "lien": "https://www.numerama.com/cyberguerre/2345263-le-fleau-cyber-prend-de-lampleur-et-deux-scenarios-se-distinguent-cest-quoi-le-llm-jacking.html",
-     "resume": "Revente de comptes d'IA volés à prix cassés, détournement discret de serveurs cloud… Un analyste de Google a alerté fin septembre sur l'essor du LLM-jacking.",
-     "date": "2026-10-04T14:01:00+02:00",
-     "source": "numerama.com",
-     "image": null,
-     "reprises": 1,
-     "score": 1.41
+     "score": 5.49
     }
    ]
   },
