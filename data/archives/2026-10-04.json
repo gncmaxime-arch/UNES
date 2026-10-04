@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "genere": "2026-10-04T18:06+02:00",
+ "genere": "2026-10-04T19:29+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -15,10 +15,26 @@
     {
      "titre": "Passage à tabac d’un policier à Belfort : suspect bulgare de 17 ans, «noyade» démentie… Ce qu’il faut retenir de la conférence de presse du procureur",
      "lien": "https://www.lefigaro.fr/faits-divers/passage-a-tabac-d-un-policier-a-belfort-suspect-bulgare-de-17-ans-noyade-dementie-ce-qu-il-faut-retenir-de-la-conference-de-presse-du-procureur-20261004",
-     "resume": "Deux mineurs, âgés de 17 et 15 ans, sont poursuivis pour «violences aggravées».",
-     "date": "2026-10-04T17:57:11+02:00",
+     "resume": "Le procureur de la République de Belfort, Paul-Édouard Lallois, s’est exprimé ce dimanche. À ce stade, deux mineurs âgés de 15 et 17 ans sont poursuivis pour «violences aggravées» sur un fonctionnaire de police.",
+     "date": "2026-10-04T18:16:49+02:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/1280x720_crop/2026/10/04/8918219ba917b2c0ad995ba48e996e4316e0c77b2bd70d0a488f5384f03dc798.jpg"
+    },
+    {
+     "titre": "Blocus des lycées : pour le gouvernement et les forces de l’ordre, une semaine de tous les dangers",
+     "lien": "https://www.lefigaro.fr/actualite-france/blocus-des-lycees-pour-le-gouvernement-et-les-forces-de-l-ordre-une-semaine-de-tous-les-dangers-20261004",
+     "resume": "Alors que des syndicats lycéens et étudiants appellent à une manifestation commune ce mardi, les blocus devant les établissements devraient se poursuivre ce lundi. L’exécutif se prépare à de nouveaux débordements.",
+     "date": "2026-10-04T19:02:12+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2997x1685_crop/2026/10/04/9251c4fec5765aa9de974f1bce50649ecbe4832f4beb65206235e75a1acf95b7.jpg"
+    },
+    {
+     "titre": "Lycées détruits : les casseurs finiront-ils par payer la facture ?",
+     "lien": "https://www.lefigaro.fr/conjoncture/lycees-detruits-les-casseurs-finiront-ils-par-payer-la-facture-20261004",
+     "resume": "DÉCRYPTAGE - Les régions ne veulent plus régler seules les dizaines de millions d’euros de dégâts. L’examen d’un projet loi visant à taper les délinquants au portefeuille a été avancé.",
+     "date": "2026-10-04T19:21:16+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x1999_crop/2026/10/04/ef60f2c4b56e6883ffaf00fcbfbf162b679a15c787965182436f8cd071918724.jpg"
     },
     {
      "titre": "Responsabilité collective, saisie des prestations sociales… Ce que contient la loi «casseurs payeurs», dont l’examen au Sénat a été avancé",
@@ -32,7 +48,7 @@
      "titre": "Blocus des lycées : entre 400 et 500 établissements totalement ou «partiellement» fermés lundi, 24 ont été «incendiés ou saccagés», annonce Édouard Geffray",
      "lien": "https://www.lefigaro.fr/actualite-france/blocus-des-lycees-entre-400-et-500-etablissements-totalement-ou-partiellement-fermes-lundi-24-ont-ete-incendies-ou-saccages-annonce-edouard-geffray-20261004",
      "resume": "Le ministre de l’Éducation nationale a fait ce dimanche le bilan d’une semaine marquée par des violences et de nombreuses dégradations dans les lycées. Une nouvelle mobilisation est annoncée à partir de mardi.",
-     "date": "2026-10-04T14:19:55+02:00",
+     "date": "2026-10-04T18:41:29+02:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/orig/2026/10/04/007bb43e4b9383a00900923d0eeb77a58902aafecd967660ba8f088f568dbf14.JPG"
     },
@@ -43,22 +59,6 @@
      "date": "2026-10-04T13:51:13+02:00",
      "source": "",
      "image": null
-    },
-    {
-     "titre": "Le récit inédit de nos envoyés spéciaux au Turkménistan, ce « Qatar des steppes », l’un des pays les plus fermés au monde",
-     "lien": "https://www.lefigaro.fr/international/le-recit-inedit-de-nos-envoyes-speciaux-au-turkmenistan-ce-qatar-des-steppes-l-un-des-pays-les-plus-fermes-au-monde-20261004",
-     "resume": "REPORTAGE - Riche en gaz, mais en quête de développement, en tenaille entre Iran, Russie et Afghanistan, cette ex-République soviétique d’Asie centrale met en avant un paysage architectural insolite, façonné par un dirigeant qui ne souffre pas la contestation.",
-     "date": "2026-10-04T07:00:00+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/02/5886aff537f4603f1fb1d604cda52b543b7e3108621aa3bae59cb943623ab088.jpg"
-    },
-    {
-     "titre": "Entre fantasmes et risque d’« IApocalypse », les vraies menaces de l’intelligence artificielle au crible des chercheurs français",
-     "lien": "https://www.lefigaro.fr/secteur/high-tech/entre-fantasmes-et-risque-d-iapocalypse-les-vraies-menaces-de-l-intelligence-artificielle-au-crible-des-chercheurs-francais-20261004",
-     "resume": "ENQUÊTE - Ces derniers mois, les alertes sur les risques existentiels liés au développement des IA se multiplient. Tandis que la Silicon Valley agite le spectre d’une machine incontrôlable, chercheurs français et experts tentent de séparer le danger réel du…",
-     "date": "2026-10-04T15:30:03+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/10/02/ce69b408b24c60eb4e19b7b80e040832b7a9aa445d3049b7311a5a9a9bf16749.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -74,36 +74,36 @@
    },
    "articles": [
     {
-     "titre": "Pourquoi les partis politiques veulent maintenir une candidature à la présidentielle de 2027, même promise à un faible score",
-     "lien": "https://www.lemonde.fr/politique/article/2026/10/04/presidentielle-pourquoi-les-partis-ne-veulent-pas-faire-l-impasse-sur-2027_6788265_823448.html",
-     "resume": "Malgré les appels incessants à l’union face à une extrême droite en pleine dynamique, Les Ecologistes, Les Républicains et le Parti communiste français ont désigné un candidat. Car ne pas concourir à l’élection-reine reviendrait à disparaître, à court ou…",
-     "date": "2026-10-04T14:30:08+02:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/09/12/231/0/1920/960/644/322/60/0/0dde87a_upload-1-ftd5nyxv02rm-mmagnin-discours-retailleau-2.jpg"
-    },
-    {
-     "titre": "Blocage des lycées : entre « 400 et 500 » lycées vont suspendre des cours ce lundi, annonce le ministre de l’éducation, Edouard Geffray",
-     "lien": "https://www.lemonde.fr/societe/article/2026/10/04/blocage-des-lycees-edouard-geffray-estime-qu-entre-400-et-500-etablissements-vont-suspendre-les-cours-lundi_6788263_3224.html",
-     "resume": "Les fermetures interviennent lorsque « les conditions de sécurité ne sont pas remplies », soit pour des raisons matérielles, soit parce que des personnels « ont été directement visés », a-t-il dit.",
-     "date": "2026-10-04T14:10:25+02:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/10/03/478/0/5732/2866/644/322/60/0/da12761_ftp-1-dijwklweou9d-2026-10-03t092119z-1909254845-rc2ltnas4nqt-rtrmadp-3-france-protests-inequalities.JPG"
-    },
-    {
-     "titre": "Le débat sur les épreuves orales de l’internat de médecine relancé par une suspicion de fraude",
-     "lien": "https://www.lemonde.fr/campus/article/2026/10/04/le-debat-sur-les-epreuves-orales-de-l-internat-de-medecine-relance-par-une-suspicion-de-fraude_6788275_4401467.html",
-     "resume": "Une lettre anonyme publiée sur les réseaux sociaux révélerait l’existence d’une fraude touchant le très sélectif examen national de l’internat. L’organisation des simulations pratiques orales de ce concours, mises en place en 2023, concentre les critiques…",
-     "date": "2026-10-04T16:49:26+02:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/09/30/473/0/5669/2834/644/322/60/0/231bbc0_upload-1-gyutb2gxhpuo-fraudeme-decine-lemonde.JPG"
-    },
-    {
      "titre": "EN DIRECT, guerre en Ukraine : Kiev « achètera davantage d’armes et d’équipements à l’Allemagne », assure Volodymyr Zelensky lors d’une visite de Frierich Merz à Kiev",
      "lien": "https://www.lemonde.fr/international/live/2026/10/04/en-direct-guerre-en-ukraine-monsieur-poutine-arretez-cette-guerre-insensee-declare-le-chancelier-allemand-friedrich-merz-a-kiev_6787996_3210.html",
      "resume": "« La collaboration visant à créer des unités de drones en Allemagne a déjà commencé, et nous sommes prêts à apporter notre aide en matière de formation et d’expertise », a ajouté le président ukrainien.",
      "date": "2026-10-04T17:38:37+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/04/612/0/7375/3687/644/322/60/0/fc36e83_ftp-1-eh8hm9xyegsu-fbc39168241a43c0800e3e0aea12c6ed-0-1c3d088339074572a7d4e3a743f1721c.jpg"
+     "image": "https://img.lemde.fr/2026/10/04/0/0/4500/2250/644/322/60/0/5be74a0_ftp-1-5ssdvsntqx2r-2026-10-04t120959z-602533101-rc28wnafjzy5-rtrmadp-3-ukraine-crisis-germany.JPG"
+    },
+    {
+     "titre": "Présidentielle 2027 : pourquoi la CSG divise autant les candidats",
+     "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/10/04/presidentielle-2027-pourquoi-la-csg-divise-autant-les-candidats_6788112_4355770.html",
+     "resume": "La contribution sociale généralisée revient souvent dans le débat politique et budgétaire. Et pour cause : de petites variations dans son calcul sont susceptibles de coûter ou de rapporter des milliards d’euros à la Sécurité sociale.",
+     "date": "2026-10-04T10:00:08+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2023/04/18/336/0/3000/1500/644/322/60/0/88df720_1681830094381-tryoptrr.jpg"
+    },
+    {
+     "titre": "Blocage des lycées : entre « 400 et 500 » lycées vont suspendre des cours ce lundi, annonce le ministre de l’éducation, Edouard Geffray",
+     "lien": "https://www.lemonde.fr/societe/article/2026/10/04/blocage-des-lycees-edouard-geffray-estime-qu-entre-400-et-500-etablissements-vont-suspendre-les-cours-lundi_6788263_3224.html",
+     "resume": "Les fermetures interviennent lorsque « les conditions de sécurité ne sont pas remplies », soit pour des raisons matérielles, soit parce que des personnels « ont été directement visés », a-t-il dit. Plus d’un tiers des lycées franciliens seront fermés lundi a…",
+     "date": "2026-10-04T14:10:25+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/02/438/0/5124/2562/644/322/60/0/fe76870_ftp-1-d61f18iykhku-5247653-01-06.jpg"
+    },
+    {
+     "titre": "Midterms 2026 : Donald Trump prend en main la campagne républicaine pour mieux assurer sa propre promotion",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/04/midterms-2026-donald-trump-prend-en-main-la-campagne-republicaine-pour-mieux-assurer-sa-propre-promotion_6788322_3210.html",
+     "resume": "Le président américain, très impopulaire, s’est lancé dans une série de meetings avant les élections de mi-mandat le 3 novembre, mais il semble avoir perdu l’instinct politique qui lui a réussi jusqu’à présent.",
+     "date": "2026-10-04T19:00:13+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/04/0/0/5000/2500/644/322/60/0/4d2251a_ftp-1-qikquudxw9jc-2026-10-04t034824z-418656587-rc22wnas5hhu-rtrmadp-3-usa-trump.JPG"
     },
     {
      "titre": "Dans les coulisses de Viginum, la cellule gouvernementale d’experts qui traque les ingérences étrangères sur Internet",
@@ -135,52 +135,52 @@
    },
    "articles": [
     {
-     "titre": "En Israël, le désir de faire naître par PMA les enfants des soldats tués au combat",
-     "lien": "https://www.la-croix.com/international/en-israel-le-desir-de-faire-naitre-par-pma-les-enfants-des-soldats-tues-au-combat-20261004",
-     "resume": "Depuis le 7-Octobre, Israël connaît une hausse spectaculaire des prélèvements de sperme sur les soldats tués au combat, principalement à la demande de leurs parents.",
-     "date": "2026-10-04T17:37:13+02:00",
+     "titre": "Guerre en Ukraine : ce qu’il faut retenir de la situation du dimanche 4 octobre",
+     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1680-point-conflit-ukrainien-poutine-aujourdhui-20261004",
+     "resume": "Un des ponts de la capitale ukrainienne a été attaqué par un drone. Le chancelier allemand Friedrich Merz est arrivé à Kiev pour une visite imprévue. Suivez l’actualité de ce dimanche 4 octobre sur la guerre en Ukraine.",
+     "date": "2026-10-04T18:56:52+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/04/2552270-les-parents-de-chah-ar-lors-de-ses-funerailles-au-.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/04/2552031-destructions-a-kiev-en-ukraine-apres-une-frappe-ru.jpg"
     },
     {
-     "titre": "Blocage des lycées : le gouvernement pris au piège d’un mouvement aux aspirations multiples",
-     "lien": "https://www.la-croix.com/politique/blocage-des-lycees-le-gouvernement-pris-au-piege-d-un-mouvement-aux-aspirations-multiples-20261002",
-     "resume": "Le ministre de l’éducation nationale Édouard Geffray a reçu vendredi 2 octobre les associations lycéennes, qui veulent poursuivre la mobilisation faute de « mesures concrètes ». Entre fermeté contre les violences et recherche d’une solution politique, le…",
-     "date": "2026-10-04T16:00:35+02:00",
+     "titre": "Au Caire, une tentative de désescalade entre l’Éthiopie et l’Érythrée",
+     "lien": "https://www.la-croix.com/international/au-caire-une-tentative-de-desescalade-entre-l-ethiopie-et-lerythree-20261004",
+     "resume": "Un mini-sommet a eu lieu dimanche 4 octobre en Égypte pour calmer les tensions entre l’Éthiopie et l’Érythrée dans un contexte de retour de la guerre au Tigré, région jouxte les deux pays.",
+     "date": "2026-10-04T18:50:20+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/02/2551103-des-lycees-mobilises-devant-le-lycee-victor-duruy-.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/04/2552343-apres-de-nouveaux-combats-dans-le-nord-de-l-ethiop.jpg"
     },
     {
-     "titre": "Au Musée des beaux-arts de Lyon, de fascinantes collections d’artistes",
-     "lien": "https://www.la-croix.com/culture/au-musee-des-beaux-arts-de-lyon-de-fascinantes-collections-d-artistes-20261004",
-     "resume": "Enrichi de prêts du Centre Pompidou, l’exposition « Musée sentimental » nous plonge dans l’univers singulier d’une quarantaine d’artistes. Des assemblages étranges qui bousculent les normes et l’ordre traditionnel des musées.",
-     "date": "2026-10-04T15:45:04+02:00",
+     "titre": "Face à la crise des lycées, l’urgence d’être adulte",
+     "lien": "https://www.la-croix.com/a-vif/face-a-la-crise-des-lycees-l-urgence-detre-adulte-20261004",
+     "resume": "En ce début d’octobre 2026, la France traverse une crise des lycées d’une ampleur critique, marquée par le blocage ou la perturbation de plus de 950 établissements, des affrontements violents et une vive polémique sur le rôle des adultes.",
+     "date": "2026-10-04T18:48:31+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/02/2550096-le-mur-de-l-atelier-du-surrealiste-andre-breton-19.jpg"
+     "image": "https://i.la-croix.com/x/2026/09/30/25491802-jerome-chapuis-directeur-de-la-croix.jpg"
     },
     {
-     "titre": "Un enseignant face au séisme de la violence : « Notre société ne mise plus sur sa jeunesse »",
-     "lien": "https://www.la-croix.com/societe/un-enseignant-face-au-seisme-de-la-violence-notre-societe-ne-mise-plus-sur-sa-jeunesse-20261002",
-     "resume": "Karl Poinson, professeur d’histoire-géographie enseignait au lycée Notre-Dame-de-Toutes-Aides, à Nantes (Loire-Atlantique), où Lorène a été tuée au couteau par un autre élève en avril 2025. Il a depuis rédigé un livre pour tenter de comprendre les ressorts…",
-     "date": "2026-10-04T15:44:26+02:00",
+     "titre": "La responsabilité climatique des entreprises devant la Cour suprême américaine",
+     "lien": "https://www.la-croix.com/planete/la-responsabilite-climatique-des-entreprises-devant-la-cour-supreme-americaine-20261004",
+     "resume": "La Cour suprême des États-Unis examine le 5 octobre si une collectivité locale a le droit de demander des dédommagements à des compagnies pétrolières en raison des effets de leurs produits sur le climat.",
+     "date": "2026-10-04T18:42:16+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/02/2541846-karl-poinson-ici-le-16-septembre-2026-a-ecrit-seis.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/04/2552299-installations-petrolieres-et-gazieres-pres-de-mead.jpg"
     },
     {
-     "titre": "Blocage des lycées : pour Mgr de Cagny, « les jeunes ont besoin de retrouver le chemin du dialogue »",
-     "lien": "https://www.la-croix.com/societe/blocage-des-lycees-pour-mgr-de-cagny-les-jeunes-ont-besoin-de-retrouver-le-chemin-du-dialogue-20261004",
-     "resume": "Face à la mobilisation des lycéens et aux violences qui ont marqué ces derniers jours, l’évêque d’Évreux, Mgr Olivier de Cagny, appelle les jeunes à choisir la voie du dialogue. Il voit dans ces tensions le signe d’un malaise plus profond et insiste sur le…",
-     "date": "2026-10-04T15:36:44+02:00",
+     "titre": "Mathilde, 48 ans : « Avec de la patience, nous avons appris à nous écouter »",
+     "lien": "https://www.la-croix.com/culture/mathilde-48-ans-avec-de-la-patience-nous-avons-appris-a-nous-ecouter-20261004",
+     "resume": "Cette semaine, Mathilde, 48 ans, raconte comment les oppositions sur l’éducation des enfants ont bousculé son couple, et l’ont finalement renforcé. Premier épisode de notre série « Un désaccord a changé leur vie », en écho à la 3ème édition de « Faut qu’on…",
+     "date": "2026-10-04T18:34:31+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/04/2552129-si-cette-violence-explose-ainsi-c-est-quil-existe-.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/04/2549287-je-crois-en-lui-comme-il-croit-en-moi-c-est-cette-.jpg"
     },
     {
-     "titre": "La Tanzanie se prépare au passage d’El Niño : « Les gens ont peur pour deux choses, leur vie et leurs revenus »",
-     "lien": "https://www.la-croix.com/planete/la-tanzanie-se-prepare-au-passage-d-el-nino-les-gens-ont-peur-pour-deux-choses-leur-vie-et-leurs-revenus-20261004",
-     "resume": "El Niño doit frapper la Tanzanie dès octobre, avec un pic attendu en novembre et décembre. Dans la ville de Morogoro, associations et habitants multiplient les initiatives pour anticiper les fortes pluies dues à ce phénomène climatique périodique, entre…",
-     "date": "2026-10-04T15:31:33+02:00",
+     "titre": "Guerre en Ukraine : Kiev sous les drones, des ponts vitaux pris pour cible",
+     "lien": "https://www.la-croix.com/international/guerre-en-ukraine-kiev-sous-les-drones-des-ponts-vitaux-pris-pour-cible-20261004",
+     "resume": "Pour le quatrième jour consécutif, et alors que le chancelier allemand Friedrich Merz y effectue une visite surprise, des drones russes ont ciblé dimanche 4 octobre les ponts sur le Dniepr à Kiev, axes vitaux pour la capitale. Volodymyr Zelensky dénonce une…",
+     "date": "2026-10-04T18:21:51+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/04/2550927-a-dar-es-salam-en-2014-el-nino-devrait-provoquer-d.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/04/2552333-alors-que-les-drones-russes-ciblent-les-ponts-de-l.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -196,52 +196,52 @@
    },
    "articles": [
     {
-     "titre": "« C'était une semaine difficile après la déception des Mondiaux » : la joie de Remco Evenepoel après son titre aux Championnats d'Europe de cyclisme",
-     "lien": "https://www.lequipe.fr/Cyclisme-sur-route/Actualites/-c-etait-une-semaine-difficile-apres-la-deception-des-mondiaux-la-joie-de-remco-evenepoel-apres-son-titre-aux-championnats-d-europe-de-cyclisme/1723355#at_medium=RSS_feeds",
-     "resume": "Titré à la photo-finish ce dimanche sur la course en ligne des Championnats d'Europe de cyclisme, Remco Evenepoel a exprimé sa joie au micro d'Eurosport. En rappelant qu'il avait dû digérer la déception des Mondiaux, la semaine passée.",
-     "date": "2026-10-04T17:49:25+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/remco-evenepoel-s-est-impose-d-un-cheveu-ce-dimanche-lors-des-championnats-d-europe-b-papon-l-equipe/1500000002604782/0:0,2000:1333-828-552-75/b8a06.jpg"
-    },
-    {
-     "titre": "Vitality en phase finale des Mondiaux de Valorant, c'est terminé pour la Karmine Corp",
-     "lien": "https://www.lequipe.fr/Esport/Actualites/Vitality-en-phase-finale-des-mondiaux-de-valorant-c-est-termine-pour-la-karmine-corp/1723354#at_medium=RSS_feeds",
-     "resume": "Des deux clubs français engagés au Champions, les Mondiaux de Valorant, à Shanghai, seul Vitality a passé le cap de la phase de poules cette semaine. Championne d'Europe en titre mais dans le groupe de la mort, la Karmine Corp est toutefois passée à rien de…",
-     "date": "2026-10-04T17:49:17+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/vitality-disputera-les-quarts-de-finale-des-mondiaux-de-valorant-colin-young-wolff-riot-games/1500000002604781/0:0,2000:1333-828-552-75/71e20.jpg"
-    },
-    {
-     "titre": "Le classement de la course en ligne des Championnats d'Europe remportée par Remco Evenepoel",
-     "lien": "https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Le-classement-de-la-course-en-ligne-des-championnats-d-europe-remportee-par-remco-evenepoel/1723351#at_medium=RSS_feeds",
-     "resume": "Remco Evenepoel a remporté ce dimanche la course en ligne des Championnats d'Europe en Slovénie à la photo-finish devant Giulio Ciccone. Léo Bisiaux a terminé neuvième et premier Français.",
-     "date": "2026-10-04T17:44:33+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/remco-evenepoel-a-remporte-le-titre-de-champion-d-europe-ce-dimanche-b-papon-l-equipe/1500000002604777/0:0,2000:1333-828-552-75/96389.jpg"
-    },
-    {
-     "titre": "Comment l'UBB cultive et réinvente son identité offensive",
-     "lien": "https://www.lequipe.fr/Rugby/Article/Entre-attaques-eclair-et-sequences-interminables-l-ubb-tente-tous-les-coups/1723282#at_medium=RSS_feeds",
+     "titre": "Les chiffres de la victoire de Max Verstappen à Sepang",
+     "lien": "https://www.lequipe.fr/Formule-1/Video/Gp-du-bahrein-les-chiffres-de-la-victoire-de-max-verstappen-a-sepang/20242547#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-10-04T17:44:00+02:00",
+     "date": "2026-10-04T19:12:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Dans son ancien jardin du Vélodrome, Iliman Ndiaye offre la victoire au Sénégal en amical face aux Comores",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Dans-son-ancien-jardin-du-velodrome-iliman-ndiaye-offre-la-victoire-au-senegal-en-amical-face-aux-comores/1723350#at_medium=RSS_feeds",
-     "resume": "Grâce à un but précoce d'Iliman Ndiaye, et sans vraiment forcer, le Sénégal de Patrick Vieira, remanié, a dominé, en amical, de vaillants Comoriens (1-0), largement soutenus par le public du Vélodrome.",
-     "date": "2026-10-04T17:43:23+02:00",
+     "titre": "Soins au club, quotidien en famille, déplacement à Saint-Sébastien : comment Eli Junior Kroupi, bientôt de retour, a traversé sa convalescence",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Soins-au-club-quotidien-en-famille-deplacement-a-saint-sebastien-comment-eli-junior-kroupi-bientot-de-retour-a-traverse-sa-convalescence/1723383#at_medium=RSS_feeds",
+     "resume": "Opéré du pied fin juillet, le jeune attaquant de Bournemouth, révélation de Premier League la saison dernière, pourrait retrouver la compétition d'ici la fin du mois.",
+     "date": "2026-10-04T19:11:15+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/eli-junior-kroupi-lors-de-son-dernier-match-le-24-mai-en-championnat-contre-nottingham-forest-1-1-m-manyowa-news-images-ltd-alamy-stock-photo-icon-sport/1500000002604801/0:0,2000:1333-828-552-75/82c5a.jpg"
+    },
+    {
+     "titre": "Shirine Boukli mesure l'importance de sa médaille de bronze en -48 kg aux Mondiaux de Bakou : « Je mérite cette médaille »",
+     "lien": "https://www.lequipe.fr/Judo/Actualites/Shirine-boukli-mesure-l-importance-de-sa-medaille-de-bronze-en-48-kg-aux-mondiaux-de-bakou-je-merite-cette-medaille/1723381#at_medium=RSS_feeds",
+     "resume": "La Française Shirine Boukli se satisfait du podium, ce dimanche en Azerbaïdjan, après avoir caressé le rêve d'une finale.",
+     "date": "2026-10-04T19:08:08+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/au-bout-d-un-combat-tendu-face-a-la-mongole-bavuudorj-il-y-a-le-soulagement-de-la-victoire-pour-shir/1500000002604827/0:0,2000:1333-828-552-75/6ef80.jpg"
+    },
+    {
+     "titre": "Nouveau champion d'Europe sur route, Remco Evenepoel devient le premier cycliste à remporter la course en ligne et le chrono aux JO, Mondiaux et Championnats d'Europe",
+     "lien": "https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Nouveau-champion-d-europe-sur-route-remco-evenepoel-devient-le-premier-cycliste-a-remporter-la-course-en-ligne-et-le-chrono-aux-jo-mondiaux-et-championnats-d-europe/1723376#at_medium=RSS_feeds",
+     "resume": "Depuis ce dimanche, Remco Evenepoel compte à son palmarès la course en ligne et le contre-la-montre des Championnats d'Europe. Une performance qu'il avait déjà réalisée sur les Mondiaux et les Jeux Olympiques. Une première dans l'histoire.",
+     "date": "2026-10-04T19:00:37+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/remco-evenepoel-a-remporte-le-chrono-et-la-course-en-ligne-aux-jo-aux-championnats-d-europe-et-aux-mondiaux-e-garnier-et-b-papon-l-equipe/1500000002604832/0:0,1611:1074-828-552-75/c4261.jpg"
+    },
+    {
+     "titre": "Olise peut-il devenir un leader ?",
+     "lien": "https://www.lequipe.fr/Football/Article/Taiseux-mysterieux-parfois-drole-olise-peut-il-devenir-un-leader-chez-les-bleus/1723168#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-04T18:59:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Paul Lapeira s'offre le champion du monde Brandon McNulty et remporte la Coppa Agostoni",
-     "lien": "https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Paul-lapeira-s-offre-le-champion-du-monde-brandon-mcnulty-et-remporte-la-coppa-agostoni/1723349#at_medium=RSS_feeds",
-     "resume": "Paul Lapeira a remporté son deuxième succès de la saison sur la Coppa Agostoni, ce dimanche. Le Français de Decathlon-CMA CGM a devancé l'Américain Brandon McNulty, le tout frais champion du monde.",
-     "date": "2026-10-04T17:29:50+02:00",
+     "titre": "Poret, Lutz, Gauzy et Alexis Lebrun : le programme du lundi 5 octobre au Grand Smash de Chine",
+     "lien": "https://www.lequipe.fr/Tennis-de-table/Actualites/Poret-lutz-gauzy-et-alexis-lebrun-le-programme-du-lundi-5-octobre-au-grand-smash-de-chine/1723374#at_medium=RSS_feeds",
+     "resume": "Suite et fin des matches du premier tour en simple, ce lundi 5 octobre au Grand Smash de Chine. Thibault Poret, Charlotte Lutz, Simon Gauzy et Alexis Lebrun feront notamment leur entrée en lice dans ces tableaux.",
+     "date": "2026-10-04T18:57:04+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/paul-lapeira-a-remporte-le-9e-succes-de-sa-carriere-ce-dimanche-t-pelagalli-sprint-cycling-agency/1500000002604769/0:0,2000:1333-828-552-75/c5a1f.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/alexis-lebrun-va-faire-son-entree-en-lice-en-simple-s-boue-l-equipe/1500000002604830/0:0,2000:1333-828-552-75/1f8a7.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -254,40 +254,31 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "Au Brésil, une campagne présidentielle morne et un scrutin très incertain dans l’ombre de l’ingérence des Etats-Unis",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/04/au-bresil-une-campagne-presidentielle-morne-et-un-scrutin-tres-incertain-dans-l-ombre-de-l-ingerence-americaine_6787999_3210.html",
-     "resume": "Le président de gauche Lula et son rival d’extrême droite Flavio Bolsonaro sont au coude-à-coude dans les sondages avant les élections générales dimanche 4 octobre.",
-     "date": "2026-10-04T05:30:02+02:00",
+     "titre": "Bravant les menaces de la Russie, Friedrich Merz fait une visite surprise à Kiev",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/04/bravant-les-menaces-de-la-russie-friedrich-merz-fait-une-visite-surprise-a-kiev_6788318_3210.html",
+     "resume": "Alors que Moscou avait déconseillé, samedi 3 octobre, aux Européens d’aller à Kiev, le chancelier allemand s’est rendu en Ukraine dimanche, où il a annoncé de nouveaux contrats d’armement et un programme d’aide militaire.",
+     "date": "2026-10-04T18:35:39+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/02/660/0/7926/3963/644/322/60/0/0ee2b06_ftp-1-hkb0s2qmssm5-5248203-01-06.jpg",
-     "reprises": 10
+     "image": "https://img.lemde.fr/2026/10/04/383/0/6503/3251/644/322/60/0/9859346_ftp-1-52jb8c6op5yb-5523f1dbb6c74affa8d4454c0135bbbf-0-85f7dbf9a71a4964a22dafff5c8ca9f8.jpg",
+     "reprises": 11
     },
     {
-     "titre": "EN DIRECT, guerre en Ukraine : Kiev « achètera davantage d’armes et d’équipements à l’Allemagne », assure Volodymyr Zelensky lors d’une visite de Frierich Merz à Kiev",
-     "lien": "https://www.lemonde.fr/international/live/2026/10/04/en-direct-guerre-en-ukraine-monsieur-poutine-arretez-cette-guerre-insensee-declare-le-chancelier-allemand-friedrich-merz-a-kiev_6787996_3210.html",
-     "resume": "« La collaboration visant à créer des unités de drones en Allemagne a déjà commencé, et nous sommes prêts à apporter notre aide en matière de formation et d’expertise », a ajouté le président ukrainien.",
-     "date": "2026-10-04T17:38:37+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/04/0/0/4500/2250/644/322/60/0/5be74a0_ftp-1-5ssdvsntqx2r-2026-10-04t120959z-602533101-rc28wnafjzy5-rtrmadp-3-ukraine-crisis-germany.JPG",
-     "reprises": 6
+     "titre": "En direct : premier tour de la présidentielle au Brésil, match serré entre Lula et Bolsonaro",
+     "lien": "https://www.france24.com/fr/am%C3%A9riques/20261004-en-direct-premier-tour-presidentielle-bresil-resultats-estimations-lula-bolsonaro",
+     "resume": "Le président sortant Luiz Inacio Lula da Silva se présente pour un quatrième mandat à la présidence du Brésil face à Flavio Bolsonaro, désigné par son père pour représenter le camp conservateur. Les sondages annoncent un duel très serré entre le représentant…",
+     "date": "2026-10-04T18:18:28+02:00",
+     "source": "AP Photo/Eraldo Peres - Eraldo Peres",
+     "image": "https://s.france24.com/media/display/6c72efca-c00d-11f1-9fca-13e372f41e70/w:1024/p:16x9/AP26277452321457.jpg",
+     "reprises": 7
     },
     {
-     "titre": "L'Iran exclut une «solution militaire» à la guerre au Moyen-Orient malgré des tractations qui patinent",
-     "lien": "https://www.rfi.fr/fr/moyen-orient/20261004-l-iran-exclut-une-solution-militaire-%C3%A0-la-guerre-au-moyen-orient-malgr%C3%A9-des-tractations-qui-patinent",
-     "resume": "Le chef de la diplomatie iranienne, Abbas Araghchi, a affirmé dimanche qu’il n’y avait pas de « solution militaire » à la guerre au Moyen-Orient, bien qu’aucun règlement diplomatique ne se dégage, plus de sept mois après le début des hostilités. Malgré la…",
-     "date": "2026-10-04T13:46:42+02:00",
-     "source": "AP Photo/Vahid Salemi - Vahid Salemi",
-     "image": "https://s.rfi.fr/media/display/08dc01ce-bfe3-11f1-a51d-13420ab900a2/w:1024/p:16x9/AP26276617974153.jpg",
+     "titre": "Viol collectif présumé à Cornell : enquête ouverte sur la gestion de l'affaire par l'université",
+     "lien": "https://www.france24.com/fr/am%C3%A9riques/20261004-viol-collectif-pr%C3%A9sum%C3%A9-%C3%A0-cornell-enqu%C3%AAte-ouverte-sur-la-gestion-de-l-affaire-par-l-universit%C3%A9",
+     "resume": "Le président de l'université américaine Cornell a annoncé samedi qu'une enquête externe indépendante allait examiner la gestion par l'établissement du viol en réunion présumé d'une étudiante en 2024. Cette affaire suscite actuellement une vague d'indignation…",
+     "date": "2026-10-04T18:31:45+02:00",
+     "source": "© Lauren Petracca, Reuters",
+     "image": "https://s.france24.com/media/display/daa775ba-c00d-11f1-86df-578a4b968fd6/w:1024/p:16x9/2026-10-02T154814Z-1310255220-RC24TNATK0SJ-RTRMADP-3-USA-CRIME-CORNELL.jpg",
      "reprises": 4
-    },
-    {
-     "titre": "Viol présumé à Cornell : une enquête externe ouverte sur la gestion de l’affaire par l’université américaine",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/04/viol-presume-a-cornell-une-enquete-externe-ouverte-sur-la-gestion-de-l-affaire-par-l-universite-americaine_6788009_3210.html",
-     "resume": "Un cabinet d’avocats va analyser la façon de procéder de l’établissement alors que, selon plusieurs médias, la police du campus aurait supprimé une partie de la déposition de l’étudiante dans laquelle elle assurait avoir été contrainte à un viol collectif en…",
-     "date": "2026-10-04T06:26:48+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/01/483/0/4673/2336/644/322/60/0/e99e331_ftp-1-7kkukt08tenp-5234244-01-06.jpg",
-     "reprises": 5
     },
     {
      "titre": "Yémen : les houthistes encerclent désormais Taëz, grande ville du Sud-Ouest ; le président annonce une offensive pour reprendre l’ensemble du pays",
@@ -296,7 +287,7 @@
      "date": "2026-10-04T14:32:11+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/03/668/0/3999/1999/644/322/60/0/1450936_ftp-1-fvfk4bcqp0uu-5254686-01-06.jpg",
-     "reprises": 3
+     "reprises": 4
     },
     {
      "titre": "Cheikh Hamidou Kane, écrivain sénégalais et figure de la littérature africaine, est mort à l’âge de 98 ans",
@@ -317,13 +308,22 @@
      "reprises": 2
     },
     {
-     "titre": "Présidentielle au Brésil : ouverture des bureaux de vote",
-     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261004-pr%C3%A9sidentielle-au-br%C3%A9sil-ouverture-des-bureaux-de-vote",
-     "resume": "Les Brésiliens ont commencé à voter dimanche au premier tour de l'élection présidentielle opposant le président sortant de gauche Lula au sénateur d'extrême droite Flavio Bolsonaro, fils de l'ancien président Jair Bolsonaro. Près de 160 millions d'électeurs…",
-     "date": "2026-10-04T13:17:39+02:00",
+     "titre": "En Lettonie, le parti du premier ministre, Andris Kulbergs, obtient un succès historique qui éloigne les populistes",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/04/en-lettonie-le-parti-du-premier-ministre-andris-kulbergs-obtient-un-succes-historique-qui-eloigne-le-danger-populiste_6788216_3210.html",
+     "resume": "Avec 35,3 % des voix, un score inédit pour une formation politique depuis 1990, le dirigeant centriste pro-européen et pro-ukrainien aura les coudées franches pour former une coalition.",
+     "date": "2026-10-04T11:07:03+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/03/1277/0/7643/3821/644/322/60/0/ab88761_ftp-1-abzmzosmjtxr-5257920-01-06.jpg",
+     "reprises": 3
+    },
+    {
+     "titre": "Dafroza Gauthier, \"la chasseuse de génocidaires\" rwandais, est morte",
+     "lien": "https://www.france24.com/fr/vid%C3%A9o/20261004-dafroza-gauthier-la-chasseuse-de-g%C3%A9nocidaires-rwandais-est-morte",
+     "resume": "Dafroza Gauthier, qui a consacré sa vie à traquer les génocidaires rwandais réfugiés en France avec son mari, Alain Gauthier, est décédée samedi à Reims (dans l'est de la France), a indiqué ce dernier dimanche à l'AFP. Thomas Zribi, co-réalisateur du…",
+     "date": "2026-10-04T14:02:25+02:00",
      "source": "france24.com",
-     "image": "https://s.france24.com/media/display/9b422754-bfe4-11f1-a86d-69fad0a7cb9f/w:1024/p:16x9/FR-20261004-130123-130509-CS.jpg",
-     "reprises": 2
+     "image": "https://s.france24.com/media/display/c91f5e2a-bfea-11f1-8720-69fad0a7cb9f/w:1024/p:16x9/FR-20261004-133510-134206-CS.jpg",
+     "reprises": 3
     }
    ]
   },
@@ -333,13 +333,22 @@
    "sous_titre": "Modèles, entreprises, régulation, recherche",
    "items": [
     {
-     "titre": "Donald Trump nomme le chef du renseignement américain au poste de «référent IA» : priorité à la coordination, pas à la régulation",
-     "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVjEzLTJfWXU0cV85VWN2Tjh1U0RhN2lxVG9XWnYxaDNYR1JRU2hIMVpqVHd5WFVKbjlrUzljZUNzYzNwQmxJTVQzeUpnbGVoR3ZDV1hJY1BBRTRIUk9MVWx3X1h1VUpYcWc4S0dnc0RScUtTMFdoLWpLV0NzSTY3d0M2TS1TR3VMZnhJa0g3Y3p2NGd0WXpORGlFc2l5NmRGNU5YNTlrZ1QxU0NoRElacE1nc24xVlVnNHdVckMzQzJ6dFI4QXNaN045dnAwekJDSXhEWlRZZFF1S0xZekRfODZrTTdkRnZqT01yNUUweEtqWHhlSlE?oc=5",
+     "titre": "États-Unis : qui est Jay Clayton, le patron du renseignement choisi par Donald Trump pour piloter l’intelligence artificielle ?",
+     "lien": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQWnZTRklrNHpLczFfcGtlRnNDWjB6Vm1OYWV3WW9WYl9BaFF4bFlBR1RjTTZueXloaEdlMG5oZVpsdld0RENZSzIzdVdWUWpCVlo1TGp4LU55UWlvczNDS29TMmVFUWpsMDRQY2RFc1dqcmYxNEkwOUV1dFBoUEx4bGZpUFVJRktITEl5RVhON2l3ZnJNajY2NVRKOHFUM3JzWXJjZnM4a2RxQlJZY1lEY0ZTblRyR3g5OEVveXVpX2VSYnNaUXd0Q2p0cW05QUQxVlBudHNWWmJybGs3bEUzbjg0WmlBOHB2U3hwd25UNkZoTnFsTldXZXpLRTdwdTBPTlZuOEhJQVphRTRoVmpOMVhmbnYtVDJ0Q212cVNLOEN6SzBQQkk5ajBjcUdDLURCZjJJ?oc=5",
      "resume": "This new task force is Trump's latest response to the debate over AI safety.",
-     "date": "2026-10-04T17:18:58+02:00",
-     "source": "Libération",
+     "date": "2026-10-04T17:10:46+02:00",
+     "source": "Sud Ouest",
      "image": null,
-     "reprises": 9
+     "reprises": 11
+    },
+    {
+     "titre": "L’intelligence artificielle est-elle une menace pour les auteurs ? Le débat s’invite à la fête du livre de Merlieux",
+     "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZzVMODdmN1FjeW1xcEZ0U2RYNFJWTkctVWFCUjFMSmJpeGpnMEpVUWFVUkJzaXV1Q25NYU0xYkdtWXdMMTdLMXFmSnlvaWZBVmlxRVNXWGplUE9UQjhEdU5feDUtRzNGLXFocFQ1YTRJVFpKazFEbnNabVlaTENhYUY1WGx4NWFDSV8tam9HUmNDTzMzLVNxTFRrNU5sUWdtX3Q5eU1vNF91dWJ3Nm9INzBwc2V0bmxfLTE2RWxEYk0tRzNaeHpPVkNB?oc=5",
+     "resume": "",
+     "date": "2026-10-04T17:59:22+02:00",
+     "source": "L'Union",
+     "image": null,
+     "reprises": 4
     },
     {
      "titre": "Anthropic lance un programme de 100 millions de dollars pour former les entreprises à Claude AI",
@@ -351,19 +360,19 @@
      "reprises": 3
     },
     {
-     "titre": "L’intelligence artificielle est-elle une menace pour les auteurs ? Le débat s’invite à la fête du livre de Merlieux",
-     "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZzVMODdmN1FjeW1xcEZ0U2RYNFJWTkctVWFCUjFMSmJpeGpnMEpVUWFVUkJzaXV1Q25NYU0xYkdtWXdMMTdLMXFmSnlvaWZBVmlxRVNXWGplUE9UQjhEdU5feDUtRzNGLXFocFQ1YTRJVFpKazFEbnNabVlaTENhYUY1WGx4NWFDSV8tam9HUmNDTzMzLVNxTFRrNU5sUWdtX3Q5eU1vNF91dWJ3Nm9INzBwc2V0bmxfLTE2RWxEYk0tRzNaeHpPVkNB?oc=5",
+     "titre": "Un employé d'OpenAI démissionne et appelle à renforcer les pratiques de sécurité du secteur de l'IA, face aux incidents récents",
+     "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOWDEtT3pTQlY5N1NzZHA1T21LbEhLRVFnZGFyOUdQUk5SNGN4b3B6RWVoaVMtLVhvRC1Qd1hYZlg1WXhGcDNlSmtfV1JtSk5zcjdKSDBDbm4zWW92SEN5V09nTmFxbTlTc1JOOU1zeFVONTJSUmlFTFFiU1R4TDlBYm5IeHJOdjNlYjZmNU9RalVCWWlieTJxRWpsT3g3ZWZwMFNoLUVZZ3YwcXg2NVl0d3BiOThvMl9Sb0RBSGl0cGVxbjJkSU9uME50X3VrbGJFYmJFLUNtRlZuU1BYc3U4emhTcnhsT3hra2FGNVZvb2JpLVlzMWRaUnh1WHREcjE4SGJYSUt3enlTVXNWNGpYWEZLVGlGaXAxMVlTTmRaLUNBYXFOWXV3?oc=5",
      "resume": "",
-     "date": "2026-10-04T17:59:22+02:00",
-     "source": "L'Union",
+     "date": "2026-10-04T10:15:27+02:00",
+     "source": "franceinfo",
      "image": null,
-     "reprises": 3
+     "reprises": 2
     },
     {
      "titre": "Après l'affaire Thélyson Orélien, qu'est-ce qu'un écrivain à l'heure de l'IA?",
      "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcWlRWF91ZnZwUDQ0X3VaRS1XQmswQ1hKcEs4eWZzZ29FeGsyd09hcHg1V1h0RjFWS2ZWN2RmZFFJdTg3X3Nwdk1xNkJvTVBudTdkMEZzaWRNTTltemwyRzUxcnZFVlpjQThlMkZjX0xmbHJRNm5UOHE0bnFlZ0dBNEpsOFBCUXFBaVZLV1RoaDJBbWdfcmRkUnhtcE9Xdlc3U0JrV2lnb0ZUY2ZQRDhVUjFVbXpQR1V5dlNMbWs0OTY1YTM2YVFMTlZfbGRPYTFqdTdKOHRjMThiSmplajJZWThWa2F4bXBMNGJ2cW83cnExVVZERUtTb1EyaTBwWjA?oc=5",
      "resume": "Vous n'êtes sans doute pas passé à côté de la polémique autour de C'était ça ou mourir. Le roman de Thélyson Orélien a été accusé d'avoir été écrit à l'aide de l'intelligence artificielle. À l'heure où l'IA s'immisce partout, le soupçon qu'un auteur en ait…",
-     "date": "2026-10-04T16:50:18+02:00",
+     "date": "2026-10-04T18:29:07+02:00",
      "source": "letemps.ch",
      "image": null,
      "reprises": 2
@@ -378,29 +387,20 @@
      "reprises": 2
     },
     {
-     "titre": "Un employé d'OpenAI démissionne et appelle à renforcer les pratiques de sécurité du secteur de l'IA, face aux incidents récents",
-     "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOWDEtT3pTQlY5N1NzZHA1T21LbEhLRVFnZGFyOUdQUk5SNGN4b3B6RWVoaVMtLVhvRC1Qd1hYZlg1WXhGcDNlSmtfV1JtSk5zcjdKSDBDbm4zWW92SEN5V09nTmFxbTlTc1JOOU1zeFVONTJSUmlFTFFiU1R4TDlBYm5IeHJOdjNlYjZmNU9RalVCWWlieTJxRWpsT3g3ZWZwMFNoLUVZZ3YwcXg2NVl0d3BiOThvMl9Sb0RBSGl0cGVxbjJkSU9uME50X3VrbGJFYmJFLUNtRlZuU1BYc3U4emhTcnhsT3hra2FGNVZvb2JpLVlzMWRaUnh1WHREcjE4SGJYSUt3enlTVXNWNGpYWEZLVGlGaXAxMVlTTmRaLUNBYXFOWXV3?oc=5",
+     "titre": "IA : Google, OpenAI et Anthropic unissent leurs forces",
+     "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXBVMTNnSUtqYVRjMVpNYVQ3dEIyc0pWQ3BFMS1vaFRYdjVhUWNLRm9pa3cwZ05sbXRCV2NuSnpUczJjRVJnN0Q2ay16enZ3QkktTTdmMWdlTHpaN0xZelN5ZTVjM3A1dlJleUVTNWt1dGg2UTV5VUJXamNqS3k3d2RISDZSWHNieDg0akZYNnlkb2Rwcks3TW5HRno?oc=5",
      "resume": "",
-     "date": "2026-10-04T10:15:27+02:00",
-     "source": "franceinfo",
+     "date": "2026-10-04T05:04:37+02:00",
+     "source": "BlogNT",
      "image": null,
      "reprises": 2
     },
     {
-     "titre": "Maroc et Mistral AI : premiers outils IA open source livrés",
-     "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRUFvQ3NSNnVKdXN1YUlNbnhjWktpVVdfUmg5a1IzcHEyYTQwU0wzRzU1V2MzQVppZWswcHBMUlFKVjlUV2RGVUpYdVFTUHdGRE9aRlNBM2RibEc0R2hnbEIxMG55a3FhRldadG1QUU9UTmd5UGl1NDlwMXpaX2luejFsZk9kTFVncy05d09YSQ?oc=5",
+     "titre": "Muse, nouvel agent IA de META",
+     "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnNvTGNwbVZVa1JpX0dXR3ZSaDhnaW90MDJrWnhDR0xneFhHTlcyczZzcVBBUVZ4c0hfa1hpU1ZwcUk5TEFyZjNEYkdPdHVDRDV0ZUZsODBMU2hpazFWZWpiajlvNEFVNWNVQy0xTDNGMEtUd21OQnAyb0xMakJGVWxhMElXZEdKdXY0TE5hcnRSOVQwdXA3U2NFeHdqNWlZRVFVUmtKSXpZUEtMVVE?oc=5",
      "resume": "",
-     "date": "2026-10-04T09:11:43+02:00",
-     "source": "vu-magazine.com",
-     "image": null,
-     "reprises": 2
-    },
-    {
-     "titre": "Corée du Nord : Kim Jong Un a supervisé le lancement d’un missile utilisant l’IA",
-     "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcGpxTjk1ZWt5ZUhrckRVaHNuSVdEQmhnT1ppLXQ2UVVjQmpibUcyQ1hBd05vOVRoZzVtOHVWWHVoc3RmT3dNSUs1OW9GazFaRUJybXJKbE5sSWluR1Y3NWpVQldCcUdYV29KWk04UE9xeTZSamxGSm1DWlY4VkJYTXBmR0RPTGZmOFNwVHExVlBYMjVPOElsZm8zR3U1Y1dWbTk3Ui1XZkJQcjQwOVd2REt5Q2hkNU5wSjBxcEhzbEpNX2FaLTBCTlVDOW5mQnZ3allKajd6VVJaOVhrZExZTEpDcVNEYnBQbmt2U1hCVQ?oc=5",
-     "resume": "",
-     "date": "2026-10-04T13:46:32+02:00",
-     "source": "Le Parisien",
+     "date": "2026-10-04T18:14:00+02:00",
+     "source": "Radio France",
      "image": null,
      "reprises": 2
     }
@@ -418,27 +418,7 @@
      "date": "2026-10-04T15:04:05+02:00",
      "source": "La République des Pyrénées",
      "image": null,
-     "reprises": 13,
-     "libertes": false
-    },
-    {
-     "titre": "Oui, les médecins peuvent critiquer l’homéopathie : une décision essentielle du Conseil d’Etat",
-     "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ2duZTN2ZTlUM1cyNWlkR0gtYm1ONm9FNHJ0TWNyeHBfZGdET1lNTUhGOWlSLUZ4MkhocE1RdmY3WHUxMURPazg4N1d4QlJGNTBDNWlxeC1qby1fRzRPZGlMOFNmZjRwUENJS0tCYnBJeUIyY3JLOGJUb3R0NzM5VXhyTkEzYkdkODlzamFWXzFRN2d1TElvRy1oN0w5QTBzbHhjY0JuZHpIaHM5Z3RxMEVOWmVzSmUxY2xNVHhnUnVDMkJDUHlfdFNaWmJVaDVUTF9HbFZWcWYzc2RvUXBoMmFUaldLUVdCeTREaQ?oc=5",
-     "resume": "",
-     "date": "2026-10-04T16:00:00+02:00",
-     "source": "L'Express",
-     "image": null,
-     "reprises": 11,
-     "libertes": false
-    },
-    {
-     "titre": "Auchan : le Conseil d’État confirme définitivement que le PSE est légal",
-     "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSTBxcXRTQ2RyenRKWnZzd2d2RWFGTjM5RGFJMmRSM2JFRlQtUG5scHpIQ0xqcG1BamhMWjZvbE9udDVTenVKRlJiZTgyX1p0bl9EMTF4ZEliSm8yQXphRzAzdnp6UkJwOVp0Y1VzUFo4S0FGeTcwbzQtWnBsSlMtaFBBQlZNblJHNXJ5c3dJeF9IUGxtTGN3UTZsT085dHlRcFEtZUxVb1l2Um51MV92RTBEdEF3dGlCZzhwS3VrVkZDNmEzaE9zbWNZWEFHdjV4UjVxaHllUy1EamNVOHJJWTVJSndxVVdtcTdvVWZ1TQ?oc=5",
-     "resume": "",
-     "date": "2026-10-02T17:20:30+02:00",
-     "source": "Le Parisien",
-     "image": null,
-     "reprises": 10,
+     "reprises": 27,
      "libertes": false
     },
     {
@@ -452,6 +432,26 @@
      "libertes": false
     },
     {
+     "titre": "Auchan : le Conseil d’État confirme définitivement que le PSE est légal",
+     "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSTBxcXRTQ2RyenRKWnZzd2d2RWFGTjM5RGFJMmRSM2JFRlQtUG5scHpIQ0xqcG1BamhMWjZvbE9udDVTenVKRlJiZTgyX1p0bl9EMTF4ZEliSm8yQXphRzAzdnp6UkJwOVp0Y1VzUFo4S0FGeTcwbzQtWnBsSlMtaFBBQlZNblJHNXJ5c3dJeF9IUGxtTGN3UTZsT085dHlRcFEtZUxVb1l2Um51MV92RTBEdEF3dGlCZzhwS3VrVkZDNmEzaE9zbWNZWEFHdjV4UjVxaHllUy1EamNVOHJJWTVJSndxVVdtcTdvVWZ1TQ?oc=5",
+     "resume": "",
+     "date": "2026-10-02T17:20:30+02:00",
+     "source": "Le Parisien",
+     "image": null,
+     "reprises": 6,
+     "libertes": false
+    },
+    {
+     "titre": "Assigné comme gérant de fait après la liquidation : contester la requalification et limiter l'insuffisance d'actif (2026)",
+     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzFnSmFSQS1QLXlLRFNnaFhjVnhWaTZxdW1PTFpFMHFoWVgzWWVoaDBad290OXoydjlyamtQWHRDTmlmaTRwWHlfMjZYYXhTcDhCYmRwTnowVTdZQnE0blFEc0s5dFZfc2djZ1RrWWhhT0ZaLXR4OUREbmo2ZHFpb25rNTczdi11azJVNEtmdnF2TE1XaEZnUFpIUkR4WndIc3ZkNW11SGMxbUZBdjctd0lkQ2pJWHNE?oc=5",
+     "resume": "",
+     "date": "2026-10-03T22:27:00+02:00",
+     "source": "Kohen Avocats",
+     "image": null,
+     "reprises": 1,
+     "libertes": false
+    },
+    {
      "titre": "Réduction de la dette publique : Marine Le Pen esquisse dans une tribune les objectifs de sa « règle d’or »",
      "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNV0dJN3JSTklyU0VBeFV4TU9WRkd0RGg0SUxmU3ByVDBPM202d2JMQ2hVdlhUQ0MtaFJ5MUtfV2I2WWtLeFFEdHJvQXdpbmNKMklzZkpWeHVUVlhLdHFlYzFkcnN5RmpXNlFrd3dxNUV5RFZHcVM3RW1SYlZacmVaZ0FaQ2RMSk1aTHUteTJ1NWlULUpGd2kydlFXTlZmVFJjUFJoR3BJMi15QU1SNkJlUFAwdmxZTUl5MDdzYXB3WGdNVC1iU2dNbnkzcXc0bXE2WEItLVFxMHQ0UExkeUZhZG5PaVRDakFwR055Q3lCZ3N1aGU0dU5DUkdsRDYtbUVUQkE?oc=5",
      "resume": "",
@@ -462,24 +462,14 @@
      "libertes": false
     },
     {
-     "titre": "Tunisie: le décret 54, instrument de répression, assoupli par le pouvoir",
-     "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa2tnbk0yWi05dkFMM0I3bDhiNm96WFdTaEM2b3NCcnYxTEM1OHJtVHBPTmJZZ0s1LXlTVkZSX3ZxVnh3cmxmVlVsMGhnOXcxZXU5cS1qSEpoNktRNWZiQWh1VFF3eWprQlFVQmlIaVFwbXc5X2lFZ3FramU1R3oyYlRIdWdfaXA3VTFieE14SUJmSzZZQnJGd2pMRmZ3QWFwUVk5QUJOdnduTXhDSy1ZNVYzWGhwZ3RnTUE?oc=5",
+     "titre": "Condamnation de Dora Moutot : une rapporteuse de l'ONU s'alarme pour la liberté d'expression en France",
+     "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWUtLanV3X05QUXpPRDhoVnZBSUNSVk1iMTN4WlBWbGpCNWV1Vk1ubWZabUFPbHJWZjNCVmd5YXo3SUZyNUtMT3NLd19zMTJOVUtEaFpYc05mdlJOelJhRGFKMlFDUmRfNWM4blg2Z0NPYUZWcXl3dy02UXBqaGdEeWNtVzBrRGtMWUpacmxFSGxoOTM0alRHN0QzS2Y4SnRvTjlxVEs4dHVGbVJiWGJaU216cUtHNkEybjZ3SUU4Z3ZnZG1qUVp4ZlI0dUhtazQ4eGVV?oc=5",
      "resume": "",
-     "date": "2026-10-02T11:12:23+02:00",
-     "source": "RFI",
+     "date": "2026-10-04T14:09:50+02:00",
+     "source": "lejdd.fr",
      "image": null,
-     "reprises": 3,
-     "libertes": false
-    },
-    {
-     "titre": "La déchéance de marque pour défaut d'usage sérieux : l'affichage d'un QR code wifi ne caractérise pas un service de télécommunication selon la Cour de cassation",
-     "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY0VfcXlZQlZ5V0dsZ2FzbFBKTGJ5VVdOMHRkcGZ4VkhyVkhLWWNIaldqODdObHAyZ0xGOEtYQXRXbnRhZXpidkFkN0FHNUQ2a1FMNkdOVVBnc3hfZlBEd28wai10ekpkTTBTZDVvX0RNZnp3S1lEbUlGSUwyNDA0Y0FuOURaYndscWJkZTFXdTZJajJnWDZ5MQ?oc=5",
-     "resume": "",
-     "date": "2026-10-02T11:45:00+02:00",
-     "source": "Kohen Avocats",
-     "image": null,
-     "reprises": 1,
-     "libertes": false
+     "reprises": 2,
+     "libertes": true
     },
     {
      "titre": "Pourquoi saisir la Cour de cassation ? Voici ce qu’elle peut réellement décider",
@@ -492,24 +482,34 @@
      "libertes": false
     },
     {
-     "titre": "Transidentité : l'ONU s'alarme pour la liberté d'expression en France après la condamnation de Dora Moutot",
-     "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWUtLanV3X05QUXpPRDhoVnZBSUNSVk1iMTN4WlBWbGpCNWV1Vk1ubWZabUFPbHJWZjNCVmd5YXo3SUZyNUtMT3NLd19zMTJOVUtEaFpYc05mdlJOelJhRGFKMlFDUmRfNWM4blg2Z0NPYUZWcXl3dy02UXBqaGdEeWNtVzBrRGtMWUpacmxFSGxoOTM0alRHN0QzS2Y4SnRvTjlxVEs4dHVGbVJiWGJaU216cUtHNkEybjZ3SUU4Z3ZnZG1qUVp4ZlI0dUhtazQ4eGVV?oc=5",
+     "titre": "Mise à disposition de salarié handicapé et liberté d'expression des salariés : un rappel des règles protectrices",
+     "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnVjdmdlSWJmNDNoZjBaaWJDdmlPdGlGZkxWSW04M0JSUndwUjV5RGdXSDhhLUxrV3E0TGlNMWNVaTZEOTJzUlZGOUFYd2s2RkZVMWNuU2U2SkRVTmRIWWlJb2NsbF9UaC1ITm5mRkpZaE1xcnJhZVNITU1XUTFER0ttS0NSbHAwTWhsaHRwNmloUGJlSkVadw?oc=5",
      "resume": "",
-     "date": "2026-10-04T14:09:50+02:00",
-     "source": "lejdd.fr",
+     "date": "2026-10-02T16:53:44+02:00",
+     "source": "force-ouvriere.fr",
      "image": null,
      "reprises": 2,
      "libertes": true
     },
     {
-     "titre": "Décision n° 2026-1222 QPC du 1er octobre 2026",
-     "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MdDQ4WTJCNGFfZlF5OUo2TWx4dDN1XzVQT1MyWS04aVlneEo5SkI3dDhBTmxVWXFEQTRWWTBJYXo2RGJjQm12M0w5Y2pnbmZSaE9mUkR3a1JDTDA3TkNBWm5ISEFXTlR0RXl5YlFheWptaHZQdmZN?oc=5",
+     "titre": "Cession de créance spéculative en cours de procès : se défendre par le retrait litigieux (article 1699 du Code civil)",
+     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWmxUWUhxbVI0OUswZi13eDZxQ0ZuTnh0VFN1ajAwUWZvdXdQRnNUWWxFVWVMbVRyRjRyX1pTRGlSZG9CajVoaU5xckFXcmc2eUJGaE8tdmZfcF92NEMzOFBQb0xDa0l3a0I0ckw0dDNNWWFQWmJOeFhfUnRQTXJXSHhBN3U4eHR4X2tnSnB4Y1pDbkxNVlpDVm1rbjVwWnJZa3lSYlZFOVlXLTlF?oc=5",
      "resume": "",
-     "date": "2026-10-01T18:33:11+02:00",
-     "source": "Conseil constitutionnel",
+     "date": "2026-10-03T17:30:00+02:00",
+     "source": "Kohen Avocats",
      "image": null,
      "reprises": 1,
-     "libertes": true
+     "libertes": false
+    },
+    {
+     "titre": "Tunisie: le décret 54, instrument de répression, assoupli par le pouvoir",
+     "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa2tnbk0yWi05dkFMM0I3bDhiNm96WFdTaEM2b3NCcnYxTEM1OHJtVHBPTmJZZ0s1LXlTVkZSX3ZxVnh3cmxmVlVsMGhnOXcxZXU5cS1qSEpoNktRNWZiQWh1VFF3eWprQlFVQmlIaVFwbXc5X2lFZ3FramU1R3oyYlRIdWdfaXA3VTFieE14SUJmSzZZQnJGd2pMRmZ3QWFwUVk5QUJOdnduTXhDSy1ZNVYzWGhwZ3RnTUE?oc=5",
+     "resume": "",
+     "date": "2026-10-02T11:12:23+02:00",
+     "source": "RFI",
+     "image": null,
+     "reprises": 2,
+     "libertes": false
     }
    ]
   }
