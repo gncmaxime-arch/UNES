@@ -49,3 +49,39 @@ jobs:
           path: site
       - id: deploiement
         uses: actions/deploy-pages@v4
+
+  apercu:
+    # Capture du site en ligne (téléphone + ordinateur) lors d'un lancement manuel, pour vérification.
+    if: github.event_name == 'workflow_dispatch'
+    needs: construire
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Capturer le site en ligne
+        run: |
+          sleep 20
+          npm i -s playwright@1 >/dev/null && npx playwright install --with-deps chromium >/dev/null
+          cat > /tmp/apercu.js <<'JS'
+          const { chromium } = require('playwright');
+          (async () => {
+            const b = await chromium.launch();
+            for (const [nom, vp] of [['mobile', { width: 390, height: 844 }], ['ordi', { width: 1366, height: 900 }]]) {
+              const p = await b.newPage({ viewport: vp, deviceScaleFactor: 1 });
+              const r = await p.goto('https://gncmaxime-arch.github.io/UNES/?t=' + Date.now(), { waitUntil: 'networkidle' });
+              console.log(nom, 'HTTP', r.status());
+              await p.waitForTimeout(2000);
+              await p.screenshot({ path: `apercu/${nom}.jpg`, type: 'jpeg', quality: 60, fullPage: nom === 'mobile' });
+            }
+            await b.close();
+          })();
+          JS
+          mkdir -p apercu && NODE_PATH=$PWD/node_modules node /tmp/apercu.js
+      - name: Enregistrer les captures
+        run: |
+          git config user.name "kiosque-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add apercu
+          git diff --cached --quiet || git commit -m "Aperçu du site"
+          git pull --rebase -q origin main && git push -q origin HEAD:main || echo "push ignoré"
