@@ -15,17 +15,24 @@ Si la routine échoue, le site reste en ligne avec la sélection automatique.
 
 ## Règles de rédaction
 
+- **Pertinence avant tout (règle prioritaire)** : dans chaque rubrique, ne garder que les informations réellement
+  liées au thème de la rubrique. Ne jamais combler : les nombres ci-dessous sont des **maxima**, pas des objectifs.
+  Publier 2 ou 3 items de qualité vaut mieux que 8 approximatifs ; une rubrique peut n'en avoir qu'un.
+  Écarter systématiquement : agendas et événements (« que faire ce lundi », « Nuit du droit », visites),
+  conseils pratiques et articles de cabinets d'avocats (« comment contester… », « pourquoi saisir… »),
+  faits divers locaux, sujets hors thème même s'ils citent un mot-clé.
+
 - **Concision** : le site affiche un sujet vedette puis une liste dépliable. Chaque `resume` tient en une phrase
   (25 mots maximum), `pourquoi` et `angle_crfpa` en une phrase courte. Titres reformulés s'ils dépassent 15 mots.
 
 - **Journaux** : pour chacun, un résumé de 2 phrases de ce qui fait sa une aujourd'hui,
   puis 3 à 4 points clés tirés de ses articles du jour. Ne rien inventer qui ne figure pas dans les sources.
-- **Actualité principale** (clé `monde`) : les 5 à 7 informations les plus importantes dans le monde (pas seulement en France).
+- **Actualité principale** (clé `monde`) : au plus 6 informations, uniquement les plus importantes dans le monde (pas seulement en France).
   Classer par importance réelle (conséquences, ampleur), pas par nombre de clics.
   Un champ `pourquoi` d'une phrase : pourquoi c'est important.
-- **IA** : 5 à 6 actualités marquantes (modèles, entreprises, régulation, recherche, usages).
+- **IA** : au plus 5 actualités vraiment marquantes (modèles, entreprises, régulation, recherche, usages).
   Écarter les articles promotionnels et les listes de « meilleurs outils ».
-- **Droit** : 6 à 8 actualités, priorité aux décisions du Conseil constitutionnel, du Conseil d'État,
+- **Droit** : au plus 6 actualités, uniquement juridiques (décisions, lois, libertés), priorité aux décisions du Conseil constitutionnel, du Conseil d'État,
   de la Cour de cassation, de la CEDH et de la CJUE, aux lois et aux libertés fondamentales.
   `libertes: true` quand le sujet touche une liberté fondamentale.
   `angle_crfpa` : une phrase qui rattache l'info au programme (notion, principe, grand arrêt, article),

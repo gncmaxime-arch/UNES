@@ -148,6 +148,21 @@ def mots(t):
     return {w for w in re.findall(r"[a-z0-9]{3,}", t) if w not in VIDES}
 
 
+def sans_accents(t):
+    t = t.lower().replace("’", "'").replace("‘", "'").replace("«", " ").replace("»", " ")
+    return unicodedata.normalize("NFKD", t).encode("ascii", "ignore").decode()
+
+
+def pertinent(it, s):
+    """Filtre par sujet : le titre doit contenir un mot-clé de la rubrique et aucun mot exclu.
+    Mieux vaut trois sujets justes que dix approximatifs."""
+    titre = " " + sans_accents(it["titre"]) + " "
+    if any(sans_accents(m) in titre for m in s.get("mots_exclus", [])):
+        return False
+    requis = s.get("mots_requis")
+    return not requis or any(sans_accents(m) in titre for m in requis)
+
+
 def classer(listes, nb, recents_h=36):
     """listes : une liste d'items par flux. Regroupe les sujets proches et note chaque groupe."""
     groupes = []
@@ -178,6 +193,7 @@ def classer(listes, nb, recents_h=36):
     for g in groupes[:nb]:
         it = g["item"]
         it["reprises"] = len(g["sources"])
+        it["score"] = round(g["score"], 2)
         it["source"] = it.get("source") or domaine(it["lien"])
         out.append(it)
     return out
@@ -327,7 +343,9 @@ def collecter():
     for s in SECTIONS:
         with ThreadPoolExecutor(8) as ex:
             listes = list(ex.map(lire_flux, s["flux"]))
+        listes = [[it for it in l if pertinent(it, s)] for l in listes]
         items = classer(listes, s["nb"], recents_h=72 if s["id"] == "droit" else 36)
+        items = [it for it in items if it["score"] >= s.get("score_min", 0)]
         if s.get("mots_libertes"):
             for it in items:
                 t = (it["titre"] + " " + it["resume"]).lower()
