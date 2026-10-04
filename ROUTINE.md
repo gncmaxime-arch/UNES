@@ -15,14 +15,17 @@ Si la routine échoue, le site reste en ligne avec la sélection automatique.
 
 ## Règles de rédaction
 
+- **Concision** : le site affiche un sujet vedette puis une liste dépliable. Chaque `resume` tient en une phrase
+  (25 mots maximum), `pourquoi` et `angle_crfpa` en une phrase courte. Titres reformulés s'ils dépassent 15 mots.
+
 - **Journaux** : pour chacun, un résumé de 2 phrases de ce qui fait sa une aujourd'hui,
   puis 3 à 4 points clés tirés de ses articles du jour. Ne rien inventer qui ne figure pas dans les sources.
-- **Monde** : les 6 à 8 informations les plus importantes dans le monde (pas seulement en France).
+- **Actualité principale** (clé `monde`) : les 5 à 7 informations les plus importantes dans le monde (pas seulement en France).
   Classer par importance réelle (conséquences, ampleur), pas par nombre de clics.
   Un champ `pourquoi` d'une phrase : pourquoi c'est important.
-- **IA** : 5 à 8 actualités marquantes (modèles, entreprises, régulation, recherche, usages).
+- **IA** : 5 à 6 actualités marquantes (modèles, entreprises, régulation, recherche, usages).
   Écarter les articles promotionnels et les listes de « meilleurs outils ».
-- **Droit** : 6 à 10 actualités, priorité aux décisions du Conseil constitutionnel, du Conseil d'État,
+- **Droit** : 6 à 8 actualités, priorité aux décisions du Conseil constitutionnel, du Conseil d'État,
   de la Cour de cassation, de la CEDH et de la CJUE, aux lois et aux libertés fondamentales.
   `libertes: true` quand le sujet touche une liberté fondamentale.
   `angle_crfpa` : une phrase qui rattache l'info au programme (notion, principe, grand arrêt, article),

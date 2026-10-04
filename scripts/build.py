@@ -200,60 +200,93 @@ def slugs_kiosko():
     return trouves
 
 
+MOIS_FR = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août",
+           "septembre", "octobre", "novembre", "décembre"]
+
+
+def enregistrer_une(j, data, url, date_parution, source):
+    ext = "jpg" if data[:2] == b"\xff\xd8" else "webp" if data[:4] == b"RIFF" else "png" if data[:4] == b"\x89PNG" else None
+    if not ext or len(data) < 15000:
+        log(f"  {source} {j['nom']}: fichier inattendu ({len(data)} octets) {url}")
+        return None
+    (SITE / "unes").mkdir(parents=True, exist_ok=True)
+    nom = f"unes/{j['id']}.{ext}"
+    (SITE / nom).write_bytes(data)
+    # « date » = date imprimée sur le journal (Le Monde paraît l'après-midi, daté du lendemain).
+    edition = date_parution + dt.timedelta(days=j.get("decalage_" + source, 0))
+    log(f"  une {j['nom']} ({source}, édition du {edition}): {url}")
+    return {"fichier": nom, "date": edition.isoformat(), "source": url}
+
+
+def une_milibris(j):
+    """Kiosque numérique de l'éditeur (Le Figaro) : couverture 643×960 et date exacte de l'édition."""
+    try:
+        page = get(j["milibris"]).decode("utf-8", "ignore")
+    except Exception as err:
+        log(f"  milibris {j['nom']}: {type(err).__name__}")
+        return None
+    editions = []
+    for m in re.finditer(r"milibris\.com/thumbnail/issue/([0-9a-f-]+)/front/", page):
+        apres = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " | ", page[m.end():m.end() + 700]))
+        d = re.search(r"\|\s*([^|]+?)\s*\|[\s|]*(\d{1,2})(?:er)? (" + "|".join(MOIS_FR) + r") (\d{4})", apres)
+        if d and d.group(1).strip() == j["nom"]:
+            jour = dt.date(int(d.group(4)), MOIS_FR.index(d.group(3)) + 1, int(d.group(2)))
+            editions.append((jour, m.group(1)))
+    if not editions:
+        log(f"  milibris {j['nom']}: aucune édition repérée")
+        return None
+    jour, ident = max(editions)
+    for variante in ("catalog-cover-xlarge.jpeg", "catalog-cover-large.jpeg"):
+        url = f"https://static.milibris.com/thumbnail/issue/{ident}/front/{variante}"
+        try:
+            une = enregistrer_une(j, get(url, timeout=20), url, jour, "milibris")
+        except Exception:
+            continue
+        if une:
+            return une
+    return None
+
+
 def une_frontpages(j):
-    """frontpages.com expose la une du jour en og:image (…/g/AAAA/MM/JJ/<nom>.webp.jpg)."""
+    """frontpages.com : vignette @2x (600×800) ; la date du chemin est celle de la mise en ligne."""
     try:
         page = get(f"https://www.frontpages.com/{j['frontpages']}/").decode("utf-8", "ignore")
     except Exception as err:
         log(f"  frontpages {j['nom']}: {type(err).__name__}")
         return None
     slug = re.escape(j["frontpages"])
-    m = re.search(rf'((?:https://www\.frontpages\.com)?/g/(\d{{4}})/(\d{{2}})/(\d{{2}})/{slug}-[^"\'\s)]+)', page)
+    m = re.search(rf"/[gt]/(\d{{4}})/(\d{{2}})/(\d{{2}})/({slug}-[a-z0-9]+)\.webp", page)
     if not m:
         log(f"  frontpages {j['nom']}: image non repérée dans la page")
         return None
-    url, a, mo, d = m.groups()
-    if url.startswith("/"):
-        url = "https://www.frontpages.com" + url
-    return telecharger_frontpages(j, url, a, mo, d)
-
-
-def telecharger_frontpages(j, url, a, mo, d):
-    page_url = f"https://www.frontpages.com/{j['frontpages']}/"
-    data = None
-    # L'image pleine taille est protégée contre les liens directs : on présente la page d'origine en Referer,
-    # puis on se rabat sur la vignette /t/ si besoin.
-    for essai in (url, url.replace(".webp.jpg", ".webp"), url.replace("/g/", "/t/").replace(".webp.jpg", ".webp")):
+    a, mo, d, nom = m.groups()
+    for v in ("@2x.webp", ".webp"):
+        url = f"https://www.frontpages.com/t/{a}/{mo}/{d}/{nom}{v}"
         try:
-            data = get(essai, timeout=20, referer=page_url)
-            url = essai
-            break
+            data = get(url, timeout=20, referer=f"https://www.frontpages.com/{j['frontpages']}/")
         except Exception as err:
-            log(f"  frontpages {j['nom']}: {err} sur {essai}")
-    if data is None:
-        return None
-    ext = "jpg" if data[:2] == b"\xff\xd8" else "webp" if data[:4] == b"RIFF" else None
-    if not ext or len(data) < 15000:
-        log(f"  frontpages {j['nom']}: fichier inattendu ({len(data)} octets) {url}")
-        return None
-    (SITE / "unes").mkdir(parents=True, exist_ok=True)
-    nom = f"unes/{j['id']}.{ext}"
-    (SITE / nom).write_bytes(data)
-    log(f"  une {j['nom']}: {url}")
-    return {"fichier": nom, "date": f"{a}-{mo}-{d}", "source": url}
+            log(f"  frontpages {j['nom']}: {err} sur {url}")
+            continue
+        return enregistrer_une(j, data, url, dt.date(int(a), int(mo), int(d)), "frontpages")
+    return None
 
 
 def chercher_une(j, connus):
-    une = une_kiosko(j, connus) if j["kiosko"] else None
-    recente = AUJOURDHUI - dt.timedelta(days=1)
-    if une and une["date"] >= recente.isoformat():
-        return une
-    autre = une_frontpages(j) if j.get("frontpages") else None
-    if autre and (not une or autre["date"] > une["date"]):
-        return autre
-    if not une:
+    """Essaie les sources dans l'ordre de qualité et garde l'édition la plus récente."""
+    candidats = []
+    for source in j.get("sources_une", ["kiosko", "frontpages"]):
+        une = {"kiosko": lambda: une_kiosko(j, connus) if j.get("kiosko") else None,
+               "milibris": lambda: une_milibris(j) if j.get("milibris") else None,
+               "frontpages": lambda: une_frontpages(j) if j.get("frontpages") else None}[source]()
+        if une:
+            candidats.append(une)
+            if une["date"] >= AUJOURDHUI.isoformat():
+                break
+    if not candidats:
         log(f"  une {j['nom']}: introuvable")
-    return une
+        return None
+    # À date égale, la première source (la plus nette) l'emporte.
+    return max(candidats, key=lambda u: u["date"])
 
 
 def une_kiosko(j, connus):
@@ -271,11 +304,7 @@ def une_kiosko(j, connus):
             except Exception:
                 continue
             if len(data) > 15000 and data[:2] == b"\xff\xd8":
-                (SITE / "unes").mkdir(parents=True, exist_ok=True)
-                nom = f"unes/{j['id']}.jpg"
-                (SITE / nom).write_bytes(data)
-                log(f"  une {j['nom']}: {url}")
-                return {"fichier": nom, "date": jour.isoformat(), "source": url}
+                return enregistrer_une(j, data, url, jour, "kiosko")
     log(f"  kiosko {j['nom']}: rien (slugs essayés : {slugs})")
     return None
 

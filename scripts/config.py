@@ -10,7 +10,10 @@ JOURNAUX = [
         "nom": "Le Figaro",
         "couleur": "#163860",
         "kiosko": [],
+        "milibris": "https://kiosque.lefigaro.fr/",
         "frontpages": "le-figaro",
+        "sources_une": ["milibris", "frontpages"],
+        "sans_parution": [6],  # pas d'édition le dimanche
         "flux": [
             "https://www.lefigaro.fr/rss/figaro_actualites.xml",
             "https://www.lefigaro.fr/rss/figaro_flash-actu.xml",
@@ -23,6 +26,9 @@ JOURNAUX = [
         "couleur": "#111111",
         "kiosko": [],
         "frontpages": "le-monde",
+        "sources_une": ["frontpages"],
+        "decalage_frontpages": 1,  # paraît l'après-midi, daté du lendemain
+        "edition_double_dimanche": True,  # l'édition datée du dimanche vaut aussi pour le lundi
         "flux": [
             "https://www.lemonde.fr/rss/une.xml",
             gnews("site:lemonde.fr when:1d"),

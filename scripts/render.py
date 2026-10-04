@@ -3,6 +3,8 @@ import datetime as dt
 import html
 import json
 
+from config import JOURNAUX
+
 JOURS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août",
         "septembre", "octobre", "novembre", "décembre"]
@@ -31,12 +33,25 @@ def lien(it, contenu, cls=""):
     return f'<span class="{cls}">{contenu}</span>'
 
 
+def legende_edition(j, une, jour):
+    """Mention sous la une quand ce n'est pas l'édition du jour, avec la raison si on la connaît."""
+    if not une:
+        return ""
+    conf = next((c for c in JOURNAUX if c["id"] == j["id"]), {})
+    ed = dt.date.fromisoformat(une["date"][:10])
+    auj = dt.date.fromisoformat(jour)
+    couvre = ed + dt.timedelta(days=1) if conf.get("edition_double_dimanche") and ed.weekday() == 6 else ed
+    if couvre >= auj:
+        return ""
+    texte = f"édition du {date_longue(ed.isoformat()).rsplit(' ', 1)[0]}"
+    if auj.weekday() in conf.get("sans_parution", []) and (auj - ed).days == 1:
+        texte += " · pas de parution le " + JOURS[auj.weekday()]
+    return f' <small>· {e(texte)}</small>'
+
+
 def carte_une(j, i, jour):
     une = j.get("une")
-    legende = e(j["nom"])
-    if une and une["date"] < jour:
-        legende += f' <small>· édition du {e(date_longue(une["date"]).rsplit(" ", 1)[0])}</small>'
-
+    legende = e(j["nom"]) + legende_edition(j, une, jour)
     if une:
         visuel = (f'<img src="{e(une["fichier"])}?v={e(une["date"])}" alt="Une de {e(j["nom"])}" '
                   f'loading="{"eager" if i < 2 else "lazy"}" decoding="async">')
