@@ -22,6 +22,9 @@ Si la routine échoue, le site reste en ligne avec la sélection automatique.
   conseils pratiques et articles de cabinets d'avocats (« comment contester… », « pourquoi saisir… »),
   faits divers locaux, sujets hors thème même s'ils citent un mot-clé.
 
+- **Tout en français** : le site est en français. Tout titre, résumé ou point issu d'une source étrangère
+  (souvent en IA) est traduit en français ; aucun titre ne reste en anglais. Le lien d'origine est conservé.
+
 - **Concision** : le site affiche un sujet vedette puis une liste dépliable. Chaque `resume` tient en une phrase
   (25 mots maximum), `pourquoi` et `angle_crfpa` en une phrase courte. Titres reformulés s'ils dépassent 15 mots.
 
@@ -32,8 +35,13 @@ Si la routine échoue, le site reste en ligne avec la sélection automatique.
   Un champ `pourquoi` d'une phrase : pourquoi c'est important.
 - **IA** : au plus 5 actualités vraiment marquantes (modèles, entreprises, régulation, recherche, usages).
   Écarter les articles promotionnels et les listes de « meilleurs outils ».
-- **Droit** : au plus 6 actualités, uniquement juridiques (décisions, lois, libertés), priorité aux décisions du Conseil constitutionnel, du Conseil d'État,
-  de la Cour de cassation, de la CEDH et de la CJUE, aux lois et aux libertés fondamentales.
+- **Droit** : au plus 6 actualités, pour un juriste qui prépare le CRFPA. Ne retenir que :
+  les grandes décisions (Conseil constitutionnel, Conseil d'État, Cour de cassation, CEDH, CJUE), en priorité
+  sur les libertés fondamentales ; les revirements et évolutions de jurisprudence, avec ce qu'en dit la doctrine
+  quand un commentaire existe (Dalloz, JCP, AJDA, Gazette du Palais, blogs universitaires…) ; les lois majeures.
+  Écarter : vie de la profession et événements (Nuit du droit, colloques, salons, barreau), articles de
+  vulgarisation pour non-juristes (« Pourquoi saisir la Cour de cassation ? », « Ce qu'il faut savoir »),
+  articles de cabinets d'avocats et conseils pratiques. Mieux vaut 2 décisions importantes que 6 sujets moyens.
   `libertes: true` quand le sujet touche une liberté fondamentale.
   `angle_crfpa` : une phrase qui rattache l'info au programme (notion, principe, grand arrêt, article),
   utile pour le grand oral et la note de synthèse.

@@ -153,10 +153,20 @@ def sans_accents(t):
     return unicodedata.normalize("NFKD", t).encode("ascii", "ignore").decode()
 
 
+MOTS_ANGLAIS = {"the", "and", "has", "is", "of", "to", "with", "for", "its", "after", "says", "are", "was", "will"}
+
+
+def en_anglais(titre):
+    """Le site est en français : un titre avec plusieurs mots anglais courants est écarté."""
+    return len(set(re.findall(r"[a-z]+", titre.lower())) & MOTS_ANGLAIS) >= 2
+
+
 def pertinent(it, s):
     """Filtre par sujet : le titre doit contenir un mot-clé de la rubrique et aucun mot exclu.
     Mieux vaut trois sujets justes que dix approximatifs."""
     titre = " " + sans_accents(it["titre"]) + " "
+    if en_anglais(it["titre"]):
+        return False
     if any(sans_accents(m) in titre for m in s.get("mots_exclus", [])):
         return False
     source = sans_accents(it.get("source") or "")
