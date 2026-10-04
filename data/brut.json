@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "genere": "2026-10-05T01:14+02:00",
+ "genere": "2026-10-05T01:19+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -93,7 +93,7 @@
      "titre": "Midterms 2026 : Donald Trump prend en main la campagne républicaine pour mieux assurer sa propre promotion",
      "lien": "https://www.lemonde.fr/international/article/2026/10/04/midterms-2026-donald-trump-prend-en-main-la-campagne-republicaine-pour-mieux-assurer-sa-propre-promotion_6788322_3210.html",
      "resume": "Le président américain, très impopulaire, s’est lancé dans une série de meetings avant les élections de mi-mandat le 3 novembre, mais il semble avoir perdu l’instinct politique qui lui a réussi jusqu’à présent.",
-     "date": "2026-10-04T19:00:13+02:00",
+     "date": "2026-10-04T19:00:09+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/04/0/0/5000/2500/644/322/60/0/4d2251a_ftp-1-qikquudxw9jc-2026-10-04t034824z-418656587-rc22wnas5hhu-rtrmadp-3-usa-trump.JPG"
     },
@@ -260,7 +260,8 @@
      "date": "2026-10-04T23:14:20+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/0/0/4500/2250/644/322/60/0/5be74a0_ftp-1-5ssdvsntqx2r-2026-10-04t120959z-602533101-rc28wnafjzy5-rtrmadp-3-ukraine-crisis-germany.JPG",
-     "reprises": 15
+     "reprises": 14,
+     "score": 42.24
     },
     {
      "titre": "🔴 Présidentielle au Brésil en direct : fermeture des bureaux de vote, le dépouillement a commencé",
@@ -269,7 +270,8 @@
      "date": "2026-10-04T22:03:13+02:00",
      "source": "france24.com",
      "image": null,
-     "reprises": 8
+     "reprises": 9,
+     "score": 33.96
     },
     {
      "titre": "Vol Flydubai : Benyamin Nétanyahou ordonne un examen des mesures de sécurité prises sur les vols internationaux vers Israël",
@@ -278,16 +280,8 @@
      "date": "2026-10-04T20:53:31+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/220/0/2645/1322/644/322/60/0/2a3d9c5_ftp-1-1umhbp1wqvqe-2026-10-04t143706z-234243230-rc2rtnagne7d-rtrmadp-3-israel-gulf-flight-australia.JPG",
-     "reprises": 3
-    },
-    {
-     "titre": "Yémen : les houthistes encerclent désormais Taëz, grande ville du Sud-Ouest ; le président annonce une offensive pour reprendre l’ensemble du pays",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html",
-     "resume": "Les affrontements font rage depuis plusieurs jours dans le pays, à l’intérieur des terres et sur les hauteurs surplombant les régions côtières récemment conquises par les houthistes. Plus de 70 personnes sont mortes ces dernières vingt-quatre heures dans les…",
-     "date": "2026-10-04T14:32:11+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/03/668/0/3999/1999/644/322/60/0/1450936_ftp-1-fvfk4bcqp0uu-5254686-01-06.jpg",
-     "reprises": 4
+     "reprises": 3,
+     "score": 8.0
     },
     {
      "titre": "Espagne : les inondations font plusieurs morts près de Barcelone",
@@ -296,7 +290,18 @@
      "date": "2026-10-04T22:15:58+02:00",
      "source": "franceinfo.fr",
      "image": "https://www.franceinfo.fr/pictures/5lovzE9aC-VJqiW1iA2kD1Nyeu0/0x5:1461x827/432x243/filters:format(jpg)/2026/10/04/6ac29db0235b9125447326.jpg",
-     "reprises": 2
+     "reprises": 2,
+     "score": 7.24
+    },
+    {
+     "titre": "Yémen : les houthistes encerclent désormais Taëz, grande ville du Sud-Ouest ; le président annonce une offensive pour reprendre l’ensemble du pays",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html",
+     "resume": "Les affrontements font rage depuis plusieurs jours dans le pays, à l’intérieur des terres et sur les hauteurs surplombant les régions côtières récemment conquises par les houthistes. Plus de 70 personnes sont mortes ces dernières vingt-quatre heures dans les…",
+     "date": "2026-10-04T14:32:11+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/03/668/0/3999/1999/644/322/60/0/1450936_ftp-1-fvfk4bcqp0uu-5254686-01-06.jpg",
+     "reprises": 4,
+     "score": 7.19
     },
     {
      "titre": "Cheikh Hamidou Kane, écrivain sénégalais et figure de la littérature africaine, est mort à l’âge de 98 ans",
@@ -305,25 +310,8 @@
      "date": "2026-10-04T15:02:47+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/956/0/3744/1872/644/322/60/0/2fe10a6_upload-1-5byalk9uwktk-bridgeman-4862689.JPG",
-     "reprises": 3
-    },
-    {
-     "titre": "Viol collectif présumé à Cornell : enquête ouverte sur la gestion de l'affaire par l'université",
-     "lien": "https://www.france24.com/fr/am%C3%A9riques/20261004-viol-collectif-pr%C3%A9sum%C3%A9-%C3%A0-cornell-enqu%C3%AAte-ouverte-sur-la-gestion-de-l-affaire-par-l-universit%C3%A9",
-     "resume": "Le président de l'université américaine Cornell a annoncé samedi qu'une enquête externe indépendante allait examiner la gestion par l'établissement du viol en réunion présumé d'une étudiante en 2024. Cette affaire suscite actuellement une vague d'indignation…",
-     "date": "2026-10-04T18:31:45+02:00",
-     "source": "© Lauren Petracca, Reuters",
-     "image": "https://s.france24.com/media/display/daa775ba-c00d-11f1-86df-578a4b968fd6/w:1024/p:16x9/2026-10-02T154814Z-1310255220-RC24TNATK0SJ-RTRMADP-3-USA-CRIME-CORNELL.jpg",
-     "reprises": 3
-    },
-    {
-     "titre": "En Inde, « sentiment de panique » à Delhi, où le nettoyage des listes électorales menace de radier la moitié des votants",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/04/en-inde-sentiment-de-panique-a-delhi-ou-le-nettoyage-des-listes-electorales-menace-de-radier-la-moitie-des-votants_6788274_3210.html",
-     "resume": "Les musulmans et les populations pauvres sont touchés de manière disproportionnée par la révision des listes électorales et craignent que l’exercice menace, à terme, de les priver de leurs prestations sociales et même de leur citoyenneté.",
-     "date": "2026-10-04T16:30:09+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/02/0/0/8640/4320/644/322/60/0/28c7dd8_ftp-1-gtg2p2eexyeb-010515042090483e994a63ee027feee4-0-e7b649380636443faffde5d05bb2bb8e.jpg",
-     "reprises": 2
+     "reprises": 3,
+     "score": 4.81
     }
    ]
   },
@@ -335,11 +323,12 @@
     {
      "titre": "Donald Trump nomme le chef du renseignement américain au poste de «référent IA» : priorité à la coordination, pas à la régulation",
      "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVjEzLTJfWXU0cV85VWN2Tjh1U0RhN2lxVG9XWnYxaDNYR1JRU2hIMVpqVHd5WFVKbjlrUzljZUNzYzNwQmxJTVQzeUpnbGVoR3ZDV1hJY1BBRTRIUk9MVWx3X1h1VUpYcWc4S0dnc0RScUtTMFdoLWpLV0NzSTY3d0M2TS1TR3VMZnhJa0g3Y3p2NGd0WXpORGlFc2l5NmRGNU5YNTlrZ1QxU0NoRElacE1nc24xVlVnNHdVckMzQzJ6dFI4QXNaN045dnAwekJDSXhEWlRZZFF1S0xZekRfODZrTTdkRnZqT01yNUUweEtqWHhlSlE?oc=5",
-     "resume": "This new task force is Trump's latest response to the debate over AI safety.",
+     "resume": "",
      "date": "2026-10-04T23:50:02+02:00",
      "source": "Libération",
      "image": null,
-     "reprises": 10
+     "reprises": 9,
+     "score": 18.41
     },
     {
      "titre": "Anthropic lance un programme de 100 millions de dollars pour former les entreprises à Claude AI",
@@ -348,16 +337,8 @@
      "date": "2026-10-04T15:00:00+02:00",
      "source": "Clubic",
      "image": null,
-     "reprises": 3
-    },
-    {
-     "titre": "L’intelligence artificielle est-elle une menace pour les auteurs ? Le débat s’invite à la fête du livre de Merlieux",
-     "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZzVMODdmN1FjeW1xcEZ0U2RYNFJWTkctVWFCUjFMSmJpeGpnMEpVUWFVUkJzaXV1Q25NYU0xYkdtWXdMMTdLMXFmSnlvaWZBVmlxRVNXWGplUE9UQjhEdU5feDUtRzNGLXFocFQ1YTRJVFpKazFEbnNabVlaTENhYUY1WGx4NWFDSV8tam9HUmNDTzMzLVNxTFRrNU5sUWdtX3Q5eU1vNF91dWJ3Nm9INzBwc2V0bmxfLTE2RWxEYk0tRzNaeHpPVkNB?oc=5",
-     "resume": "",
-     "date": "2026-10-04T17:59:22+02:00",
-     "source": "L'Union",
-     "image": null,
-     "reprises": 3
+     "reprises": 3,
+     "score": 4.89
     },
     {
      "titre": "« L’IA ça peut être rigolo ? Assécher nos rivières, c’est rigolo ? » Les auteurs réagissent au salon du livre du Mans",
@@ -366,7 +347,8 @@
      "date": "2026-10-04T19:30:17+02:00",
      "source": "Ouest-France",
      "image": null,
-     "reprises": 2
+     "reprises": 2,
+     "score": 2.93
     },
     {
      "titre": "An OpenAI safety employee has quit and is sounding the alarm",
@@ -375,34 +357,18 @@
      "date": "2026-10-03T16:31:56+02:00",
      "source": "theverge.com",
      "image": null,
-     "reprises": 2
+     "reprises": 2,
+     "score": 2.9
     },
     {
      "titre": "IA : Google, OpenAI et Anthropic unissent leurs forces",
      "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXBVMTNnSUtqYVRjMVpNYVQ3dEIyc0pWQ3BFMS1vaFRYdjVhUWNLRm9pa3cwZ05sbXRCV2NuSnpUczJjRVJnN0Q2ay16enZ3QkktTTdmMWdlTHpaN0xZelN5ZTVjM3A1dlJleUVTNWt1dGg2UTV5VUJXamNqS3k3d2RISDZSWHNieDg0akZYNnlkb2Rwcks3TW5HRno?oc=5",
      "resume": "",
      "date": "2026-10-04T05:04:37+02:00",
-     "source": "BlogNT",
+     "source": "blog-nouvelles-technologies.fr",
      "image": null,
-     "reprises": 2
-    },
-    {
-     "titre": "Avant même d’arriver en France, Muse, le nouvel agent IA de Meta devance tous ses concurrents en matière de collecte de données",
-     "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOM2Q1cHNWNXYxSjlaNVgySnBuZlhMaXllSE1ON3hsdDZjZC1sSlNPOEhfU3owc29aN0MzcG1MUENMY2VqWTVfWmw2SDVvQWx1a0puZGQyal9sSDM0YnRmZTB0RElwU1ByTldLeGc5NzBQbnlFQW5WdXhheUt5RnlOSllEbmdwMGFfVldBZGZIUGYxWVhubUpudDExaElRWEJlLUxtX0hldHQtXzkzZkk5aHhkTWdCOTJKSENMSlN5eHJGWFJybENsa2NRdjBEWkkwS0FLdnBWUWJHVExDQ1BFdktxWE1uOG8?oc=5",
-     "resume": "",
-     "date": "2026-10-04T17:56:58+02:00",
-     "source": "decideo.fr",
-     "image": null,
-     "reprises": 2
-    },
-    {
-     "titre": "Un employé d'OpenAI démissionne et appelle à renforcer les pratiques de sécurité du secteur de l'IA, face aux incidents récents",
-     "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOWDEtT3pTQlY5N1NzZHA1T21LbEhLRVFnZGFyOUdQUk5SNGN4b3B6RWVoaVMtLVhvRC1Qd1hYZlg1WXhGcDNlSmtfV1JtSk5zcjdKSDBDbm4zWW92SEN5V09nTmFxbTlTc1JOOU1zeFVONTJSUmlFTFFiU1R4TDlBYm5IeHJOdjNlYjZmNU9RalVCWWlieTJxRWpsT3g3ZWZwMFNoLUVZZ3YwcXg2NVl0d3BiOThvMl9Sb0RBSGl0cGVxbjJkSU9uME50X3VrbGJFYmJFLUNtRlZuU1BYc3U4emhTcnhsT3hra2FGNVZvb2JpLVlzMWRaUnh1WHREcjE4SGJYSUt3enlTVXNWNGpYWEZLVGlGaXAxMVlTTmRaLUNBYXFOWXV3?oc=5",
-     "resume": "",
-     "date": "2026-10-04T10:15:27+02:00",
-     "source": "franceinfo",
-     "image": null,
-     "reprises": 2
+     "reprises": 2,
+     "score": 2.58
     }
    ]
   },
@@ -418,27 +384,30 @@
      "date": "2026-10-04T15:04:05+02:00",
      "source": "La République des Pyrénées",
      "image": null,
-     "reprises": 29,
+     "reprises": 25,
+     "score": 46.84,
      "libertes": false
     },
     {
-     "titre": "Nuit du Droit 2026 : quatre rendez-vous en Loire-Atlantique ce lundi 5 octobre",
-     "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUZOdTBwQjk3SFVJUWpnLVZlQzBtNDg5ZXltNFVuSWdRcjNjSUh5dS1TU09QRGFRUUZZT2N4WWFrVVpoZE1MTGhHSWp4Z1RLT0lhaWVqVXRzTERnWm0wYi1fQUUzSkpRSnFVVkhGb0EyVWtmNzlGcmtmU2pnZDloa09fN0RRdUNkc0k1VGxJR0xDNGN5Znljc3JwXzk4WXpy?oc=5",
+     "titre": "Décaissement et atteinte aux soubassements en copropriété : l'arrêt du 17 septembre 2026, la preuve de l'imputabilité des travaux et les recours du syndicat",
+     "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkVaRTR4THFEc3FUWUJwWVJGV0RkSXlJWFVHUjQ1NFFEdEZMQkNfYUtvMHhpQ0JlMURVYjZGd2FER1pvVV9yVnFxc0diaTBteG8xVlhnVkk5WXg3cGhNdW1mOVVRanlQNFhIcU5Pa05Gb09FZGxSSXAyaFYySXJsd3NNVEdlMnpUc0FObjQ5WERKR2lhcG1sLTZHaVlDekV5REY2MzcyS0dROWdQMDJSWnRENDc0OWdLLXhXandVSndMeWdUUkE?oc=5",
      "resume": "",
-     "date": "2026-10-02T13:20:18+02:00",
-     "source": "Actu44",
-     "image": null,
-     "reprises": 4,
-     "libertes": false
-    },
-    {
-     "titre": "Le tribunal ordonne la démolition de ma maison : comment contester une démolition disproportionnée et protéger son domicile (2026)",
-     "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMFYzTjVOYVN4LU1NM1ppYXhfOFp2Y3BjclNZWlhHOGo3X0NCRlRhLVJ3ZnhWWHdWUlJhUU9mNEFmVnM0dDUzWUNrTkx0dkNDRlhqMUowR0Vzenl1WE1aVTlQcTdVdzBCU21KRC0wSEwyQmtQSGJUbWVEZkI5RWpRY3YwMkVyejZxbXBubElYWndHVlk0VGNORzhyNmgtZTlxMVV6TERRQk1pbHMwUW5F?oc=5",
-     "resume": "",
-     "date": "2026-10-04T20:29:00+02:00",
+     "date": "2026-10-02T23:45:00+02:00",
      "source": "Kohen Avocats",
      "image": null,
      "reprises": 1,
+     "score": 6.17,
+     "libertes": false
+    },
+    {
+     "titre": "Prescription triennale de la dette de loyer et surendettement des particuliers : article 7-1 de la loi du 6 juillet 1989, vérification de la créance du bailleur et contrôle du juge",
+     "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR01mbE9pTmwzbDM4cHU4QWVOSnVLOTVBSDMxR1d0MHNrMnlQQlpzWGluRThlTHEzbDRzOUdOcXRmdXJRUEFaR09neFo2NGx2b1hwSTRFNHVtZDc0YWhwUkstaFMzVkJoa0g4QURhd1hUNDhYUTFlZ0dkWTNtSkVHcDliRGp5d2NBVmE2elpzdmFDTDRGSFE?oc=5",
+     "resume": "",
+     "date": "2026-10-02T17:44:00+02:00",
+     "source": "Kohen Avocats",
+     "image": null,
+     "reprises": 1,
+     "score": 5.33,
      "libertes": false
     },
     {
@@ -449,36 +418,7 @@
      "source": "Le Parisien",
      "image": null,
      "reprises": 3,
-     "libertes": false
-    },
-    {
-     "titre": "Assigné comme gérant de fait après la liquidation : contester la requalification et limiter l'insuffisance d'actif (2026)",
-     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzFnSmFSQS1QLXlLRFNnaFhjVnhWaTZxdW1PTFpFMHFoWVgzWWVoaDBad290OXoydjlyamtQWHRDTmlmaTRwWHlfMjZYYXhTcDhCYmRwTnowVTdZQnE0blFEc0s5dFZfc2djZ1RrWWhhT0ZaLXR4OUREbmo2ZHFpb25rNTczdi11azJVNEtmdnF2TE1XaEZnUFpIUkR4WndIc3ZkNW11SGMxbUZBdjctd0lkQ2pJWHNE?oc=5",
-     "resume": "",
-     "date": "2026-10-03T22:27:00+02:00",
-     "source": "Kohen Avocats",
-     "image": null,
-     "reprises": 1,
-     "libertes": false
-    },
-    {
-     "titre": "Une classe de première de Gorges reçue au Conseil constitutionnel",
-     "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOV0w3NnJJa1pJRDF2WmU5cFN4aU1qc1dscVEwWnJtTEF0X25Ia3FPTGMtSUtVTWdneUx4ZzZoaG1Vdzc4Sl9WM0dKcDR2aW1tOTBZN0JCeFVteS1ON3ExNHdod0ZPOVBrZk9vOU55cUFPNkYxVjhVckxFS1VGcG9ES2VNeGFGeFZuWnZ4c3RlUno2ZWQyOTNHREFLT09DbTlIMHQ2dFdvenJSSF9Cc0xpNXFSdkgxRnNGMEU5Zk9LTFdpbGl3aGZCRmJLVWh6NlBzYThwbkMwMkJydG5hQTFFeUNqUVhwS2UxM1pfZ0ljV0Q?oc=5",
-     "resume": "",
-     "date": "2026-10-04T19:10:33+02:00",
-     "source": "Ouest-France",
-     "image": null,
-     "reprises": 2,
-     "libertes": true
-    },
-    {
-     "titre": "Franchisé Carrefour en sauvegarde : ce que l'arrêt du 9 septembre 2026 décide pour le franchiseur, les fournisseurs et les créanciers",
-     "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX255d1VLYmtTZF9aaWgwRVJvOTlXSm1DakJGUUtVX3dUcjlFYjdwZHJwekJ2UTdHWldHbllqRTA2dl9kODlncThoenVIOEF3MVp2Y1p5NUVtRjdlb0xKMUpoSjJ4Nm1Ral95Q3FfZE5vSDBPeVF2d05CRVpiYmVmcDFTLTFRVEVFUjd4ZFUtMlkyNWhubWY1c0F0REs1My1ycDJMamRxNmJiQVpmYVZ2TWhEWQ?oc=5",
-     "resume": "",
-     "date": "2026-10-04T07:57:00+02:00",
-     "source": "Kohen Avocats",
-     "image": null,
-     "reprises": 1,
+     "score": 4.75,
      "libertes": false
     },
     {
@@ -489,26 +429,18 @@
      "source": "RFI",
      "image": null,
      "reprises": 3,
+     "score": 3.96,
      "libertes": false
     },
     {
-     "titre": "Condamnation de Dora Moutot : une rapporteuse de l'ONU s'alarme pour la liberté d'expression en France",
-     "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWUtLanV3X05QUXpPRDhoVnZBSUNSVk1iMTN4WlBWbGpCNWV1Vk1ubWZabUFPbHJWZjNCVmd5YXo3SUZyNUtMT3NLd19zMTJOVUtEaFpYc05mdlJOelJhRGFKMlFDUmRfNWM4blg2Z0NPYUZWcXl3dy02UXBqaGdEeWNtVzBrRGtMWUpacmxFSGxoOTM0alRHN0QzS2Y4SnRvTjlxVEs4dHVGbVJiWGJaU216cUtHNkEybjZ3SUU4Z3ZnZG1qUVp4ZlI0dUhtazQ4eGVV?oc=5",
+     "titre": "Cession de créance spéculative en cours de procès : se défendre par le retrait litigieux (article 1699 du Code civil)",
+     "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWmxUWUhxbVI0OUswZi13eDZxQ0ZuTnh0VFN1ajAwUWZvdXdQRnNUWWxFVWVMbVRyRjRyX1pTRGlSZG9CajVoaU5xckFXcmc2eUJGaE8tdmZfcF92NEMzOFBQb0xDa0l3a0I0ckw0dDNNWWFQWmJOeFhfUnRQTXJXSHhBN3U4eHR4X2tnSnB4Y1pDbkxNVlpDVm1rbjVwWnJZa3lSYlZFOVlXLTlF?oc=5",
      "resume": "",
-     "date": "2026-10-04T14:09:50+02:00",
-     "source": "lejdd.fr",
-     "image": null,
-     "reprises": 2,
-     "libertes": true
-    },
-    {
-     "titre": "Pourquoi saisir la Cour de cassation ? Voici ce qu’elle peut réellement décider",
-     "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSW85RThlQzFPVEtzU1dGLU5oN1MzeHNKeHJuQXU2YzNGNEluQkpyTmxyNERCOVUxbUlnQjRSY1BjdjhWZ280Y2VIMXVodERRSkZrbjhtZWNJOXBNVGxURjRvQW1NWE1hWFdlM1ZlV3A5Sk5jZ1U0MmdkNkVpMWJtb0t5U1cyOENHU0IxVllqOA?oc=5",
-     "resume": "",
-     "date": "2026-10-03T08:13:00+02:00",
-     "source": "magazine GEO",
+     "date": "2026-10-03T17:30:00+02:00",
+     "source": "Kohen Avocats",
      "image": null,
      "reprises": 1,
+     "score": 2.72,
      "libertes": false
     }
    ]
