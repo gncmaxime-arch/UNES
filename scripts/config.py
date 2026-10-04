@@ -41,7 +41,7 @@ JOURNAUX = [
         "id": "equipe",
         "nom": "L'Équipe",
         "couleur": "#e2001a",
-        "kiosko": ["lequipe", "l_equipe", "equipe"],
+        "kiosko": ["l_equip", "lequipe", "l_equipe"],
         "flux": [
             "https://dwh.lequipe.fr/api/edito/rss?path=/",
             gnews("site:lequipe.fr when:1d"),
