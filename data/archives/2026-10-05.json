@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "genere": "2026-10-05T01:10+02:00",
+ "genere": "2026-10-05T01:11+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -260,7 +260,7 @@
      "date": "2026-10-04T23:14:20+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/0/0/4500/2250/644/322/60/0/5be74a0_ftp-1-5ssdvsntqx2r-2026-10-04t120959z-602533101-rc28wnafjzy5-rtrmadp-3-ukraine-crisis-germany.JPG",
-     "reprises": 14
+     "reprises": 10
     },
     {
      "titre": "🔴 Présidentielle au Brésil en direct : fermeture des bureaux de vote, le dépouillement a commencé",
@@ -269,25 +269,7 @@
      "date": "2026-10-04T22:03:13+02:00",
      "source": "france24.com",
      "image": null,
-     "reprises": 7
-    },
-    {
-     "titre": "Yémen : les houthistes encerclent désormais Taëz, grande ville du Sud-Ouest ; le président annonce une offensive pour reprendre l’ensemble du pays",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html",
-     "resume": "Les affrontements font rage depuis plusieurs jours dans le pays, à l’intérieur des terres et sur les hauteurs surplombant les régions côtières récemment conquises par les houthistes. Plus de 70 personnes sont mortes ces dernières vingt-quatre heures dans les…",
-     "date": "2026-10-04T14:32:11+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/03/668/0/3999/1999/644/322/60/0/1450936_ftp-1-fvfk4bcqp0uu-5254686-01-06.jpg",
-     "reprises": 5
-    },
-    {
-     "titre": "Vol Flydubai : Benyamin Nétanyahou ordonne un examen des mesures de sécurité prises sur les vols internationaux vers Israël",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/04/vol-flydubai-benyamin-netanyahou-ordonne-un-examen-des-mesures-de-securite-sur-les-vols-internationaux-vers-israel_6788330_3210.html",
-     "resume": "Un vol transportant 174 personnes avait dû atterrir en urgence en Arabie saoudite après une apparente tentative du copilote de provoquer un crash. L’opposition israélienne réclame des investigations sur d’éventuelles failles de sécurité.",
-     "date": "2026-10-04T20:53:31+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/04/220/0/2645/1322/644/322/60/0/2a3d9c5_ftp-1-1umhbp1wqvqe-2026-10-04t143706z-234243230-rc2rtnagne7d-rtrmadp-3-israel-gulf-flight-australia.JPG",
-     "reprises": 3
+     "reprises": 6
     },
     {
      "titre": "Espagne : les inondations font plusieurs morts près de Barcelone",
@@ -299,6 +281,24 @@
      "reprises": 2
     },
     {
+     "titre": "Vol Flydubai : Benyamin Nétanyahou ordonne un examen des mesures de sécurité prises sur les vols internationaux vers Israël",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/04/vol-flydubai-benyamin-netanyahou-ordonne-un-examen-des-mesures-de-securite-sur-les-vols-internationaux-vers-israel_6788330_3210.html",
+     "resume": "Un vol transportant 174 personnes avait dû atterrir en urgence en Arabie saoudite après une apparente tentative du copilote de provoquer un crash. L’opposition israélienne réclame des investigations sur d’éventuelles failles de sécurité.",
+     "date": "2026-10-04T20:53:31+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/04/220/0/2645/1322/644/322/60/0/2a3d9c5_ftp-1-1umhbp1wqvqe-2026-10-04t143706z-234243230-rc2rtnagne7d-rtrmadp-3-israel-gulf-flight-australia.JPG",
+     "reprises": 3
+    },
+    {
+     "titre": "Yémen : les houthistes encerclent désormais Taëz, grande ville du Sud-Ouest ; le président annonce une offensive pour reprendre l’ensemble du pays",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html",
+     "resume": "Les affrontements font rage depuis plusieurs jours dans le pays, à l’intérieur des terres et sur les hauteurs surplombant les régions côtières récemment conquises par les houthistes. Plus de 70 personnes sont mortes ces dernières vingt-quatre heures dans les…",
+     "date": "2026-10-04T14:32:11+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/03/668/0/3999/1999/644/322/60/0/1450936_ftp-1-fvfk4bcqp0uu-5254686-01-06.jpg",
+     "reprises": 3
+    },
+    {
      "titre": "Cheikh Hamidou Kane, écrivain sénégalais et figure de la littérature africaine, est mort à l’âge de 98 ans",
      "lien": "https://www.lemonde.fr/disparitions/article/2026/10/04/l-ecrivain-senegalais-cheikh-hamidou-kane-est-mort-a-l-age-de-a-98-ans_6788267_3382.html",
      "resume": "Figure de la littérature africaine et ancien ministre, Cheikh Hamidou Kane laisse derrière lui une œuvre qui a marqué l’enseignement et la réflexion sur l’identité à travers le continent.",
@@ -308,21 +308,21 @@
      "reprises": 3
     },
     {
-     "titre": "Viol collectif présumé à Cornell : enquête ouverte sur la gestion de l'affaire par l'université",
-     "lien": "https://www.france24.com/fr/am%C3%A9riques/20261004-viol-collectif-pr%C3%A9sum%C3%A9-%C3%A0-cornell-enqu%C3%AAte-ouverte-sur-la-gestion-de-l-affaire-par-l-universit%C3%A9",
-     "resume": "Le président de l'université américaine Cornell a annoncé samedi qu'une enquête externe indépendante allait examiner la gestion par l'établissement du viol en réunion présumé d'une étudiante en 2024. Cette affaire suscite actuellement une vague d'indignation…",
-     "date": "2026-10-04T18:31:45+02:00",
-     "source": "© Lauren Petracca, Reuters",
-     "image": "https://s.france24.com/media/display/daa775ba-c00d-11f1-86df-578a4b968fd6/w:1024/p:16x9/2026-10-02T154814Z-1310255220-RC24TNATK0SJ-RTRMADP-3-USA-CRIME-CORNELL.jpg",
-     "reprises": 3
+     "titre": "Christa Pike, condamnée à mort qui a survécu à deux injections létales dans le Tennessee, est dans un état critique, selon son avocat",
+     "lien": "https://www.franceinfo.fr/monde/usa/christa-pike-la-condamnee-qui-a-survecu-a-deux-injections-letales-dans-le-tennessee-est-dans-un-etat-critique-selon-son-avocat_8222488.html#xtor=RSS-3-%5Bgeneral%5D",
+     "resume": "Stephen Ferrell a précisé ne pas avoir pu rendre visite à sa cliente à l'hôpital, où les médecins tentent toujours de retirer de son organisme les deux doses de barbiturique qui lui ont été administrées.",
+     "date": "2026-10-04T19:10:32+02:00",
+     "source": "franceinfo.fr",
+     "image": "https://www.franceinfo.fr/pictures/E5kxLnkjdwgCqxDm2Fi-eZYiKws/0x13:1200x688/432x243/filters:format(jpg)/2026/10/01/6abde854cdccc668703444.jpg",
+     "reprises": 2
     },
     {
-     "titre": "En Inde, « sentiment de panique » à Delhi, où le nettoyage des listes électorales menace de radier la moitié des votants",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/04/en-inde-sentiment-de-panique-a-delhi-ou-le-nettoyage-des-listes-electorales-menace-de-radier-la-moitie-des-votants_6788274_3210.html",
-     "resume": "Les musulmans et les populations pauvres sont touchés de manière disproportionnée par la révision des listes électorales et craignent que l’exercice menace, à terme, de les priver de leurs prestations sociales et même de leur citoyenneté.",
-     "date": "2026-10-04T16:30:09+02:00",
+     "titre": "En Ethiopie, la prise de Makalé par l’armée fédérale ravive les craintes d’un conflit régional dans la Corne de l’Afrique",
+     "lien": "https://www.lemonde.fr/afrique/article/2026/10/04/en-ethiopie-la-prise-de-makale-par-l-armee-federale-ravive-les-craintes-d-un-conflit-regional-dans-la-corne-de-l-afrique_6788328_3212.html",
+     "resume": "Après des mois de tensions, les combats ont repris fin septembre dans le nord de l’Ethiopie, entre d’une part l’armée fédérale et, d’autre part, le Front populaire de libération du Tigré.",
+     "date": "2026-10-04T20:36:48+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/02/0/0/8640/4320/644/322/60/0/28c7dd8_ftp-1-gtg2p2eexyeb-010515042090483e994a63ee027feee4-0-e7b649380636443faffde5d05bb2bb8e.jpg",
+     "image": "https://img.lemde.fr/2026/10/04/263/0/3160/1580/644/322/60/0/19ffcad_ftp-1-c9mf3i8mh7zd-5261050-01-06.jpg",
      "reprises": 2
     }
    ]
@@ -418,17 +418,17 @@
      "date": "2026-10-04T15:04:05+02:00",
      "source": "La République des Pyrénées",
      "image": null,
-     "reprises": 28,
+     "reprises": 29,
      "libertes": false
     },
     {
-     "titre": "Que faire ce lundi à Paris ? Sorties et bons plans du 5 octobre 2026",
-     "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTU0SlM0Q0pwdFhDWkxORFN4OE9zUFpGeHlyVkFkeXZCXzR6VkdXNFZ2aU1PQVptT19CSm05Z1lmXzQwZXpVT1BaZVlLMUlLdlNkcHdqUWROMXhNSXZxc2hUaXZ5YVdsUE01TnBaeEdKVlZWWGRWbDc2bFUwX1N0cTVvN2NaX1JDNnRka3FrQ1VQT3ZXWTliQVdMV1U1WUVSQ2otazN5eW81TmxnUlZ6b2trdGdTdTY1X2Nzd2Zycm1qX3pWNlB3?oc=5",
+     "titre": "Nuit du Droit 2026 : quatre rendez-vous en Loire-Atlantique ce lundi 5 octobre",
+     "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUZOdTBwQjk3SFVJUWpnLVZlQzBtNDg5ZXltNFVuSWdRcjNjSUh5dS1TU09QRGFRUUZZT2N4WWFrVVpoZE1MTGhHSWp4Z1RLT0lhaWVqVXRzTERnWm0wYi1fQUUzSkpRSnFVVkhGb0EyVWtmNzlGcmtmU2pnZDloa09fN0RRdUNkc0k1VGxJR0xDNGN5Znljc3JwXzk4WXpy?oc=5",
      "resume": "",
-     "date": "2026-10-04T04:35:05+02:00",
-     "source": "Sortir à Paris",
+     "date": "2026-10-02T13:20:18+02:00",
+     "source": "Actu44",
      "image": null,
-     "reprises": 3,
+     "reprises": 4,
      "libertes": false
     },
     {
@@ -436,7 +436,7 @@
      "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMFYzTjVOYVN4LU1NM1ppYXhfOFp2Y3BjclNZWlhHOGo3X0NCRlRhLVJ3ZnhWWHdWUlJhUU9mNEFmVnM0dDUzWUNrTkx0dkNDRlhqMUowR0Vzenl1WE1aVTlQcTdVdzBCU21KRC0wSEwyQmtQSGJUbWVEZkI5RWpRY3YwMkVyejZxbXBubElYWndHVlk0VGNORzhyNmgtZTlxMVV6TERRQk1pbHMwUW5F?oc=5",
      "resume": "",
      "date": "2026-10-04T20:29:00+02:00",
-     "source": "kohenavocats.fr",
+     "source": "Kohen Avocats",
      "image": null,
      "reprises": 1,
      "libertes": false
@@ -449,6 +449,16 @@
      "source": "Le Parisien",
      "image": null,
      "reprises": 3,
+     "libertes": false
+    },
+    {
+     "titre": "Assigné comme gérant de fait après la liquidation : contester la requalification et limiter l'insuffisance d'actif (2026)",
+     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzFnSmFSQS1QLXlLRFNnaFhjVnhWaTZxdW1PTFpFMHFoWVgzWWVoaDBad290OXoydjlyamtQWHRDTmlmaTRwWHlfMjZYYXhTcDhCYmRwTnowVTdZQnE0blFEc0s5dFZfc2djZ1RrWWhhT0ZaLXR4OUREbmo2ZHFpb25rNTczdi11azJVNEtmdnF2TE1XaEZnUFpIUkR4WndIc3ZkNW11SGMxbUZBdjctd0lkQ2pJWHNE?oc=5",
+     "resume": "",
+     "date": "2026-10-03T22:27:00+02:00",
+     "source": "Kohen Avocats",
+     "image": null,
+     "reprises": 1,
      "libertes": false
     },
     {
@@ -466,9 +476,19 @@
      "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX255d1VLYmtTZF9aaWgwRVJvOTlXSm1DakJGUUtVX3dUcjlFYjdwZHJwekJ2UTdHWldHbllqRTA2dl9kODlncThoenVIOEF3MVp2Y1p5NUVtRjdlb0xKMUpoSjJ4Nm1Ral95Q3FfZE5vSDBPeVF2d05CRVpiYmVmcDFTLTFRVEVFUjd4ZFUtMlkyNWhubWY1c0F0REs1My1ycDJMamRxNmJiQVpmYVZ2TWhEWQ?oc=5",
      "resume": "",
      "date": "2026-10-04T07:57:00+02:00",
-     "source": "kohenavocats.fr",
+     "source": "Kohen Avocats",
      "image": null,
      "reprises": 1,
+     "libertes": false
+    },
+    {
+     "titre": "Tunisie: le décret 54, instrument de répression, assoupli par le pouvoir",
+     "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa2tnbk0yWi05dkFMM0I3bDhiNm96WFdTaEM2b3NCcnYxTEM1OHJtVHBPTmJZZ0s1LXlTVkZSX3ZxVnh3cmxmVlVsMGhnOXcxZXU5cS1qSEpoNktRNWZiQWh1VFF3eWprQlFVQmlIaVFwbXc5X2lFZ3FramU1R3oyYlRIdWdfaXA3VTFieE14SUJmSzZZQnJGd2pMRmZ3QWFwUVk5QUJOdnduTXhDSy1ZNVYzWGhwZ3RnTUE?oc=5",
+     "resume": "",
+     "date": "2026-10-02T11:12:23+02:00",
+     "source": "RFI",
+     "image": null,
+     "reprises": 3,
      "libertes": false
     },
     {
@@ -489,26 +509,6 @@
      "source": "magazine GEO",
      "image": null,
      "reprises": 1,
-     "libertes": false
-    },
-    {
-     "titre": "Mise à disposition de salarié handicapé et liberté d'expression des salariés : un rappel des règles protectrices",
-     "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnVjdmdlSWJmNDNoZjBaaWJDdmlPdGlGZkxWSW04M0JSUndwUjV5RGdXSDhhLUxrV3E0TGlNMWNVaTZEOTJzUlZGOUFYd2s2RkZVMWNuU2U2SkRVTmRIWWlJb2NsbF9UaC1ITm5mRkpZaE1xcnJhZVNITU1XUTFER0ttS0NSbHAwTWhsaHRwNmloUGJlSkVadw?oc=5",
-     "resume": "",
-     "date": "2026-10-02T16:53:44+02:00",
-     "source": "Force Ouvrière",
-     "image": null,
-     "reprises": 1,
-     "libertes": true
-    },
-    {
-     "titre": "Avion : pourquoi rater son vol à cause du malaise d'un passager n'ouvre pas droit à indemnisation",
-     "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTEtpQm9kc2hkdmg0ZWd4RHZGdnB5NUNkNWdjak5wRmw2NEdrSGpHMUIwTVlKODVCbzVLRzB5TzhGM1d4REVKU3MzVzN1QUh2VGhIX0tGNll4Sm1JVjE4bS1YV05SbEpiMEJLNDhrSzFnbWlfU0JLS05xR0Z6R2ZEOV9GTlBQY0ctb1ZQSFNXSUw3dUViZjdERFlEMWRXZUppUC12R0ZiVFB6Ql8xYzlLOHBacjhnOWI2WmY5Vk9xUWpLOFVVMDU3dVN0UWdoTDNfOU8zSHpmUkd1SGhEelVrbGZ1RU1FWWZYaWZGQWpSbE5KRWdscktrYjZ6TWRwaU1Md1RpRkZQaFZBQ01qN3pMQi1rVUwtbmZZcmNF0gGbAkFVX3lxTE9MS2lCb2RzaGR2aDRlZ3hEdkZ2cHk1Q2Q1Z2NqTnBGbDY0R2tIakcxQjBNWUo4NUJvNUtHMHlPOEYzV3hERUpTczNXM3VBSHZUaEhfS0Y2WXhKbUlWMThtLVhXTlJsSmIwQks0OGtLMWdtaV9TQktLTnFHRnpHZkQ5X0ZOUFBjRy1vVlBIU1dJTDd1RWJmN0REWUQxZFdlSmlQLXZHRmJUUHpCXzFjOUs4cFpyOGc5YjZaZjlWT3FRaks4VVUwNTd1U3RRZ2hMM185TzNIemZSR3VIaER6VWtsZnVFTUVZZlhpZkZBalJsTkpFZ2xyS2tiNnpNZHBpTUx3VGlGRlBoVkFDTWo3ekxCLWtVTC1uZllyY0U?oc=5",
-     "resume": "",
-     "date": "2026-10-02T12:37:34+02:00",
-     "source": "Boursorama",
-     "image": null,
-     "reprises": 2,
      "libertes": false
     }
    ]
