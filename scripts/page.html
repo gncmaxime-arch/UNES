@@ -1,0 +1,313 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<title>Le Kiosque · {{DATE}}</title>
+<meta name="theme-color" content="#f4efe6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#14120f" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23b4432a'/%3E%3Ctext x='32' y='46' font-family='Georgia' font-size='40' text-anchor='middle' fill='%23f4efe6'%3EK%3C/text%3E%3C/svg%3E">
+<link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23b4432a'/%3E%3Ctext x='32' y='46' font-family='Georgia' font-size='40' text-anchor='middle' fill='%23f4efe6'%3EK%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,800&family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --papier:#f4efe6; --papier-2:#ebe4d6; --carte:#fffdf8; --encre:#1d1a16; --encre-2:#5d564c; --filet:#d9cfbd;
+  --accent:#b4432a; --accent-2:#2f5d50; --ombre:0 1px 2px rgba(40,30,20,.06),0 8px 24px rgba(40,30,20,.08);
+  --titre:"Fraunces",Georgia,serif; --texte:"Source Serif 4",Georgia,serif; --ui:"Inter",system-ui,sans-serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --papier:#14120f; --papier-2:#1c1915; --carte:#211d18; --encre:#efe8dc; --encre-2:#a89f90; --filet:#3a342b;
+  --accent:#e0775c; --accent-2:#7fb5a3; --ombre:0 1px 2px rgba(0,0,0,.3),0 10px 30px rgba(0,0,0,.35); color-scheme:dark}}
+:root[data-theme="dark"]{
+  --papier:#14120f; --papier-2:#1c1915; --carte:#211d18; --encre:#efe8dc; --encre-2:#a89f90; --filet:#3a342b;
+  --accent:#e0775c; --accent-2:#7fb5a3; --ombre:0 1px 2px rgba(0,0,0,.3),0 10px 30px rgba(0,0,0,.35); color-scheme:dark}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--papier);color:var(--encre);font-family:var(--texte);font-size:17px;line-height:1.55;overflow-x:hidden}
+body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:100;opacity:.35;mix-blend-mode:multiply;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .5 0 0 0 0 .4 0 0 0 0 .3 0 0 0 .08 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+a{color:inherit;text-decoration:none}
+a:hover{color:var(--accent)}
+.enveloppe{max-width:1180px;margin:0 auto;padding:0 16px}
+
+/* ---------- Bandeau ---------- */
+.titre-journal{padding:28px 0 18px;text-align:center;border-bottom:3px double var(--filet)}
+.surtitre{font-family:var(--ui);font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--encre-2);display:flex;justify-content:space-between;gap:12px;border-bottom:1px solid var(--filet);padding-bottom:10px}
+.surtitre button{all:unset;cursor:pointer;color:var(--encre-2)}
+.surtitre button:hover{color:var(--accent)}
+h1{font-family:var(--titre);font-weight:800;font-size:clamp(52px,12vw,128px);line-height:.95;letter-spacing:-.03em;margin:18px 0 6px;font-variation-settings:"opsz" 144}
+h1 span{display:inline-block;opacity:0;transform:translateY(.4em) rotateX(-70deg);transform-origin:50% 100%;animation:lettre .9s cubic-bezier(.2,.8,.2,1) forwards;animation-delay:calc(var(--i)*55ms)}
+@keyframes lettre{to{opacity:1;transform:none}}
+.date{font-family:var(--titre);font-style:italic;font-size:20px;color:var(--encre-2)}
+.edito{max-width:720px;margin:16px auto 0;text-align:left;font-size:19px;line-height:1.5}
+.edito::first-letter{font-family:var(--titre);font-weight:800;font-size:3.1em;float:left;line-height:.8;margin:.08em .08em 0 0;color:var(--accent)}
+
+nav.chips{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--papier) 85%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid var(--filet)}
+nav.chips .enveloppe{display:flex;gap:6px;overflow-x:auto;padding:10px 16px;scrollbar-width:none}
+nav.chips a{font-family:var(--ui);font-size:14px;font-weight:500;padding:6px 14px;border-radius:99px;border:1px solid var(--filet);white-space:nowrap;transition:.2s}
+nav.chips a.actif,nav.chips a:hover{background:var(--encre);color:var(--papier);border-color:var(--encre)}
+
+/* ---------- Unes : carrousel 3D ---------- */
+#unes{padding:34px 0 10px}
+.kiosque{position:relative;height:clamp(420px,72vw,620px);perspective:1400px;perspective-origin:50% 40%;overflow:hidden;margin:0 -16px;touch-action:pan-y;user-select:none;-webkit-user-select:none}
+.une{position:absolute;left:50%;top:10px;width:clamp(240px,52vw,400px);aspect-ratio:750/1000;margin:0 0 0 calc(clamp(240px,52vw,400px)/-2);
+  transition:transform .7s cubic-bezier(.2,.8,.2,1),opacity .7s,filter .7s;cursor:pointer;will-change:transform}
+.une img,.une-vide{width:100%;height:100%;object-fit:cover;object-position:top;display:block;border-radius:3px;background:#fff;
+  box-shadow:0 2px 4px rgba(0,0,0,.12),0 24px 50px -12px rgba(0,0,0,.45)}
+.une::after{content:"";position:absolute;inset:0;border-radius:3px;background:linear-gradient(105deg,rgba(255,255,255,.35) 0%,transparent 35%,transparent 70%,rgba(0,0,0,.12));pointer-events:none;opacity:var(--reflet,1)}
+.une figcaption{position:absolute;left:0;right:0;bottom:-34px;text-align:center;font-family:var(--ui);font-weight:600;font-size:14px;letter-spacing:.06em;text-transform:uppercase;opacity:0;transition:opacity .4s}
+.une.actif figcaption{opacity:1}
+.une-vide{display:flex;flex-direction:column;justify-content:flex-start;padding:22px;background:#fbf8f1;color:#1d1a16;border-top:14px solid var(--c)}
+.une-vide-nom{font-family:var(--titre);font-weight:800;font-size:34px;border-bottom:2px solid #1d1a16;padding-bottom:8px;margin-bottom:16px}
+.une-vide-titre{font-family:var(--titre);font-size:26px;line-height:1.15}
+.une:focus-visible{outline:none}
+.une:focus-visible img{outline:3px solid var(--accent);outline-offset:4px}
+.fleche{position:absolute;top:42%;z-index:20;width:46px;height:46px;border-radius:50%;border:1px solid var(--filet);background:var(--carte);color:var(--encre);font-size:22px;cursor:pointer;box-shadow:var(--ombre);display:grid;place-items:center;transition:.2s}
+.fleche:hover{background:var(--encre);color:var(--papier)}
+.fleche.g{left:4px}.fleche.d{right:4px}
+.points{display:flex;justify-content:center;gap:8px;margin-top:4px}
+.point{width:8px;height:8px;border-radius:99px;border:0;background:var(--filet);cursor:pointer;padding:0;transition:.3s}
+.point.actif{width:26px;background:var(--accent)}
+.indice{text-align:center;font-family:var(--ui);font-size:12px;color:var(--encre-2);margin:10px 0 0}
+
+.panneaux{position:relative;max-width:760px;margin:26px auto 0}
+.journal{display:none;background:var(--carte);border-radius:14px;box-shadow:var(--ombre);padding:22px 24px;border-top:5px solid var(--c)}
+.journal.actif{display:block;animation:monte .5s cubic-bezier(.2,.8,.2,1)}
+@keyframes monte{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.journal header{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.journal h3{font-family:var(--titre);font-size:26px;margin:0}
+.journal h4{font-family:var(--ui);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--encre-2);margin:18px 0 6px}
+.pastille{width:12px;height:12px;border-radius:50%;background:var(--c);box-shadow:0 0 0 3px color-mix(in srgb,var(--c) 25%,transparent)}
+.j-resume{font-size:18px;margin:6px 0 10px}
+.j-points{margin:0;padding-left:20px}.j-points li{margin:6px 0}
+.j-points li::marker{color:var(--accent)}
+.j-liste{list-style:none;margin:0;padding:0;counter-reset:a}
+.j-liste li{counter-increment:a;padding:12px 0 12px 40px;border-top:1px solid var(--filet);position:relative}
+.j-liste li:first-child{border-top:0}
+.j-liste li::before{content:counter(a);position:absolute;left:0;top:8px;font-family:var(--titre);font-weight:800;font-size:28px;color:color-mix(in srgb,var(--c) 65%,var(--encre));line-height:1}
+.j-art{font-family:var(--titre);font-weight:600;font-size:19px;line-height:1.25}
+.j-liste p{margin:4px 0 0;color:var(--encre-2);font-size:15.5px}
+
+/* ---------- Sections ---------- */
+.section{padding:56px 0 8px}
+.s-tete{display:flex;gap:16px;align-items:center;border-top:2px solid var(--encre);padding-top:14px;margin-bottom:22px}
+.s-icone{font-size:30px;width:54px;height:54px;flex:none;display:grid;place-items:center;border-radius:50%;background:var(--encre);color:var(--papier);font-family:var(--titre);animation:tourne 6s ease-in-out infinite alternate}
+@keyframes tourne{from{transform:perspective(200px) rotateY(-28deg)}to{transform:perspective(200px) rotateY(28deg)}}
+.s-tete h2{font-family:var(--titre);font-weight:800;font-size:clamp(30px,5vw,44px);line-height:1;margin:0;letter-spacing:-.02em}
+.s-tete p{margin:4px 0 0;font-family:var(--ui);font-size:14px;color:var(--encre-2)}
+.grille{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
+.carte{perspective:900px}
+.carte-in{height:100%;background:var(--carte);border-radius:14px;padding:18px 20px;box-shadow:var(--ombre);transition:transform .35s cubic-bezier(.2,.8,.2,1),box-shadow .35s;transform-style:preserve-3d;
+  transform:rotateX(var(--rx,0deg)) rotateY(var(--ry,0deg));display:flex;flex-direction:column}
+.carte:hover .carte-in{box-shadow:0 2px 4px rgba(0,0,0,.08),0 22px 40px -10px rgba(40,30,20,.3)}
+.carte h3{font-family:var(--titre);font-weight:600;font-size:20px;line-height:1.22;margin:0 0 8px}
+.carte p{margin:0 0 10px;font-size:15.5px;color:var(--encre-2)}
+.carte-une{grid-column:1/-1}
+.carte-une .carte-in{padding:26px 28px;background:linear-gradient(135deg,var(--carte),var(--papier-2))}
+.carte-une h3{font-size:clamp(24px,3.4vw,34px);font-weight:800;letter-spacing:-.01em}
+.carte-une p{font-size:17.5px;color:var(--encre);max-width:820px}
+.meta{margin-top:auto;font-family:var(--ui);font-size:12px;color:var(--encre-2);letter-spacing:.03em}
+.badges{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+.badge{font-family:var(--ui);font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;padding:3px 9px;border-radius:99px;background:var(--papier-2);color:var(--encre-2)}
+.badge.lib{background:color-mix(in srgb,var(--accent-2) 18%,transparent);color:var(--accent-2)}
+.pourquoi{font-style:italic}
+.crfpa{border-left:3px solid var(--accent-2);padding-left:10px;color:var(--encre)!important}
+.crfpa b{font-family:var(--ui);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent-2);margin-right:6px}
+.notion{margin-top:22px;background:var(--encre);color:var(--papier);border-radius:16px;padding:26px 28px;position:relative;overflow:hidden}
+.notion::after{content:"§";position:absolute;right:-10px;top:-40px;font-family:var(--titre);font-size:220px;opacity:.08;line-height:1}
+.notion-label{font-family:var(--ui);font-size:12px;letter-spacing:.16em;text-transform:uppercase;opacity:.7}
+.notion h3{font-family:var(--titre);font-size:26px;margin:6px 0 8px}
+.notion p{margin:0 0 8px;max-width:820px}
+.notion cite{font-family:var(--ui);font-size:13px;opacity:.75;font-style:normal}
+.muet{color:var(--encre-2);font-style:italic}
+
+footer{margin:70px 0 0;padding:26px 0 40px;border-top:3px double var(--filet);text-align:center;font-family:var(--ui);font-size:13px;color:var(--encre-2)}
+
+/* ---------- Visionneuse ---------- */
+.visio{position:fixed;inset:0;z-index:200;background:rgba(10,8,6,.92);display:none;overflow:auto;-webkit-overflow-scrolling:touch}
+.visio.ouverte{display:block;animation:fondu .3s}
+@keyframes fondu{from{opacity:0}}
+.visio img{display:block;width:min(100%,1000px);margin:0 auto;padding:56px 0 40px;cursor:zoom-in;transition:width .3s}
+.visio img.zoom{width:min(220%,2200px);max-width:none;cursor:zoom-out}
+.visio button{position:fixed;top:12px;right:12px;width:44px;height:44px;border-radius:50%;border:0;background:#fff;color:#000;font-size:22px;cursor:pointer;z-index:2}
+
+.reveal{opacity:0;transform:translateY(24px);transition:opacity .7s ease,transform .7s cubic-bezier(.2,.8,.2,1);transition-delay:var(--d,0ms)}
+.reveal.vu{opacity:1;transform:none}
+.no-js .reveal{opacity:1;transform:none}
+
+@media (max-width:640px){
+  body{font-size:16px}
+  .fleche{display:none}
+  .journal{padding:18px}
+  .carte-une .carte-in{padding:20px}
+}
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation:none!important;transition:none!important}
+  h1 span,.reveal{opacity:1;transform:none}
+}
+</style>
+</head>
+<body class="no-js">
+<div class="enveloppe">
+  <header class="titre-journal">
+    <div class="surtitre"><span>Édition du matin</span><button id="theme" type="button" aria-label="Changer de thème">◐ Thème</button></div>
+    <h1 id="titre">Le Kiosque</h1>
+    <div class="date">{{DATE}}</div>
+    {{EDITO}}
+  </header>
+</div>
+<nav class="chips"><div class="enveloppe">
+  <a href="#unes">Les unes</a><a href="#monde">Monde</a><a href="#ia">IA</a><a href="#droit">Juridique</a>
+</div></nav>
+
+<main class="enveloppe">
+  <section id="unes">
+    <div class="kiosque" id="kiosque">
+      <button class="fleche g" type="button" aria-label="Précédente">‹</button>
+      {{CARTES}}
+      <button class="fleche d" type="button" aria-label="Suivante">›</button>
+    </div>
+    <div class="points">{{POINTS}}</div>
+    <p class="indice">Fais glisser pour changer de journal · touche la une pour l'agrandir</p>
+    <div class="panneaux">{{PANNEAUX}}</div>
+  </section>
+  {{SECTIONS}}
+</main>
+
+<footer class="enveloppe">Mis à jour le {{DATE_ISO}} à {{GENERE}} · {{CLAUDE}}<br>Unes : Kiosko · Articles : sites des éditeurs</footer>
+
+<div class="visio" id="visio" role="dialog" aria-modal="true" aria-label="Une en grand"><button type="button" aria-label="Fermer">×</button><img alt=""></div>
+
+<script>
+(() => {
+  document.body.classList.remove("no-js");
+  const reduit = matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  // Thème : auto → clair → sombre
+  const racine = document.documentElement;
+  const lire = () => { try { return localStorage.getItem("theme"); } catch (e) { return null; } };
+  const ecrire = v => { try { v ? localStorage.setItem("theme", v) : localStorage.removeItem("theme"); } catch (e) {} };
+  const appliquer = v => v ? racine.setAttribute("data-theme", v) : racine.removeAttribute("data-theme");
+  appliquer(lire());
+  document.getElementById("theme").addEventListener("click", () => {
+    const suivant = { null: "light", light: "dark", dark: null }[lire()];
+    ecrire(suivant); appliquer(suivant);
+  });
+
+  // Titre lettre par lettre
+  const h1 = document.getElementById("titre");
+  h1.innerHTML = [...h1.textContent].map((c, i) => c === " " ? " " : `<span style="--i:${i}">${c}</span>`).join("");
+
+  // Carrousel 3D
+  const k = document.getElementById("kiosque");
+  const unes = [...k.querySelectorAll(".une")];
+  const points = [...document.querySelectorAll(".point")];
+  const panneaux = [...document.querySelectorAll(".journal")];
+  let actif = 0, glisse = 0;
+  const n = unes.length;
+  function placer() {
+    const large = k.clientWidth;
+    const pas = Math.min(large * 0.34, 300);
+    unes.forEach((u, i) => {
+      let d = i - actif - glisse;
+      if (d > n / 2) d -= n; if (d < -n / 2) d += n;
+      const a = Math.abs(d);
+      const x = Math.sign(d) * (pas * Math.min(a, 1) + Math.max(0, a - 1) * pas * 0.42), z = -a * 220, ry = Math.max(-55, Math.min(55, -d * 42));
+      u.style.transform = `translateX(${x}px) translateZ(${z}px) rotateY(${ry}deg)`;
+      u.style.zIndex = 100 - Math.round(a * 10);
+      u.style.opacity = a > 1.6 ? 0 : 1 - a * 0.22;
+      u.style.pointerEvents = a > 1.6 ? "none" : "";
+      u.style.filter = a > 0.5 ? `brightness(${1 - a * 0.12})` : "none";
+      u.style.setProperty("--reflet", (0.4 + Math.min(a, 1) * 0.6).toFixed(2));
+      u.classList.toggle("actif", i === actif && !glisse);
+    });
+  }
+  function aller(i) {
+    actif = (i + n) % n;
+    points.forEach((p, j) => p.classList.toggle("actif", j === actif));
+    panneaux.forEach((p, j) => p.classList.toggle("actif", j === actif));
+    placer();
+  }
+  k.querySelector(".g").onclick = () => aller(actif - 1);
+  k.querySelector(".d").onclick = () => aller(actif + 1);
+  points.forEach(p => p.onclick = () => aller(+p.dataset.i));
+  document.addEventListener("keydown", e => {
+    if (visio.classList.contains("ouverte")) { if (e.key === "Escape") fermer(); return; }
+    if (e.key === "ArrowLeft") aller(actif - 1);
+    if (e.key === "ArrowRight") aller(actif + 1);
+  });
+
+  // Glisser au doigt ou à la souris
+  let x0 = null, y0 = 0, bouge = false;
+  k.addEventListener("pointerdown", e => { if (e.target.closest(".fleche")) return; x0 = e.clientX; y0 = e.clientY; bouge = false; });
+  k.addEventListener("pointermove", e => {
+    if (x0 === null) return;
+    const dx = e.clientX - x0;
+    if (!bouge && Math.abs(dx) < 8) return;
+    if (!bouge && Math.abs(e.clientY - y0) > Math.abs(dx)) { x0 = null; return; }
+    bouge = true;
+    unes.forEach(u => u.style.transition = "none");
+    glisse = -dx / Math.min(k.clientWidth * 0.34, 300);
+    placer();
+  });
+  const fin = () => {
+    if (x0 === null) return;
+    unes.forEach(u => u.style.transition = "");
+    const saut = Math.abs(glisse) > 0.15 ? Math.sign(glisse) : 0;
+    glisse = 0; x0 = null;
+    aller(actif + saut);
+  };
+  k.addEventListener("pointerup", fin);
+  k.addEventListener("pointercancel", fin);
+  k.addEventListener("pointerleave", fin);
+
+  // Visionneuse plein écran
+  const visio = document.getElementById("visio"), vimg = visio.querySelector("img");
+  const fermer = () => { visio.classList.remove("ouverte"); vimg.classList.remove("zoom"); document.body.style.overflow = ""; };
+  unes.forEach((u, i) => {
+    const ouvrir = () => {
+      if (bouge) return;
+      if (i !== actif) return aller(i);
+      const img = u.querySelector("img"); if (!img) return;
+      vimg.src = img.src; vimg.alt = img.alt;
+      visio.classList.add("ouverte"); document.body.style.overflow = "hidden";
+    };
+    u.addEventListener("click", ouvrir);
+    u.addEventListener("keydown", e => { if (e.key === "Enter") ouvrir(); });
+  });
+  visio.querySelector("button").onclick = fermer;
+  visio.addEventListener("click", e => { if (e.target === visio) fermer(); });
+  vimg.onclick = () => vimg.classList.toggle("zoom");
+
+  // Inclinaison 3D légère (souris, ou gyroscope sur téléphone pour la une active)
+  if (!reduit && matchMedia("(hover:hover)").matches) {
+    document.querySelectorAll(".carte").forEach(c => {
+      const inn = c.firstElementChild;
+      c.addEventListener("pointermove", e => {
+        const r = c.getBoundingClientRect();
+        inn.style.setProperty("--ry", ((e.clientX - r.left) / r.width - .5) * 8 + "deg");
+        inn.style.setProperty("--rx", -((e.clientY - r.top) / r.height - .5) * 8 + "deg");
+      });
+      c.addEventListener("pointerleave", () => { inn.style.setProperty("--rx", "0deg"); inn.style.setProperty("--ry", "0deg"); });
+    });
+  }
+
+  // Apparition au défilement + puce de navigation active
+  const io = new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { e.target.classList.add("vu"); io.unobserve(e.target); } }), { rootMargin: "0px 0px -8% 0px" });
+  document.querySelectorAll(".reveal").forEach(el => io.observe(el));
+  const liens = [...document.querySelectorAll("nav.chips a")];
+  const nav = new IntersectionObserver(es => es.forEach(e => {
+    if (e.isIntersecting) liens.forEach(l => l.classList.toggle("actif", l.getAttribute("href") === "#" + e.target.id));
+  }), { rootMargin: "-45% 0px -50% 0px" });
+  document.querySelectorAll("main > section").forEach(s => nav.observe(s));
+
+  addEventListener("resize", placer);
+  aller(0);
+})();
+</script>
+</body>
+</html>
