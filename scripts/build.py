@@ -165,8 +165,6 @@ def pertinent(it, s):
     """Filtre par sujet : le titre doit contenir un mot-clé de la rubrique et aucun mot exclu.
     Mieux vaut trois sujets justes que dix approximatifs."""
     titre = " " + sans_accents(it["titre"]) + " "
-    if en_anglais(it["titre"]):
-        return False
     if any(sans_accents(m) in titre for m in s.get("mots_exclus", [])):
         return False
     source = sans_accents(it.get("source") or "")
@@ -357,13 +355,18 @@ def collecter():
         with ThreadPoolExecutor(8) as ex:
             listes = list(ex.map(lire_flux, s["flux"]))
         listes = [[it for it in l if pertinent(it, s)] for l in listes]
+        # Les titres en anglais ne s'affichent pas tels quels : ils vont à la routine Claude, qui les traduit.
+        anglais = [[it for it in l if en_anglais(it["titre"])] for l in listes]
+        listes = [[it for it in l if not en_anglais(it["titre"])] for l in listes]
+        a_traduire = classer(anglais, s["nb"], recents_h=36) if any(anglais) else []
         items = classer(listes, s["nb"], recents_h=72 if s["id"] == "droit" else 36)
         items = [it for it in items if it["score"] >= s.get("score_min", 0)]
         if s.get("mots_libertes"):
             for it in items:
                 t = (it["titre"] + " " + it["resume"]).lower()
                 it["libertes"] = any(k in t for k in s["mots_libertes"])
-        sections.append({"id": s["id"], "titre": s["titre"], "sous_titre": s["sous_titre"], "items": items})
+        sections.append({"id": s["id"], "titre": s["titre"], "sous_titre": s["sous_titre"], "items": items,
+                         "a_traduire": a_traduire})
     return {"date": AUJOURDHUI.isoformat(), "genere": MAINTENANT.isoformat(timespec="minutes"),
             "journaux": journaux, "sections": sections}
 

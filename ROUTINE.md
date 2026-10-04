@@ -24,6 +24,8 @@ Si la routine échoue, le site reste en ligne avec la sélection automatique.
 
 - **Tout en français** : le site est en français. Tout titre, résumé ou point issu d'une source étrangère
   (souvent en IA) est traduit en français ; aucun titre ne reste en anglais. Le lien d'origine est conservé.
+  Chaque rubrique de `data/brut.json` a un champ `a_traduire` : des articles anglophones pertinents (The Verge,
+  TechCrunch…) masqués dans l'affichage automatique. Les lire et retenir les plus importants, traduits.
 
 - **Concision** : le site affiche un sujet vedette puis une liste dépliable. Chaque `resume` tient en une phrase
   (25 mots maximum), `pourquoi` et `angle_crfpa` en une phrase courte. Titres reformulés s'ils dépassent 15 mots.

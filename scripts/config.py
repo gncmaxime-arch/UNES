@@ -90,6 +90,8 @@ SECTIONS = [
             gnews("intelligence artificielle when:1d"),
             gnews("OpenAI OR Anthropic OR \"Google DeepMind\" OR \"Mistral AI\" when:2d"),
             "https://www.numerama.com/tech/intelligence-artificielle/feed/",
+            "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+            "https://techcrunch.com/category/artificial-intelligence/feed/",
             "https://siecledigital.fr/intelligence-artificielle/feed/",
         ],
     },
