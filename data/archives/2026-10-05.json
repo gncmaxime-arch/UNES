@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "genere": "2026-10-05T01:22+02:00",
+ "genere": "2026-10-05T01:23+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -260,8 +260,8 @@
      "date": "2026-10-04T23:14:20+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/0/0/4500/2250/644/322/60/0/5be74a0_ftp-1-5ssdvsntqx2r-2026-10-04t120959z-602533101-rc28wnafjzy5-rtrmadp-3-ukraine-crisis-germany.JPG",
-     "reprises": 14,
-     "score": 38.33
+     "reprises": 13,
+     "score": 35.88
     },
     {
      "titre": "🔴 Présidentielle au Brésil en direct : fermeture des bureaux de vote, le dépouillement a commencé",
@@ -270,8 +270,18 @@
      "date": "2026-10-04T22:03:13+02:00",
      "source": "france24.com",
      "image": null,
-     "reprises": 9,
-     "score": 33.99
+     "reprises": 8,
+     "score": 29.32
+    },
+    {
+     "titre": "Yémen : les houthistes encerclent désormais Taëz, grande ville du Sud-Ouest ; le président annonce une offensive pour reprendre l’ensemble du pays",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html",
+     "resume": "Les affrontements font rage depuis plusieurs jours dans le pays, à l’intérieur des terres et sur les hauteurs surplombant les régions côtières récemment conquises par les houthistes. Plus de 70 personnes sont mortes ces dernières vingt-quatre heures dans les…",
+     "date": "2026-10-04T14:32:11+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/03/668/0/3999/1999/644/322/60/0/1450936_ftp-1-fvfk4bcqp0uu-5254686-01-06.jpg",
+     "reprises": 5,
+     "score": 9.94
     },
     {
      "titre": "Vol Flydubai : Benyamin Nétanyahou ordonne un examen des mesures de sécurité prises sur les vols internationaux vers Israël",
@@ -281,17 +291,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/220/0/2645/1322/644/322/60/0/2a3d9c5_ftp-1-1umhbp1wqvqe-2026-10-04t143706z-234243230-rc2rtnagne7d-rtrmadp-3-israel-gulf-flight-australia.JPG",
      "reprises": 3,
-     "score": 8.02
-    },
-    {
-     "titre": "Yémen : les houthistes encerclent désormais Taëz, grande ville du Sud-Ouest ; le président annonce une offensive pour reprendre l’ensemble du pays",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html",
-     "resume": "Les affrontements font rage depuis plusieurs jours dans le pays, à l’intérieur des terres et sur les hauteurs surplombant les régions côtières récemment conquises par les houthistes. Plus de 70 personnes sont mortes ces dernières vingt-quatre heures dans les…",
-     "date": "2026-10-04T14:32:11+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/03/668/0/3999/1999/644/322/60/0/1450936_ftp-1-fvfk4bcqp0uu-5254686-01-06.jpg",
-     "reprises": 4,
-     "score": 7.47
+     "score": 8.1
     },
     {
      "titre": "Espagne : les inondations font plusieurs morts près de Barcelone",
@@ -311,7 +311,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/956/0/3744/1872/644/322/60/0/2fe10a6_upload-1-5byalk9uwktk-bridgeman-4862689.JPG",
      "reprises": 3,
-     "score": 4.81
+     "score": 4.8
     }
    ]
   },
@@ -328,17 +328,7 @@
      "source": "Libération",
      "image": null,
      "reprises": 9,
-     "score": 18.41
-    },
-    {
-     "titre": "Anthropic lance un programme de 100 millions de dollars pour former les entreprises à Claude AI",
-     "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa1hiYlBKMDJZWEd3c09CemF2Vm90TzdfOUdrWklVNFc3ZGZmdzJqQ0piWjdvRzA5d1gzZldZcld3UXdoZUJaRWZETEtycEEzOFBvR0lqdmFNTk9vbUtEU2xKMzB6Tk56cndYeHkxcjZrSXJXa3luR2VNVG1rUXh0M0l2UV9LcDdRTkk2SzFPRjhuNThmQ1h5azNPX2RrRmpWYXBWalNjSHZ5R3RNN2dSVlpqTzc3MkFHNWdiYnBSd1FYMUZtN1hVeERvYWxZZzNXbTRoMmZEaw?oc=5",
-     "resume": "",
-     "date": "2026-10-04T15:00:00+02:00",
-     "source": "Clubic",
-     "image": null,
-     "reprises": 3,
-     "score": 4.89
+     "score": 18.4
     },
     {
      "titre": "« L’IA ça peut être rigolo ? Assécher nos rivières, c’est rigolo ? » Les auteurs réagissent au salon du livre du Mans",
@@ -351,24 +341,34 @@
      "score": 2.93
     },
     {
-     "titre": "An OpenAI safety employee has quit and is sounding the alarm",
-     "lien": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-     "resume": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about…",
-     "date": "2026-10-03T16:31:56+02:00",
-     "source": "theverge.com",
+     "titre": "« C’est une aide importante » : l’intelligence artificielle s’invite au comice de la race normande, à Livarot",
+     "lien": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPYy1uWGZCS243Z3Mydld1U0tkSGZ6MWU1LWZCQ0NKeUNPRUhYczE2aHdZa3BtbEE3OUVfTmJqcDNZRnJVbGQyZDRuRHRMNHVqZFd4NVhyTENqS2VxeGZpX1duSy1QRGlFdmcwdTVoT05DNW5YaDMxelVLcHhTYVEwS09VTjdJSWF5UmZocWd0dWJTaWM2NkxjMmhqc05YT0lqdlZtWDBQdzRuMEdLZnE3cXlRN3pLOXo5c3F3MFpKMFNEdzJRek9kZGd3V2s2bFA3dnR4ZVVCX1BqN0ZjSUlUMWhyNW5DS1YySF9XeWFBQVhXemlfZlVFZm9JTzBva2tabGJZaFRhUnRucnlHbVdWc21lbHFUZnZXSzUtNmQzR2dxMW92ZGc?oc=5",
+     "resume": "",
+     "date": "2026-10-04T19:01:06+02:00",
+     "source": "Ouest-France",
      "image": null,
      "reprises": 2,
-     "score": 2.9
+     "score": 2.53
     },
     {
-     "titre": "IA : Google, OpenAI et Anthropic unissent leurs forces",
-     "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXBVMTNnSUtqYVRjMVpNYVQ3dEIyc0pWQ3BFMS1vaFRYdjVhUWNLRm9pa3cwZ05sbXRCV2NuSnpUczJjRVJnN0Q2ay16enZ3QkktTTdmMWdlTHpaN0xZelN5ZTVjM3A1dlJleUVTNWt1dGg2UTV5VUJXamNqS3k3d2RISDZSWHNieDg0akZYNnlkb2Rwcks3TW5HRno?oc=5",
+     "titre": "Avant même d’arriver en France, Muse, le nouvel agent IA de Meta devance tous ses concurrents en matière de collecte de données",
+     "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOM2Q1cHNWNXYxSjlaNVgySnBuZlhMaXllSE1ON3hsdDZjZC1sSlNPOEhfU3owc29aN0MzcG1MUENMY2VqWTVfWmw2SDVvQWx1a0puZGQyal9sSDM0YnRmZTB0RElwU1ByTldLeGc5NzBQbnlFQW5WdXhheUt5RnlOSllEbmdwMGFfVldBZGZIUGYxWVhubUpudDExaElRWEJlLUxtX0hldHQtXzkzZkk5aHhkTWdCOTJKSENMSlN5eHJGWFJybENsa2NRdjBEWkkwS0FLdnBWUWJHVExDQ1BFdktxWE1uOG8?oc=5",
      "resume": "",
-     "date": "2026-10-04T05:04:37+02:00",
-     "source": "blog-nouvelles-technologies.fr",
+     "date": "2026-10-04T17:56:58+02:00",
+     "source": "decideo.fr",
      "image": null,
      "reprises": 2,
-     "score": 2.58
+     "score": 2.5
+    },
+    {
+     "titre": "Le fléau cyber prend de l’ampleur et deux scénarios se distinguent : c’est quoi le LLM-jacking ?",
+     "lien": "https://www.numerama.com/cyberguerre/2345263-le-fleau-cyber-prend-de-lampleur-et-deux-scenarios-se-distinguent-cest-quoi-le-llm-jacking.html",
+     "resume": "Revente de comptes d'IA volés à prix cassés, détournement discret de serveurs cloud… Un analyste de Google a alerté fin septembre sur l'essor du LLM-jacking.",
+     "date": "2026-10-04T14:01:00+02:00",
+     "source": "numerama.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.41
     }
    ]
   },
@@ -384,8 +384,8 @@
      "date": "2026-10-04T15:04:05+02:00",
      "source": "La République des Pyrénées",
      "image": null,
-     "reprises": 24,
-     "score": 44.82,
+     "reprises": 23,
+     "score": 41.42,
      "libertes": false
     },
     {
@@ -395,19 +395,8 @@
      "date": "2026-10-02T17:20:30+02:00",
      "source": "Le Parisien",
      "image": null,
-     "reprises": 3,
-     "score": 4.75,
-     "libertes": false
-    },
-    {
-     "titre": "Tunisie: le décret 54, instrument de répression, assoupli par le pouvoir",
-     "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa2tnbk0yWi05dkFMM0I3bDhiNm96WFdTaEM2b3NCcnYxTEM1OHJtVHBPTmJZZ0s1LXlTVkZSX3ZxVnh3cmxmVlVsMGhnOXcxZXU5cS1qSEpoNktRNWZiQWh1VFF3eWprQlFVQmlIaVFwbXc5X2lFZ3FramU1R3oyYlRIdWdfaXA3VTFieE14SUJmSzZZQnJGd2pMRmZ3QWFwUVk5QUJOdnduTXhDSy1ZNVYzWGhwZ3RnTUE?oc=5",
-     "resume": "",
-     "date": "2026-10-02T11:12:23+02:00",
-     "source": "RFI",
-     "image": null,
-     "reprises": 3,
-     "score": 3.96,
+     "reprises": 4,
+     "score": 6.44,
      "libertes": false
     },
     {
@@ -418,7 +407,7 @@
      "source": "Force Ouvrière",
      "image": null,
      "reprises": 1,
-     "score": 3.02,
+     "score": 3.1,
      "libertes": true
     },
     {
@@ -430,6 +419,17 @@
      "image": null,
      "reprises": 1,
      "score": 1.53,
+     "libertes": true
+    },
+    {
+     "titre": "Jeunes permis : le Conseil constitutionnel censure l’interdiction des voitures puissantes",
+     "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU2xCSy1FZnJCWEpGZENzSHBOSGZsblpFNnN2a3RUYjh6TU9ueXA5Z1ByRkxTTTNxWXo3Y0dsaXVJVkFXWEdaSEdvQVRUY0huQjZET2REaGtVS3JMOU50YUhvSFFfZVRWQl9sVi1Eb2pvSUJtNDRzSG9JYWFHNmg5RUdJNnVjV0dYUXc?oc=5",
+     "resume": "",
+     "date": "2026-10-04T09:26:13+02:00",
+     "source": "Motor1.com France",
+     "image": null,
+     "reprises": 1,
+     "score": 1.47,
      "libertes": true
     },
     {

@@ -1,12 +1,11 @@
 == Journaux
   ok   50  https://dwh.lequipe.fr/api/edito/rss?path=/
-  ok   50  https://www.la-croix.com/feeds/rss/site.xml
   ok   16  https://www.lemonde.fr/rss/une.xml
   ok   19  https://www.lefigaro.fr/rss/figaro_actualites.xml
+  ok   50  https://www.la-croix.com/feeds/rss/site.xml
   kiosko https://www.kiosko.net/fr/: URLError
-  kiosko https://www.kiosko.net/fr/geo/Paris.html: URLError
-  kiosko https://fr.kiosko.net/fr/: URLError
-  kiosko : 0 journaux repérés : 
+  kiosko https://www.kiosko.net/fr/geo/Paris.html: HTTPError
+  kiosko : 14 journaux repérés : courrierpicard dauphine depeche echos l_equip l_express lacroix lyonnerepublicaine ouestfrance parisien republiquepyrenees sudouest tribune voixdunord
   une Le Figaro (milibris, édition du 2026-10-05): https://static.milibris.com/thumbnail/issue/d8883069-0a40-4205-972e-ef1924c9221f/front/catalog-cover-large.jpeg
   une Le Monde (frontpages, édition du 2026-10-04): https://www.frontpages.com/t/2026/10/03/le-monde-232743brn@2x.webp
   une La Croix (kiosko, édition du 2026-10-04): https://img.kiosko.net/2026/10/04/fr/lacroix.750.jpg
@@ -14,24 +13,21 @@
   une L'Équipe (kiosko, édition du 2026-10-04): https://img.kiosko.net/2026/10/04/fr/l_equip.750.jpg
   une L'Équipe (frontpages, édition du 2026-10-05): https://www.frontpages.com/t/2026/10/05/l-equipe-010108f0f@2x.webp
 == Sections
-  ok   22  https://feeds.bbci.co.uk/news/world/rss.xml
   ok   20  https://www.lemonde.fr/international/rss_full.xml
-  ok   58  https://news.google.com/rss/headlines/section/topic/WORLD?hl=fr&gl=FR&ceid=FR:fr
-  ok   24  https://www.france24.com/fr/rss
-  ok   51  https://news.google.com/rss/search?q=monde%20international%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
-  ok   20  https://www.francetvinfo.fr/monde.rss
+  ok   59  https://news.google.com/rss/headlines/section/topic/WORLD?hl=fr&gl=FR&ceid=FR:fr
   ok   24  https://www.rfi.fr/fr/rss
-  ok   10  https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
-  ok   20  https://techcrunch.com/category/artificial-intelligence/feed/
+  ok   24  https://www.france24.com/fr/rss
+  ok   20  https://www.francetvinfo.fr/monde.rss
+  ok   51  https://news.google.com/rss/search?q=monde%20international%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+  ok    0  https://news.google.com/rss/search?q=OpenAI%20OR%20Anthropic%20OR%20%22Google%20DeepMind%22%20OR%20%22Mistral%
   ok   15  https://www.numerama.com/tech/intelligence-artificielle/feed/
-  ok   54  https://news.google.com/rss/search?q=OpenAI%20OR%20Anthropic%20OR%20%22Google%20DeepMind%22%20OR%20Mistral%20A
   ok  100  https://news.google.com/rss/search?q=intelligence%20artificielle%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
   ok    0  https://siecledigital.fr/intelligence-artificielle/feed/
-  ok    6  https://news.google.com/rss/search?q=CEDH%20OR%20%22Cour%20europ%C3%A9enne%20des%20droits%20de%20l%27homme%22%
-  ok   13  https://news.google.com/rss/search?q=%22Conseil%20constitutionnel%22%20France%20-Cameroun%20-S%C3%A9n%C3%A9gal
-  ok   58  https://news.google.com/rss/search?q=%22Cour%20de%20cassation%22%20arr%C3%AAt%20when%3A3d&hl=fr&gl=FR&ceid=FR:
-  ok   51  https://news.google.com/rss/search?q=%22libert%C3%A9s%20fondamentales%22%20OR%20%22libert%C3%A9%20d%27expressi
+  ok    5  https://news.google.com/rss/search?q=CEDH%20OR%20%22Cour%20europ%C3%A9enne%20des%20droits%20de%20l%27homme%22%
   ok   36  https://news.google.com/rss/search?q=%22Conseil%20d%27%C3%89tat%22%20d%C3%A9cision%20when%3A3d&hl=fr&gl=FR&cei
-  ERR ParseError: not well-formed (invalid token): line 13, column 378  https://www.dalloz-actualite.fr/rss.xml
+  ok   13  https://news.google.com/rss/search?q=%22Conseil%20constitutionnel%22%20France%20-Cameroun%20-S%C3%A9n%C3%A9gal
+  ok   51  https://news.google.com/rss/search?q=%22libert%C3%A9s%20fondamentales%22%20OR%20%22libert%C3%A9%20d%27expressi
+  ok   58  https://news.google.com/rss/search?q=%22Cour%20de%20cassation%22%20arr%C3%AAt%20when%3A3d&hl=fr&gl=FR&ceid=FR:
+  ERR ParseError: not well-formed (invalid token): line 14, column 87  https://www.dalloz-actualite.fr/rss.xml
 editorial.json daté du 2026-10-04 : ignoré
 == site/index.html écrit
