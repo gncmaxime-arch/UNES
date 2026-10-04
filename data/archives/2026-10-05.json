@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "genere": "2026-10-05T00:56+02:00",
+ "genere": "2026-10-05T01:02+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -299,15 +299,6 @@
      "reprises": 2
     },
     {
-     "titre": "Midterms 2026 : Donald Trump prend en main la campagne républicaine pour mieux assurer sa propre promotion",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/04/midterms-2026-donald-trump-prend-en-main-la-campagne-republicaine-pour-mieux-assurer-sa-propre-promotion_6788322_3210.html",
-     "resume": "Le président américain, très impopulaire, s’est lancé dans une série de meetings avant les élections de mi-mandat le 3 novembre, mais il semble avoir perdu l’instinct politique qui lui a réussi jusqu’à présent.",
-     "date": "2026-10-04T19:00:13+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/04/0/0/5000/2500/644/322/60/0/4d2251a_ftp-1-qikquudxw9jc-2026-10-04t034824z-418656587-rc22wnas5hhu-rtrmadp-3-usa-trump.JPG",
-     "reprises": 2
-    },
-    {
      "titre": "Cheikh Hamidou Kane, écrivain sénégalais et figure de la littérature africaine, est mort à l’âge de 98 ans",
      "lien": "https://www.lemonde.fr/disparitions/article/2026/10/04/l-ecrivain-senegalais-cheikh-hamidou-kane-est-mort-a-l-age-de-a-98-ans_6788267_3382.html",
      "resume": "Figure de la littérature africaine et ancien ministre, Cheikh Hamidou Kane laisse derrière lui une œuvre qui a marqué l’enseignement et la réflexion sur l’identité à travers le continent.",
@@ -324,6 +315,15 @@
      "source": "© Lauren Petracca, Reuters",
      "image": "https://s.france24.com/media/display/daa775ba-c00d-11f1-86df-578a4b968fd6/w:1024/p:16x9/2026-10-02T154814Z-1310255220-RC24TNATK0SJ-RTRMADP-3-USA-CRIME-CORNELL.jpg",
      "reprises": 3
+    },
+    {
+     "titre": "En Lettonie, le parti du premier ministre, Andris Kulbergs, obtient un succès historique qui éloigne les populistes",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/04/en-lettonie-le-parti-du-premier-ministre-andris-kulbergs-obtient-un-succes-historique-qui-eloigne-le-danger-populiste_6788216_3210.html",
+     "resume": "Avec 35,3 % des voix, un score inédit pour une formation politique depuis 1990, le dirigeant centriste pro-européen et pro-ukrainien aura les coudées franches pour former une coalition.",
+     "date": "2026-10-04T11:07:03+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/03/1277/0/7643/3821/644/322/60/0/ab88761_ftp-1-abzmzosmjtxr-5257920-01-06.jpg",
+     "reprises": 3
     }
    ]
   },
@@ -333,11 +333,11 @@
    "sous_titre": "Modèles, entreprises, régulation, recherche",
    "items": [
     {
-     "titre": "États-Unis : qui est Jay Clayton, le patron du renseignement choisi par Donald Trump pour piloter l’intelligence artificielle ?",
-     "lien": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQWnZTRklrNHpLczFfcGtlRnNDWjB6Vm1OYWV3WW9WYl9BaFF4bFlBR1RjTTZueXloaEdlMG5oZVpsdld0RENZSzIzdVdWUWpCVlo1TGp4LU55UWlvczNDS29TMmVFUWpsMDRQY2RFc1dqcmYxNEkwOUV1dFBoUEx4bGZpUFVJRktITEl5RVhON2l3ZnJNajY2NVRKOHFUM3JzWXJjZnM4a2RxQlJZY1lEY0ZTblRyR3g5OEVveXVpX2VSYnNaUXd0Q2p0cW05QUQxVlBudHNWWmJybGs3bEUzbjg0WmlBOHB2U3hwd25UNkZoTnFsTldXZXpLRTdwdTBPTlZuOEhJQVphRTRoVmpOMVhmbnYtVDJ0Q212cVNLOEN6SzBQQkk5ajBjcUdDLURCZjJJ?oc=5",
+     "titre": "Donald Trump nomme le chef du renseignement américain au poste de «référent IA» : priorité à la coordination, pas à la régulation",
+     "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVjEzLTJfWXU0cV85VWN2Tjh1U0RhN2lxVG9XWnYxaDNYR1JRU2hIMVpqVHd5WFVKbjlrUzljZUNzYzNwQmxJTVQzeUpnbGVoR3ZDV1hJY1BBRTRIUk9MVWx3X1h1VUpYcWc4S0dnc0RScUtTMFdoLWpLV0NzSTY3d0M2TS1TR3VMZnhJa0g3Y3p2NGd0WXpORGlFc2l5NmRGNU5YNTlrZ1QxU0NoRElacE1nc24xVlVnNHdVckMzQzJ6dFI4QXNaN045dnAwekJDSXhEWlRZZFF1S0xZekRfODZrTTdkRnZqT01yNUUweEtqWHhlSlE?oc=5",
      "resume": "This new task force is Trump's latest response to the debate over AI safety.",
-     "date": "2026-10-04T17:10:46+02:00",
-     "source": "Sud Ouest",
+     "date": "2026-10-04T23:50:02+02:00",
+     "source": "Libération",
      "image": null,
      "reprises": 10
     },
@@ -396,11 +396,11 @@
      "reprises": 2
     },
     {
-     "titre": "Grâce à l'IA, une lettre codée sous ordre Napoléon enfin déchiffrée 127 ans plus tard",
-     "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQTgtZzlRdE1TMWhFdU1xbWYwZnE0SFJCQW9Xc0dQSFhBN0NaRDJwdWpuQmJaczRMTU5qR3d4eGx2OEtSME5Cemk3akNrQnc1TTd0MlBxTDNULWV0M2s3ZWNfLWZydHd1Ulk0amt6OGpEOGhhYjUzdGx1RmUxRng1YWR6QldwTG9pT3p1SWZHdnB2ZVJUdjdWOWthQ0NrVk9hS2kxaklTMGlrVzNEMUk1Y0tzaVNDRGd3d2lqUTF0YWNnUy0yZ3pLQ1k3UnNJMUk?oc=5",
+     "titre": "Un employé d'OpenAI démissionne et appelle à renforcer les pratiques de sécurité du secteur de l'IA, face aux incidents récents",
+     "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOWDEtT3pTQlY5N1NzZHA1T21LbEhLRVFnZGFyOUdQUk5SNGN4b3B6RWVoaVMtLVhvRC1Qd1hYZlg1WXhGcDNlSmtfV1JtSk5zcjdKSDBDbm4zWW92SEN5V09nTmFxbTlTc1JOOU1zeFVONTJSUmlFTFFiU1R4TDlBYm5IeHJOdjNlYjZmNU9RalVCWWlieTJxRWpsT3g3ZWZwMFNoLUVZZ3YwcXg2NVl0d3BiOThvMl9Sb0RBSGl0cGVxbjJkSU9uME50X3VrbGJFYmJFLUNtRlZuU1BYc3U4emhTcnhsT3hra2FGNVZvb2JpLVlzMWRaUnh1WHREcjE4SGJYSUt3enlTVXNWNGpYWEZLVGlGaXAxMVlTTmRaLUNBYXFOWXV3?oc=5",
      "resume": "",
-     "date": "2026-10-04T21:39:52+02:00",
-     "source": "Actu.fr",
+     "date": "2026-10-04T10:15:27+02:00",
+     "source": "franceinfo",
      "image": null,
      "reprises": 2
     }
@@ -418,17 +418,17 @@
      "date": "2026-10-04T15:04:05+02:00",
      "source": "La République des Pyrénées",
      "image": null,
-     "reprises": 28,
+     "reprises": 29,
      "libertes": false
     },
     {
-     "titre": "Que faire ce lundi à Paris ? Sorties et bons plans du 5 octobre 2026",
-     "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTU0SlM0Q0pwdFhDWkxORFN4OE9zUFpGeHlyVkFkeXZCXzR6VkdXNFZ2aU1PQVptT19CSm05Z1lmXzQwZXpVT1BaZVlLMUlLdlNkcHdqUWROMXhNSXZxc2hUaXZ5YVdsUE01TnBaeEdKVlZWWGRWbDc2bFUwX1N0cTVvN2NaX1JDNnRka3FrQ1VQT3ZXWTliQVdMV1U1WUVSQ2otazN5eW81TmxnUlZ6b2trdGdTdTY1X2Nzd2Zycm1qX3pWNlB3?oc=5",
+     "titre": "Nuit du Droit 2026 : quatre rendez-vous en Loire-Atlantique ce lundi 5 octobre",
+     "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUZOdTBwQjk3SFVJUWpnLVZlQzBtNDg5ZXltNFVuSWdRcjNjSUh5dS1TU09QRGFRUUZZT2N4WWFrVVpoZE1MTGhHSWp4Z1RLT0lhaWVqVXRzTERnWm0wYi1fQUUzSkpRSnFVVkhGb0EyVWtmNzlGcmtmU2pnZDloa09fN0RRdUNkc0k1VGxJR0xDNGN5Znljc3JwXzk4WXpy?oc=5",
      "resume": "",
-     "date": "2026-10-04T04:35:05+02:00",
-     "source": "Sortir à Paris",
+     "date": "2026-10-02T13:20:18+02:00",
+     "source": "Actu44",
      "image": null,
-     "reprises": 3,
+     "reprises": 4,
      "libertes": false
     },
     {
@@ -436,7 +436,7 @@
      "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMFYzTjVOYVN4LU1NM1ppYXhfOFp2Y3BjclNZWlhHOGo3X0NCRlRhLVJ3ZnhWWHdWUlJhUU9mNEFmVnM0dDUzWUNrTkx0dkNDRlhqMUowR0Vzenl1WE1aVTlQcTdVdzBCU21KRC0wSEwyQmtQSGJUbWVEZkI5RWpRY3YwMkVyejZxbXBubElYWndHVlk0VGNORzhyNmgtZTlxMVV6TERRQk1pbHMwUW5F?oc=5",
      "resume": "",
      "date": "2026-10-04T20:29:00+02:00",
-     "source": "kohenavocats.fr",
+     "source": "Kohen Avocats",
      "image": null,
      "reprises": 1,
      "libertes": false
@@ -449,6 +449,16 @@
      "source": "Le Parisien",
      "image": null,
      "reprises": 3,
+     "libertes": false
+    },
+    {
+     "titre": "Assigné comme gérant de fait après la liquidation : contester la requalification et limiter l'insuffisance d'actif (2026)",
+     "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbzFnSmFSQS1QLXlLRFNnaFhjVnhWaTZxdW1PTFpFMHFoWVgzWWVoaDBad290OXoydjlyamtQWHRDTmlmaTRwWHlfMjZYYXhTcDhCYmRwTnowVTdZQnE0blFEc0s5dFZfc2djZ1RrWWhhT0ZaLXR4OUREbmo2ZHFpb25rNTczdi11azJVNEtmdnF2TE1XaEZnUFpIUkR4WndIc3ZkNW11SGMxbUZBdjctd0lkQ2pJWHNE?oc=5",
+     "resume": "",
+     "date": "2026-10-03T22:27:00+02:00",
+     "source": "Kohen Avocats",
+     "image": null,
+     "reprises": 1,
      "libertes": false
     },
     {
@@ -466,7 +476,7 @@
      "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX255d1VLYmtTZF9aaWgwRVJvOTlXSm1DakJGUUtVX3dUcjlFYjdwZHJwekJ2UTdHWldHbllqRTA2dl9kODlncThoenVIOEF3MVp2Y1p5NUVtRjdlb0xKMUpoSjJ4Nm1Ral95Q3FfZE5vSDBPeVF2d05CRVpiYmVmcDFTLTFRVEVFUjd4ZFUtMlkyNWhubWY1c0F0REs1My1ycDJMamRxNmJiQVpmYVZ2TWhEWQ?oc=5",
      "resume": "",
      "date": "2026-10-04T07:57:00+02:00",
-     "source": "kohenavocats.fr",
+     "source": "Kohen Avocats",
      "image": null,
      "reprises": 1,
      "libertes": false
@@ -500,16 +510,6 @@
      "image": null,
      "reprises": 1,
      "libertes": false
-    },
-    {
-     "titre": "Mise à disposition de salarié handicapé et liberté d'expression des salariés : un rappel des règles protectrices",
-     "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnVjdmdlSWJmNDNoZjBaaWJDdmlPdGlGZkxWSW04M0JSUndwUjV5RGdXSDhhLUxrV3E0TGlNMWNVaTZEOTJzUlZGOUFYd2s2RkZVMWNuU2U2SkRVTmRIWWlJb2NsbF9UaC1ITm5mRkpZaE1xcnJhZVNITU1XUTFER0ttS0NSbHAwTWhsaHRwNmloUGJlSkVadw?oc=5",
-     "resume": "",
-     "date": "2026-10-02T16:53:44+02:00",
-     "source": "Force Ouvrière",
-     "image": null,
-     "reprises": 1,
-     "libertes": true
     }
    ]
   }
