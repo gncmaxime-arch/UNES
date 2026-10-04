@@ -58,7 +58,7 @@ JOURNAUX = [
 SECTIONS = [
     {
         "id": "monde",
-        "titre": "Le monde ce matin",
+        "titre": "Actualité principale",
         "sous_titre": "Les informations les plus importantes, partout dans le monde",
         "nb": 8,
         "flux": [

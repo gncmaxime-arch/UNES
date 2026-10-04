@@ -334,6 +334,10 @@ def main():
     else:
         ed = collecter()
         (DATA / "brut.json").write_text(json.dumps(ed, ensure_ascii=False, indent=1))
+    titres = {s["id"]: s for s in SECTIONS}
+    for s in ed["sections"]:
+        if s["id"] in titres:
+            s["titre"], s["sous_titre"] = titres[s["id"]]["titre"], titres[s["id"]]["sous_titre"]
     ed = fusion_editorial(ed)
     (SITE / "index.html").write_text(render(ed))
     log("== site/index.html écrit")

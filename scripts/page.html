@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow, noarchive">
-<title>Le Kiosque · {{DATE}}</title>
+<title>Les unes de Minaille · {{DATE}}</title>
 <meta name="theme-color" content="#f4efe6" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#14120f" media="(prefers-color-scheme: dark)">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23b4432a'/%3E%3Ctext x='32' y='46' font-family='Georgia' font-size='40' text-anchor='middle' fill='%23f4efe6'%3EK%3C/text%3E%3C/svg%3E">
@@ -19,9 +19,12 @@
   --titre:"Fraunces",Georgia,serif; --texte:"Source Serif 4",Georgia,serif; --ui:"Inter",system-ui,sans-serif;
   color-scheme:light;
 }
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+@media (prefers-color-scheme:dark){:root:not([data-theme]){
   --papier:#14120f; --papier-2:#1c1915; --carte:#211d18; --encre:#efe8dc; --encre-2:#a89f90; --filet:#3a342b;
   --accent:#e0775c; --accent-2:#7fb5a3; --ombre:0 1px 2px rgba(0,0,0,.3),0 10px 30px rgba(0,0,0,.35); color-scheme:dark}}
+:root[data-theme="rose"]{
+  --papier:#fbeef2; --papier-2:#f6dce5; --carte:#fffafc; --encre:#3b1d2a; --encre-2:#86566a; --filet:#efc6d4;
+  --accent:#d2427a; --accent-2:#a24f7c; --ombre:0 1px 2px rgba(120,30,70,.06),0 10px 28px rgba(160,40,90,.12); color-scheme:light}
 :root[data-theme="dark"]{
   --papier:#14120f; --papier-2:#1c1915; --carte:#211d18; --encre:#efe8dc; --encre-2:#a89f90; --filet:#3a342b;
   --accent:#e0775c; --accent-2:#7fb5a3; --ombre:0 1px 2px rgba(0,0,0,.3),0 10px 30px rgba(0,0,0,.35); color-scheme:dark}
@@ -39,7 +42,17 @@ a:hover{color:var(--accent)}
 .surtitre{font-family:var(--ui);font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--encre-2);display:flex;justify-content:space-between;gap:12px;border-bottom:1px solid var(--filet);padding-bottom:10px}
 .surtitre button{all:unset;cursor:pointer;color:var(--encre-2)}
 .surtitre button:hover{color:var(--accent)}
-h1{font-family:var(--titre);font-weight:800;font-size:clamp(52px,12vw,128px);line-height:.95;letter-spacing:-.03em;margin:18px 0 6px;font-variation-settings:"opsz" 144}
+h1{font-family:var(--titre);font-weight:800;font-size:clamp(58px,15vw,136px);line-height:.92;letter-spacing:-.03em;margin:16px 0 8px;font-variation-settings:"opsz" 144}
+.h1-petit{display:block;font-size:.3em;font-weight:400;font-style:italic;letter-spacing:0;color:var(--encre-2);margin-bottom:.12em}
+.h1-grand{display:block}
+.themes{display:flex;gap:6px;align-items:center}
+.themes button{all:unset;cursor:pointer;width:18px;height:18px;border-radius:50%;border:1.5px solid var(--filet);box-sizing:border-box;transition:transform .2s}
+.themes button:hover{transform:scale(1.15)}
+.themes button[aria-pressed="true"]{outline:2px solid var(--accent);outline-offset:2px}
+.themes [data-t="auto"]{background:linear-gradient(135deg,#f4efe6 50%,#14120f 50%)}
+.themes [data-t="light"]{background:#f4efe6}
+.themes [data-t="dark"]{background:#14120f}
+.themes [data-t="rose"]{background:#f2a7c1}
 h1 span{display:inline-block;opacity:0;transform:translateY(.4em) rotateX(-70deg);transform-origin:50% 100%;animation:lettre .9s cubic-bezier(.2,.8,.2,1) forwards;animation-delay:calc(var(--i)*55ms)}
 @keyframes lettre{to{opacity:1;transform:none}}
 .date{font-family:var(--titre);font-style:italic;font-size:20px;color:var(--encre-2)}
@@ -100,24 +113,36 @@ nav.chips a.actif,nav.chips a:hover{background:var(--encre);color:var(--papier);
 @keyframes tourne{from{transform:perspective(200px) rotateY(-28deg)}to{transform:perspective(200px) rotateY(28deg)}}
 .s-tete h2{font-family:var(--titre);font-weight:800;font-size:clamp(30px,5vw,44px);line-height:1;margin:0;letter-spacing:-.02em}
 .s-tete p{margin:4px 0 0;font-family:var(--ui);font-size:14px;color:var(--encre-2)}
-.grille{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
-.carte{perspective:900px}
-.carte-in{height:100%;background:var(--carte);border-radius:14px;padding:18px 20px;box-shadow:var(--ombre);transition:transform .35s cubic-bezier(.2,.8,.2,1),box-shadow .35s;transform-style:preserve-3d;
-  transform:rotateX(var(--rx,0deg)) rotateY(var(--ry,0deg));display:flex;flex-direction:column}
-.carte:hover .carte-in{box-shadow:0 2px 4px rgba(0,0,0,.08),0 22px 40px -10px rgba(40,30,20,.3)}
-.carte h3{font-family:var(--titre);font-weight:600;font-size:20px;line-height:1.22;margin:0 0 8px}
-.carte p{margin:0 0 10px;font-size:15.5px;color:var(--encre-2)}
-.carte-une{grid-column:1/-1}
-.carte-une .carte-in{padding:26px 28px;background:linear-gradient(135deg,var(--carte),var(--papier-2))}
-.carte-une h3{font-size:clamp(24px,3.4vw,34px);font-weight:800;letter-spacing:-.01em}
-.carte-une p{font-size:17.5px;color:var(--encre);max-width:820px}
-.meta{margin-top:auto;font-family:var(--ui);font-size:12px;color:var(--encre-2);letter-spacing:.03em}
-.badges{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+.vedette{perspective:900px;margin-bottom:14px}
+.vedette-in{background:linear-gradient(135deg,var(--carte),var(--papier-2));border-radius:16px;padding:24px 26px;box-shadow:var(--ombre);transition:transform .35s cubic-bezier(.2,.8,.2,1);transform:rotateX(var(--rx,0deg)) rotateY(var(--ry,0deg))}
+.v-tete{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px}
+.v-label{font-family:var(--ui);font-size:11px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.vedette h3{font-family:var(--titre);font-weight:800;font-size:clamp(23px,3.2vw,32px);line-height:1.15;letter-spacing:-.01em;margin:0 0 10px}
+.vedette p{margin:0 0 10px;font-size:17px;max-width:780px}
+.liste{background:var(--carte);border-radius:16px;box-shadow:var(--ombre);overflow:hidden}
+.ligne{border-top:1px solid var(--filet)}
+.ligne:first-child{border-top:0}
+.ligne summary{list-style:none;display:flex;gap:14px;align-items:flex-start;padding:15px 18px;cursor:pointer;transition:background .2s}
+.ligne summary::-webkit-details-marker{display:none}
+.ligne summary:hover{background:var(--papier-2)}
+.num{font-family:var(--titre);font-weight:800;font-size:22px;line-height:1.1;color:var(--accent);min-width:22px}
+.l-txt{flex:1;display:flex;flex-direction:column;gap:3px}
+.l-titre{font-family:var(--titre);font-weight:600;font-size:17.5px;line-height:1.28}
+.l-meta{font-family:var(--ui);font-size:12px;color:var(--encre-2);display:flex;align-items:center;gap:6px}
+.pt-lib{width:8px;height:8px;border-radius:50%;background:var(--accent-2);flex:none}
+.plus{width:22px;height:22px;flex:none;position:relative;margin-top:2px;transition:transform .3s}
+.plus::before,.plus::after{content:"";position:absolute;left:5px;right:5px;top:10px;height:2px;border-radius:2px;background:var(--encre-2)}
+.plus::after{transform:rotate(90deg);transition:transform .3s}
+.ligne[open] .plus::after{transform:rotate(0)}
+.l-corps{padding:0 18px 16px 54px;animation:monte .35s ease}
+.l-corps p{margin:0 0 8px;font-size:15.5px;color:var(--encre-2)}
+.lire{font-family:var(--ui);font-size:13px;font-weight:600;color:var(--accent)}
+.meta{font-family:var(--ui);font-size:12px;color:var(--encre-2);letter-spacing:.03em}
 .badge{font-family:var(--ui);font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;padding:3px 9px;border-radius:99px;background:var(--papier-2);color:var(--encre-2)}
 .badge.lib{background:color-mix(in srgb,var(--accent-2) 18%,transparent);color:var(--accent-2)}
-.pourquoi{font-style:italic}
-.crfpa{border-left:3px solid var(--accent-2);padding-left:10px;color:var(--encre)!important}
-.crfpa b{font-family:var(--ui);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent-2);margin-right:6px}
+.pourquoi,.crfpa{font-size:15px!important}
+.pourquoi b,.crfpa b{display:block;font-family:var(--ui);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent-2);margin-bottom:2px}
+.crfpa{border-left:3px solid var(--accent-2);padding-left:10px}
 .notion{margin-top:22px;background:var(--encre);color:var(--papier);border-radius:16px;padding:26px 28px;position:relative;overflow:hidden}
 .notion::after{content:"§";position:absolute;right:-10px;top:-40px;font-family:var(--titre);font-size:220px;opacity:.08;line-height:1}
 .notion-label{font-family:var(--ui);font-size:12px;letter-spacing:.16em;text-transform:uppercase;opacity:.7}
@@ -144,7 +169,8 @@ footer{margin:70px 0 0;padding:26px 0 40px;border-top:3px double var(--filet);te
   body{font-size:16px}
   .fleche{display:none}
   .journal{padding:18px}
-  .carte-une .carte-in{padding:20px}
+  .vedette-in{padding:20px}
+  .l-corps{padding-left:18px}
 }
 @media (prefers-reduced-motion:reduce){
   *,*::before,*::after{animation:none!important;transition:none!important}
@@ -155,14 +181,14 @@ footer{margin:70px 0 0;padding:26px 0 40px;border-top:3px double var(--filet);te
 <body class="no-js">
 <div class="enveloppe">
   <header class="titre-journal">
-    <div class="surtitre"><span>Édition du matin</span><button id="theme" type="button" aria-label="Changer de thème">◐ Thème</button></div>
-    <h1 id="titre">Le Kiosque</h1>
+    <div class="surtitre"><span>Édition du matin</span><div class="themes" role="group" aria-label="Thème"><button type="button" data-t="auto" title="Automatique" aria-label="Thème automatique"></button><button type="button" data-t="light" title="Clair" aria-label="Thème clair"></button><button type="button" data-t="dark" title="Sombre" aria-label="Thème sombre"></button><button type="button" data-t="rose" title="Rose" aria-label="Thème rose"></button></div></div>
+    <h1><span class="h1-petit">Les unes de</span><span class="h1-grand" id="titre">Minaille</span></h1>
     <div class="date">{{DATE}}</div>
     {{EDITO}}
   </header>
 </div>
 <nav class="chips"><div class="enveloppe">
-  <a href="#unes">Les unes</a><a href="#monde">Monde</a><a href="#ia">IA</a><a href="#droit">Juridique</a>
+  <a href="#unes">Les unes</a><a href="#monde">Actualité</a><a href="#ia">IA</a><a href="#droit">Juridique</a>
 </div></nav>
 
 <main class="enveloppe">
@@ -179,7 +205,7 @@ footer{margin:70px 0 0;padding:26px 0 40px;border-top:3px double var(--filet);te
   {{SECTIONS}}
 </main>
 
-<footer class="enveloppe">Mis à jour le {{DATE_ISO}} à {{GENERE}} · {{CLAUDE}}<br>Unes : Kiosko · Articles : sites des éditeurs</footer>
+<footer class="enveloppe">Mis à jour le {{DATE_ISO}} à {{GENERE}} · {{CLAUDE}}<br>Unes : Kiosko, Frontpages · Articles : sites des éditeurs</footer>
 
 <div class="visio" id="visio" role="dialog" aria-modal="true" aria-label="Une en grand"><button type="button" aria-label="Fermer">×</button><img alt=""></div>
 
@@ -188,16 +214,23 @@ footer{margin:70px 0 0;padding:26px 0 40px;border-top:3px double var(--filet);te
   document.body.classList.remove("no-js");
   const reduit = matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-  // Thème : auto → clair → sombre
+  // Thème : automatique, clair, sombre ou rose
   const racine = document.documentElement;
   const lire = () => { try { return localStorage.getItem("theme"); } catch (e) { return null; } };
   const ecrire = v => { try { v ? localStorage.setItem("theme", v) : localStorage.removeItem("theme"); } catch (e) {} };
   const appliquer = v => v ? racine.setAttribute("data-theme", v) : racine.removeAttribute("data-theme");
-  appliquer(lire());
-  document.getElementById("theme").addEventListener("click", () => {
-    const suivant = { null: "light", light: "dark", dark: null }[lire()];
-    ecrire(suivant); appliquer(suivant);
-  });
+  const pastilles = [...document.querySelectorAll(".themes button")];
+  const choisir = v => {
+    appliquer(v);
+    pastilles.forEach(b => b.setAttribute("aria-pressed", String(b.dataset.t === (v || "auto"))));
+    const meta = document.querySelector('meta[name="theme-color"]');
+    if (meta && v) meta.setAttribute("content", getComputedStyle(racine).getPropertyValue("--papier").trim());
+  };
+  choisir(lire());
+  pastilles.forEach(b => b.addEventListener("click", () => {
+    const v = b.dataset.t === "auto" ? null : b.dataset.t;
+    ecrire(v); choisir(v);
+  }));
 
   // Titre lettre par lettre
   const h1 = document.getElementById("titre");
@@ -286,7 +319,7 @@ footer{margin:70px 0 0;padding:26px 0 40px;border-top:3px double var(--filet);te
 
   // Inclinaison 3D légère (souris, ou gyroscope sur téléphone pour la une active)
   if (!reduit && matchMedia("(hover:hover)").matches) {
-    document.querySelectorAll(".carte").forEach(c => {
+    document.querySelectorAll(".vedette").forEach(c => {
       const inn = c.firstElementChild;
       c.addEventListener("pointermove", e => {
         const r = c.getBoundingClientRect();

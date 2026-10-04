@@ -70,33 +70,47 @@ def panneau_journal(j, ed_j, i):
             f'{points}{titre_liste}<ol class="j-liste">{liste}</ol></article>')
 
 
+def details_item(it):
+    """Ce qui ne s'affiche qu'au toucher : résumé, enjeu, angle CRFPA, lien."""
+    corps = ""
+    if it.get("resume"):
+        corps += f"<p>{e(it['resume'])}</p>"
+    if it.get("pourquoi"):
+        corps += f'<p class="pourquoi"><b>Pourquoi c\'est important</b> {e(it["pourquoi"])}</p>'
+    if it.get("angle_crfpa"):
+        corps += f'<p class="crfpa"><b>Angle CRFPA</b> {e(it["angle_crfpa"])}</p>'
+    if it.get("lien"):
+        corps += f'<a class="lire" href="{e(it["lien"])}" target="_blank" rel="noopener">Lire l\'article →</a>'
+    return corps
+
+
 def bloc_section(s, items_ed):
     items = items_ed if items_ed is not None else s["items"]
     if not items:
         corps = '<p class="muet">Rien de neuf dans les sources ce matin.</p>'
     else:
-        cartes = []
-        for k, it in enumerate(items):
-            badges = ""
-            if it.get("libertes"):
-                badges += '<span class="badge lib">Libertés fondamentales</span>'
-            if it.get("reprises", 0) >= 3:
-                badges += f'<span class="badge">{it["reprises"]} sources</span>'
-            extra = ""
-            if it.get("pourquoi"):
-                extra += f'<p class="pourquoi">{e(it["pourquoi"])}</p>'
-            if it.get("angle_crfpa"):
-                extra += f'<p class="crfpa"><b>Angle CRFPA</b> {e(it["angle_crfpa"])}</p>'
-            resume = f"<p>{e(it['resume'])}</p>" if it.get("resume") else ""
-            badges = f'<div class="badges">{badges}</div>' if badges else ""
-            meta = " · ".join(x for x in [e(it.get("source")), heure(it.get("date", ""))] if x)
-            cartes.append(
-                f'<article class="carte{" carte-une" if k == 0 else ""} reveal" style="--d:{k * 60}ms">'
-                f'<div class="carte-in">{badges}'
-                f'<h3>{lien(it, e(it["titre"]))}</h3>'
-                f'{resume}'
-                f'{extra}<div class="meta">{meta}</div></div></article>')
-        corps = f'<div class="grille">{"".join(cartes)}</div>'
+        une, reste = items[0], items[1:]
+        meta = " · ".join(x for x in [e(une.get("source")), heure(une.get("date", ""))] if x)
+        lib = '<span class="badge lib">Libertés fondamentales</span>' if une.get("libertes") else ""
+        resume = f"<p>{e(une['resume'])}</p>" if une.get("resume") else ""
+        extra = ""
+        if une.get("pourquoi"):
+            extra += f'<p class="pourquoi"><b>Pourquoi c\'est important</b> {e(une["pourquoi"])}</p>'
+        if une.get("angle_crfpa"):
+            extra += f'<p class="crfpa"><b>Angle CRFPA</b> {e(une["angle_crfpa"])}</p>'
+        vedette = (f'<article class="vedette reveal"><div class="vedette-in">'
+                   f'<div class="v-tete"><span class="v-label">À la une</span>{lib}</div>'
+                   f'<h3>{lien(une, e(une["titre"]))}</h3>{resume}{extra}'
+                   f'<div class="meta">{meta}</div></div></article>')
+        lignes = []
+        for k, it in enumerate(reste, start=2):
+            puce = '<span class="pt-lib" title="Libertés fondamentales"></span>' if it.get("libertes") else ""
+            lignes.append(
+                f'<details class="ligne reveal" style="--d:{(k - 2) * 40}ms">'
+                f'<summary><span class="num">{k}</span><span class="l-txt"><span class="l-titre">{e(it["titre"])}</span>'
+                f'<span class="l-meta">{puce}{e(it.get("source"))}</span></span><span class="plus" aria-hidden="true"></span></summary>'
+                f'<div class="l-corps">{details_item(it)}</div></details>')
+        corps = f'{vedette}<div class="liste">{"".join(lignes)}</div>'
     return (f'<section class="section" id="{e(s["id"])}">'
             f'<header class="s-tete reveal"><span class="s-icone">{ICONES.get(s["id"], "•")}</span>'
             f'<div><h2>{e(s["titre"])}</h2><p>{e(s["sous_titre"])}</p></div></header>{corps}</section>')
