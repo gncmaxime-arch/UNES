@@ -101,10 +101,13 @@ def parse_flux(raw, url):
         if "news.google.com" in url and " - " in titre:
             titre, _, src = titre.rpartition(" - ")
             source = source or src
+        resume = texte(champs.get("description") or champs.get("summary") or champs.get("encoded"), 260)
+        if resume.startswith(titre[:50]):  # Google News répète le titre et la source en guise de résumé
+            resume = ""
         items.append({
             "titre": titre,
             "lien": champs.get("link", ""),
-            "resume": texte(champs.get("description") or champs.get("summary") or champs.get("encoded"), 260),
+            "resume": resume,
             "date": (date_item(champs.get("pubDate") or champs.get("published") or champs.get("updated") or champs.get("date")) or MAINTENANT).isoformat(),
             "source": source,
             "image": image,
