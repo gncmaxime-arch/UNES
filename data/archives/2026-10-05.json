@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "genere": "2026-10-05T01:24+02:00",
+ "genere": "2026-10-05T01:25+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -260,8 +260,8 @@
      "date": "2026-10-04T23:14:20+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/0/0/4500/2250/644/322/60/0/5be74a0_ftp-1-5ssdvsntqx2r-2026-10-04t120959z-602533101-rc28wnafjzy5-rtrmadp-3-ukraine-crisis-germany.JPG",
-     "reprises": 14,
-     "score": 38.3
+     "reprises": 13,
+     "score": 35.94
     },
     {
      "titre": "🔴 Présidentielle au Brésil en direct : fermeture des bureaux de vote, le dépouillement a commencé",
@@ -271,7 +271,17 @@
      "source": "france24.com",
      "image": null,
      "reprises": 8,
-     "score": 29.31
+     "score": 29.4
+    },
+    {
+     "titre": "Yémen : les houthistes encerclent désormais Taëz, grande ville du Sud-Ouest ; le président annonce une offensive pour reprendre l’ensemble du pays",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html",
+     "resume": "Les affrontements font rage depuis plusieurs jours dans le pays, à l’intérieur des terres et sur les hauteurs surplombant les régions côtières récemment conquises par les houthistes. Plus de 70 personnes sont mortes ces dernières vingt-quatre heures dans les…",
+     "date": "2026-10-04T14:32:11+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/03/668/0/3999/1999/644/322/60/0/1450936_ftp-1-fvfk4bcqp0uu-5254686-01-06.jpg",
+     "reprises": 5,
+     "score": 9.65
     },
     {
      "titre": "Vol Flydubai : Benyamin Nétanyahou ordonne un examen des mesures de sécurité prises sur les vols internationaux vers Israël",
@@ -291,29 +301,20 @@
      "source": "franceinfo.fr",
      "image": "https://www.franceinfo.fr/pictures/5lovzE9aC-VJqiW1iA2kD1Nyeu0/0x5:1461x827/432x243/filters:format(jpg)/2026/10/04/6ac29db0235b9125447326.jpg",
      "reprises": 2,
-     "score": 7.21
+     "score": 7.23
     },
     {
-     "titre": "Yémen : les houthistes encerclent désormais Taëz, grande ville du Sud-Ouest ; le président annonce une offensive pour reprendre l’ensemble du pays",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html",
-     "resume": "Les affrontements font rage depuis plusieurs jours dans le pays, à l’intérieur des terres et sur les hauteurs surplombant les régions côtières récemment conquises par les houthistes. Plus de 70 personnes sont mortes ces dernières vingt-quatre heures dans les…",
-     "date": "2026-10-04T14:32:11+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/03/668/0/3999/1999/644/322/60/0/1450936_ftp-1-fvfk4bcqp0uu-5254686-01-06.jpg",
+     "titre": "Viol collectif présumé à Cornell : enquête ouverte sur la gestion de l'affaire par l'université",
+     "lien": "https://www.france24.com/fr/am%C3%A9riques/20261004-viol-collectif-pr%C3%A9sum%C3%A9-%C3%A0-cornell-enqu%C3%AAte-ouverte-sur-la-gestion-de-l-affaire-par-l-universit%C3%A9",
+     "resume": "Le président de l'université américaine Cornell a annoncé samedi qu'une enquête externe indépendante allait examiner la gestion par l'établissement du viol en réunion présumé d'une étudiante en 2024. Cette affaire suscite actuellement une vague d'indignation…",
+     "date": "2026-10-04T18:31:45+02:00",
+     "source": "© Lauren Petracca, Reuters",
+     "image": "https://s.france24.com/media/display/daa775ba-c00d-11f1-86df-578a4b968fd6/w:1024/p:16x9/2026-10-02T154814Z-1310255220-RC24TNATK0SJ-RTRMADP-3-USA-CRIME-CORNELL.jpg",
      "reprises": 4,
-     "score": 7.18
-    },
-    {
-     "titre": "Cheikh Hamidou Kane, écrivain sénégalais et figure de la littérature africaine, est mort à l’âge de 98 ans",
-     "lien": "https://www.lemonde.fr/disparitions/article/2026/10/04/l-ecrivain-senegalais-cheikh-hamidou-kane-est-mort-a-l-age-de-a-98-ans_6788267_3382.html",
-     "resume": "Figure de la littérature africaine et ancien ministre, Cheikh Hamidou Kane laisse derrière lui une œuvre qui a marqué l’enseignement et la réflexion sur l’identité à travers le continent.",
-     "date": "2026-10-04T15:02:47+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/04/956/0/3744/1872/644/322/60/0/2fe10a6_upload-1-5byalk9uwktk-bridgeman-4862689.JPG",
-     "reprises": 3,
-     "score": 4.8
+     "score": 6.4
     }
-   ]
+   ],
+   "a_traduire": []
   },
   {
    "id": "ia",
@@ -338,7 +339,7 @@
      "source": "franceinfo",
      "image": null,
      "reprises": 4,
-     "score": 8.84
+     "score": 8.83
     },
     {
      "titre": "Le directeur général d’OpenAI, Altman, estime que les bénéfices de l’IA justifient d’accepter certains risques",
@@ -370,6 +371,38 @@
      "reprises": 2,
      "score": 5.49
     }
+   ],
+   "a_traduire": [
+    {
+     "titre": "An OpenAI safety employee has quit and is sounding the alarm",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+     "resume": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about…",
+     "date": "2026-10-03T16:31:56+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 2,
+     "score": 3.08
+    },
+    {
+     "titre": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+     "lien": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+     "resume": "AI slop seems to be overwhelming bug bounty programs.",
+     "date": "2026-10-04T22:31:07+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.55
+    },
+    {
+     "titre": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+     "resume": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to…",
+     "date": "2026-10-04T18:16:04+02:00",
+     "source": "theverge.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.48
+    }
    ]
   },
   {
@@ -385,7 +418,7 @@
      "source": "La République des Pyrénées",
      "image": null,
      "reprises": 23,
-     "score": 41.42,
+     "score": 41.41,
      "libertes": false
     },
     {
@@ -443,7 +476,8 @@
      "score": 1.39,
      "libertes": false
     }
-   ]
+   ],
+   "a_traduire": []
   }
  ]
 }
