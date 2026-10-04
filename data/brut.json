@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "genere": "2026-10-05T01:11+02:00",
+ "genere": "2026-10-05T01:13+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -260,7 +260,7 @@
      "date": "2026-10-04T23:14:20+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/0/0/4500/2250/644/322/60/0/5be74a0_ftp-1-5ssdvsntqx2r-2026-10-04t120959z-602533101-rc28wnafjzy5-rtrmadp-3-ukraine-crisis-germany.JPG",
-     "reprises": 10
+     "reprises": 15
     },
     {
      "titre": "🔴 Présidentielle au Brésil en direct : fermeture des bureaux de vote, le dépouillement a commencé",
@@ -269,16 +269,7 @@
      "date": "2026-10-04T22:03:13+02:00",
      "source": "france24.com",
      "image": null,
-     "reprises": 6
-    },
-    {
-     "titre": "Espagne : les inondations font plusieurs morts près de Barcelone",
-     "lien": "https://www.franceinfo.fr/monde/espagne/espagne-les-inondations-font-plusieurs-morts-pres-de-barcelone_8222545.html#xtor=RSS-3-%5Bgeneral%5D",
-     "resume": "Les pluies torrentielles tombent encore sur l'Espagne et causent de sérieuses inondations. Dans la région de Barcelone, deux personnes sont décédées, alors que les précipitations doivent continuer.",
-     "date": "2026-10-04T22:15:58+02:00",
-     "source": "franceinfo.fr",
-     "image": "https://www.franceinfo.fr/pictures/5lovzE9aC-VJqiW1iA2kD1Nyeu0/0x5:1461x827/432x243/filters:format(jpg)/2026/10/04/6ac29db0235b9125447326.jpg",
-     "reprises": 2
+     "reprises": 8
     },
     {
      "titre": "Vol Flydubai : Benyamin Nétanyahou ordonne un examen des mesures de sécurité prises sur les vols internationaux vers Israël",
@@ -296,7 +287,16 @@
      "date": "2026-10-04T14:32:11+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/03/668/0/3999/1999/644/322/60/0/1450936_ftp-1-fvfk4bcqp0uu-5254686-01-06.jpg",
-     "reprises": 3
+     "reprises": 4
+    },
+    {
+     "titre": "Espagne : les inondations font plusieurs morts près de Barcelone",
+     "lien": "https://www.franceinfo.fr/monde/espagne/espagne-les-inondations-font-plusieurs-morts-pres-de-barcelone_8222545.html#xtor=RSS-3-%5Bgeneral%5D",
+     "resume": "Les pluies torrentielles tombent encore sur l'Espagne et causent de sérieuses inondations. Dans la région de Barcelone, deux personnes sont décédées, alors que les précipitations doivent continuer.",
+     "date": "2026-10-04T22:15:58+02:00",
+     "source": "franceinfo.fr",
+     "image": "https://www.franceinfo.fr/pictures/5lovzE9aC-VJqiW1iA2kD1Nyeu0/0x5:1461x827/432x243/filters:format(jpg)/2026/10/04/6ac29db0235b9125447326.jpg",
+     "reprises": 2
     },
     {
      "titre": "Cheikh Hamidou Kane, écrivain sénégalais et figure de la littérature africaine, est mort à l’âge de 98 ans",
@@ -308,21 +308,21 @@
      "reprises": 3
     },
     {
-     "titre": "Christa Pike, condamnée à mort qui a survécu à deux injections létales dans le Tennessee, est dans un état critique, selon son avocat",
-     "lien": "https://www.franceinfo.fr/monde/usa/christa-pike-la-condamnee-qui-a-survecu-a-deux-injections-letales-dans-le-tennessee-est-dans-un-etat-critique-selon-son-avocat_8222488.html#xtor=RSS-3-%5Bgeneral%5D",
-     "resume": "Stephen Ferrell a précisé ne pas avoir pu rendre visite à sa cliente à l'hôpital, où les médecins tentent toujours de retirer de son organisme les deux doses de barbiturique qui lui ont été administrées.",
-     "date": "2026-10-04T19:10:32+02:00",
-     "source": "franceinfo.fr",
-     "image": "https://www.franceinfo.fr/pictures/E5kxLnkjdwgCqxDm2Fi-eZYiKws/0x13:1200x688/432x243/filters:format(jpg)/2026/10/01/6abde854cdccc668703444.jpg",
-     "reprises": 2
+     "titre": "Viol collectif présumé à Cornell : enquête ouverte sur la gestion de l'affaire par l'université",
+     "lien": "https://www.france24.com/fr/am%C3%A9riques/20261004-viol-collectif-pr%C3%A9sum%C3%A9-%C3%A0-cornell-enqu%C3%AAte-ouverte-sur-la-gestion-de-l-affaire-par-l-universit%C3%A9",
+     "resume": "Le président de l'université américaine Cornell a annoncé samedi qu'une enquête externe indépendante allait examiner la gestion par l'établissement du viol en réunion présumé d'une étudiante en 2024. Cette affaire suscite actuellement une vague d'indignation…",
+     "date": "2026-10-04T18:31:45+02:00",
+     "source": "© Lauren Petracca, Reuters",
+     "image": "https://s.france24.com/media/display/daa775ba-c00d-11f1-86df-578a4b968fd6/w:1024/p:16x9/2026-10-02T154814Z-1310255220-RC24TNATK0SJ-RTRMADP-3-USA-CRIME-CORNELL.jpg",
+     "reprises": 3
     },
     {
-     "titre": "En Ethiopie, la prise de Makalé par l’armée fédérale ravive les craintes d’un conflit régional dans la Corne de l’Afrique",
-     "lien": "https://www.lemonde.fr/afrique/article/2026/10/04/en-ethiopie-la-prise-de-makale-par-l-armee-federale-ravive-les-craintes-d-un-conflit-regional-dans-la-corne-de-l-afrique_6788328_3212.html",
-     "resume": "Après des mois de tensions, les combats ont repris fin septembre dans le nord de l’Ethiopie, entre d’une part l’armée fédérale et, d’autre part, le Front populaire de libération du Tigré.",
-     "date": "2026-10-04T20:36:48+02:00",
+     "titre": "En Inde, « sentiment de panique » à Delhi, où le nettoyage des listes électorales menace de radier la moitié des votants",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/04/en-inde-sentiment-de-panique-a-delhi-ou-le-nettoyage-des-listes-electorales-menace-de-radier-la-moitie-des-votants_6788274_3210.html",
+     "resume": "Les musulmans et les populations pauvres sont touchés de manière disproportionnée par la révision des listes électorales et craignent que l’exercice menace, à terme, de les priver de leurs prestations sociales et même de leur citoyenneté.",
+     "date": "2026-10-04T16:30:09+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/04/263/0/3160/1580/644/322/60/0/19ffcad_ftp-1-c9mf3i8mh7zd-5261050-01-06.jpg",
+     "image": "https://img.lemde.fr/2026/10/02/0/0/8640/4320/644/322/60/0/28c7dd8_ftp-1-gtg2p2eexyeb-010515042090483e994a63ee027feee4-0-e7b649380636443faffde5d05bb2bb8e.jpg",
      "reprises": 2
     }
    ]

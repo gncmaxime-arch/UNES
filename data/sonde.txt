@@ -1,31 +1,28 @@
-le-monde ['/t/2026/09/07/le-monde-diplomatique-075917vqm.webp', '/t/2026/09/07/le-monde-diplomatique-075917vqm@2x.webp', '/t/2026/10/02/le-monde-des-livres-064047cqn.webp', '/t/2026/10/02/le-monde-des-livres-064047cqn@2x.webp', 'https://www.frontpages.com/g/2026/10/03/le-monde-232743brn.webp', 'https://www.frontpages.com/g/2026/10/03/le-monde-232743brn.webp.jpg']
-   CTX e."><meta property="og:url" content="https://www.frontpages.com/le-monde/"><meta property="og:image" content="https://www.frontpages.com/g/2026/10/03/le-monde-232743brn.webp.jpg"><meta property="og:updated_time" content="2026-10-03T23:27:46+02:00"><link rel="canonical" href="https://www.frontpages.c
-    200 22314     https://www.frontpages.com/t/2026/09/07/le-monde-diplomatique-075917vqm.webp
-    200 22314 ref https://www.frontpages.com/t/2026/09/07/le-monde-diplomatique-075917vqm.webp
-    200 76756     https://www.frontpages.com/t/2026/09/07/le-monde-diplomatique-075917vqm@2x.webp
-    200 76756 ref https://www.frontpages.com/t/2026/09/07/le-monde-diplomatique-075917vqm@2x.webp
-    200 21372     https://www.frontpages.com/t/2026/10/02/le-monde-des-livres-064047cqn.webp
-    200 21372 ref https://www.frontpages.com/t/2026/10/02/le-monde-des-livres-064047cqn.webp
-    200 70440     https://www.frontpages.com/t/2026/10/02/le-monde-des-livres-064047cqn@2x.webp
-    200 70440 ref https://www.frontpages.com/t/2026/10/02/le-monde-des-livres-064047cqn@2x.webp
-le-figaro ['/t/2026/10/04/le-figaro-sport-0341469kw.webp', '/t/2026/10/04/le-figaro-sport-0341469kw@2x.webp', 'https://www.frontpages.com/g/2026/10/05/le-figaro-000905ey8.webp', 'https://www.frontpages.com/g/2026/10/05/le-figaro-000905ey8.webp.jpg']
-   CTX ."><meta property="og:url" content="https://www.frontpages.com/le-figaro/"><meta property="og:image" content="https://www.frontpages.com/g/2026/10/05/le-figaro-000905ey8.webp.jpg"><meta property="og:updated_time" content="2026-10-05T00:09:06+02:00"><link rel="canonical" href="https://www.frontpages.
-    200 17360     https://www.frontpages.com/t/2026/10/04/le-figaro-sport-0341469kw.webp
-    200 17360 ref https://www.frontpages.com/t/2026/10/04/le-figaro-sport-0341469kw.webp
-    200 44226     https://www.frontpages.com/t/2026/10/04/le-figaro-sport-0341469kw@2x.webp
-    200 44226 ref https://www.frontpages.com/t/2026/10/04/le-figaro-sport-0341469kw@2x.webp
-    404 0     https://www.frontpages.com/g/2026/10/05/le-figaro-000905ey8.webp
-    404 0 ref https://www.frontpages.com/g/2026/10/05/le-figaro-000905ey8.webp
-    404 0     https://www.frontpages.com/g/2026/10/05/le-figaro-000905ey8.webp.jpg
-    404 0 ref https://www.frontpages.com/g/2026/10/05/le-figaro-000905ey8.webp.jpg
-FIG CTX                                                     <img class="ui image" src="/img/default.png" data-src="//static.milibris.com/thumbnail/issue/d8883069-0a40-4205-972e-ef1924c9221f/front/catalog-cover-icon.png">
-FIG ids [('d8883069-0a40-4205-972e-ef1924c9221f', 'catalog-cover-icon.png'), ('736944d6-3cac-454c-a407-1655dd038c18', 'catalog-cover-icon.png'), ('65bccaa4-ea29-4a9a-8cb2-5ea1e6de2e2f', 'catalog-cover-icon.png')]
-    200 51496 catalog-cover-icon.png
-    200 38903 catalog-cover.png
-    200 155668 catalog-cover-large.png
-    200 155668 catalog-cover-large.jpeg
-    404 0 catalog-cover-medium.png
-    404 0 release-cover.png
-    404 0 large.jpeg
-LM https://journal.lemonde.fr/ 200 1050 b'<!DOCTYPE html>\n<html>\n<!-- Le Monde - v1.0.5.46, Platform v3.43.0, Branch master -->\n\n<head>\n  <title>\n    Le Monde\n  </title>\n  <meta charset="utf-8">\n  \n    <link rel="apple-touch-icon" href="//webreaders.twipecloud.net/webapp/lmo-lmo/primary/1.0.5.46/assets/touch-icon.png" />\n    <link rel="icon" sizes="192x192" href="//webreaders.twipecloud.net/webapp/lmo-lmo/primary/1.0.5.46/assets/touch-icon.png" />\n    <link rel="icon" type="image/x-icon" href="//webreaders.twipecloud.net/webapp/lmo-lmo/primary/1.0.5.46/assets/logo.ico" />\n    <meta http-equiv="x-ua-compatible" content="ie=edge">\n    <'
-LM https://www.lemonde.fr/journal-du-jour/ 200 3038 b'<!DOCTYPE html>\n<html lang="en">\n  <head>\n    <meta\n      http-equiv="Content-Security-Policy"\n      content="default-src \'self\'; img-src \'self\' data:; media-src \'self\' data:; object-src \'none\'; style-src \'self\' \'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ=\'; script-src \'self\' \'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=\';"\n    />\n    <link\n      href="/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2"\n      rel="preload"\n      as="font"\n      type="font/woff2"\n      crossorigin\n    />\n    <link href="/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css" rel="stylesheet" />\n    <meta name="'
+ISSUE d8883069-0a40-4205-972e-ef1924c9221f
+     | | | | Toutes les éditions | | | | | | | | | | | | | Le Figaro | | 5 octobre 2026 | | 
+    large 200 155668 (643, 960)
+ISSUE 736944d6-3cac-454c-a407-1655dd038c18
+     | | | Le Figaro | | 5 octobre 2026 | | | | | | | | | Le Figaro | | 3 octobre 2026 | | 
+    large 200 147103 (643, 960)
+ISSUE 65bccaa4-ea29-4a9a-8cb2-5ea1e6de2e2f
+     | | | Le Figaro | | 3 octobre 2026 | | | | | | | | | Le Figaro | | 2 octobre 2026 | | 
+    large 200 141520 (643, 960)
+ISSUE 2a68d12b-8af3-40f4-801b-1cb9d077b19e
+     | | | Le Figaro | | 2 octobre 2026 | | | | | | | | | Le Figaro | | 1 octobre 2026 | | 
+    large 200 160121 (643, 960)
+ISSUE 3bdd545f-0870-4f62-8053-b64c0020f9c7
+     | | | Le Figaro | | 1 octobre 2026 | | | | | | | | | Le Figaro | | 30 septembre 2026 | | 
+    large 200 151523 (643, 960)
+ISSUE 8b94bb99-0bd2-4f13-b718-63ad95ecbbca
+     | | | Toutes les éditions | | | | | | | | | | | | | 200 ans du Figaro | | 17 juin 2026 | | 
+    large 200 131445 (643, 960)
+le-monde 200 23752 (300, 400) /t/2026/10/03/le-monde-232743brn.webp
+le-monde 200 76996 (600, 800) /t/2026/10/03/le-monde-232743brn@2x.webp
+le-figaro 200 23780 (300, 400) /t/2026/10/05/le-figaro-000905ey8.webp
+le-figaro 200 81570 (600, 800) /t/2026/10/05/le-figaro-000905ey8@2x.webp
+la-croix 200 8796 (300, 400) /t/2026/10/03/la-croix-064138ecr.webp
+la-croix 200 17744 (600, 800) /t/2026/10/03/la-croix-064138ecr@2x.webp
+l-equipe 200 18932 (300, 400) /t/2026/10/05/l-equipe-010108f0f.webp
+l-equipe 200 53472 (600, 800) /t/2026/10/05/l-equipe-010108f0f@2x.webp
+kiosko 404 0 None https://img.kiosko.net/2026/10/05/fr/lacroix.750.jpg
+kiosko 200 122753 (750, 934) https://img.kiosko.net/2026/10/04/fr/l_equip.750.jpg
