@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "genere": "2026-10-04T17:58+02:00",
+ "genere": "2026-10-04T18:00+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -248,7 +248,7 @@
      "date": "2026-10-04T05:30:02+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/02/660/0/7926/3963/644/322/60/0/0ee2b06_ftp-1-hkb0s2qmssm5-5248203-01-06.jpg",
-     "reprises": 11
+     "reprises": 9
     },
     {
      "titre": "EN DIRECT, guerre en Ukraine : Kiev « achètera davantage d’armes et d’équipements à l’Allemagne », assure Volodymyr Zelensky lors d’une visite de Frierich Merz à Kiev",
@@ -275,7 +275,7 @@
      "date": "2026-10-04T14:32:11+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/03/668/0/3999/1999/644/322/60/0/1450936_ftp-1-fvfk4bcqp0uu-5254686-01-06.jpg",
-     "reprises": 4
+     "reprises": 3
     },
     {
      "titre": "L'Iran exclut une «solution militaire» à la guerre au Moyen-Orient malgré des tractations qui patinent",
@@ -339,20 +339,20 @@
      "reprises": 3
     },
     {
-     "titre": "An OpenAI safety employee has quit and is sounding the alarm",
-     "lien": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-     "resume": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about…",
-     "date": "2026-10-03T16:31:56+02:00",
-     "source": "theverge.com",
-     "image": null,
-     "reprises": 2
-    },
-    {
      "titre": "Après l'affaire Thélyson Orélien, qu'est-ce qu'un écrivain à l'heure de l'IA?",
      "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcWlRWF91ZnZwUDQ0X3VaRS1XQmswQ1hKcEs4eWZzZ29FeGsyd09hcHg1V1h0RjFWS2ZWN2RmZFFJdTg3X3Nwdk1xNkJvTVBudTdkMEZzaWRNTTltemwyRzUxcnZFVlpjQThlMkZjX0xmbHJRNm5UOHE0bnFlZ0dBNEpsOFBCUXFBaVZLV1RoaDJBbWdfcmRkUnhtcE9Xdlc3U0JrV2lnb0ZUY2ZQRDhVUjFVbXpQR1V5dlNMbWs0OTY1YTM2YVFMTlZfbGRPYTFqdTdKOHRjMThiSmplajJZWThWa2F4bXBMNGJ2cW83cnExVVZERUtTb1EyaTBwWjA?oc=5",
      "resume": "Après l'affaire Thélyson Orélien, qu'est-ce qu'un écrivain à l'heure de l'IA? letemps.ch",
      "date": "2026-10-04T16:50:18+02:00",
      "source": "letemps.ch",
+     "image": null,
+     "reprises": 2
+    },
+    {
+     "titre": "An OpenAI safety employee has quit and is sounding the alarm",
+     "lien": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+     "resume": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about…",
+     "date": "2026-10-03T16:31:56+02:00",
+     "source": "theverge.com",
      "image": null,
      "reprises": 2
     },
@@ -375,20 +375,20 @@
      "reprises": 2
     },
     {
-     "titre": "Entre gain de temps et peur de l’inconnu, l’intelligence artificielle s’invite et divise dans les petites communes rurales.",
-     "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQS3UwbDFNR3BIVl9tRFpTeWZpOGJVbXBsdXJmRmJJU3EwTmpSSWVfd0ZjOGRWNUdtWnR5SXcwcW5NeFM1UGMzOHNSbTE3Q1hsNmRkaEprMkgtUzgzZGJxTFJFT21uMDlmMWpTWE9VQjU4blZqbVQxLVJINWZvX3dMMVhBLXI1UWM3VXpRc054SnA0MGVXNVRScTlQZEt1N2FxaklPRmhOY0tzd0tzY0VkVTQ4b3RqUUdfWXhOdVdXN2swOWE4a3otejA0S0pmcjhiM3Zya01RRy1kTEFmcEhfLVdFZm0wRmpGRjlRZ2RWRjAxMTlhNXJKZ3VYMlQ5dXp4cHlvag?oc=5",
-     "resume": "Entre gain de temps et peur de l’inconnu, l’intelligence artificielle s’invite et divise dans les petites communes rurales. lanouvellerepublique.fr",
-     "date": "2026-10-04T10:00:00+02:00",
-     "source": "lanouvellerepublique.fr",
-     "image": null,
-     "reprises": 2
-    },
-    {
      "titre": "Corée du Nord : Kim Jong Un a supervisé le lancement d’un missile utilisant l’IA",
      "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcGpxTjk1ZWt5ZUhrckRVaHNuSVdEQmhnT1ppLXQ2UVVjQmpibUcyQ1hBd05vOVRoZzVtOHVWWHVoc3RmT3dNSUs1OW9GazFaRUJybXJKbE5sSWluR1Y3NWpVQldCcUdYV29KWk04UE9xeTZSamxGSm1DWlY4VkJYTXBmR0RPTGZmOFNwVHExVlBYMjVPOElsZm8zR3U1Y1dWbTk3Ui1XZkJQcjQwOVd2REt5Q2hkNU5wSjBxcEhzbEpNX2FaLTBCTlVDOW5mQnZ3allKajd6VVJaOVhrZExZTEpDcVNEYnBQbmt2U1hCVQ?oc=5",
      "resume": "Corée du Nord : Kim Jong Un a supervisé le lancement d’un missile utilisant l’IA Le Parisien",
      "date": "2026-10-04T13:46:32+02:00",
      "source": "Le Parisien",
+     "image": null,
+     "reprises": 2
+    },
+    {
+     "titre": "Entre gain de temps et peur de l’inconnu, l’intelligence artificielle s’invite et divise dans les petites communes rurales.",
+     "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQS3UwbDFNR3BIVl9tRFpTeWZpOGJVbXBsdXJmRmJJU3EwTmpSSWVfd0ZjOGRWNUdtWnR5SXcwcW5NeFM1UGMzOHNSbTE3Q1hsNmRkaEprMkgtUzgzZGJxTFJFT21uMDlmMWpTWE9VQjU4blZqbVQxLVJINWZvX3dMMVhBLXI1UWM3VXpRc054SnA0MGVXNVRScTlQZEt1N2FxaklPRmhOY0tzd0tzY0VkVTQ4b3RqUUdfWXhOdVdXN2swOWE4a3otejA0S0pmcjhiM3Zya01RRy1kTEFmcEhfLVdFZm0wRmpGRjlRZ2RWRjAxMTlhNXJKZ3VYMlQ5dXp4cHlvag?oc=5",
+     "resume": "Entre gain de temps et peur de l’inconnu, l’intelligence artificielle s’invite et divise dans les petites communes rurales. lanouvellerepublique.fr",
+     "date": "2026-10-04T10:00:00+02:00",
+     "source": "lanouvellerepublique.fr",
      "image": null,
      "reprises": 2
     }
@@ -400,24 +400,44 @@
    "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
    "items": [
     {
-     "titre": "Besançon. Affaire Narumi : la défense de Nicolas Zepeda veut saisir le Conseil constitutionnel",
-     "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ2l2QktvUXVyd1hfNjNSb3ZuV2w2RmF2SjFBcEhsZEp6VG5zN1NDRHlfa0pIMXVhbEZSWHViclhZVmpBQ0RPTFNWWlhGa0sxYS1iQlZGRTR0N1JiTU8xbDNfTU1vc1hFYXVscXVBdzhPSXpHN2V1bDVyWUVGdVpkWGhaYlozSkJfdHFMaGFFbDMyNFVHQnVKTFBZRTM3LWd4MVVkbVRTbENIY3IxRlpJbXkyR3AwaklvNG5jRXZlZ1RNNFktZU5nUDAtSktKTDlMY0N1SG00bjMwU3hV?oc=5",
-     "resume": "Besançon. Affaire Narumi : la défense de Nicolas Zepeda veut saisir le Conseil constitutionnel L'Est Républicain",
-     "date": "2026-10-03T07:01:12+02:00",
-     "source": "L'Est Républicain",
-     "image": null,
-     "reprises": 31,
-     "libertes": true
-    },
-    {
-     "titre": "Cameroun : Clément Atangana, président du Conseil constitutionnel, est mort",
-     "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVk1IcUs0VlBJbjFjdDZmYkNtN0tlUXZlNlR4SWpSZjZzUlFBTEpGVFJCY2lDVm5qSXZoc29mclJMT3Y2dFF2dnI2Z2ltTWJpUUE3eHJSNjgzbkZGcWZGNllDNkVYcEl3ODMwM1Q5YlJIVml0aExwRFEwMVhiQ2RZaVZKQ2gtaWlkWFh2R0p1TUtHUjFTaVdRaExjdnF0UGxMN3dQVWpKbGcwTXdjUk1v?oc=5",
-     "resume": "Cameroun : Clément Atangana, président du Conseil constitutionnel, est mort LSi Africa",
-     "date": "2026-10-04T14:39:21+02:00",
-     "source": "LSi Africa",
+     "titre": "Auchan : le Conseil d’État confirme définitivement que le PSE est légal",
+     "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSTBxcXRTQ2RyenRKWnZzd2d2RWFGTjM5RGFJMmRSM2JFRlQtUG5scHpIQ0xqcG1BamhMWjZvbE9udDVTenVKRlJiZTgyX1p0bl9EMTF4ZEliSm8yQXphRzAzdnp6UkJwOVp0Y1VzUFo4S0FGeTcwbzQtWnBsSlMtaFBBQlZNblJHNXJ5c3dJeF9IUGxtTGN3UTZsT085dHlRcFEtZUxVb1l2Um51MV92RTBEdEF3dGlCZzhwS3VrVkZDNmEzaE9zbWNZWEFHdjV4UjVxaHllUy1EamNVOHJJWTVJSndxVVdtcTdvVWZ1TQ?oc=5",
+     "resume": "Auchan : le Conseil d’État confirme définitivement que le PSE est légal Le Parisien",
+     "date": "2026-10-02T17:20:30+02:00",
+     "source": "Le Parisien",
      "image": null,
      "reprises": 12,
-     "libertes": true
+     "libertes": false
+    },
+    {
+     "titre": "Oui, les médecins peuvent critiquer l’homéopathie : une décision essentielle du Conseil d’Etat",
+     "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ2duZTN2ZTlUM1cyNWlkR0gtYm1ONm9FNHJ0TWNyeHBfZGdET1lNTUhGOWlSLUZ4MkhocE1RdmY3WHUxMURPazg4N1d4QlJGNTBDNWlxeC1qby1fRzRPZGlMOFNmZjRwUENJS0tCYnBJeUIyY3JLOGJUb3R0NzM5VXhyTkEzYkdkODlzamFWXzFRN2d1TElvRy1oN0w5QTBzbHhjY0JuZHpIaHM5Z3RxMEVOWmVzSmUxY2xNVHhnUnVDMkJDUHlfdFNaWmJVaDVUTF9HbFZWcWYzc2RvUXBoMmFUaldLUVdCeTREaQ?oc=5",
+     "resume": "Oui, les médecins peuvent critiquer l’homéopathie : une décision essentielle du Conseil d’Etat L'Express",
+     "date": "2026-10-04T16:00:00+02:00",
+     "source": "L'Express",
+     "image": null,
+     "reprises": 11,
+     "libertes": false
+    },
+    {
+     "titre": "Sud-Ouest : revirement du Conseil d’État sur la chasse aux filets de l’alouette",
+     "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMFl0RmF0aVhtQmxMdkxyZ0tWMjhXcExjbkQ3a09QZXpsNm5mRmY4N0ZwelNneEllUEpIZmFFY3c4ZnJWWmp1VWowRnRxOURZSjhacVVBZHRlWE9qbUptV2gwdG4zMERaMTVPbDIwS1N1M1dIdzZQVWRnZWltVTgzT0VBSk5fN1duWFJjSWZPa3VLWWdYdl9fcy01b2R6QlhGd2tranM4R1V1VlZYNTB1cklmU1g2OXhaLXYwOFNMQ2d5dlJ5Y0oxdVNwYlVyR1JkU0RIQ2ZQUVlDVWd4Um5KVDg2ZVM?oc=5",
+     "resume": "Sud-Ouest : revirement du Conseil d’État sur la chasse aux filets de l’alouette La République des Pyrénées",
+     "date": "2026-10-04T15:04:05+02:00",
+     "source": "La République des Pyrénées",
+     "image": null,
+     "reprises": 11,
+     "libertes": false
+    },
+    {
+     "titre": "Nuit du Droit 2026 : quatre rendez-vous en Loire-Atlantique ce lundi 5 octobre",
+     "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUZOdTBwQjk3SFVJUWpnLVZlQzBtNDg5ZXltNFVuSWdRcjNjSUh5dS1TU09QRGFRUUZZT2N4WWFrVVpoZE1MTGhHSWp4Z1RLT0lhaWVqVXRzTERnWm0wYi1fQUUzSkpRSnFVVkhGb0EyVWtmNzlGcmtmU2pnZDloa09fN0RRdUNkc0k1VGxJR0xDNGN5Znljc3JwXzk4WXpy?oc=5",
+     "resume": "Nuit du Droit 2026 : quatre rendez-vous en Loire-Atlantique ce lundi 5 octobre Actu44",
+     "date": "2026-10-02T13:20:18+02:00",
+     "source": "Actu44",
+     "image": null,
+     "reprises": 4,
+     "libertes": false
     },
     {
      "titre": "Assigné comme gérant de fait après la liquidation : contester la requalification et limiter l'insuffisance d'actif (2026)",
@@ -430,34 +450,14 @@
      "libertes": false
     },
     {
-     "titre": "Publication des décisions : le Conseil constitutionnel répond favorablement au FDR",
-     "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUkdvbXlBV0ZLOENFaHhxbEp0b2RCWlpNQTl2T0EzeHhnSkRjcS1MbThNQ1l5cEpiempTYWIxcy1LSW1MVkdQVXF0bnlqeXZfYzZoN1U0XzZQWTNPNXBINWMzNGZxRzlxMlU1UTkzRFlBY1VPUUMyVmM5N2g4UXhoR2FPS09BRThHZmRuUHNuTGFwdXVLS25pZEJkbVRZSmYxNnF4bUZkbVU4ZnRDdUdIVDhVUmhrTy1yNF93?oc=5",
-     "resume": "Publication des décisions : le Conseil constitutionnel répond favorablement au FDR DAKARACTU.COM",
-     "date": "2026-10-02T13:02:22+02:00",
-     "source": "DAKARACTU.COM",
+     "titre": "Réduction de la dette publique : Marine Le Pen esquisse dans une tribune les objectifs de sa « règle d’or »",
+     "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNV0dJN3JSTklyU0VBeFV4TU9WRkd0RGg0SUxmU3ByVDBPM202d2JMQ2hVdlhUQ0MtaFJ5MUtfV2I2WWtLeFFEdHJvQXdpbmNKMklzZkpWeHVUVlhLdHFlYzFkcnN5RmpXNlFrd3dxNUV5RFZHcVM3RW1SYlZacmVaZ0FaQ2RMSk1aTHUteTJ1NWlULUpGd2kydlFXTlZmVFJjUFJoR3BJMi15QU1SNkJlUFAwdmxZTUl5MDdzYXB3WGdNVC1iU2dNbnkzcXc0bXE2WEItLVFxMHQ0UExkeUZhZG5PaVRDakFwR055Q3lCZ3N1aGU0dU5DUkdsRDYtbUVUQkE?oc=5",
+     "resume": "Réduction de la dette publique : Marine Le Pen esquisse dans une tribune les objectifs de sa « règle d’or » Ouest-France",
+     "date": "2026-10-02T14:21:24+02:00",
+     "source": "Ouest-France",
      "image": null,
-     "reprises": 4,
-     "libertes": true
-    },
-    {
-     "titre": "Décision n° 2026-1222 QPC du 1er octobre 2026",
-     "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MdDQ4WTJCNGFfZlF5OUo2TWx4dDN1XzVQT1MyWS04aVlneEo5SkI3dDhBTmxVWXFEQTRWWTBJYXo2RGJjQm12M0w5Y2pnbmZSaE9mUkR3a1JDTDA3TkNBWm5ISEFXTlR0RXl5YlFheWptaHZQdmZN?oc=5",
-     "resume": "Décision n° 2026-1222 QPC du 1er octobre 2026 Conseil constitutionnel",
-     "date": "2026-10-01T18:33:11+02:00",
-     "source": "Conseil constitutionnel",
-     "image": null,
-     "reprises": 1,
-     "libertes": true
-    },
-    {
-     "titre": "Après la grâce présidentielle, le Conseil constitutionnel révoque le mandat de deux députées",
-     "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lMFpXRUNjblNvck5VNGt0NzVCTDNuUXBfU1BPNk1FTERmX3hfcVJPU1h2bE5JZ0ZWZ1UtZUtudEJoRWRSckxLNkFabndDRmNwNVNsaGNYcXdueUU?oc=5",
-     "resume": "Après la grâce présidentielle, le Conseil constitutionnel révoque le mandat de deux députées Cridem",
-     "date": "2026-10-01T20:40:00+02:00",
-     "source": "Cridem",
-     "image": null,
-     "reprises": 1,
-     "libertes": true
+     "reprises": 2,
+     "libertes": false
     },
     {
      "titre": "Tunisie: le décret 54, instrument de répression, assoupli par le pouvoir",
@@ -480,13 +480,13 @@
      "libertes": false
     },
     {
-     "titre": "Sud-Ouest : revirement du Conseil d’État sur la chasse aux filets de l’alouette",
-     "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMFl0RmF0aVhtQmxMdkxyZ0tWMjhXcExjbkQ3a09QZXpsNm5mRmY4N0ZwelNneEllUEpIZmFFY3c4ZnJWWmp1VWowRnRxOURZSjhacVVBZHRlWE9qbUptV2gwdG4zMERaMTVPbDIwS1N1M1dIdzZQVWRnZWltVTgzT0VBSk5fN1duWFJjSWZPa3VLWWdYdl9fcy01b2R6QlhGd2tranM4R1V1VlZYNTB1cklmU1g2OXhaLXYwOFNMQ2d5dlJ5Y0oxdVNwYlVyR1JkU0RIQ2ZQUVlDVWd4Um5KVDg2ZVM?oc=5",
-     "resume": "Sud-Ouest : revirement du Conseil d’État sur la chasse aux filets de l’alouette La République des Pyrénées",
-     "date": "2026-10-04T15:04:05+02:00",
-     "source": "La République des Pyrénées",
+     "titre": "Pourquoi saisir la Cour de cassation ? Voici ce qu’elle peut réellement décider",
+     "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSW85RThlQzFPVEtzU1dGLU5oN1MzeHNKeHJuQXU2YzNGNEluQkpyTmxyNERCOVUxbUlnQjRSY1BjdjhWZ280Y2VIMXVodERRSkZrbjhtZWNJOXBNVGxURjRvQW1NWE1hWFdlM1ZlV3A5Sk5jZ1U0MmdkNkVpMWJtb0t5U1cyOENHU0IxVllqOA?oc=5",
+     "resume": "Pourquoi saisir la Cour de cassation ? Voici ce qu’elle peut réellement décider magazine GEO",
+     "date": "2026-10-03T08:13:00+02:00",
+     "source": "magazine GEO",
      "image": null,
-     "reprises": 2,
+     "reprises": 1,
      "libertes": false
     },
     {
