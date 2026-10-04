@@ -178,12 +178,30 @@ def classer(listes, nb, recents_h=36):
 
 # ---------- Unes (images) ----------
 
-def chercher_une(j):
+def slugs_kiosko():
+    """Liste les identifiants de journaux français connus de Kiosko (pour ne pas dépendre de slugs devinés)."""
+    trouves = set()
+    for url in ("https://www.kiosko.net/fr/", "https://www.kiosko.net/fr/geo/Paris.html", "https://fr.kiosko.net/fr/"):
+        try:
+            page = get(url).decode("utf-8", "ignore")
+        except Exception as err:
+            log(f"  kiosko {url}: {type(err).__name__}")
+            continue
+        trouves |= set(re.findall(r"/fr/np/([a-z0-9_]+)\.html", page))
+        trouves |= set(re.findall(r"img\.kiosko\.net/\d+/\d+/\d+/fr/([a-z0-9_]+)\.\d+\.jpg", page))
+    log(f"  kiosko : {len(trouves)} journaux repérés : {' '.join(sorted(trouves))[:900]}")
+    return trouves
+
+
+def chercher_une(j, connus):
     """Kiosko publie la une sous img.kiosko.net/AAAA/MM/JJ/fr/<slug>.750.jpg.
-    Le Monde est daté du lendemain : on essaie demain, aujourd'hui puis hier."""
-    jours = [AUJOURDHUI + dt.timedelta(days=1), AUJOURDHUI, AUJOURDHUI - dt.timedelta(days=1)]
+    Le Monde est daté du lendemain, Le Figaro ne paraît pas le dimanche :
+    on essaie demain, aujourd'hui, puis jusqu'à trois jours en arrière."""
+    cle = j["id"]
+    slugs = list(dict.fromkeys(j["kiosko"] + sorted(s for s in connus if cle in s and "magazine" not in s)))
+    jours = [AUJOURDHUI + dt.timedelta(days=k) for k in (1, 0, -1, -2, -3)]
     for jour in jours:
-        for slug in j["kiosko"]:
+        for slug in slugs:
             url = f"https://img.kiosko.net/{jour:%Y/%m/%d}/fr/{slug}.750.jpg"
             try:
                 data = get(url, timeout=15)
@@ -195,7 +213,7 @@ def chercher_une(j):
                 (SITE / nom).write_bytes(data)
                 log(f"  une {j['nom']}: {url}")
                 return {"fichier": nom, "date": jour.isoformat(), "source": url}
-    log(f"  une {j['nom']}: introuvable")
+    log(f"  une {j['nom']}: introuvable (slugs essayés : {slugs})")
     return None
 
 
@@ -205,7 +223,8 @@ def collecter():
     log("== Journaux")
     with ThreadPoolExecutor(8) as ex:
         flux_j = list(ex.map(lambda j: premier_flux(j["flux"]), JOURNAUX))
-        unes = list(ex.map(chercher_une, JOURNAUX))
+        connus = slugs_kiosko()
+        unes = list(ex.map(lambda j: chercher_une(j, connus), JOURNAUX))
     journaux = []
     for j, (items, url), une in zip(JOURNAUX, flux_j, unes):
         recents = [i for i in items if (MAINTENANT - dt.datetime.fromisoformat(i["date"])).days < 2] or items

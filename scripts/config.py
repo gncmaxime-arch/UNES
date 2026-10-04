@@ -30,7 +30,7 @@ JOURNAUX = [
         "id": "croix",
         "nom": "La Croix",
         "couleur": "#c8102e",
-        "kiosko": ["la_croix", "lacroix", "croix"],
+        "kiosko": ["lacroix", "la_croix"],
         "flux": [
             "https://www.la-croix.com/feeds/rss/site.xml",
             "https://www.la-croix.com/RSS/UNIVERS",
@@ -87,7 +87,7 @@ SECTIONS = [
         "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
         "nb": 10,
         "flux": [
-            gnews("\"Conseil constitutionnel\" when:3d"),
+            gnews("\"Conseil constitutionnel\" France -Cameroun -Sénégal -Mauritanie -Gabon -Bénin -Côte when:3d"),
             gnews("\"Conseil d'État\" décision when:3d"),
             gnews("\"Cour de cassation\" arrêt when:3d"),
             gnews("CEDH OR \"Cour européenne des droits de l'homme\" when:3d"),

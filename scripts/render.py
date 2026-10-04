@@ -31,8 +31,12 @@ def lien(it, contenu, cls=""):
     return f'<span class="{cls}">{contenu}</span>'
 
 
-def carte_une(j, i):
+def carte_une(j, i, jour):
     une = j.get("une")
+    legende = e(j["nom"])
+    if une and une["date"] < jour:
+        legende += f' <small>· édition du {e(date_longue(une["date"]).rsplit(" ", 1)[0])}</small>'
+
     if une:
         visuel = (f'<img src="{e(une["fichier"])}?v={e(une["date"])}" alt="Une de {e(j["nom"])}" '
                   f'loading="{"eager" if i < 2 else "lazy"}" decoding="async">')
@@ -41,7 +45,7 @@ def carte_une(j, i):
         visuel = (f'<div class="une-vide"><span class="une-vide-nom">{e(j["nom"])}</span>'
                   f'<span class="une-vide-titre">{e(titre)}</span></div>')
     return (f'<figure class="une" data-i="{i}" style="--c:{e(j["couleur"])}" tabindex="0" '
-            f'aria-label="{e(j["nom"])}">{visuel}<figcaption>{e(j["nom"])}</figcaption></figure>')
+            f'aria-label="{e(j["nom"])}">{visuel}<figcaption>{legende}</figcaption></figure>')
 
 
 def panneau_journal(j, ed_j, i):
@@ -112,7 +116,7 @@ def render(ed):
     ed_journaux = edito.get("journaux") or {}
     ed_sections = edito.get("sections") or {}
     journaux = ed["journaux"]
-    cartes = "".join(carte_une(j, i) for i, j in enumerate(journaux))
+    cartes = "".join(carte_une(j, i, ed["date"]) for i, j in enumerate(journaux))
     panneaux = "".join(panneau_journal(j, ed_journaux.get(j["id"]), i) for i, j in enumerate(journaux))
     points = "".join(f'<button class="point{" actif" if i == 0 else ""}" data-i="{i}" '
                      f'aria-label="{e(j["nom"])}"></button>' for i, j in enumerate(journaux))
