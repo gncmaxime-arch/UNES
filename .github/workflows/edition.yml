@@ -51,6 +51,17 @@ jobs:
           path: site
       - id: deploiement
         uses: actions/deploy-pages@v4
+      - name: Noter le résultat du déploiement
+        if: always()
+        run: |
+          sleep 20
+          {
+            echo "run ${{ github.run_id }} ($(date -u +%FT%TZ)) : déploiement ${{ steps.deploiement.outcome }}"
+            curl -s "https://minaillevibecoding.github.io/UNES/?t=$(date +%s)" | grep -o "Mis à jour[^<]*" | head -1
+          } > data/deploiement.txt
+          git add data/deploiement.txt
+          git commit -qm "Journal de déploiement" || exit 0
+          git pull --rebase -q origin main && git push -q origin HEAD:main || echo "push ignoré"
 
   apercu:
     # Capture du site en ligne (téléphone + ordinateur) lors d'un lancement manuel, pour vérification.
