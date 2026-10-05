@@ -1,219 +1,161 @@
 {
- "date": "2026-10-04",
- "edito": "La France reste focalisée sur la crise des lycées : entre 400 et 500 établissements suspendront des cours lundi après une semaine de blocages et de dégradations. À l'étranger, le Brésil vote pour un premier tour très serré entre Lula et Flavio Bolsonaro, tandis que Friedrich Merz est à Kiev. Côté droit, le Conseil d'État occupe l'actualité avec plusieurs décisions, de l'homéopathie à la chasse à l'alouette.",
+ "date": "2026-10-05",
+ "edito": "Au Brésil, Flavio Bolsonaro devance nettement Lula au premier tour selon un décompte partiel. En France, les lycées restent sous tension : entre 400 et 500 établissements sont fermés ou perturbés ce lundi. Côté droit, le Conseil d'État valide de nouveau la chasse aux filets de l'alouette, à rebours de sa position de 2024.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro met l'accent sur l'ordre public : le policier passé à tabac à Belfort et le bilan des blocages de lycées. Il détaille aussi la loi « casseurs payeurs », dont l'examen au Sénat est avancé à octobre.",
+   "resume": "Le Figaro ouvre sur le premier tour au Brésil, où Flavio Bolsonaro prend l'avantage sur Lula. Il consacre plusieurs articles au blocus des lycées et à la réponse du gouvernement.",
    "points": [
-    "Belfort : deux mineurs de 17 et 15 ans poursuivis pour violences aggravées sur un policier.",
-    "Lycées : 24 établissements « incendiés ou saccagés » selon le ministre Édouard Geffray.",
-    "Loi « casseurs payeurs » : saisie possible des allocations familiales et des APL dans certains cas.",
-    "Enquête : ce que les chercheurs français pensent vraiment des risques de l'IA."
+    "Brésil : Flavio Bolsonaro à environ 50,2 % contre 41,6 % pour Lula, selon un décompte partiel vers minuit.",
+    "Lycées : entre 400 et 500 établissements fermés ou partiellement fermés lundi, 24 « incendiés ou saccagés ».",
+    "Sébastien Lecornu demande des propositions à ses ministres avant fin octobre pour apaiser la colère lycéenne.",
+    "Primaire sociale-démocrate : dernier débat télévisé à moins d'une semaine du premier tour."
    ]
   },
   "monde": {
-   "resume": "Le Monde s'interroge sur la multiplication des candidatures pour 2027 malgré les appels à l'union face à l'extrême droite. Il suit aussi le blocage des lycées et la guerre en Ukraine.",
+   "resume": "Le Monde suit le dernier débat de la primaire à gauche et la crise des lycées. À l'international, il retient la visite surprise de Friedrich Merz à Kiev et la campagne de Donald Trump avant les midterms.",
    "points": [
-    "Présidentielle 2027 : Écologistes, LR et PCF maintiennent chacun un candidat.",
-    "Internat de médecine : une suspicion de fraude relance le débat sur les épreuves orales.",
-    "Ukraine : Zelensky annonce davantage d'achats d'armes allemands lors de la visite de Friedrich Merz.",
-    "Viginum : immersion dans la cellule qui traque les ingérences étrangères en ligne."
+    "Lycées : Sébastien Lecornu veut une reprise des cours lundi « partout » où la sécurité le permet.",
+    "Friedrich Merz à Kiev malgré les mises en garde de Moscou.",
+    "Midterms du 3 novembre : Donald Trump, très impopulaire, prend en main la campagne républicaine.",
+    "Procès de Rohan Rane, accusé de tortures sexuelles sur mineures via une communauté en ligne."
    ]
   },
   "croix": {
-   "resume": "La Croix ouvre sur Israël, où les prélèvements de sperme sur des soldats tués ont fortement augmenté depuis le 7-Octobre. Le journal consacre plusieurs pages à la crise des lycées, avec la parole d'un enseignant et d'un évêque.",
+   "resume": "La Croix met en avant la guerre en Ukraine, avec Kiev visée par des drones pour le quatrième jour. Son éditorial appelle les adultes à prendre leurs responsabilités face à la crise des lycées.",
    "points": [
-    "Lycées : un gouvernement « pris au piège » d'un mouvement aux revendications multiples.",
-    "Un professeur nantais : « Notre société ne mise plus sur sa jeunesse ».",
-    "Tanzanie : la population se prépare à l'arrivée d'El Niño.",
-    "Culture : l'exposition « Musée sentimental » au musée des Beaux-Arts de Lyon."
+    "Ukraine : des ponts de Kiev ciblés par des drones russes pendant la visite de Friedrich Merz.",
+    "Le Caire accueille une tentative de désescalade entre l'Éthiopie et l'Érythrée.",
+    "La Cour suprême américaine examine le 5 octobre la responsabilité climatique des pétroliers."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe célèbre le cyclisme : Remco Evenepoel champion d'Europe à la photo-finish en Slovénie, et la victoire de Paul Lapeira sur la Coppa Agostoni devant le champion du monde.",
+   "resume": "L'Équipe revient sur le week-end de sport, du rugby à la Ligue des nations. Montpellier écrase Toulon en Top 14, et la question d'un retour de Cristiano Ronaldo avec le Portugal reste ouverte.",
    "points": [
-    "Evenepoel devance les Italiens Ciccone et Scaroni au championnat d'Europe.",
-    "Paul Lapeira bat Brandon McNulty, tout juste champion du monde.",
-    "Football féminin : le PSG bat Fleury 3-1 et rejoint OL Lyonnes en tête."
+    "Top 14 : Montpellier bat Toulon 28-0 sous la pluie, Pierre Mignoni furieux.",
+    "Ligue des nations : le Portugal bat la Norvège 2-1, Jorge Jesus laisse la porte ouverte à Ronaldo.",
+    "Roberto Mancini critique la nouvelle trêve internationale."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Au Brésil, une campagne présidentielle morne et un scrutin très incertain dans l’ombre de l’ingérence des Etats-Unis",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/04/au-bresil-une-campagne-presidentielle-morne-et-un-scrutin-tres-incertain-dans-l-ombre-de-l-ingerence-americaine_6787999_3210.html",
-    "source": "lemonde.fr",
-    "date": "2026-10-04T05:30:02+02:00",
-    "resume": "Lula et Flavio Bolsonaro sont au coude-à-coude au premier tour des élections générales de ce dimanche.",
-    "pourquoi": "Le résultat orientera la première économie d'Amérique latine, sur fond d'ingérence américaine dénoncée dans la campagne."
+    "titre": "Brésil : Flavio Bolsonaro largement devant Lula au premier tour",
+    "resume": "Vers minuit, un décompte partiel donnait 50,2 % au fils de Jair Bolsonaro contre 41,6 % au président sortant.",
+    "pourquoi": "Au-dessus de 50 %, il serait élu dès le premier tour : un basculement à droite de la première puissance d'Amérique latine.",
+    "lien": "https://www.lefigaro.fr/international/election-presidentielle-au-bresil-flavio-bolsonaro-largement-devant-lula-au-1er-tour-20261004",
+    "source": "Le Figaro",
+    "date": "2026-10-04T23:55:03+02:00"
    },
    {
-    "titre": "Ukraine : Kiev achètera davantage d'armes allemandes, annonce Zelensky pendant la visite de Friedrich Merz",
-    "lien": "https://www.lemonde.fr/international/live/2026/10/04/en-direct-guerre-en-ukraine-monsieur-poutine-arretez-cette-guerre-insensee-declare-le-chancelier-allemand-friedrich-merz-a-kiev_6787996_3210.html",
-    "source": "lemonde.fr",
-    "date": "2026-10-04T17:38:37+02:00",
-    "resume": "Kiev et Berlin ont commencé à coopérer pour créer des unités de drones en Allemagne.",
-    "pourquoi": "L'Allemagne s'installe comme premier soutien militaire européen de l'Ukraine."
+    "titre": "Friedrich Merz en visite surprise à Kiev, malgré les menaces russes",
+    "resume": "Le chancelier allemand a annoncé de nouvelles aides ; Kiev achètera davantage d'armes à l'Allemagne, pendant que des drones visaient la capitale.",
+    "pourquoi": "L'Allemagne s'affirme comme premier soutien européen de l'Ukraine, alors que Moscou avait déconseillé ces visites.",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/04/bravant-les-menaces-de-la-russie-friedrich-merz-fait-une-visite-surprise-a-kiev_6788318_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-04T18:35:39+02:00"
    },
    {
-    "titre": "L'Iran exclut une «solution militaire» à la guerre au Moyen-Orient malgré des tractations qui patinent",
-    "lien": "https://www.rfi.fr/fr/moyen-orient/20261004-l-iran-exclut-une-solution-militaire-%C3%A0-la-guerre-au-moyen-orient-malgr%C3%A9-des-tractations-qui-patinent",
-    "source": "AP Photo/Vahid Salemi - Vahid Salemi",
-    "date": "2026-10-04T13:46:42+02:00",
-    "resume": "Abbas Araghchi affirme qu'il n'y a pas de solution militaire, alors qu'aucun règlement diplomatique ne se dessine plus de sept mois après le début du conflit.",
-    "pourquoi": "La guerre au Moyen-Orient reste le principal foyer de risque géopolitique et énergétique."
-   },
-   {
-    "titre": "Yémen : les houthistes encerclent désormais Taëz, grande ville du Sud-Ouest ; le président annonce une offensive pour reprendre l’ensemble du pays",
+    "titre": "Yémen : les houthistes encerclent Taëz, grande ville du Sud-Ouest",
+    "resume": "Les combats ont fait plus de 70 morts en quelques jours ; le président annonce une offensive pour reprendre l'axe coupé.",
+    "pourquoi": "La guerre du Yémen repart, avec un risque humanitaire majeur et des effets sur la sécurité de la mer Rouge.",
     "lien": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html",
-    "source": "lemonde.fr",
-    "date": "2026-10-04T14:32:11+02:00",
-    "resume": "Les houthistes encerclent Taëz ; le président yéménite annonce une offensive pour reprendre le pays.",
-    "pourquoi": "Une escalade au Yémen menace la mer Rouge, axe majeur du commerce mondial."
+    "source": "Le Monde",
+    "date": "2026-10-04T14:32:11+02:00"
    },
    {
-    "titre": "Les pluies torrentielles font au moins deux morts en Espagne",
-    "lien": "https://www.franceinfo.fr/monde/espagne/pluies-torrentielles-et-meurtrieres-en-espagne_8222218.html#xtor=RSS-3-%5Bgeneral%5D",
-    "source": "franceinfo.fr",
-    "date": "2026-10-04T16:16:17+02:00",
-    "resume": "Au moins deux morts dans la région de Barcelone, de nouveau frappée par des inondations.",
-    "pourquoi": "Nouvel épisode d'une série d'événements climatiques extrêmes en Méditerranée."
+    "titre": "La Cour suprême américaine se penche sur la responsabilité climatique des pétroliers",
+    "resume": "Elle examine ce lundi si une collectivité locale peut demander réparation aux compagnies pétrolières pour les effets du changement climatique.",
+    "pourquoi": "La décision dira si le contentieux climatique contre les entreprises peut prospérer devant les juges américains.",
+    "lien": "https://www.la-croix.com/planete/la-responsabilite-climatique-des-entreprises-devant-la-cour-supreme-americaine-20261004",
+    "source": "La Croix",
+    "date": "2026-10-04T18:42:16+02:00"
    },
    {
-    "titre": "Cheikh Hamidou Kane, écrivain sénégalais et figure de la littérature africaine, est mort à l’âge de 98 ans",
-    "lien": "https://www.lemonde.fr/disparitions/article/2026/10/04/l-ecrivain-senegalais-cheikh-hamidou-kane-est-mort-a-l-age-de-a-98-ans_6788267_3382.html",
-    "source": "lemonde.fr",
-    "date": "2026-10-04T15:02:47+02:00",
-    "resume": "L'auteur de « L'Aventure ambiguë », ancien ministre, est mort à 98 ans.",
-    "pourquoi": "Une figure majeure de la littérature africaine francophone disparaît."
+    "titre": "Espagne : des inondations meurtrières près de Barcelone",
+    "resume": "Deux personnes sont mortes dans la région de Barcelone ; les pluies torrentielles doivent continuer.",
+    "pourquoi": "Un an après Valence, l'Espagne reste exposée à des épisodes extrêmes de plus en plus fréquents.",
+    "lien": "https://www.franceinfo.fr/monde/espagne/espagne-les-inondations-font-plusieurs-morts-pres-de-barcelone_8222545.html#xtor=RSS-3-%5Bgeneral%5D",
+    "source": "franceinfo",
+    "date": "2026-10-04T22:15:58+02:00"
    }
   ],
   "ia": [
    {
-    "titre": "Un responsable sécurité d'OpenAI démissionne et alerte publiquement",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-    "source": "theverge.com",
-    "date": "2026-10-03T16:31:56+02:00",
-    "resume": "David Robinson, qui rédigeait les rapports de sécurité accompagnant les grands modèles d'OpenAI, a démissionné et s'exprime dans The Atlantic."
-   },
-   {
-    "titre": "Donald Trump nomme le chef du renseignement américain au poste de «référent IA» : priorité à la coordination, pas à la régulation",
+    "titre": "Trump nomme le chef du renseignement américain « référent IA »",
+    "resume": "La Maison-Blanche privilégie la coordination entre agences plutôt que la régulation du secteur.",
+    "pourquoi": "Le choix confirme que Washington aborde l'IA comme un enjeu de sécurité nationale, pas de protection des usagers.",
     "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVjEzLTJfWXU0cV85VWN2Tjh1U0RhN2lxVG9XWnYxaDNYR1JRU2hIMVpqVHd5WFVKbjlrUzljZUNzYzNwQmxJTVQzeUpnbGVoR3ZDV1hJY1BBRTRIUk9MVWx3X1h1VUpYcWc4S0dnc0RScUtTMFdoLWpLV0NzSTY3d0M2TS1TR3VMZnhJa0g3Y3p2NGd0WXpORGlFc2l5NmRGNU5YNTlrZ1QxU0NoRElacE1nc24xVlVnNHdVckMzQzJ6dFI4QXNaN045dnAwekJDSXhEWlRZZFF1S0xZekRfODZrTTdkRnZqT01yNUUweEtqWHhlSlE?oc=5",
     "source": "Libération",
-    "date": "2026-10-04T17:18:58+02:00",
-    "resume": "La Maison Blanche privilégie la coordination de l'IA par le renseignement plutôt qu'une régulation."
+    "date": "2026-10-04T23:50:02+02:00"
    },
    {
-    "titre": "Anthropic lance un programme de 100 millions de dollars pour former les entreprises à Claude AI",
-    "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa1hiYlBKMDJZWEd3c09CemF2Vm90TzdfOUdrWklVNFc3ZGZmdzJqQ0piWjdvRzA5d1gzZldZcld3UXdoZUJaRWZETEtycEEzOFBvR0lqdmFNTk9vbUtEU2xKMzB6Tk56cndYeHkxcjZrSXJXa3luR2VNVG1rUXh0M0l2UV9LcDdRTkk2SzFPRjhuNThmQ1h5azNPX2RrRmpWYXBWalNjSHZ5R3RNN2dSVlpqTzc3MkFHNWdiYnBSd1FYMUZtN1hVeERvYWxZZzNXbTRoMmZEaw?oc=5",
-    "source": "Clubic",
-    "date": "2026-10-04T15:00:00+02:00",
-    "resume": "Un programme de 100 millions de dollars pour former les entreprises à l'utilisation de Claude."
+    "titre": "Démission chez OpenAI : le responsable des rapports de sécurité tire la sonnette d'alarme",
+    "resume": "David Robinson, qui rédigeait les rapports de sécurité accompagnant chaque modèle, a démissionné et s'explique dans une tribune publiée par The Atlantic.",
+    "pourquoi": "Une nouvelle alerte interne sur la place de la sécurité face à la course aux modèles.",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+    "source": "The Verge",
+    "date": "2026-10-03T16:31:56+02:00"
    },
    {
-    "titre": "Maroc et Mistral AI : premiers outils IA open source livrés",
-    "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRUFvQ3NSNnVKdXN1YUlNbnhjWktpVVdfUmg5a1IzcHEyYTQwU0wzRzU1V2MzQVppZWswcHBMUlFKVjlUV2RGVUpYdVFTUHdGRE9aRlNBM2RibEc0R2hnbEIxMG55a3FhRldadG1QUU9UTmd5UGl1NDlwMXpaX2luejFsZk9kTFVncy05d09YSQ?oc=5",
-    "source": "vu-magazine.com",
-    "date": "2026-10-04T09:11:43+02:00",
-    "resume": "Premiers outils d'IA open source livrés dans le cadre du partenariat entre le Maroc et la start-up française."
+    "titre": "Sam Altman : les bénéfices de l'IA justifient d'accepter certains risques",
+    "resume": "Le patron d'OpenAI assume un arbitrage en faveur du déploiement, au moment où les démissions se multiplient dans l'entreprise.",
+    "pourquoi": "Le débat sur les risques de l'IA se joue désormais publiquement, jusqu'au sommet d'OpenAI.",
+    "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdzVqelZ4R1JlS0FZUFVRM01tc3VNM0ZmaGZNTXBtVVFLMlMyUGRVSl8wQnRMb3FHVUJtYlUwekdHSnhMVl9mV3diM3VWRzEtMUlaSVROYUNmV0xac01wVGVsX1dDckhXaVRHSU96UGdFLXdGYlo3WUpBbE5hWUVneThpUl9qYnlJeFpPVjBMajUwR0duTTBZdTN0WjY0ZDBuZ2dxMGJVSUZHZFhYY2lzSzQ5OU9rQ2txc1kxeGlJaDRpbGNrQUJtSXJ5OTUzQmRSNzFIczhUNU5lWjMyT2pjNW04WlE4aWs3OWc?oc=5",
+    "source": "Zonebourse Suisse",
+    "date": "2026-10-05T00:31:15+02:00"
    },
    {
-    "titre": "Corée du Nord : Kim Jong Un a supervisé le lancement d’un missile utilisant l’IA",
-    "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcGpxTjk1ZWt5ZUhrckRVaHNuSVdEQmhnT1ppLXQ2UVVjQmpibUcyQ1hBd05vOVRoZzVtOHVWWHVoc3RmT3dNSUs1OW9GazFaRUJybXJKbE5sSWluR1Y3NWpVQldCcUdYV29KWk04UE9xeTZSamxGSm1DWlY4VkJYTXBmR0RPTGZmOFNwVHExVlBYMjVPOElsZm8zR3U1Y1dWbTk3Ui1XZkJQcjQwOVd2REt5Q2hkNU5wSjBxcEhzbEpNX2FaLTBCTlVDOW5mQnZ3allKajd6VVJaOVhrZExZTEpDcVNEYnBQbmt2U1hCVQ?oc=5",
-    "source": "Le Parisien",
-    "date": "2026-10-04T13:46:32+02:00",
-    "resume": "Pyongyang affirme avoir lancé un missile utilisant l'intelligence artificielle."
-   },
-   {
-    "titre": "Entre fantasmes et risque d’« IApocalypse », les vraies menaces de l’intelligence artificielle au crible des chercheurs français",
-    "lien": "https://www.lefigaro.fr/secteur/high-tech/entre-fantasmes-et-risque-d-iapocalypse-les-vraies-menaces-de-l-intelligence-artificielle-au-crible-des-chercheurs-francais-20261004",
-    "source": "",
-    "date": "2026-10-04T15:30:03+02:00",
-    "resume": "Enquête du Figaro : les chercheurs français distinguent risques réels et scénarios catastrophes venus de la Silicon Valley."
-   },
-   {
-    "titre": "Dans un monde saturé d’IA, une labellisation « 100 % humain » est-elle possible ?",
-    "lien": "https://www.lemonde.fr/m-perso/article/2026/10/04/on-ne-peut-pas-abandonner-la-culture-a-l-ia-vers-l-emergence-d-une-labellisation-100-humain_6788000_4497916.html",
-    "source": "",
-    "date": "2026-10-04T05:55:03+02:00",
-    "resume": "Des labels « 100 % humain » émergent pour distinguer les créations humaines de celles de l'IA générative."
+    "titre": "Google gèle son programme de primes aux failles open source, submergé par l'IA",
+    "resume": "Une « hausse importante » de signalements générés par IA, souvent sans valeur, a conduit Google à suspendre le programme.",
+    "pourquoi": "Les contenus automatisés de mauvaise qualité commencent à saturer la sécurité informatique collaborative.",
+    "lien": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "source": "TechCrunch",
+    "date": "2026-10-04T22:31:07+02:00"
    }
   ],
   "droit": [
    {
-    "titre": "Oui, les médecins peuvent critiquer l’homéopathie : une décision essentielle du Conseil d’Etat",
-    "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ2duZTN2ZTlUM1cyNWlkR0gtYm1ONm9FNHJ0TWNyeHBfZGdET1lNTUhGOWlSLUZ4MkhocE1RdmY3WHUxMURPazg4N1d4QlJGNTBDNWlxeC1qby1fRzRPZGlMOFNmZjRwUENJS0tCYnBJeUIyY3JLOGJUb3R0NzM5VXhyTkEzYkdkODlzamFWXzFRN2d1TElvRy1oN0w5QTBzbHhjY0JuZHpIaHM5Z3RxMEVOWmVzSmUxY2xNVHhnUnVDMkJDUHlfdFNaWmJVaDVUTF9HbFZWcWYzc2RvUXBoMmFUaldLUVdCeTREaQ?oc=5",
-    "source": "L'Express",
-    "date": "2026-10-04T16:00:00+02:00",
-    "libertes": true,
-    "resume": "Le Conseil d'État admet que des médecins puissent critiquer publiquement l'homéopathie.",
-    "angle_crfpa": "Conciliation entre liberté d'expression (art. 11 DDHC, art. 10 CEDH) et obligations déontologiques des professions réglementées, sous le contrôle du juge administratif."
-   },
-   {
-    "titre": "Transidentité : l'ONU s'alarme pour la liberté d'expression en France après la condamnation de Dora Moutot",
-    "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWUtLanV3X05QUXpPRDhoVnZBSUNSVk1iMTN4WlBWbGpCNWV1Vk1ubWZabUFPbHJWZjNCVmd5YXo3SUZyNUtMT3NLd19zMTJOVUtEaFpYc05mdlJOelJhRGFKMlFDUmRfNWM4blg2Z0NPYUZWcXl3dy02UXBqaGdEeWNtVzBrRGtMWUpacmxFSGxoOTM0alRHN0QzS2Y4SnRvTjlxVEs4dHVGbVJiWGJaU216cUtHNkEybjZ3SUU4Z3ZnZG1qUVp4ZlI0dUhtazQ4eGVV?oc=5",
-    "source": "lejdd.fr",
-    "date": "2026-10-04T14:09:50+02:00",
-    "libertes": true,
-    "resume": "Des experts de l'ONU s'inquiètent pour la liberté d'expression en France après la condamnation de Dora Moutot.",
-    "angle_crfpa": "Limites pénales de la liberté d'expression (loi du 29 juillet 1881) et contrôle de proportionnalité de la CEDH sur l'article 10."
-   },
-   {
-    "titre": "Responsabilité collective, saisie des prestations sociales… Ce que contient la loi «casseurs payeurs», dont l’examen au Sénat a été avancé",
-    "lien": "https://www.lefigaro.fr/politique/responsabilite-collective-saisie-des-prestations-sociales-ce-que-contient-la-loi-casseurs-payeurs-dont-l-examen-au-senat-a-ete-avance-20261004",
-    "source": "",
-    "date": "2026-10-04T15:15:26+02:00",
-    "libertes": true,
-    "resume": "Le texte prévoit notamment la saisie des allocations familiales et des APL dans certains cas ; son examen au Sénat est avancé à octobre.",
-    "angle_crfpa": "Principe de responsabilité pénale personnelle et de personnalité des peines (art. 8 et 9 DDHC), probable terrain d'une saisine du Conseil constitutionnel."
-   },
-   {
-    "titre": "Sud-Ouest : revirement du Conseil d’État sur la chasse aux filets de l’alouette",
+    "titre": "Chasse aux filets de l'alouette : le Conseil d'État change de cap",
+    "resume": "CE, 2 octobre 2026, One Voice et LPO, n° 507798 : la chasse aux pantes poursuit des finalités propres et peut être autorisée en plus du tir.",
+    "libertes": false,
+    "angle_crfpa": "Contrôle de la dérogation prévue par la directive « Oiseaux » : à rapprocher des décisions de 2024 qui avaient fermé ces chasses.",
     "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMFl0RmF0aVhtQmxMdkxyZ0tWMjhXcExjbkQ3a09QZXpsNm5mRmY4N0ZwelNneEllUEpIZmFFY3c4ZnJWWmp1VWowRnRxOURZSjhacVVBZHRlWE9qbUptV2gwdG4zMERaMTVPbDIwS1N1M1dIdzZQVWRnZWltVTgzT0VBSk5fN1duWFJjSWZPa3VLWWdYdl9fcy01b2R6QlhGd2tranM4R1V1VlZYNTB1cklmU1g2OXhaLXYwOFNMQ2d5dlJ5Y0oxdVNwYlVyR1JkU0RIQ2ZQUVlDVWd4Um5KVDg2ZVM?oc=5",
     "source": "La République des Pyrénées",
-    "date": "2026-10-04T15:04:05+02:00",
-    "resume": "Le Conseil d'État revient sur sa position concernant la chasse traditionnelle de l'alouette aux filets.",
-    "angle_crfpa": "Dérogations de l'article 9 de la directive Oiseaux (2009/147/CE) et primauté du droit de l'Union devant le juge administratif."
+    "date": "2026-10-04T15:04:05+02:00"
    },
    {
-    "titre": "Auchan : le Conseil d’État confirme définitivement que le PSE est légal",
+    "titre": "Les médecins peuvent critiquer l'homéopathie, juge le Conseil d'État",
+    "resume": "Saisi par un signataire de la tribune anti-homéopathie de 2018 sanctionné par l'Ordre, le Conseil d'État fait prévaloir la liberté d'expression scientifique.",
+    "libertes": true,
+    "angle_crfpa": "Conciliation entre liberté d'expression (art. 10 CEDH) et déontologie médicale (confraternité, art. R. 4127-13 CSP).",
+    "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ2duZTN2ZTlUM1cyNWlkR0gtYm1ONm9FNHJ0TWNyeHBfZGdET1lNTUhGOWlSLUZ4MkhocE1RdmY3WHUxMURPazg4N1d4QlJGNTBDNWlxeC1qby1fRzRPZGlMOFNmZjRwUENJS0tCYnBJeUIyY3JLOGJUb3R0NzM5VXhyTkEzYkdkODlzamFWXzFRN2d1TElvRy1oN0w5QTBzbHhjY0JuZHpIaHM5Z3RxMEVOWmVzSmUxY2xNVHhnUnVDMkJDUHlfdFNaWmJVaDVUTF9HbFZWcWYzc2RvUXBoMmFUaldLUVdCeTREaQ?oc=5",
+    "source": "L'Express",
+    "date": "2026-10-04T16:00:00+02:00"
+   },
+   {
+    "titre": "Condamnation de Dora Moutot : une rapporteuse de l'ONU s'inquiète pour la liberté d'expression",
+    "resume": "Reem Alsalem estime que la décision de justice française risque de restreindre le débat public au nom de la lutte contre les discriminations.",
+    "libertes": true,
+    "angle_crfpa": "Limites de la liberté d'expression : injure et provocation à la discrimination (loi de 1881) face à l'art. 10 CEDH.",
+    "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORGlZRWIwWnlWbXpoMFB3N0Q5LV94S3Z3eXlPUy1xNHhNbWdrUWVzT0stTjFfWGN4RVRHRjcwU3hGWGxOWUlLRDBUQVdzNm41aXh3SGwwelk4ci1VU1RJZVFLUUs1MzB3cF9lSnJ6R21ObkxRQUZkbHFyX1ZYRTJ5a0hwNjV1NTQ4aUF4cW9XMEhnWGFNdU1xQkdUWUlXM0xBM09GdmRzeUZic2w0aTJ3VWwxb29UR0J4THNocUpQTHMzaWg4NFp2VFZzQXk5cDFFVWJPSUtsMVYxM2RnNDlyUkxxV1N0a05oMnZyVXkyUnVIY196SlEteGF5ajJHdHVod1ZNOA?oc=5",
+    "source": "Gènéthique",
+    "date": "2026-10-04T17:04:32+02:00"
+   },
+   {
+    "titre": "Auchan : le Conseil d'État confirme définitivement la légalité du PSE",
+    "resume": "Le plan de sauvegarde de l'emploi homologué par l'administration est validé en dernier ressort.",
+    "libertes": false,
+    "angle_crfpa": "Contrôle par le juge administratif de l'homologation des PSE depuis la loi du 14 juin 2013.",
     "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSTBxcXRTQ2RyenRKWnZzd2d2RWFGTjM5RGFJMmRSM2JFRlQtUG5scHpIQ0xqcG1BamhMWjZvbE9udDVTenVKRlJiZTgyX1p0bl9EMTF4ZEliSm8yQXphRzAzdnp6UkJwOVp0Y1VzUFo4S0FGeTcwbzQtWnBsSlMtaFBBQlZNblJHNXJ5c3dJeF9IUGxtTGN3UTZsT085dHlRcFEtZUxVb1l2Um51MV92RTBEdEF3dGlCZzhwS3VrVkZDNmEzaE9zbWNZWEFHdjV4UjVxaHllUy1EamNVOHJJWTVJSndxVVdtcTdvVWZ1TQ?oc=5",
     "source": "Le Parisien",
-    "date": "2026-10-02T17:20:30+02:00",
-    "resume": "Le plan de sauvegarde de l'emploi d'Auchan est définitivement jugé légal.",
-    "angle_crfpa": "Contrôle de l'homologation administrative du PSE (art. L. 1233-57-3 du code du travail) par le juge administratif depuis la loi du 14 juin 2013."
-   },
-   {
-    "titre": "Décision n° 2026-1222 QPC du 1er octobre 2026",
-    "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MdDQ4WTJCNGFfZlF5OUo2TWx4dDN1XzVQT1MyWS04aVlneEo5SkI3dDhBTmxVWXFEQTRWWTBJYXo2RGJjQm12M0w5Y2pnbmZSaE9mUkR3a1JDTDA3TkNBWm5ISEFXTlR0RXl5YlFheWptaHZQdmZN?oc=5",
-    "source": "Conseil constitutionnel",
-    "date": "2026-10-01T18:33:11+02:00",
-    "resume": "Nouvelle décision QPC rendue le 1er octobre par le Conseil constitutionnel.",
-    "angle_crfpa": "Mécanisme de la QPC : article 61-1 de la Constitution et filtre du Conseil d'État et de la Cour de cassation."
-   },
-   {
-    "titre": "Tunisie: le décret 54, instrument de répression, assoupli par le pouvoir",
-    "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa2tnbk0yWi05dkFMM0I3bDhiNm96WFdTaEM2b3NCcnYxTEM1OHJtVHBPTmJZZ0s1LXlTVkZSX3ZxVnh3cmxmVlVsMGhnOXcxZXU5cS1qSEpoNktRNWZiQWh1VFF3eWprQlFVQmlIaVFwbXc5X2lFZ3FramU1R3oyYlRIdWdfaXA3VTFieE14SUJmSzZZQnJGd2pMRmZ3QWFwUVk5QUJOdnduTXhDSy1ZNVYzWGhwZ3RnTUE?oc=5",
-    "source": "RFI",
-    "date": "2026-10-02T11:12:23+02:00",
-    "libertes": true,
-    "resume": "Le pouvoir tunisien assouplit le décret-loi 54, utilisé contre journalistes et opposants.",
-    "angle_crfpa": "Liberté de la presse et lois sur les « fausses nouvelles » : comparer avec l'exigence de prévisibilité de la loi pénale."
-   },
-   {
-    "titre": "La déchéance de marque pour défaut d'usage sérieux : l'affichage d'un QR code wifi ne caractérise pas un service de télécommunication selon la Cour de cassation",
-    "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY0VfcXlZQlZ5V0dsZ2FzbFBKTGJ5VVdOMHRkcGZ4VkhyVkhLWWNIaldqODdObHAyZ0xGOEtYQXRXbnRhZXpidkFkN0FHNUQ2a1FMNkdOVVBnc3hfZlBEd28wai10ekpkTTBTZDVvX0RNZnp3S1lEbUlGSUwyNDA0Y0FuOURaYndscWJkZTFXdTZJajJnWDZ5MQ?oc=5",
-    "source": "Kohen Avocats",
-    "date": "2026-10-02T11:45:00+02:00",
-    "resume": "Pour la Cour de cassation, afficher un QR code wifi ne vaut pas usage sérieux d'une marque pour des services de télécommunication.",
-    "angle_crfpa": "Déchéance pour défaut d'usage sérieux (art. L. 714-5 du code de la propriété intellectuelle)."
+    "date": "2026-10-02T17:20:30+02:00"
    }
   ]
  },
  "notion": {
-  "titre": "Handyside c. Royaume-Uni : la liberté d'expression vaut aussi pour les idées qui choquent",
-  "texte": "La Cour européenne des droits de l'homme juge que la liberté d'expression constitue l'un des fondements essentiels d'une société démocratique. Elle vaut non seulement pour les informations ou idées accueillies avec faveur ou considérées comme inoffensives, mais aussi pour celles qui heurtent, choquent ou inquiètent l'État ou une fraction de la population. Les États disposent toutefois d'une marge d'appréciation, notamment en matière de morale, sous le contrôle européen de la nécessité de l'ingérence dans une société démocratique.",
-  "reference": "CEDH, 7 décembre 1976, Handyside c. Royaume-Uni, n° 5493/72"
+  "titre": "L'arrêt Benjamin : la liberté est la règle, la restriction de police l'exception",
+  "texte": "Le maire de Nevers avait interdit une conférence de René Benjamin en invoquant des risques de troubles. Le Conseil d'État annule l'interdiction : le maire devait concilier l'exercice de ses pouvoirs de police avec le respect de la liberté de réunion. Une mesure de police n'est légale que si elle est nécessaire et proportionnée à la menace, ce qui n'était pas le cas, des forces de l'ordre pouvant assurer la sécurité. Cet arrêt fonde le contrôle de proportionnalité des mesures de police, repris dans la jurisprudence Dieudonné (2014) et en référé-liberté.",
+  "reference": "CE, 19 mai 1933, Benjamin, n° 17413 et 17520"
  }
 }
