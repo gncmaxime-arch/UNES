@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "genere": "2026-10-05T07:10+02:00",
+ "genere": "2026-10-05T07:12+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -261,7 +261,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/0/0/4500/2250/644/322/60/0/5be74a0_ftp-1-5ssdvsntqx2r-2026-10-04t120959z-602533101-rc28wnafjzy5-rtrmadp-3-ukraine-crisis-germany.JPG",
      "reprises": 14,
-     "score": 34.62
+     "score": 34.61
     },
     {
      "titre": "« Lula a payé le prix du mécontentement des électeurs » : au Brésil, Flavio Bolsonaro devance Lula au premier tour de l’élection présidentielle",
@@ -271,7 +271,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/05/287/0/3271/1635/644/322/60/0/21d980f_ftp-1-vyhoqv1sewg2-2026-10-05t010520z-161499724-rc2ownafri9o-rtrmadp-3-brazil-election.JPG",
      "reprises": 7,
-     "score": 34.59
+     "score": 34.58
     },
     {
      "titre": "Espagne : les inondations font plusieurs morts près de Barcelone",
@@ -301,7 +301,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/220/0/2645/1322/644/322/60/0/2a3d9c5_ftp-1-1umhbp1wqvqe-2026-10-04t143706z-234243230-rc2rtnagne7d-rtrmadp-3-israel-gulf-flight-australia.JPG",
      "reprises": 3,
-     "score": 5.18
+     "score": 5.17
     },
     {
      "titre": "L’essentiel de l’actu — 5 octobre 2026",
@@ -311,7 +311,7 @@
      "source": "Presse Évasion",
      "image": null,
      "reprises": 2,
-     "score": 3.35
+     "score": 3.34
     }
    ],
    "a_traduire": []
@@ -339,7 +339,7 @@
      "source": "Le Monde.fr",
      "image": null,
      "reprises": 6,
-     "score": 10.26
+     "score": 10.25
     },
     {
      "titre": "Une nouvelle démission choc chez OpenAI s'ajoute aux débats sur les dangers de l'IA",
@@ -349,7 +349,7 @@
      "source": "Les Echos",
      "image": null,
      "reprises": 4,
-     "score": 8.28
+     "score": 8.41
     },
     {
      "titre": "Un employé d'OpenAI démissionne et appelle à renforcer les pratiques de sécurité du secteur de l'IA, face aux incidents récents",
@@ -391,7 +391,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.39
+     "score": 1.38
     }
    ]
   },
@@ -408,7 +408,7 @@
      "source": "larepubliquedespyrenees.fr",
      "image": null,
      "reprises": 13,
-     "score": 21.73,
+     "score": 21.72,
      "libertes": false
     },
     {
