@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "genere": "2026-10-05T07:08+02:00",
+ "genere": "2026-10-05T07:10+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -261,17 +261,17 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/0/0/4500/2250/644/322/60/0/5be74a0_ftp-1-5ssdvsntqx2r-2026-10-04t120959z-602533101-rc28wnafjzy5-rtrmadp-3-ukraine-crisis-germany.JPG",
      "reprises": 14,
-     "score": 34.71
+     "score": 34.62
     },
     {
      "titre": "« Lula a payé le prix du mécontentement des électeurs » : au Brésil, Flavio Bolsonaro devance Lula au premier tour de l’élection présidentielle",
      "lien": "https://www.lemonde.fr/international/article/2026/10/05/lula-a-paye-le-prix-du-mecontentement-des-electeurs-au-bresil-flavio-bolsonaro-devance-lula-au-premier-tour-de-l-election-presidentielle_6788483_3210.html",
-     "resume": "Le candidat d’extrême droite, fils de l’ancien président Jair Bolsonaro (2019-2022), a obtenu 47 % des votes dimanche, contre 45 % pour l’actuel président, qui brigue un quatrième mandat.",
+     "resume": "Le candidat d’extrême droite, fils de l’ancien président Jair Bolsonaro (2019-2022), a obtenu 47 % des votes dimanche, contre 45 % pour l’actuel chef de l’Etat, qui brigue un quatrième mandat.",
      "date": "2026-10-05T06:48:35+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/05/287/0/3271/1635/644/322/60/0/21d980f_ftp-1-vyhoqv1sewg2-2026-10-05t010520z-161499724-rc2ownafri9o-rtrmadp-3-brazil-election.JPG",
      "reprises": 7,
-     "score": 34.6
+     "score": 34.59
     },
     {
      "titre": "Espagne : les inondations font plusieurs morts près de Barcelone",
@@ -311,7 +311,7 @@
      "source": "Presse Évasion",
      "image": null,
      "reprises": 2,
-     "score": 3.34
+     "score": 3.35
     }
    ],
    "a_traduire": []
@@ -329,7 +329,7 @@
      "source": "fr.qz.com",
      "image": null,
      "reprises": 5,
-     "score": 11.55
+     "score": 11.67
     },
     {
      "titre": "Aux Etats-Unis, Jay Clayton, le nouvel homme fort de l’IA",
@@ -339,27 +339,7 @@
      "source": "Le Monde.fr",
      "image": null,
      "reprises": 6,
-     "score": 10.27
-    },
-    {
-     "titre": "Un employé d'OpenAI démissionne et appelle à renforcer les pratiques de sécurité du secteur de l'IA, face aux incidents récents",
-     "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOWDEtT3pTQlY5N1NzZHA1T21LbEhLRVFnZGFyOUdQUk5SNGN4b3B6RWVoaVMtLVhvRC1Qd1hYZlg1WXhGcDNlSmtfV1JtSk5zcjdKSDBDbm4zWW92SEN5V09nTmFxbTlTc1JOOU1zeFVONTJSUmlFTFFiU1R4TDlBYm5IeHJOdjNlYjZmNU9RalVCWWlieTJxRWpsT3g3ZWZwMFNoLUVZZ3YwcXg2NVl0d3BiOThvMl9Sb0RBSGl0cGVxbjJkSU9uME50X3VrbGJFYmJFLUNtRlZuU1BYc3U4emhTcnhsT3hra2FGNVZvb2JpLVlzMWRaUnh1WHREcjE4SGJYSUt3enlTVXNWNGpYWEZLVGlGaXAxMVlTTmRaLUNBYXFOWXV3?oc=5",
-     "resume": "",
-     "date": "2026-10-04T10:15:27+02:00",
-     "source": "franceinfo",
-     "image": null,
-     "reprises": 4,
-     "score": 7.62
-    },
-    {
-     "titre": "Anthropic investit 100 millions de dollars pour former des ingénieurs à l’IA Claude AI",
-     "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0VObS02dS1BOGlDVWtyM3FacFZvY3pBaW5zNzBfUFJWRGJpVnlwZnpzMk0yTGRoY1B5OVlFR1hkcW9wcjR4X0M0c1UyX1FpQl9EZHUyMXJSLWFYRHpRMmRjcHZHY1JiWTRqZ2ZrMzVGUHFSUkNSLVNrUWRkeVlmSG9QS1RtQy1ERmN1c3BPYmlETndfRUlPOFdHS09nX3V4VEUxZFlBYnhtTHdwNExJWkN3?oc=5",
-     "resume": "",
-     "date": "2026-10-05T06:43:49+02:00",
-     "source": "emarketerz.fr",
-     "image": null,
-     "reprises": 4,
-     "score": 6.68
+     "score": 10.26
     },
     {
      "titre": "Une nouvelle démission choc chez OpenAI s'ajoute aux débats sur les dangers de l'IA",
@@ -369,7 +349,27 @@
      "source": "Les Echos",
      "image": null,
      "reprises": 4,
-     "score": 6.34
+     "score": 8.28
+    },
+    {
+     "titre": "Un employé d'OpenAI démissionne et appelle à renforcer les pratiques de sécurité du secteur de l'IA, face aux incidents récents",
+     "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOWDEtT3pTQlY5N1NzZHA1T21LbEhLRVFnZGFyOUdQUk5SNGN4b3B6RWVoaVMtLVhvRC1Qd1hYZlg1WXhGcDNlSmtfV1JtSk5zcjdKSDBDbm4zWW92SEN5V09nTmFxbTlTc1JOOU1zeFVONTJSUmlFTFFiU1R4TDlBYm5IeHJOdjNlYjZmNU9RalVCWWlieTJxRWpsT3g3ZWZwMFNoLUVZZ3YwcXg2NVl0d3BiOThvMl9Sb0RBSGl0cGVxbjJkSU9uME50X3VrbGJFYmJFLUNtRlZuU1BYc3U4emhTcnhsT3hra2FGNVZvb2JpLVlzMWRaUnh1WHREcjE4SGJYSUt3enlTVXNWNGpYWEZLVGlGaXAxMVlTTmRaLUNBYXFOWXV3?oc=5",
+     "resume": "",
+     "date": "2026-10-04T10:15:27+02:00",
+     "source": "franceinfo",
+     "image": null,
+     "reprises": 4,
+     "score": 7.73
+    },
+    {
+     "titre": "Anthropic investit 100 millions de dollars pour former des ingénieurs à l’IA Claude AI",
+     "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0VObS02dS1BOGlDVWtyM3FacFZvY3pBaW5zNzBfUFJWRGJpVnlwZnpzMk0yTGRoY1B5OVlFR1hkcW9wcjR4X0M0c1UyX1FpQl9EZHUyMXJSLWFYRHpRMmRjcHZHY1JiWTRqZ2ZrMzVGUHFSUkNSLVNrUWRkeVlmSG9QS1RtQy1ERmN1c3BPYmlETndfRUlPOFdHS09nX3V4VEUxZFlBYnhtTHdwNExJWkN3?oc=5",
+     "resume": "",
+     "date": "2026-10-05T06:43:49+02:00",
+     "source": "EmarketerZ",
+     "image": null,
+     "reprises": 3,
+     "score": 4.98
     }
    ],
    "a_traduire": [
@@ -405,7 +405,7 @@
      "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMFl0RmF0aVhtQmxMdkxyZ0tWMjhXcExjbkQ3a09QZXpsNm5mRmY4N0ZwelNneEllUEpIZmFFY3c4ZnJWWmp1VWowRnRxOURZSjhacVVBZHRlWE9qbUptV2gwdG4zMERaMTVPbDIwS1N1M1dIdzZQVWRnZWltVTgzT0VBSk5fN1duWFJjSWZPa3VLWWdYdl9fcy01b2R6QlhGd2tranM4R1V1VlZYNTB1cklmU1g2OXhaLXYwOFNMQ2d5dlJ5Y0oxdVNwYlVyR1JkU0RIQ2ZQUVlDVWd4Um5KVDg2ZVM?oc=5",
      "resume": "",
      "date": "2026-10-04T15:04:05+02:00",
-     "source": "La République des Pyrénées",
+     "source": "larepubliquedespyrenees.fr",
      "image": null,
      "reprises": 13,
      "score": 21.73,
@@ -419,7 +419,7 @@
      "source": "L'Express",
      "image": null,
      "reprises": 9,
-     "score": 17.05,
+     "score": 17.04,
      "libertes": false
     },
     {
@@ -430,7 +430,7 @@
      "source": "Le Parisien",
      "image": null,
      "reprises": 4,
-     "score": 6.39,
+     "score": 6.38,
      "libertes": false
     },
     {
