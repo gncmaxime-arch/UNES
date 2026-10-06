@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "genere": "2026-10-06T06:53+02:00",
+ "genere": "2026-10-06T06:57+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -135,6 +135,14 @@
    },
    "articles": [
     {
+     "titre": "En Libye, le « mouvement des enseignants » rassemble dans la grève générale un pays divisé",
+     "lien": "https://www.la-croix.com/international/en-libye-le-mouvement-des-enseignants-rassemble-dans-la-greve-generale-un-pays-divise-20261005",
+     "resume": "La rentrée scolaire n’a pas eu lieu, dans ce pays tiraillé entre deux autorités rivales, où les enseignants sous-payés ne disposent pas du minimum pour travailler.",
+     "date": "2026-10-06T06:55:12+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/05/2552778-des-professeurs-manifestent-a-tripoli-le-29-septem.jpg"
+    },
+    {
      "titre": "Ligue des nations : les Bleus s’offrent de nouveau la victoire face aux Belges",
      "lien": "https://www.la-croix.com/ligue-des-nations-les-bleus-de-zidane-sont-renversants-20261005",
      "resume": "Menés jusqu’à la 77e minute, les Bleus de Zinédine Zidane ont renversé la Belgique grâce à un doublé de Michael Olise, lundi 5 octobre au Stade de France, dans un scénario renversant de Ligue des nations.",
@@ -173,14 +181,6 @@
      "date": "2026-10-06T06:00:00+02:00",
      "source": "",
      "image": "https://i.la-croix.com/x/2026/10/02/2551121-marthe-et-mariejpeg.jpeg"
-    },
-    {
-     "titre": "Primaire socialiste : un troisième débat qui « dégoûte qui que ce soit de voter pour qui que ce soit »",
-     "lien": "https://www.la-croix.com/a-vif/primaire-socialiste-un-troisieme-debat-qui-degoute-qui-que-ce-soit-de-voter-pour-qui-que-ce-soit-20261005",
-     "resume": "Attaques ad hominem, procès d’intention et sous-entendus perfides : le troisième et dernier débat de la primaire socialiste, diffusé dans la soirée du dimanche 4 octobre, a laissé peu de place au débat d’idées. De quoi déboussoler notre chroniqueur Alain…",
-     "date": "2026-10-06T04:00:15+02:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/01/15/23106162-alain-remond-chroniqueur-pour-la-croix.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -261,7 +261,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/06/119/0/3500/1750/644/322/60/0/3f19d32_ftp-1-vm0ea3mraa7n-936b243205a8492c9c5100e23cc4c1e1-0-b0d517e2ae344d87bba43e38aa3689d9.jpg",
      "reprises": 5,
-     "score": 11.62
+     "score": 11.61
     },
     {
      "titre": "Les houthistes disent frapper de nouveau l’Arabie saoudite ; la Turquie et le Pakistan apportent du renfort militaire à Riyad",
@@ -271,7 +271,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/589/0/5119/2559/644/322/60/0/c97ef89_ftp-1-as3ywonzqoui-2026-10-04t142813z-2134413215-rc2bwnaxixin-rtrmadp-3-yemen-dailylife.JPG",
      "reprises": 5,
-     "score": 10.23
+     "score": 9.93
     },
     {
      "titre": "\"Acte III\" : nouvelle journée de mobilisation lycéenne sous haute tension en France",
@@ -284,22 +284,22 @@
      "score": 9.75
     },
     {
+     "titre": "L’armée américaine va mettre à mort par peloton d’exécution un condamné à la peine capitale",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/06/l-armee-americaine-va-mettre-a-mort-par-peloton-d-execution-un-condamne-a-la-peine-capitale_6788689_3210.html",
+     "resume": "Le président américain, Donald Trump, a approuvé l’exécution par l’armée de Nidal Hasan, auteur d’une tuerie sur une base militaire du Texas, en 2009, qui avait fait 13 victimes.",
+     "date": "2026-10-06T03:18:00+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/09/30/402/0/5450/2725/644/322/60/0/1bd8087_ftp-1-hbs3sbwl9hou-0d899748c50f43d9892f6dd2bffb717a-0-e3c7e53b2d5c42c18ad68633789ce9bf.jpg",
+     "reprises": 3,
+     "score": 8.09
+    },
+    {
      "titre": "🔴 Ligue des nations : la France renverse puis punit la Belgique",
      "lien": "https://www.france24.com/fr/sports/20261005-ligue-nations-france-belgique",
      "resume": "Les Bleus ont remporté lundi leur duel face à la Belgique au Stade de France en Ligue des nations. D'abord menés par la Belgique contre le cours du jeu, les Français ont fait la différence en fin de match grâce à l'entrée des remplaçants Cherki, Olise et…",
      "date": "2026-10-05T22:38:06+02:00",
      "source": "france24.com",
      "image": null,
-     "reprises": 3,
-     "score": 6.99
-    },
-    {
-     "titre": "EN DIRECT, guerre en Ukraine : six morts dans une attaque russe à Kharkiv",
-     "lien": "https://www.lemonde.fr/international/live/2026/10/05/en-direct-guerre-en-ukraine-six-morts-dans-une-attaque-russe-a-kharkiv_6787996_3210.html",
-     "resume": "Au moins trois bombes planantes russes se sont abattues dans le quartier de Slobidsky, selon le maire de Kharkiv, Ihor Terekhov. D’après le chef de l’administration militaire de l’oblast, Oleh Synehoubov, 59 personnes ont également été blessées.",
-     "date": "2026-10-05T23:07:27+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/05/414/0/4972/2486/644/322/60/0/fb6a0ae_ftp-1-ial8qnk0q4q7-5273808-01-06.jpg",
      "reprises": 3,
      "score": 6.98
     },
@@ -311,7 +311,7 @@
      "source": "© Evaristo Sa, AFP",
      "image": "https://s.france24.com/media/display/d8a446a6-c0c3-11f1-80bf-13420ab900a2/w:1024/p:16x9/000-D28G6N8.jpg",
      "reprises": 4,
-     "score": 6.15
+     "score": 6.14
     }
    ],
    "a_traduire": []
@@ -329,7 +329,7 @@
      "source": "Le Moniteur",
      "image": null,
      "reprises": 5,
-     "score": 10.69
+     "score": 10.7
     },
     {
      "titre": "OpenAI : le responsable de la sécurité démissionne et tire la sonnette d'alarme à son tour",
@@ -349,7 +349,7 @@
      "source": "CB News",
      "image": null,
      "reprises": 3,
-     "score": 4.71
+     "score": 4.7
     },
     {
      "titre": "OpenAI intègre des publicités dans la fonctionnalité de génération d’images de ChatGPT",
@@ -359,7 +359,7 @@
      "source": "Business AM",
      "image": null,
      "reprises": 3,
-     "score": 4.48
+     "score": 4.47
     },
     {
      "titre": "\"La machine peut nous échapper\" : Jusqu'où l'intelligence artificielle envahira-t-elle nos vies ?",
@@ -369,7 +369,7 @@
      "source": "Le Populaire du Centre",
      "image": null,
      "reprises": 2,
-     "score": 3.49
+     "score": 3.51
     }
    ],
    "a_traduire": [
@@ -437,8 +437,8 @@
      "date": "2026-10-05T19:59:00+02:00",
      "source": "AEF info",
      "image": null,
-     "reprises": 13,
-     "score": 22.66,
+     "reprises": 12,
+     "score": 20.81,
      "libertes": false
     },
     {
@@ -449,7 +449,18 @@
      "source": "30 Millions d'Amis",
      "image": null,
      "reprises": 5,
-     "score": 8.07,
+     "score": 7.97,
+     "libertes": false
+    },
+    {
+     "titre": "À Lannion, Lidl défend encore son projet de magasin rue Saint-Pierre devant le Conseil d’État",
+     "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWDlJRnlJRC1sMHdlNFZUOG53OEluRTQyeXJBM0JucGc2dTdaQ3ZPbFdzRmRDZ2xLN29YZGJYVG15bkQyQVZwdFhaWHE3WWZQWm9JdWRLOEdLQTJZRzlWSS1RN050VUoxVmlzRW9FNExDcGlDUXlJdkRSeTh5RE9VQjQwN292b0JmQ2I4a0ZoLTZyZnlGc3FialVIMTJOU1hYVE1CNjkxdXMtN0R4eEx5ai1fRnRyTVM2OUFja3A2OE5XUEVWb0pUM21WVndic1Yyamk2b3FZRGE5RklIc3h6Rl9GUmZmeTdRNWdZ?oc=5",
+     "resume": "",
+     "date": "2026-10-05T15:36:11+02:00",
+     "source": "Ouest-France",
+     "image": null,
+     "reprises": 3,
+     "score": 5.08,
      "libertes": false
     },
     {
@@ -471,7 +482,7 @@
      "source": "lexpress.fr",
      "image": null,
      "reprises": 2,
-     "score": 3.04,
+     "score": 3.01,
      "libertes": false
     },
     {
@@ -483,17 +494,6 @@
      "image": null,
      "reprises": 2,
      "score": 2.94,
-     "libertes": true
-    },
-    {
-     "titre": "FLASH : Le collège de déontologie des magistrats rend un avis sur la liberté d'expression et l'apparence d'impartialité",
-     "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVnRWNjlBODRIanZDYmJULUtORFdNa3FXM1NPUHJHbmxfRWtEeDZoWXRETExkQU15LVpMYm9JN1VvM1NOZWIyLTU1T09DT3NCY1FQb1c4c3AxVkMzbnVueTZqc3lpVzdfNXRxRzVMSkFyNXlpUjFoaTJFWTdkSWFydmoxM3d0RWdXLXhkSjItVVRGRGRrbnp0cGs3RGRHMHJTV19wM1drOHd3NVVEcXhsUmZUVl92WDZPYVB2UTR2Tjd5TmdlRnpmY01YMFRQQkI2Z3QtVFRYYjlhYTVERlN3MDRrM0hqdXhMQUFSWlZCWURFVEpBeHBZSG82SzQ?oc=5",
-     "resume": "",
-     "date": "2026-10-05T17:11:00+02:00",
-     "source": "actu-juridique.fr",
-     "image": null,
-     "reprises": 1,
-     "score": 1.49,
      "libertes": true
     }
    ],
