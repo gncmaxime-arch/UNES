@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "genere": "2026-10-06T06:57+02:00",
+ "genere": "2026-10-06T08:31+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -12,6 +12,30 @@
     "source": "https://static.milibris.com/thumbnail/issue/b1faed7d-cee5-42f4-98d0-ec8fe90e24dc/front/catalog-cover-large.jpeg"
    },
    "articles": [
+    {
+     "titre": "EN DIRECT - Mobilisation lycéenne : Bally Bagayoko appelle «à la désescalade et à la réponse politique, pas à la réponse policière»",
+     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-blocage-des-lycees-des-dizaines-de-milliers-de-lyceens-dans-la-rue-pour-un-acte-iii-sous-haute-surveillance-20261006",
+     "resume": "Pour cet «Acte III» d’un mouvement qui a démarré mi-septembre en région parisienne avant de s’étendre, les lycéens ont reçu le soutien d’une intersyndicale de l’Éducation nationale qui a appelé à descendre dans la rue à leurs côtés, à Paris, Lyon, Marseille…",
+     "date": "2026-10-06T08:28:02+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/06/3bd415e2ae8ce84d20ac63403625bf9384968db70d65dc245e8ea485059b8951.jpg"
+    },
+    {
+     "titre": "« Mélenchon est quelqu’un de méchant » : qui est Nathanaël Combary, figure du blocus des lycées visée par LFI ?",
+     "lien": "https://www.lefigaro.fr/actualite-france/melenchon-est-quelqu-un-de-mechant-qui-est-nathanael-combary-figure-du-blocus-des-lycees-visee-par-lfi-20261005",
+     "resume": "PORTRAIT - À 18 ans, le président du conseil d’administration de Renouveau lycéen est devenu l’un des principaux porte-parole de la mobilisation qui touche les établissements depuis une semaine. Adhérent de Renaissance, il est accusé par Jean-Luc Mélenchon…",
+     "date": "2026-10-05T21:43:48+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/2995x1685_crop/2026/10/05/7807d12caaae3cf8d2012f5a810e85e2c97e2c1aadef1e8719abd9cfe46c2b1a.jpg"
+    },
+    {
+     "titre": "Blocage des lycées : découvrez les établissements concernés en carte",
+     "lien": "https://www.lefigaro.fr/actualite-france/blocage-des-lycees-la-carte-des-etablissements-concernes-20260929",
+     "resume": "CARTE – Après une intense semaine de mobilisation, la situation reste tendue devant de nombreux lycées ce lundi. Découvrez la carte des établissements concernés.",
+     "date": "2026-10-05T11:50:37+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/02/f013592d8cc43e79782599e3ea39c59707141419535ba33258436caa55be0003.jpg"
+    },
     {
      "titre": "Remplacement des profs, réforme du bac, Parcoursup… Édouard Geffray paie les pots cassés des quinquennats Macron",
      "lien": "https://www.lefigaro.fr/actualite-france/remplacement-des-profs-reforme-du-bac-parcoursup-edouard-geffray-paie-les-pots-casses-des-quinquennats-macron-20261006",
@@ -32,33 +56,9 @@
      "titre": "Blocage des lycées : grèves, soutien de la gauche et de la CGT, présence des agriculteurs… À quoi s’attendre pour la manifestation du 6 octobre ?",
      "lien": "https://www.lefigaro.fr/actualite-france/blocage-des-lycees-greves-soutien-de-la-gauche-et-de-la-cgt-presence-des-agriculteurs-a-quoi-s-attendre-pour-la-manifestation-du-6-octobre-20261005",
      "resume": "Les syndicats lycéens ont appelé à un «acte III» de leur mobilisation mardi, partout en France, face à un «mur politique». L’intersyndicale de l’Éducation nationale manifeste à leurs côtés, tout comme plusieurs partis politiques dont LFI, le PS et le PCF.",
-     "date": "2026-10-05T17:55:32+02:00",
+     "date": "2026-10-06T08:12:40+02:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/05/09fe9ef9640ce1eef0c94b0e076cc949d2c6a9edfb58ae64ea74d1282fab014f.jpg"
-    },
-    {
-     "titre": "Blocage des lycées : à Lens, un adolescent a eu la main arrachée en ramassant une grenade lors d’affrontements avec la police",
-     "lien": "https://www.lefigaro.fr/faits-divers/blocage-des-lycees-a-lens-un-adolescent-a-eu-la-main-arrachee-en-ramassant-une-grenade-lors-d-affrontements-avec-la-police-20261005",
-     "resume": "Une source policière indique au Figaro qu’il aurait perdu sa main après avoir ramassé une grenade de désencerclement pour la relancer vers les forces de l’ordre.",
-     "date": "2026-10-05T16:34:31+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/10/05/7d266c9a779a2ee72247b91b532d06679224493beeaa3b32826961b98c11a4c1.JPG"
-    },
-    {
-     "titre": "EN DIRECT - Blocage des lycées : des dizaines de milliers de lycéens dans la rue pour un «acte III» sous haute surveillance",
-     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-blocage-des-lycees-des-dizaines-de-milliers-de-lyceens-dans-la-rue-pour-un-acte-iii-sous-haute-surveillance-20261006",
-     "resume": "Pour cet «Acte III» d’un mouvement qui a démarré mi-septembre en région parisienne avant de s’étendre, les lycéens ont reçu le soutien d’une intersyndicale de l’Éducation nationale qui a appelé à descendre dans la rue à leurs côtés, à Paris, Lyon, Marseille…",
-     "date": "2026-10-06T06:19:35+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x1861_crop/2026/10/06/ffe61a0007eec81b9b5fb3a65003fb31dbbd4d3305071556151e0fe585fe29a3.jpg"
-    },
-    {
-     "titre": "« Mélenchon est quelqu’un de méchant » : qui est Nathanaël Combary, figure du blocus des lycées visée par LFI ?",
-     "lien": "https://www.lefigaro.fr/actualite-france/melenchon-est-quelqu-un-de-mechant-qui-est-nathanael-combary-figure-du-blocus-des-lycees-visee-par-lfi-20261005",
-     "resume": "PORTRAIT - À 18 ans, le président du conseil d’administration de Renouveau lycéen est devenu l’un des principaux porte-parole de la mobilisation qui touche les établissements depuis une semaine. Adhérent de Renaissance, il est accusé par Jean-Luc Mélenchon…",
-     "date": "2026-10-05T21:43:48+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/2995x1685_crop/2026/10/05/7807d12caaae3cf8d2012f5a810e85e2c97e2c1aadef1e8719abd9cfe46c2b1a.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -74,25 +74,41 @@
    },
    "articles": [
     {
-     "titre": "Paroles de lycéens dans les blocages : « Je suis inquiet pour mon avenir et pour celui de tous les lycéens de France »",
+     "titre": "Paroles de lycéens participant aux blocages : « Je suis inquiet pour mon avenir et pour celui de tous les lycéens de France »",
      "lien": "https://www.lemonde.fr/societe/article/2026/10/06/paroles-de-lyceens-dans-les-blocus-je-suis-inquiet-pour-mon-avenir-et-pour-celui-de-tous-les-lyceens-de-france_6788828_3224.html",
-     "resume": "De la banlieue parisienne à Marseille en passant par Toulouse ou Lyon, les paroles de lycéens et lycéennes croisés par « Le Monde » sur les blocages se répètent, pour dénoncer leurs conditions d’étude, dire leurs inquiétudes et leur besoin viscéral d’être…",
+     "resume": "De la banlieue parisienne à Marseille en passant par Toulouse ou Lyon, lycéens et lycéennes croisés par « Le Monde » lors des blocages racontent leurs conditions d’étude, leurs inquiétudes et leur besoin d’être écoutés.",
      "date": "2026-10-06T05:30:36+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/05/1282/0/8256/4128/644/322/60/0/a00cc5f_ftp-1-ac0k1z2x1ael-5271633-01-06.jpg"
     },
     {
-     "titre": "Le projet de loi « casseurs-payeurs », une future « usine à contentieux »",
-     "lien": "https://www.lemonde.fr/societe/article/2026/10/06/le-projet-de-loi-casseurs-payeurs-une-future-usine-a-contentieux_6788788_3224.html",
-     "resume": "En plein mouvement lycéen, le gouvernement a décidé d’accélérer sur ce texte. Examiné en première lecture au Sénat dès le 27 octobre, ce projet de loi veut donner la possibilité de faire payer des dégâts à toute personne appartenant à un groupement ayant…",
-     "date": "2026-10-06T05:00:11+02:00",
+     "titre": "Pascal Lamy, ancien directeur de l’OMC, fait son mea culpa : « Nous avons fait une erreur de parallaxe historique avec la Chine »",
+     "lien": "https://www.lemonde.fr/economie/article/2026/10/06/pascal-lamy-ancien-directeur-de-l-omc-fait-son-mea-culpa-nous-avons-fait-une-erreur-de-parallaxe-historique-avec-la-chine_6788832_3234.html",
+     "resume": "L’ancien commissaire européen au commerce propose la mise en place d’un nouvel outil pour réduire les déséquilibres commerciaux avec la Chine.",
+     "date": "2026-10-06T05:50:02+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/01/1132/0/8186/4093/644/322/60/0/7362dc4_ftp-1-cofw2kdtn9yv-5238192-01-06.jpg"
+     "image": "https://img.lemde.fr/2026/10/05/0/0/5616/2808/644/322/60/0/6e2fc12_upload-1-3xw0jkq42bre-000-32ne4hw.jpg"
+    },
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : la ville de Moscou visée par une attaque d’une rare ampleur ayant mobilisé 650 drones ukrainiens",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/06/en-direct-guerre-en-ukraine-six-morts-dans-une-attaque-russe-a-kharkiv_6787996_3210.html",
+     "resume": "La capitale russe a été la cible, dans la nuit de lundi à mardi, d’une attaque qui a fait au moins un mort dans la périphérie, selon les autorités. Selon l’agence d’Etat TASS, il s’agit de la deuxième attaque la plus massive de ces derniers mois.",
+     "date": "2026-10-06T07:18:20+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/05/403/0/4564/2282/644/322/60/0/ae9be9e_ftp-1-ime95vyteuuy-2026-10-05t135148z-1523440370-rc21xna9xm6i-rtrmadp-3-ukraine-crisis-attack-kharkiv.JPG"
+    },
+    {
+     "titre": "Québec : les indépendantistes sont de retour au pouvoir et promettent un nouveau référendum sur la sortie du Canada",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/06/au-quebec-les-independantistes-remportent-les-elections-provinciales-et-promettent-un-nouveau-referendum-sur-la-sortie-du-canada_6788755_3210.html",
+     "resume": "Le Parti québécois, vainqueur du scrutin, a toutefois prévenu qu’une consultation sur l’avenir de la province ne serait pas organisée avant la fin du mandat de Donald Trump, estimant que le contexte actuel n’offrait pas un « climat serein ».",
+     "date": "2026-10-06T04:35:12+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/06/119/0/3500/1750/644/322/60/0/3f19d32_ftp-1-vm0ea3mraa7n-936b243205a8492c9c5100e23cc4c1e1-0-b0d517e2ae344d87bba43e38aa3689d9.jpg"
     },
     {
      "titre": "Soupçon de peste en Sibérie : plus le Kremlin tente de rassurer, plus l’inquiétude grandit",
      "lien": "https://www.lemonde.fr/planete/article/2026/10/06/soupcon-de-peste-en-siberie-les-declarations-du-kremlin-ne-rassurent-pas_6788824_3244.html",
-     "resume": "Les autorités assurent que la mort d’une employée d’un laboratoire d’Irkoutsk n’a pas été provoquée par le bacille. Mais l’ampleur des mesures de quarantaine, les déclarations officielles contradictoires et la censure de l’information suscitent des…",
+     "resume": "Les autorités assurent que la mort d’une employée d’un laboratoire d’Irkoutsk n’a pas été provoquée par le bacille. Mais l’ampleur des mesures de quarantaine, les déclarations officielles contradictoires et la censure de l’information interrogent.",
      "date": "2026-10-06T05:04:11+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/05/83/0/1000/500/644/322/60/0/fc1dd52_ftp-1-wukbl8rmeg3u-d438681e0e16465c9618d443448fa1ff-2-69617d793c6746c59fa981317d5c16ba.jpg"
@@ -100,26 +116,10 @@
     {
      "titre": "France-Belgique : Michael Olise, le « talent pur » qui porte l’équipe de France de Zinédine Zidane",
      "lien": "https://www.lemonde.fr/sport/article/2026/10/06/france-belgique-michael-olise-le-talent-pur-qui-porte-l-equipe-de-france-de-zinedine-zidane_6788688_3242.html",
-     "resume": "Les Bleus ont renversé les Diables rouges (4-1), lundi en Ligue des nations de football, grâce à l’entrée en jeu tonitruante de l’ailier du Bayern Munich, auteur d’un doublé et d’une passe décisive. Le prodige de 24 ans s’est montré précieux lors des quatre…",
+     "resume": "Les Bleus ont renversé les Diables rouges (4-1), lundi en Ligue des nations de football, grâce à l’entrée en jeu tonitruante de l’ailier du Bayern Munich, auteur d’un doublé et d’une passe décisive.",
      "date": "2026-10-06T03:17:16+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/05/81/0/4446/2223/644/322/60/0/9feae30_ftp-1-9jizpiwaiemp-5275010-01-06.jpg"
-    },
-    {
-     "titre": "Au Yémen, le quotidien en suspens dans les nouveaux territoires contrôlés par les houthistes : « Tout le monde est encore sous le choc à Moka »",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/05/au-yemen-le-quotidien-en-suspens-dans-les-nouveaux-territoires-controles-par-les-houthistes-tout-le-monde-est-encore-sous-le-choc-a-moka_6788584_3210.html",
-     "resume": "Près d’un mois après la prise de la ville portuaire par le groupe armé, les civils qui n’ont pas fui reprennent peu à peu leurs activités, mais vivent dans la peur.",
-     "date": "2026-10-05T22:13:27+02:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/10/05/332/0/3989/1994/644/322/60/0/7f24582_ftp-1-8a8mp2khr5ju-4a22a79e91764b0880c1b3a7f87215bb-0-f9e08af1181b405bb462b2df929eb902.jpg"
-    },
-    {
-     "titre": "Au Québec, les indépendantistes remportent les élections provinciales et promettent un nouveau référendum sur la sortie du Canada",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/06/au-quebec-les-independantistes-remportent-les-elections-provinciales-et-promettent-un-nouveau-referendum-sur-la-sortie-du-canada_6788755_3210.html",
-     "resume": "Le Parti québécois, vainqueur du scrutin, a toutefois prévenu qu’une consultation sur l’avenir de la province ne serait pas organisée avant la fin du mandat de Donald Trump, estimant que le contexte actuel n’offrait pas un « climat serein ».",
-     "date": "2026-10-06T04:35:12+02:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/10/06/119/0/3500/1750/644/322/60/0/3f19d32_ftp-1-vm0ea3mraa7n-936b243205a8492c9c5100e23cc4c1e1-0-b0d517e2ae344d87bba43e38aa3689d9.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -129,58 +129,58 @@
    "nom": "La Croix",
    "couleur": "#c8102e",
    "une": {
-    "fichier": "unes/croix.webp",
+    "fichier": "unes/croix.jpg",
     "date": "2026-10-06",
-    "source": "https://www.frontpages.com/t/2026/10/06/la-croix-0645523tu@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/06/fr/lacroix.750.jpg"
    },
    "articles": [
     {
-     "titre": "En Libye, le « mouvement des enseignants » rassemble dans la grève générale un pays divisé",
-     "lien": "https://www.la-croix.com/international/en-libye-le-mouvement-des-enseignants-rassemble-dans-la-greve-generale-un-pays-divise-20261005",
-     "resume": "La rentrée scolaire n’a pas eu lieu, dans ce pays tiraillé entre deux autorités rivales, où les enseignants sous-payés ne disposent pas du minimum pour travailler.",
-     "date": "2026-10-06T06:55:12+02:00",
+     "titre": "DIRECT. Manifestations du 6 octobre : blocus de lycées et cortèges, suivez la journée",
+     "lien": "https://www.la-croix.com/societe/irect-manifestation-mardi-6-octobre-blocus-lycees-mobilisation-lyceen-aujourdhui-20261006",
+     "resume": "Les organisations lycéennes appellent à un « acte III » de la mobilisation de la jeunesse ce mardi 6 octobre 2026. De nombreux blocages de lycées sont attendus. À Paris, le départ de la manifestation aura lieu place de la République à 14 heures, avec la…",
+     "date": "2026-10-06T08:25:10+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/05/2552778-des-professeurs-manifestent-a-tripoli-le-29-septem.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/06/2552958-decidees-a-poursuivre-le-mouvement-qui-dure-depuis.jpg"
     },
     {
-     "titre": "Ligue des nations : les Bleus s’offrent de nouveau la victoire face aux Belges",
-     "lien": "https://www.la-croix.com/ligue-des-nations-les-bleus-de-zidane-sont-renversants-20261005",
-     "resume": "Menés jusqu’à la 77e minute, les Bleus de Zinédine Zidane ont renversé la Belgique grâce à un doublé de Michael Olise, lundi 5 octobre au Stade de France, dans un scénario renversant de Ligue des nations.",
-     "date": "2026-10-06T06:33:48+02:00",
+     "titre": "Art : la couverture d’un livre réalisée par Dali dérobée dans un musée d’Auvergne",
+     "lien": "https://www.la-croix.com/culture/art-la-couverture-d-un-livre-realisee-par-dali-derobee-dans-un-musee-dauvergne-20261006",
+     "resume": "Une couverture en bronze ornée d’or et de pierres précieuses, sculptée par Salvador Dali, a été dérobée dans la nuit de dimanche à lundi 5 octobre au Centre d’art contemporain d’Issoire. Une enquête a été confiée à la brigade de recherches de gendarmerie de…",
+     "date": "2026-10-06T08:11:37+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/05/2553451-michael-olise-au-sol-celebre-le-4e-but-de-l-equipe.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/06/2553584-des-voleurs-ont-derobe-le-livre-de-l-apocalypse-do.jpg"
     },
     {
-     "titre": "Blocus des lycées : les réseaux sociaux au cœur du mouvement",
-     "lien": "https://www.la-croix.com/societe/blocus-des-lycees-les-reseaux-sociaux-au-cour-du-mouvement-20261005",
-     "resume": "En relayant abondamment des images de blocus ou de violences touchant des jeunes, Instagram, Snapchat ou TikTok participent à la dynamique des actions menées par les lycéens. Sous le regard attentif des services de renseignement territoriaux.",
-     "date": "2026-10-06T06:30:14+02:00",
+     "titre": "Visite de Léon XIV en France : quatre voix du catholicisme identifient le défi de l’après",
+     "lien": "https://www.la-croix.com/religion/visite-de-leon-xiv-en-france-quatre-voix-du-catholicisme-identifient-le-defi-de-l-apres-20261006",
+     "resume": "Évangélisation, soin des plus vulnérables, unité des chrétiens, dialogue interreligieux, lutte contre les abus… Une semaine après la venue de Léon XIV, cinq figures engagées dans l’Église de France livrent des pistes pour faire perdurer l’élan de sa visite,…",
+     "date": "2026-10-06T08:02:34+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/05/2553156-des-lyceens-consultent-leurs-smartphones-devant-le.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/06/2553199-le-pape-lors-de-la-messe-sur-la-place-de-la-concor.jpg"
     },
     {
-     "titre": "WhatsApp, Teams, e-mails : quand les échanges entre collègues dérapent aussi en numérique",
-     "lien": "https://www.la-croix.com/economie/whatsapp-teams-e-mails-quand-les-echanges-entre-collegues-derapent-aussi-en-numerique-20261005",
-     "resume": "Près d’un tiers des salariés a déjà subi une situation de harcèlement ou été confronté à des comportements inappropriés via les outils de communication digitale, selon un sondage paru le 1er octobre. Les messageries instantanées offrent un terrain propice…",
-     "date": "2026-10-06T06:15:10+02:00",
+     "titre": "« La paix civile est la vraie vie politique »",
+     "lien": "https://www.la-croix.com/a-vif/la-paix-civile-est-la-vraie-vie-politique-20261006",
+     "resume": "Ressentir le bonheur qu’il y a à vivre dans une société paisible, libre, ouverte. Tel est l’objectif de l’initiative lancée par Joseph Challier et Pierre-Yves Gomez, avec un groupe de jeunes. Son principe : proposer aux croyants de toutes confessions et à…",
+     "date": "2026-10-06T08:00:43+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/05/2553018-pres-de-trois-salaries-sur-dix-declarent-avoir-sub.jpeg"
+     "image": "https://i.la-croix.com/x/2026/10/05/2553181-prier-non-pas-pour-fuir-le-politique-mais-pour-le-.jpg"
     },
     {
-     "titre": "Devenir aidant, ça s’apprend : « C’est l’action la plus forte à mener »",
-     "lien": "https://www.la-croix.com/societe/devenir-aidant-ca-s-apprend-cest-laction-la-plus-forte-a-mener-20261005",
-     "resume": "Depuis quelques années, des associations accompagnent et forment les aidants, dont la journée nationale se tient ce mardi 6 octobre. Les hôpitaux développent eux aussi leurs propres modules pour mieux préparer les proches à ce nouveau rôle.",
-     "date": "2026-10-06T06:05:16+02:00",
+     "titre": "Météo : le Gard et l’Hérault en vigilance orange pluie et inondation mardi soir",
+     "lien": "https://www.la-croix.com/societe/meteo-le-gard-et-l-herault-en-vigilance-orange-pluie-et-inondation-mardi-soir-20261006",
+     "resume": "Météo France a placé le Gard et l’Hérault en vigilance orange pluie-inondation et orages à partir de mardi 6 octobre au soir. Des précipitations de 80 à 120 mm, de la grêle et des phénomènes tourbillonnaires sont attendus dans la nuit.",
+     "date": "2026-10-06T07:26:44+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/05/2552779-une-patiente-atteinte-d-un-cancer-du-sein-en-compa.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/06/2553554-une-voiture-est-partiellement-immergee-dans-une-zo.jpg"
     },
     {
-     "titre": "L’essentiel, entre agitation ou écoute. Commentaire de l’Évangile mardi 6 octobre 2026",
-     "lien": "https://www.la-croix.com/religion/l-essentiel-entre-agitation-ou-ecoute-commentaire-de-levangile-mardi-6-octobre-2026-20261002",
-     "resume": "Mardi de la 27e semaine du temps ordinaire (Lc 10, 38-42)",
-     "date": "2026-10-06T06:00:00+02:00",
+     "titre": "Canada : le parti indépendantiste remporte les élections au Québec",
+     "lien": "https://www.la-croix.com/canada-le-quebec-vote-les-independantistes-favoris-20261004",
+     "resume": "Le Parti québécois a remporté lundi 5 octobre les élections provinciales au Québec. Son chef Paul Saint-Pierre Plamondon promet un référendum sur l’indépendance, mais à la tête d’un gouvernement minoritaire, son programme reste incertain.",
+     "date": "2026-10-06T07:17:19+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/02/2551121-marthe-et-mariejpeg.jpeg"
+     "image": "https://i.la-croix.com/x/2026/10/06/2553534-des-soutiens-du-parti-quebecois-celebrent-leur-vic.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -190,58 +190,58 @@
    "nom": "L'Équipe",
    "couleur": "#e2001a",
    "une": {
-    "fichier": "unes/equipe.webp",
+    "fichier": "unes/equipe.jpg",
     "date": "2026-10-06",
-    "source": "https://www.frontpages.com/t/2026/10/06/l-equipe-001151swm@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/06/fr/l_equip.750.jpg"
    },
    "articles": [
     {
-     "titre": "Restes : «Maignan m’a donné quelques conseils»",
-     "lien": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-bleus-guillaume-restes-apres-sa-premiere-avec-les-bleus-contre-la-belgique-mike-maignan-m-a-donne-quelques-conseils/20242655#at_medium=RSS_feeds",
+     "titre": "À quelle heure et sur quelle chaîne voir Angleterre-Tchéquie en Ligue des nations ?",
+     "lien": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-angleterre-tchequie-en-ligue-des-nations/1723587#at_medium=RSS_feeds",
+     "resume": "Après avoir battu largement la Croatie (7-0), l'Angleterre reçoit la Tchéquie, dernière du groupe. Retrouvez ici toutes les informations relatives à la rencontre.",
+     "date": "2026-10-06T08:20:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/deuxieme-avec-six-points-l-angleterre-doit-s-imposer-contre-la-tchequie-ce-mardi-pour-distancer-la-croatie-f-faugere-l-equipe/1500000002605530/222:147,1999:1332-828-552-75/3fcc4.jpg"
+    },
+    {
+     "titre": "Olise, Doué, Cherki... La cavalerie magnifique",
+     "lien": "https://www.lequipe.fr/Football/Article/Olise-doue-cherki-la-cavalerie-magnifique-qui-a-permis-aux-bleus-de-renverser-la-belgique/1723699#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-10-06T06:34:00+02:00",
+     "date": "2026-10-06T08:13:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Les pilotes de rallye Didier Auriol et Yoann Bonato recherchent le plaisir « Integrale » en Corse",
-     "lien": "https://www.lequipe.fr/Sport-auto/Article/Les-pilotes-de-rallye-didier-auriol-et-yoann-bonato-recherchent-le-plaisir-integrale-en-corse/1723576#at_medium=RSS_feeds",
-     "resume": "L'ancien champion du monde Didier Auriol et l'actuel champion de France Yoann Bonato participent au Tour de Corse Historique, qui démarre ce mardi, au volant de la Lancia Delta HF Integrale, version 1992. Avec l'envie de s'éclater et d'être performants.",
-     "date": "2026-10-06T06:30:00+02:00",
+     "titre": "À quelle heure et sur quelle chaîne voir Croatie-Espagne en Ligue des nations ?",
+     "lien": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-croatie-espagne-en-ligue-des-nations/1723541#at_medium=RSS_feeds",
+     "resume": "Pour cette quatrième journée de Ligue des nations, l'Espagne reçoit une Croatie corrigée par l'Angleterre lors du dernier match (0-7). Retrouvez ici toutes les informations relatives à la rencontre.",
+     "date": "2026-10-06T08:10:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/benjamin-boulloud-yoann-bonato-a-gauche-et-fabrice-gordon-didier-auriol-a-droite-avec-la-lancia-hf-integrale-dr/1500000002605498/102:178,1681:1230-828-552-75/f7345.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "L'Azerbaïdjan qui accueille les Mondiaux 2026 a le droit de présenter plus de judokas dans la compétition que les autres nations",
-     "lien": "https://www.lequipe.fr/Judo/Actualites/L-azerbaidjan-qui-accueille-les-mondiaux-2026-a-le-droit-de-presenter-plus-de-judokas-dans-la-competition-que-les-autres-nations/1723643#at_medium=RSS_feeds",
-     "resume": "La possibilité donnée au pays organisateur d'inscrire plus de judokas dans les Mondiaux que les autres nations a permis à l'Azerbaïdjan de présenter dix-sept athlètes masculins. Un avantage très discuté.",
-     "date": "2026-10-06T06:30:00+02:00",
+     "titre": "Les trois options qui pourraient permettre au PSG de rejoindre la NBA Europe",
+     "lien": "https://www.lequipe.fr/Basket/Actualites/Les-trois-options-qui-pourraient-permettre-au-psg-de-rejoindre-la-nba-europe/1723679#at_medium=RSS_feeds",
+     "resume": "S'il décide de candidater pour rejoindre la future NBA Europe, le PSG, via son propriétaire QSI, dispose de plusieurs options.",
+     "date": "2026-10-06T08:05:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/l-azerbaidjanais-ahmad-yusifov-champion-du-monde-des-60-kg-a-bakou-s-mantey-l-equipe/1500000002605699/0:0,2000:1333-828-552-75/fb787.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/le-psg-pourrait-etre-tente-de-candidater-pour-une-place-en-nba-europe-jean-baptiste-autissier-l-equipe/1500000002605833/7:35,1892:1291-828-552-75/21dff.jpg"
     },
     {
-     "titre": "Le débrief d'Alain Giresse après la victoire des Bleus contre la Belgique : « On a deux créateurs, ça faisait longtemps »",
-     "lien": "https://www.lequipe.fr/Football/Article/Le-debrief-d-alain-giresse-apres-la-victoire-des-bleus-contre-la-belgique-on-a-deux-createurs-ca-faisait-longtemps/1723693#at_medium=RSS_feeds",
-     "resume": "Alain Giresse, l'ancien milieu offensif des Bleus, a été ébahi par la facilité dégagée par le joueur du Bayern Munich et sa complicité avec Rayan Cherki, lors de la victoire contre la Belgique (4-1), lundi.",
-     "date": "2026-10-06T05:50:00+02:00",
+     "titre": "Caliste, le petit prince de la Karmine Corp",
+     "lien": "https://www.lequipe.fr/Tous-sports/Actualites/Caliste-le-petit-prince-de-la-karmine-corp/1706548#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-06T08:00:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/rayan-cherki-et-michael-olise-ont-deboussole-les-belges-apres-leur-entree-en-jeu-p-lahalle-l-equipe/1500000002605950/0:0,1500:1000-828-552-75/a9e34.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Affronter Messi pour sa dernière avec l'Argentine, le Bénin de Steeve Mounié « n'y croit même pas ! »",
-     "lien": "https://www.lequipe.fr/Football/Actualites/Affronter-messi-pour-sa-derniere-avec-l-argentine-le-benin-de-steeve-mounie-n-y-croit-meme-pas/1723614#at_medium=RSS_feeds",
-     "resume": "Steve Mounié, même blessé, a fait le déplacement pour le match d'une vie. Tout le Bénin, qui n'a presque jamais rencontré d'équipes non africaines, perçoit ce match contre l'Argentine (dans la nuit de mardi à mercredi, à suivre sur L'Équipe live foot) et la…",
-     "date": "2026-10-06T05:40:00+02:00",
+     "titre": "Le Bénin comme dernier rival pour Lionel Messi, un choix qui laisse perplexe en Argentine",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Le-benin-comme-dernier-rival-pour-lionel-messi-un-choix-qui-laisse-perplexe-en-argentine/1723665#at_medium=RSS_feeds",
+     "resume": "La programmation tardive du « jubilé » de l'icône argentine a conduit la sélection à une programmation inattendue pour ce match de gala face au Bénin (dans la nuit de mardi à mercredi, 1 heure, en direct sur L'Équipe live foot).",
+     "date": "2026-10-06T08:00:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/steve-mounie-numero-9-ici-en-2025-blesse-a-tout-de-meme-fait-le-voyage-pour-assister-au-match-de-son-equipe-contre-l-argentine-m-aly-backpagepix-icon-sport/1500000002605609/0:0,2000:1333-828-552-75/f0f98.jpg"
-    },
-    {
-     "titre": "Les propositions de la NBA à l'étude par les cadres de l'Euroligue : à Côme, un tournant pour le futur du basket européen ?",
-     "lien": "https://www.lequipe.fr/Basket/Article/Les-propositions-de-la-nba-a-l-etude-par-les-cadres-de-l-euroligue-a-come-un-tournant-pour-le-futur-du-basket-europeen/1723678#at_medium=RSS_feeds",
-     "resume": "Réunis sur les rives du lac italien, les édiles de l'Euroligue vont passer en revue leur business-plan sur dix ans et examiner la récente proposition de la NBA visant à résoudre le conflit entre les deux instances rivales.",
-     "date": "2026-10-06T05:36:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/chus-bueno-le-patron-de-l-euroligue-irina-r-hipolito-zuma-icon-sport/1500000002605832/0:10,2000:1343-828-552-75/0e0d4.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-jpg/lionel-messi-va-jouer-son-dernier-match-sous-le-maillot-de-l-albiceleste-face-a-une-equipe-beninoise-peu-experimentee-f-faugere-l-equipe/1500000002605757/115:76,2000:1333-828-552-75/45075.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -254,14 +254,24 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "Au Québec, les indépendantistes remportent les élections provinciales et promettent un nouveau référendum sur la sortie du Canada",
+     "titre": "Québec : les indépendantistes sont de retour au pouvoir et promettent un nouveau référendum sur la sortie du Canada",
      "lien": "https://www.lemonde.fr/international/article/2026/10/06/au-quebec-les-independantistes-remportent-les-elections-provinciales-et-promettent-un-nouveau-referendum-sur-la-sortie-du-canada_6788755_3210.html",
      "resume": "Le Parti québécois, vainqueur du scrutin, a toutefois prévenu qu’une consultation sur l’avenir de la province ne serait pas organisée avant la fin du mandat de Donald Trump, estimant que le contexte actuel n’offrait pas un « climat serein ».",
      "date": "2026-10-06T04:35:12+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/06/119/0/3500/1750/644/322/60/0/3f19d32_ftp-1-vm0ea3mraa7n-936b243205a8492c9c5100e23cc4c1e1-0-b0d517e2ae344d87bba43e38aa3689d9.jpg",
-     "reprises": 5,
-     "score": 11.61
+     "reprises": 6,
+     "score": 12.77
+    },
+    {
+     "titre": "En direct : mobilisation massive attendue des lycéens en France pour l\"'acte III\"",
+     "lien": "https://www.france24.com/fr/france/20261006-en-direct-mobilisation-massive-attendue-des-lyc%C3%A9ens-pour-l-acte-iii-du-mouvement",
+     "resume": "Mardi, la mobilisation des lycéens, qui signe l'\"acte III\" du mouvement, s'annonce massive. Des syndicats ont d'ores et déjà indiqué se joindre à la contestation. Hier, des centaines d'établissements étaient fermés et un jeune de 15 ans a été gravement…",
+     "date": "2026-10-06T06:57:52+02:00",
+     "source": "© Nik Erik Neubauer, Reuters",
+     "image": "https://s.france24.com/media/display/c6271800-c140-11f1-bed9-13420ab900a2/w:1024/p:16x9/2026-10-05T085815Z-1919647910-MT1ZUMA000OJWPLQ-RTRMADP-3-ZUMA.jpg",
+     "reprises": 6,
+     "score": 11.86
     },
     {
      "titre": "Les houthistes disent frapper de nouveau l’Arabie saoudite ; la Turquie et le Pakistan apportent du renfort militaire à Riyad",
@@ -270,48 +280,38 @@
      "date": "2026-10-05T22:30:11+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/04/589/0/5119/2559/644/322/60/0/c97ef89_ftp-1-as3ywonzqoui-2026-10-04t142813z-2134413215-rc2bwnaxixin-rtrmadp-3-yemen-dailylife.JPG",
-     "reprises": 5,
-     "score": 9.93
+     "reprises": 6,
+     "score": 11.13
     },
     {
-     "titre": "\"Acte III\" : nouvelle journée de mobilisation lycéenne sous haute tension en France",
-     "lien": "https://www.france24.com/fr/france/20261006-acte-iii-nouvelle-journ%C3%A9e-de-mobilisation-lyc%C3%A9enne-sous-haute-tension-en-france",
-     "resume": "Des dizaines de milliers de lycéens manifestent sous haute surveillance mardi à travers la France pour réclamer des moyens, un \"Acte III\" soutenu par une intersyndicale de l'Éducation nationale. Plus de 6 000 interpellations ont été effectuées depuis le 28…",
-     "date": "2026-10-06T02:22:48+02:00",
-     "source": "© Jean-Christophe Verhaegen, AFP",
-     "image": "https://s.france24.com/media/display/0f19b93e-c11c-11f1-ac25-69fad0a7cb9f/w:1024/p:16x9/cbc767a3d697d5770d0894690ae5db8b076d8587.jpg",
-     "reprises": 5,
-     "score": 9.75
-    },
-    {
-     "titre": "L’armée américaine va mettre à mort par peloton d’exécution un condamné à la peine capitale",
+     "titre": "L’armée américaine va mettre à mort par peloton d’exécution l’auteur d’une tuerie sur une base militaire, une première depuis 1961",
      "lien": "https://www.lemonde.fr/international/article/2026/10/06/l-armee-americaine-va-mettre-a-mort-par-peloton-d-execution-un-condamne-a-la-peine-capitale_6788689_3210.html",
      "resume": "Le président américain, Donald Trump, a approuvé l’exécution par l’armée de Nidal Hasan, auteur d’une tuerie sur une base militaire du Texas, en 2009, qui avait fait 13 victimes.",
      "date": "2026-10-06T03:18:00+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/09/30/402/0/5450/2725/644/322/60/0/1bd8087_ftp-1-hbs3sbwl9hou-0d899748c50f43d9892f6dd2bffb717a-0-e3c7e53b2d5c42c18ad68633789ce9bf.jpg",
-     "reprises": 3,
-     "score": 8.09
+     "reprises": 5,
+     "score": 10.07
     },
     {
-     "titre": "🔴 Ligue des nations : la France renverse puis punit la Belgique",
-     "lien": "https://www.france24.com/fr/sports/20261005-ligue-nations-france-belgique",
-     "resume": "Les Bleus ont remporté lundi leur duel face à la Belgique au Stade de France en Ligue des nations. D'abord menés par la Belgique contre le cours du jeu, les Français ont fait la différence en fin de match grâce à l'entrée des remplaçants Cherki, Olise et…",
-     "date": "2026-10-05T22:38:06+02:00",
-     "source": "france24.com",
-     "image": null,
-     "reprises": 3,
-     "score": 6.98
-    },
-    {
-     "titre": "Présidentielle au Brésil : comment expliquer le succès de Flavio Bolsonaro face au sortant Lula ?",
-     "lien": "https://www.france24.com/fr/am%C3%A9riques/20261005-pr%C3%A9sidentielle-br%C3%A9sil-comment-expliquer-succ%C3%A8s-flavio-bolsonaro-face-sortant-lula",
-     "resume": "Le sénateur ultraconservateur Flavio Bolsonaro a déjoué les pronostics dimanche en devançant le président sortant de gauche Lula lors du premier tour de l'élection présidentielle. Un clan Bolsonaro qui a aussi fait carton plein aux élections parlementaires.",
-     "date": "2026-10-05T16:43:36+02:00",
-     "source": "© Evaristo Sa, AFP",
-     "image": "https://s.france24.com/media/display/d8a446a6-c0c3-11f1-80bf-13420ab900a2/w:1024/p:16x9/000-D28G6N8.jpg",
+     "titre": "EN DIRECT, guerre en Ukraine : la ville de Moscou visée par une attaque d’une rare ampleur ayant mobilisé 650 drones ukrainiens",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/06/en-direct-guerre-en-ukraine-six-morts-dans-une-attaque-russe-a-kharkiv_6787996_3210.html",
+     "resume": "La capitale russe a été la cible, dans la nuit de lundi à mardi, d’une attaque qui a fait au moins un mort dans la périphérie, selon les autorités. Selon l’agence d’Etat TASS, il s’agit de la deuxième attaque la plus massive de ces derniers mois.",
+     "date": "2026-10-06T07:18:20+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/05/403/0/4564/2282/644/322/60/0/ae9be9e_ftp-1-ime95vyteuuy-2026-10-05t135148z-1523440370-rc21xna9xm6i-rtrmadp-3-ukraine-crisis-attack-kharkiv.JPG",
      "reprises": 4,
-     "score": 6.14
+     "score": 8.83
+    },
+    {
+     "titre": "Élections au Brésil: «Le clan Bolsonaro est une entreprise familiale qui fonctionne bien»",
+     "lien": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261005-%C3%A9lections-au-br%C3%A9sil-le-clan-bolsonaro-est-une-entreprise-familiale-qui-fonctionne-bien",
+     "resume": "Les Brésiliens devront choisir leur président lors d'un second tour de la présidentielle, le 25 octobre, entre le président sortant Lula et son rival d'extrême droite Flavio Bolsonaro, qui a créé la surprise en arrivant à la première place au premier tour,…",
+     "date": "2026-10-05T17:55:31+02:00",
+     "source": "rfi.fr",
+     "image": "https://s.rfi.fr/media/display/f79f8a96-c0c5-11f1-85f0-69fad0a7cb9f/w:1024/p:16x9/2026-09-27T212844Z-1094985982-RC2WRNAO5JC3-RTRMADP-3-BRAZIL-ELECTION-BOLSONARO.jpg",
+     "reprises": 3,
+     "score": 8.03
     }
    ],
    "a_traduire": []
@@ -329,17 +329,27 @@
      "source": "Le Moniteur",
      "image": null,
      "reprises": 5,
-     "score": 10.7
+     "score": 9.99
     },
     {
-     "titre": "OpenAI : le responsable de la sécurité démissionne et tire la sonnette d'alarme à son tour",
-     "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ05LS2Z3Z2Zmc2tZaUNrS1VTMXFxRFRkVjJ2SGFteExlNEtjSVVrQndMQUxjbG51WlYwMVNkY2F3Q2NMOHNqZDVhZ0hHV3BOcldrU0djYUNEalRhdlI0SW9WN0FKX0xpZEYwVkRUUEhuV1JEUUJjdTNpNHBVOThmeVZOTnU1NFBMTGZ1a0Q0UG85NW9pckdpZnBqb0w0d3FydU5fbC1DVGlyelRVNTliVDdwTDBybHR3anhtckN4QVpyX25JOGRnMGtrTUJEUQ?oc=5",
+     "titre": "OpenAI déploie un filigrane invisible dans les textes de ChatGPT et Codex en Europe",
+     "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFRMTjR4NVJ4dmwzMS1mSExCZVhtNVV0cWgwYjhHdFgxU1ZteWYtMDluelN6SFNCdDA5T0FlS0p1NDMzeEo1SEEtaXVjS21Yd19EQVZuRVF5c19vb0RsRHNFd3hva00wSTZaSTItcGVkSWNjQXZiZExhZUh4dzg0ZWhESmRzaURUYU1DSGU5dHgxV2NJTnhnSFlWOFZGMGFoWVdsYw?oc=5",
      "resume": "",
-     "date": "2026-10-05T11:22:00+02:00",
-     "source": "Clubic",
+     "date": "2026-10-06T07:50:27+02:00",
+     "source": "BlogNT",
      "image": null,
-     "reprises": 3,
-     "score": 4.84
+     "reprises": 4,
+     "score": 7.42
+    },
+    {
+     "titre": "OpenAI teste des publicités visuelles dans l'outil de génération d'images de ChatGPT.",
+     "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMl9pb3JxWnFHR1I5TWxXWUJxeDZxQWdzLTExam5ZOXlSckYtRG12aHFmTElRVkpIdC1kaXJmUlVaQ3Jxa0Y1YnMxTUJNY2poenR5QVpWaUFHV19PMGtUcjBud2JRSjBubUM2VHdERnd4bXpPQUJSaGNVR1p1LUtXVmdn?oc=5",
+     "resume": "",
+     "date": "2026-10-05T19:35:32+02:00",
+     "source": "fr.qz.com",
+     "image": null,
+     "reprises": 4,
+     "score": 6.22
     },
     {
      "titre": "ChatGPT Ads : OpenAI renforce ses outils de mesure avec IAS et DV",
@@ -349,17 +359,7 @@
      "source": "CB News",
      "image": null,
      "reprises": 3,
-     "score": 4.7
-    },
-    {
-     "titre": "OpenAI intègre des publicités dans la fonctionnalité de génération d’images de ChatGPT",
-     "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaDYyV0Nva25oaHlXNnZjN0NCdGswRnZYMDNWQVlQUXowV0pxcURYM01LRFNCS2xIYWFLeHVRbWtjNlNxdjRqQ0hqZFo5UEFydWYxUjE1alVlVzI0V1dmUWhjY3hIdFBqOTk0SHFQQ0FzbUpuTk5oc2ZhTThJQ25IamhhVElJc3Y2WGk3UGl6SnIyTUtmeWZnYXc3RVhVbVluazVZY1FQOTh5TkNRSXZfMA?oc=5",
-     "resume": "",
-     "date": "2026-10-05T22:44:00+02:00",
-     "source": "Business AM",
-     "image": null,
-     "reprises": 3,
-     "score": 4.47
+     "score": 4.52
     },
     {
      "titre": "\"La machine peut nous échapper\" : Jusqu'où l'intelligence artificielle envahira-t-elle nos vies ?",
@@ -369,7 +369,7 @@
      "source": "Le Populaire du Centre",
      "image": null,
      "reprises": 2,
-     "score": 3.51
+     "score": 3.28
     }
    ],
    "a_traduire": [
@@ -381,7 +381,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 2,
-     "score": 3.95
+     "score": 3.9
     },
     {
      "titre": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
@@ -391,7 +391,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.44
+     "score": 1.41
     },
     {
      "titre": "Instinct brings its AI agent to group chats, even for friends without an account",
@@ -401,7 +401,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.3
+     "score": 1.28
     },
     {
      "titre": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
@@ -411,7 +411,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.18
+     "score": 1.15
     },
     {
      "titre": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
@@ -421,7 +421,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.17
+     "score": 1.14
     }
    ]
   },
@@ -434,22 +434,22 @@
      "titre": "Le Conseil d'État valide le PSE du groupe Auchan Retail France",
      "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1NCb1N3cHdrOC1fTFpLQ0Q2b3FEbFdyWmZjVkJrelVMajdWR1BHSkRVSm9DTUtGUnZKMzBQQndkYWZpSldweklYRmJoRmxOUjlIT2lFdE9PN01FUWtNazZKMHI2VkREMG50WVF3U2o3VzVYLWpYSWtGT3ZTZ19MTHFpeENPbU1kWUY4aXJwaDhrWERqMkZLMFV5R0x5bXcy?oc=5",
      "resume": "",
-     "date": "2026-10-05T19:59:00+02:00",
+     "date": "2026-10-06T04:23:46+02:00",
      "source": "AEF info",
      "image": null,
      "reprises": 12,
-     "score": 20.81,
+     "score": 22.57,
      "libertes": false
     },
     {
-     "titre": "Le Conseil d'Etat ouvre la voie à un retour de la chasse aux alouettes avec des filets dans le Sud-Ouest",
-     "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNDgzd0FoVmYwTzhWS1ZBQ0k4aXlrWVVxLVZHSmFrZFdPbVpwenIydUFod083V2pVSUZqdl9FSkFtX25yblk5WVlvZGZoV0FianUwaEM5WGQtS1l2SGRrWXNDZXlINi1XZS1Bdi1GckFBeno4QzBMRmhNWWtsV0hwRm9PR2JtNklRdDFaU1JpX1l3c0V5bkJ5QlNuU20tVnFQSzZnQ3BrU3FmOTBEY01xSUhMR1A2QnFIcVN5NEpOdFpaTU1vZm1hMW5xbklBenY4RE05cTRWVHF6Uzg?oc=5",
+     "titre": "Oui, les médecins peuvent critiquer l’homéopathie : une décision essentielle du Conseil d’Etat",
+     "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ2duZTN2ZTlUM1cyNWlkR0gtYm1ONm9FNHJ0TWNyeHBfZGdET1lNTUhGOWlSLUZ4MkhocE1RdmY3WHUxMURPazg4N1d4QlJGNTBDNWlxeC1qby1fRzRPZGlMOFNmZjRwUENJS0tCYnBJeUIyY3JLOGJUb3R0NzM5VXhyTkEzYkdkODlzamFWXzFRN2d1TElvRy1oN0w5QTBzbHhjY0JuZHpIaHM5Z3RxMEVOWmVzSmUxY2xNVHhnUnVDMkJDUHlfdFNaWmJVaDVUTF9HbFZWcWYzc2RvUXBoMmFUaldLUVdCeTREaQ?oc=5",
      "resume": "",
-     "date": "2026-10-05T13:16:24+02:00",
-     "source": "30 Millions d'Amis",
+     "date": "2026-10-04T16:00:00+02:00",
+     "source": "L'Express",
      "image": null,
      "reprises": 5,
-     "score": 7.97,
+     "score": 7.88,
      "libertes": false
     },
     {
@@ -460,7 +460,7 @@
      "source": "Ouest-France",
      "image": null,
      "reprises": 3,
-     "score": 5.08,
+     "score": 5.02,
      "libertes": false
     },
     {
@@ -471,18 +471,18 @@
      "source": "Le Parisien",
      "image": null,
      "reprises": 2,
-     "score": 3.77,
+     "score": 3.74,
      "libertes": true
     },
     {
-     "titre": "Oui, les médecins peuvent critiquer l’homéopathie : une décision essentielle du Conseil d’Etat",
-     "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ2duZTN2ZTlUM1cyNWlkR0gtYm1ONm9FNHJ0TWNyeHBfZGdET1lNTUhGOWlSLUZ4MkhocE1RdmY3WHUxMURPazg4N1d4QlJGNTBDNWlxeC1qby1fRzRPZGlMOFNmZjRwUENJS0tCYnBJeUIyY3JLOGJUb3R0NzM5VXhyTkEzYkdkODlzamFWXzFRN2d1TElvRy1oN0w5QTBzbHhjY0JuZHpIaHM5Z3RxMEVOWmVzSmUxY2xNVHhnUnVDMkJDUHlfdFNaWmJVaDVUTF9HbFZWcWYzc2RvUXBoMmFUaldLUVdCeTREaQ?oc=5",
+     "titre": "Le Conseil d'Etat ouvre la voie à un retour de la chasse aux alouettes avec des filets dans le Sud-Ouest",
+     "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNDgzd0FoVmYwTzhWS1ZBQ0k4aXlrWVVxLVZHSmFrZFdPbVpwenIydUFod083V2pVSUZqdl9FSkFtX25yblk5WVlvZGZoV0FianUwaEM5WGQtS1l2SGRrWXNDZXlINi1XZS1Bdi1GckFBeno4QzBMRmhNWWtsV0hwRm9PR2JtNklRdDFaU1JpX1l3c0V5bkJ5QlNuU20tVnFQSzZnQ3BrU3FmOTBEY01xSUhMR1A2QnFIcVN5NEpOdFpaTU1vZm1hMW5xbklBenY4RE05cTRWVHF6Uzg?oc=5",
      "resume": "",
-     "date": "2026-10-04T16:00:00+02:00",
-     "source": "lexpress.fr",
+     "date": "2026-10-05T13:16:24+02:00",
+     "source": "30millionsdamis.fr",
      "image": null,
      "reprises": 2,
-     "score": 3.01,
+     "score": 3.07,
      "libertes": false
     },
     {
@@ -493,7 +493,7 @@
      "source": "Gènéthique",
      "image": null,
      "reprises": 2,
-     "score": 2.94,
+     "score": 2.95,
      "libertes": true
     }
    ],
