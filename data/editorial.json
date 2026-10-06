@@ -1,161 +1,135 @@
 {
- "date": "2026-10-05",
- "edito": "Au Brésil, Flavio Bolsonaro devance nettement Lula au premier tour selon un décompte partiel. En France, les lycées restent sous tension : entre 400 et 500 établissements sont fermés ou perturbés ce lundi. Côté droit, le Conseil d'État valide de nouveau la chasse aux filets de l'alouette, à rebours de sa position de 2024.",
+ "date": "2026-10-06",
+ "edito": "Les lycéens manifestent partout en France ce mardi pour un « acte III », avec le soutien des syndicats enseignants et sous haute surveillance. À l'étranger, les indépendantistes gagnent au Québec et la Turquie et le Pakistan envoient des renforts à l'Arabie saoudite, visée par les houthistes. Côté droit, le projet de loi « casseurs-payeurs » inquiète les juristes.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro ouvre sur le premier tour au Brésil, où Flavio Bolsonaro prend l'avantage sur Lula. Il consacre plusieurs articles au blocus des lycées et à la réponse du gouvernement.",
+   "resume": "Le Figaro consacre sa une au blocus des lycées et redoute un « mardi noir » avec des casseurs. Il dresse le portrait d'un ministre de l'Éducation dépassé par la crise.",
    "points": [
-    "Brésil : Flavio Bolsonaro à environ 50,2 % contre 41,6 % pour Lula, selon un décompte partiel vers minuit.",
-    "Lycées : entre 400 et 500 établissements fermés ou partiellement fermés lundi, 24 « incendiés ou saccagés ».",
-    "Sébastien Lecornu demande des propositions à ses ministres avant fin octobre pour apaiser la colère lycéenne.",
-    "Primaire sociale-démocrate : dernier débat télévisé à moins d'une semaine du premier tour."
+    "Acte III : des dizaines de milliers de lycéens dans la rue, soutenus par l'intersyndicale et la CGT.",
+    "À Lens, un adolescent a eu la main arrachée en ramassant une grenade de désencerclement.",
+    "Édouard Geffray, ministre de l'Éducation, « paie les pots cassés » des quinquennats Macron.",
+    "Portrait de Nathanaël Combary, 18 ans, figure du mouvement visée par LFI."
    ]
   },
   "monde": {
-   "resume": "Le Monde suit le dernier débat de la primaire à gauche et la crise des lycées. À l'international, il retient la visite surprise de Friedrich Merz à Kiev et la campagne de Donald Trump avant les midterms.",
+   "resume": "Le Monde donne la parole aux lycéens mobilisés et analyse le projet de loi « casseurs-payeurs ». À l'international, il suit la victoire indépendantiste au Québec et un soupçon de peste en Sibérie.",
    "points": [
-    "Lycées : Sébastien Lecornu veut une reprise des cours lundi « partout » où la sécurité le permet.",
-    "Friedrich Merz à Kiev malgré les mises en garde de Moscou.",
-    "Midterms du 3 novembre : Donald Trump, très impopulaire, prend en main la campagne républicaine.",
-    "Procès de Rohan Rane, accusé de tortures sexuelles sur mineures via une communauté en ligne."
+    "« Casseurs-payeurs » : un texte accéléré par le gouvernement, examiné au Sénat dès le 27 octobre.",
+    "Québec : le Parti québécois l'emporte et promet un référendum, pas avant la fin du mandat de Trump.",
+    "Sibérie : la mort d'une employée de laboratoire à Irkoutsk alimente un soupçon de peste.",
+    "Ligue des nations : la France bat la Belgique 4-1 grâce à Michael Olise."
    ]
   },
   "croix": {
-   "resume": "La Croix met en avant la guerre en Ukraine, avec Kiev visée par des drones pour le quatrième jour. Son éditorial appelle les adultes à prendre leurs responsabilités face à la crise des lycées.",
+   "resume": "La Croix ouvre sur la victoire des Bleus contre la Belgique et le rôle des réseaux sociaux dans le blocus des lycées. Elle consacre aussi un dossier aux aidants, dont c'est la journée nationale.",
    "points": [
-    "Ukraine : des ponts de Kiev ciblés par des drones russes pendant la visite de Friedrich Merz.",
-    "Le Caire accueille une tentative de désescalade entre l'Éthiopie et l'Érythrée.",
-    "La Cour suprême américaine examine le 5 octobre la responsabilité climatique des pétroliers."
+    "Blocus des lycées : Instagram, Snapchat et TikTok amplifient la mobilisation.",
+    "Près d'un tiers des salariés a déjà subi du harcèlement via les outils numériques.",
+    "Primaire socialiste : un dernier débat jugé désolant, fait d'attaques personnelles."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe revient sur le week-end de sport, du rugby à la Ligue des nations. Montpellier écrase Toulon en Top 14, et la question d'un retour de Cristiano Ronaldo avec le Portugal reste ouverte.",
+   "resume": "L'Équipe revient sur la victoire 4-1 des Bleus face à la Belgique, portée par Michael Olise. Le journal suit aussi l'avenir du basket européen face à la NBA.",
    "points": [
-    "Top 14 : Montpellier bat Toulon 28-0 sous la pluie, Pierre Mignoni furieux.",
-    "Ligue des nations : le Portugal bat la Norvège 2-1, Jorge Jesus laisse la porte ouverte à Ronaldo.",
-    "Roberto Mancini critique la nouvelle trêve internationale."
+    "Alain Giresse salue le duo Olise-Cherki : « On a deux créateurs, ça faisait longtemps ».",
+    "Le Bénin affronte l'Argentine pour le dernier match de Messi en sélection.",
+    "Mondiaux de judo : l'Azerbaïdjan, pays hôte, autorisé à aligner plus de judokas."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Brésil : Flavio Bolsonaro largement devant Lula au premier tour",
-    "resume": "Vers minuit, un décompte partiel donnait 50,2 % au fils de Jair Bolsonaro contre 41,6 % au président sortant.",
-    "pourquoi": "Au-dessus de 50 %, il serait élu dès le premier tour : un basculement à droite de la première puissance d'Amérique latine.",
-    "lien": "https://www.lefigaro.fr/international/election-presidentielle-au-bresil-flavio-bolsonaro-largement-devant-lula-au-1er-tour-20261004",
-    "source": "Le Figaro",
-    "date": "2026-10-04T23:55:03+02:00"
-   },
-   {
-    "titre": "Friedrich Merz en visite surprise à Kiev, malgré les menaces russes",
-    "resume": "Le chancelier allemand a annoncé de nouvelles aides ; Kiev achètera davantage d'armes à l'Allemagne, pendant que des drones visaient la capitale.",
-    "pourquoi": "L'Allemagne s'affirme comme premier soutien européen de l'Ukraine, alors que Moscou avait déconseillé ces visites.",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/04/bravant-les-menaces-de-la-russie-friedrich-merz-fait-une-visite-surprise-a-kiev_6788318_3210.html",
+    "titre": "Québec : les indépendantistes gagnent et promettent un référendum",
+    "resume": "Le Parti québécois remporte les élections provinciales mais repousse toute consultation après la fin du mandat de Donald Trump.",
+    "pourquoi": "La question de l'indépendance du Québec revient au premier plan, dans un Canada déjà sous pression américaine.",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/06/au-quebec-les-independantistes-remportent-les-elections-provinciales-et-promettent-un-nouveau-referendum-sur-la-sortie-du-canada_6788755_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-04T18:35:39+02:00"
+    "date": "2026-10-06T04:35:12+02:00"
    },
    {
-    "titre": "Yémen : les houthistes encerclent Taëz, grande ville du Sud-Ouest",
-    "resume": "Les combats ont fait plus de 70 morts en quelques jours ; le président annonce une offensive pour reprendre l'axe coupé.",
-    "pourquoi": "La guerre du Yémen repart, avec un risque humanitaire majeur et des effets sur la sécurité de la mer Rouge.",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/04/au-yemen-les-houthistes-coupent-un-axe-strategique-et-encerclent-taez-une-grande-ville-du-sud-ouest_6788266_3210.html",
+    "titre": "Arabie saoudite : la Turquie et le Pakistan envoient des renforts face aux houthistes",
+    "resume": "Liés à Riyad par un pacte de défense, les deux pays soutiennent leur allié, de nouveau visé lundi soir par les houthistes du Yémen.",
+    "pourquoi": "La guerre du Yémen s'élargit et entraîne des puissances régionales, au risque d'un conflit plus large.",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/05/la-turquie-et-le-pakistan-vont-envoyer-des-forces-militaires-en-arabie-saoudite_6788585_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-04T14:32:11+02:00"
+    "date": "2026-10-05T22:30:11+02:00"
    },
    {
-    "titre": "La Cour suprême américaine se penche sur la responsabilité climatique des pétroliers",
-    "resume": "Elle examine ce lundi si une collectivité locale peut demander réparation aux compagnies pétrolières pour les effets du changement climatique.",
-    "pourquoi": "La décision dira si le contentieux climatique contre les entreprises peut prospérer devant les juges américains.",
-    "lien": "https://www.la-croix.com/planete/la-responsabilite-climatique-des-entreprises-devant-la-cour-supreme-americaine-20261004",
-    "source": "La Croix",
-    "date": "2026-10-04T18:42:16+02:00"
+    "titre": "France : « acte III » de la mobilisation lycéenne sous haute tension",
+    "resume": "Des dizaines de milliers de lycéens manifestent pour réclamer des moyens, soutenus par l'intersyndicale ; plus de 6 000 interpellations depuis le début du mouvement.",
+    "pourquoi": "Une crise d'une ampleur rare, qui met le gouvernement sous pression et pose la question du maintien de l'ordre.",
+    "lien": "https://www.france24.com/fr/france/20261006-acte-iii-nouvelle-journ%C3%A9e-de-mobilisation-lyc%C3%A9enne-sous-haute-tension-en-france",
+    "source": "France 24",
+    "date": "2026-10-06T02:22:48+02:00"
    },
    {
-    "titre": "Espagne : des inondations meurtrières près de Barcelone",
-    "resume": "Deux personnes sont mortes dans la région de Barcelone ; les pluies torrentielles doivent continuer.",
-    "pourquoi": "Un an après Valence, l'Espagne reste exposée à des épisodes extrêmes de plus en plus fréquents.",
-    "lien": "https://www.franceinfo.fr/monde/espagne/espagne-les-inondations-font-plusieurs-morts-pres-de-barcelone_8222545.html#xtor=RSS-3-%5Bgeneral%5D",
-    "source": "franceinfo",
-    "date": "2026-10-04T22:15:58+02:00"
+    "titre": "Ukraine : six morts dans une attaque russe à Kharkiv",
+    "resume": "Au moins trois bombes planantes ont frappé un quartier de la ville ; 59 personnes ont été blessées selon les autorités régionales.",
+    "pourquoi": "Les frappes sur les villes continuent, alors que l'Europe renforce son soutien militaire à Kiev.",
+    "lien": "https://www.lemonde.fr/international/live/2026/10/05/en-direct-guerre-en-ukraine-six-morts-dans-une-attaque-russe-a-kharkiv_6787996_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-05T23:07:27+02:00"
+   },
+   {
+    "titre": "Brésil : comment Flavio Bolsonaro a devancé Lula",
+    "resume": "Le sénateur ultraconservateur a déjoué les pronostics au premier tour face au président sortant de gauche.",
+    "pourquoi": "Le retour de la droite bolsonariste au pouvoir changerait la ligne du Brésil sur le climat et la diplomatie.",
+    "lien": "https://www.france24.com/fr/am%C3%A9riques/20261005-pr%C3%A9sidentielle-br%C3%A9sil-comment-expliquer-succ%C3%A8s-flavio-bolsonaro-face-sortant-lula",
+    "source": "France 24",
+    "date": "2026-10-05T16:43:36+02:00"
    }
   ],
   "ia": [
    {
-    "titre": "Trump nomme le chef du renseignement américain « référent IA »",
-    "resume": "La Maison-Blanche privilégie la coordination entre agences plutôt que la régulation du secteur.",
-    "pourquoi": "Le choix confirme que Washington aborde l'IA comme un enjeu de sécurité nationale, pas de protection des usagers.",
-    "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVjEzLTJfWXU0cV85VWN2Tjh1U0RhN2lxVG9XWnYxaDNYR1JRU2hIMVpqVHd5WFVKbjlrUzljZUNzYzNwQmxJTVQzeUpnbGVoR3ZDV1hJY1BBRTRIUk9MVWx3X1h1VUpYcWc4S0dnc0RScUtTMFdoLWpLV0NzSTY3d0M2TS1TR3VMZnhJa0g3Y3p2NGd0WXpORGlFc2l5NmRGNU5YNTlrZ1QxU0NoRElacE1nc24xVlVnNHdVckMzQzJ6dFI4QXNaN045dnAwekJDSXhEWlRZZFF1S0xZekRfODZrTTdkRnZqT01yNUUweEtqWHhlSlE?oc=5",
-    "source": "Libération",
-    "date": "2026-10-04T23:50:02+02:00"
-   },
-   {
-    "titre": "Démission chez OpenAI : le responsable des rapports de sécurité tire la sonnette d'alarme",
-    "resume": "David Robinson, qui rédigeait les rapports de sécurité accompagnant chaque modèle, a démissionné et s'explique dans une tribune publiée par The Atlantic.",
-    "pourquoi": "Une nouvelle alerte interne sur la place de la sécurité face à la course aux modèles.",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+    "titre": "OpenAI ajoute un filigrane invisible aux textes de ChatGPT et Codex, d'abord dans l'UE",
+    "resume": "Un marquage lisible par machine, baptisé textGrain, est déployé en priorité pour les utilisateurs européens.",
+    "pourquoi": "C'est l'une des premières mises en œuvre concrètes des obligations de transparence de l'AI Act européen.",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
     "source": "The Verge",
-    "date": "2026-10-03T16:31:56+02:00"
+    "date": "2026-10-05T20:08:39+02:00"
    },
    {
-    "titre": "Sam Altman : les bénéfices de l'IA justifient d'accepter certains risques",
-    "resume": "Le patron d'OpenAI assume un arbitrage en faveur du déploiement, au moment où les démissions se multiplient dans l'entreprise.",
-    "pourquoi": "Le débat sur les risques de l'IA se joue désormais publiquement, jusqu'au sommet d'OpenAI.",
-    "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdzVqelZ4R1JlS0FZUFVRM01tc3VNM0ZmaGZNTXBtVVFLMlMyUGRVSl8wQnRMb3FHVUJtYlUwekdHSnhMVl9mV3diM3VWRzEtMUlaSVROYUNmV0xac01wVGVsX1dDckhXaVRHSU96UGdFLXdGYlo3WUpBbE5hWUVneThpUl9qYnlJeFpPVjBMajUwR0duTTBZdTN0WjY0ZDBuZ2dxMGJVSUZHZFhYY2lzSzQ5OU9rQ2txc1kxeGlJaDRpbGNrQUJtSXJ5OTUzQmRSNzFIczhUNU5lWjMyT2pjNW04WlE4aWs3OWc?oc=5",
-    "source": "Zonebourse Suisse",
-    "date": "2026-10-05T00:31:15+02:00"
+    "titre": "Wikipédia accuse des robots « incontrôlés » d'OpenAI d'avoir pu causer une panne en mai",
+    "resume": "La Wikimedia Foundation confirme avoir détecté une activité de robots d'OpenAI et les relie possiblement à une panne de mai.",
+    "pourquoi": "Les agents IA qui parcourent le web commencent à peser sur les infrastructures des sites qu'ils consultent.",
+    "lien": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+    "source": "The Verge",
+    "date": "2026-10-05T21:05:19+02:00"
    },
    {
-    "titre": "Google gèle son programme de primes aux failles open source, submergé par l'IA",
-    "resume": "Une « hausse importante » de signalements générés par IA, souvent sans valeur, a conduit Google à suspendre le programme.",
-    "pourquoi": "Les contenus automatisés de mauvaise qualité commencent à saturer la sécurité informatique collaborative.",
-    "lien": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "source": "TechCrunch",
-    "date": "2026-10-04T22:31:07+02:00"
+    "titre": "ChatGPT : OpenAI va afficher des publicités dans la génération d'images",
+    "resume": "Des images de produits sponsorisés apparaîtront lors de la création d'images ; les tests démarrent aux États-Unis ce mois-ci.",
+    "pourquoi": "OpenAI cherche de nouveaux revenus, au risque de brouiller la frontière entre réponse et publicité.",
+    "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaDYyV0Nva25oaHlXNnZjN0NCdGswRnZYMDNWQVlQUXowV0pxcURYM01LRFNCS2xIYWFLeHVRbWtjNlNxdjRqQ0hqZFo5UEFydWYxUjE1alVlVzI0V1dmUWhjY3hIdFBqOTk0SHFQQ0FzbUpuTk5oc2ZhTThJQ25IamhhVElJc3Y2WGk3UGl6SnIyTUtmeWZnYXc3RVhVbVluazVZY1FQOTh5TkNRSXZfMA?oc=5",
+    "source": "Business AM",
+    "date": "2026-10-05T22:44:00+02:00"
    }
   ],
   "droit": [
    {
-    "titre": "Chasse aux filets de l'alouette : le Conseil d'État change de cap",
-    "resume": "CE, 2 octobre 2026, One Voice et LPO, n° 507798 : la chasse aux pantes poursuit des finalités propres et peut être autorisée en plus du tir.",
-    "libertes": false,
-    "angle_crfpa": "Contrôle de la dérogation prévue par la directive « Oiseaux » : à rapprocher des décisions de 2024 qui avaient fermé ces chasses.",
-    "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMFl0RmF0aVhtQmxMdkxyZ0tWMjhXcExjbkQ3a09QZXpsNm5mRmY4N0ZwelNneEllUEpIZmFFY3c4ZnJWWmp1VWowRnRxOURZSjhacVVBZHRlWE9qbUptV2gwdG4zMERaMTVPbDIwS1N1M1dIdzZQVWRnZWltVTgzT0VBSk5fN1duWFJjSWZPa3VLWWdYdl9fcy01b2R6QlhGd2tranM4R1V1VlZYNTB1cklmU1g2OXhaLXYwOFNMQ2d5dlJ5Y0oxdVNwYlVyR1JkU0RIQ2ZQUVlDVWd4Um5KVDg2ZVM?oc=5",
-    "source": "La République des Pyrénées",
-    "date": "2026-10-04T15:04:05+02:00"
-   },
-   {
-    "titre": "Les médecins peuvent critiquer l'homéopathie, juge le Conseil d'État",
-    "resume": "Saisi par un signataire de la tribune anti-homéopathie de 2018 sanctionné par l'Ordre, le Conseil d'État fait prévaloir la liberté d'expression scientifique.",
+    "titre": "Projet de loi « casseurs-payeurs » : une « usine à contentieux » ?",
+    "resume": "Le texte, qui veut faire payer les dégradations aux auteurs et à leurs familles, est examiné au Sénat dès le 27 octobre ; les juristes pointent ses fragilités.",
     "libertes": true,
-    "angle_crfpa": "Conciliation entre liberté d'expression (art. 10 CEDH) et déontologie médicale (confraternité, art. R. 4127-13 CSP).",
-    "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ2duZTN2ZTlUM1cyNWlkR0gtYm1ONm9FNHJ0TWNyeHBfZGdET1lNTUhGOWlSLUZ4MkhocE1RdmY3WHUxMURPazg4N1d4QlJGNTBDNWlxeC1qby1fRzRPZGlMOFNmZjRwUENJS0tCYnBJeUIyY3JLOGJUb3R0NzM5VXhyTkEzYkdkODlzamFWXzFRN2d1TElvRy1oN0w5QTBzbHhjY0JuZHpIaHM5Z3RxMEVOWmVzSmUxY2xNVHhnUnVDMkJDUHlfdFNaWmJVaDVUTF9HbFZWcWYzc2RvUXBoMmFUaldLUVdCeTREaQ?oc=5",
-    "source": "L'Express",
-    "date": "2026-10-04T16:00:00+02:00"
+    "angle_crfpa": "Principe de personnalité des peines et responsabilité des parents (art. 1242 C. civ.) : à rapprocher de la décision n° 2019-780 DC sur la loi « anti-casseurs ».",
+    "lien": "https://www.lemonde.fr/societe/article/2026/10/06/le-projet-de-loi-casseurs-payeurs-une-future-usine-a-contentieux_6788788_3224.html",
+    "source": "Le Monde",
+    "date": "2026-10-06T05:00:11+02:00"
    },
    {
-    "titre": "Condamnation de Dora Moutot : une rapporteuse de l'ONU s'inquiète pour la liberté d'expression",
-    "resume": "Reem Alsalem estime que la décision de justice française risque de restreindre le débat public au nom de la lutte contre les discriminations.",
+    "titre": "Liberté d'expression des magistrats : le collège de déontologie rend un avis",
+    "resume": "Le collège de déontologie des magistrats de l'ordre judiciaire se prononce sur l'articulation entre liberté d'expression et apparence d'impartialité.",
     "libertes": true,
-    "angle_crfpa": "Limites de la liberté d'expression : injure et provocation à la discrimination (loi de 1881) face à l'art. 10 CEDH.",
-    "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORGlZRWIwWnlWbXpoMFB3N0Q5LV94S3Z3eXlPUy1xNHhNbWdrUWVzT0stTjFfWGN4RVRHRjcwU3hGWGxOWUlLRDBUQVdzNm41aXh3SGwwelk4ci1VU1RJZVFLUUs1MzB3cF9lSnJ6R21ObkxRQUZkbHFyX1ZYRTJ5a0hwNjV1NTQ4aUF4cW9XMEhnWGFNdU1xQkdUWUlXM0xBM09GdmRzeUZic2w0aTJ3VWwxb29UR0J4THNocUpQTHMzaWg4NFp2VFZzQXk5cDFFVWJPSUtsMVYxM2RnNDlyUkxxV1N0a05oMnZyVXkyUnVIY196SlEteGF5ajJHdHVod1ZNOA?oc=5",
-    "source": "Gènéthique",
-    "date": "2026-10-04T17:04:32+02:00"
-   },
-   {
-    "titre": "Auchan : le Conseil d'État confirme définitivement la légalité du PSE",
-    "resume": "Le plan de sauvegarde de l'emploi homologué par l'administration est validé en dernier ressort.",
-    "libertes": false,
-    "angle_crfpa": "Contrôle par le juge administratif de l'homologation des PSE depuis la loi du 14 juin 2013.",
-    "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSTBxcXRTQ2RyenRKWnZzd2d2RWFGTjM5RGFJMmRSM2JFRlQtUG5scHpIQ0xqcG1BamhMWjZvbE9udDVTenVKRlJiZTgyX1p0bl9EMTF4ZEliSm8yQXphRzAzdnp6UkJwOVp0Y1VzUFo4S0FGeTcwbzQtWnBsSlMtaFBBQlZNblJHNXJ5c3dJeF9IUGxtTGN3UTZsT085dHlRcFEtZUxVb1l2Um51MV92RTBEdEF3dGlCZzhwS3VrVkZDNmEzaE9zbWNZWEFHdjV4UjVxaHllUy1EamNVOHJJWTVJSndxVVdtcTdvVWZ1TQ?oc=5",
-    "source": "Le Parisien",
-    "date": "2026-10-02T17:20:30+02:00"
+    "angle_crfpa": "Impartialité objective (art. 6 § 1 CEDH) et devoir de réserve des magistrats : un classique du grand oral.",
+    "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVnRWNjlBODRIanZDYmJULUtORFdNa3FXM1NPUHJHbmxfRWtEeDZoWXRETExkQU15LVpMYm9JN1VvM1NOZWIyLTU1T09DT3NCY1FQb1c4c3AxVkMzbnVueTZqc3lpVzdfNXRxRzVMSkFyNXlpUjFoaTJFWTdkSWFydmoxM3d0RWdXLXhkSjItVVRGRGRrbnp0cGs3RGRHMHJTV19wM1drOHd3NVVEcXhsUmZUVl92WDZPYVB2UTR2Tjd5TmdlRnpmY01YMFRQQkI2Z3QtVFRYYjlhYTVERlN3MDRrM0hqdXhMQUFSWlZCWURFVEpBeHBZSG82SzQ?oc=5",
+    "source": "Actu-Juridique",
+    "date": "2026-10-05T17:11:00+02:00"
    }
   ]
  },
  "notion": {
-  "titre": "L'arrêt Benjamin : la liberté est la règle, la restriction de police l'exception",
-  "texte": "Le maire de Nevers avait interdit une conférence de René Benjamin en invoquant des risques de troubles. Le Conseil d'État annule l'interdiction : le maire devait concilier l'exercice de ses pouvoirs de police avec le respect de la liberté de réunion. Une mesure de police n'est légale que si elle est nécessaire et proportionnée à la menace, ce qui n'était pas le cas, des forces de l'ordre pouvant assurer la sécurité. Cet arrêt fonde le contrôle de proportionnalité des mesures de police, repris dans la jurisprudence Dieudonné (2014) et en référé-liberté.",
-  "reference": "CE, 19 mai 1933, Benjamin, n° 17413 et 17520"
+  "titre": "La loi « anti-casseurs » de 2019 : l'interdiction administrative de manifester censurée",
+  "texte": "La loi du 10 avril 2019 permettait au préfet d'interdire à une personne de manifester lorsqu'elle constituait une menace d'une particulière gravité pour l'ordre public. Le Conseil constitutionnel censure cette disposition : elle laissait à l'administration une latitude excessive, sans exiger de lien suffisant avec des agissements précis. Il rappelle que le droit d'expression collective des idées et des opinions est protégé par l'article 11 de la Déclaration de 1789, et que ses limites doivent être nécessaires, adaptées et proportionnées. La décision est un repère pour juger les textes répressifs adoptés en période de troubles.",
+  "reference": "Cons. const., 4 avril 2019, n° 2019-780 DC, Loi visant à renforcer et garantir le maintien de l'ordre public lors des manifestations"
  }
 }
