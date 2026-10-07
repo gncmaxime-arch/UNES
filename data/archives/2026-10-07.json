@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "genere": "2026-10-07T06:57+02:00",
+ "genere": "2026-10-07T08:30+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -12,6 +12,38 @@
     "source": "https://static.milibris.com/thumbnail/issue/7c3b5ab7-18d1-4ec7-a81d-c776fa80a03c/front/catalog-cover-large.jpeg"
    },
    "articles": [
+    {
+     "titre": "EN DIRECT - Lycées, carburants, crise agricole, dette : Sébastien Lecornu prendra la parole en fin de journée",
+     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-colere-des-lyceens-journee-test-mercredi-pour-le-gouvernement-apres-une-mobilisation-massive-20261007",
+     "resume": "Sébastien Lecornu s’exprimera mercredi soir depuis Matignon sur les lycées, les carburants, la crise agricole et la dette annonce un communiqué de Matignon.",
+     "date": "2026-10-07T08:27:02+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2092_crop/2026/10/07/260739e4199ee328e00c86220a42ced6b7f893b5c50e89abef6da24b1ad2f0df.jpg"
+    },
+    {
+     "titre": "Colère des lycéens : Laurent Nuñez et Édouard Geffray auditionnés mercredi à l'Assemblée nationale",
+     "lien": "https://www.lefigaro.fr/actualite-france/colere-des-lyceens-laurent-nunez-et-edouard-geffray-auditionnes-mercredi-a-l-assemblee-nationale-20261007",
+     "resume": "Les deux ministres ont déjà longuement été interpellés lors des questions au gouvernement mardi, où les questions des députés ont largement porté sur ce mouvement lycéen, dont de nombreux députés à gauche dénoncent la «répression».",
+     "date": "2026-10-07T07:41:47+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/07/0990b26929627f190eaeb53cfb86a4ad68981b923abbd1b7950feb623429917b.JPG"
+    },
+    {
+     "titre": "Mobilisation des lycéens : Sébastien Lecornu annonce une suspension des cours en fin de semaine pour «un temps de démocratie interne»",
+     "lien": "https://www.lefigaro.fr/politique/mobilisation-des-lyceens-sebastien-lecornu-annonce-une-suspension-des-cours-en-fin-de-semaine-pour-un-temps-de-democratie-interne-20261006",
+     "resume": "Face à l’acte III de la mobilisation lycéenne organisée ce mardi, le chef du gouvernement a pris la parole à l’Assemblée nationale. Il appelle la classe politique à «faire corps» avec les fonctionnaires touchés par ces violences.",
+     "date": "2026-10-06T15:47:20+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/06/d6f1a550a5155ae1ee811730b953e864e94daf31763725f25fb2efdbac9bc779.JPG"
+    },
+    {
+     "titre": "L’éditorial de Vincent Trémolet de Villers : «Crise des lycées, autodestruction ou redressement ?»",
+     "lien": "https://www.lefigaro.fr/vox/politique/l-editorial-de-vincent-tremolet-de-villers-crise-des-lycees-autodestruction-ou-redressement-20261006",
+     "resume": "Il ne s’agit pas d’une « génération qui se lève », comme le dit la gauche en écho à Jean-Luc Mélenchon, mais bien du tableau désolant d’un pays qui s’effondre.",
+     "date": "2026-10-06T19:46:42+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/06/81c9e871104f67d06698bfba5ad5a159f612b3febc94167081cdcc22dfdc7265.jpg"
+    },
     {
      "titre": "«Chaque fois que j’entends un bruit sourd, je sursaute» : à Créteil, le lycée Saint-Exupéry, berceau de la contestation, reste traumatisé par les violences",
      "lien": "https://www.lefigaro.fr/actualite-france/chaque-fois-que-j-entends-un-bruit-sourd-je-sursaute-a-creteil-le-lycee-saint-exupery-berceau-de-la-contestation-reste-traumatise-par-les-violences-20261007",
@@ -27,38 +59,6 @@
      "date": "2026-10-06T20:21:03+02:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/2999x1687_crop/2026/10/06/ea1d19deb414be10f891d4712c50b3056884d37072d963941d2e840ffc6bb7f7.jpg"
-    },
-    {
-     "titre": "Exacerbée par le mouvement lycéen, la violence de rue dépasse un niveau historique en France",
-     "lien": "https://www.lefigaro.fr/actualite-france/exacerbee-par-le-mouvement-lyceen-la-violence-de-rue-depasse-un-niveau-historique-en-france-20261006",
-     "resume": "DÉCRYPTAGE - Avec près de 700 faits par jour, les agressions recensées et signalées aux magistrats atteignent des sommets, selon le service statistique du ministère de l’Intérieur.",
-     "date": "2026-10-06T19:05:00+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x1997_crop/2026/10/06/3f65bfcaccecd01c8ae11d31b63987b3ea78ee5310b69adf2f1653f9662bca34.jpg"
-    },
-    {
-     "titre": "Petits casseurs, suiveurs ou militants : à Paris et Bobigny, les premiers prévenus interpellés en marge des blocages lycéens devant la justice",
-     "lien": "https://www.lefigaro.fr/faits-divers/petits-casseurs-suiveurs-ou-militants-a-paris-et-bobigny-les-premiers-prevenus-interpelles-en-marge-des-blocages-lyceens-devant-la-justice-20261006",
-     "resume": "COMPTE RENDU D’AUDIENCE - La plupart des personnes interpellées dans les manifestations lycéennes sont mineures. Quelques majeurs présentant des profils variés sont cependant passés en comparution immédiate en début de semaine.",
-     "date": "2026-10-06T18:55:33+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2005_crop/2026/10/06/2af87ef20957728a60f678aa4586e6ff116da1f1aa823a8b3e9b4f86aa6e2f75.jpg"
-    },
-    {
-     "titre": "EN DIRECT - Colère des lycéens : journée test mercredi pour le gouvernement après une mobilisation massive",
-     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-colere-des-lyceens-journee-test-mercredi-pour-le-gouvernement-apres-une-mobilisation-massive-20261007",
-     "resume": "Au lendemain d’un «acte III», l’attitude des jeunes mobilisés sera scrutée de près mercredi, journée test pour le gouvernement qui tente de ramener le mouvement dans les établissements et d’apaiser une crise qui s’étire.",
-     "date": "2026-10-07T06:52:02+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/07/6a78764068c2f1bffc06f8a1147e59bc5c196e8b29850c71836013c11ac19e3b.jpg"
-    },
-    {
-     "titre": "L’éditorial de Vincent Trémolet de Villers : «Crise des lycées, autodestruction ou redressement ?»",
-     "lien": "https://www.lefigaro.fr/vox/politique/l-editorial-de-vincent-tremolet-de-villers-crise-des-lycees-autodestruction-ou-redressement-20261006",
-     "resume": "Il ne s’agit pas d’une « génération qui se lève », comme le dit la gauche en écho à Jean-Luc Mélenchon, mais bien du tableau désolant d’un pays qui s’effondre.",
-     "date": "2026-10-06T19:46:42+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/06/81c9e871104f67d06698bfba5ad5a159f612b3febc94167081cdcc22dfdc7265.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -74,52 +74,52 @@
    },
    "articles": [
     {
-     "titre": "Mouvement lycéen : face à la polémique sur le maintien de l’ordre, le gouvernement sur la défensive",
-     "lien": "https://www.lemonde.fr/politique/article/2026/10/07/mouvement-lyceen-sebastien-lecornu-sous-la-pression-de-la-rue-des-oppositions-et-d-emmanuel-macron_6789500_823448.html",
-     "resume": "Alors que des milliers de personnes manifestaient dans toute la France, mardi, en soutien à la mobilisation des lycéens, le premier ministre s’est exprimé pour la première fois depuis le début de cette crise sociale. Face aux députés, il a défendu le…",
-     "date": "2026-10-07T05:31:54+02:00",
+     "titre": "Mouvement lycéen : la mobilisation s’amplifie et agrège de nombreux soutiens",
+     "lien": "https://www.lemonde.fr/societe/article/2026/10/06/mouvement-lyceen-la-mobilisation-s-amplifie-et-agrege-de-nombreux-soutiens_6789130_3224.html",
+     "resume": "Partout en France, des lycéens de tous horizons, rejoints par de nombreux adultes, qu’ils soient parents, élus, militants syndicaux ou simples citoyens, ont défilé pour faire entendre leur voix le plus souvent dans une ambiance bon enfant.",
+     "date": "2026-10-06T22:23:22+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/07/666/0/8000/4000/644/322/60/0/bc15417_upload-1-oju3pq8ytxlv-jmug261006017.jpg"
+     "image": "https://img.lemde.fr/2026/10/06/0/0/8256/4128/644/322/60/0/2f756f5_upload-1-afuavfkylpme-dsc-6472.jpg"
     },
     {
-     "titre": "Ecrits antisémites : l’affaire Jordan Bardella plombe la séquence budgétaire du RN",
+     "titre": "L’affaire des écrits antisémites attribués à Jordan Bardella plombe la séquence budgétaire du RN",
      "lien": "https://www.lemonde.fr/politique/article/2026/10/06/ecrits-antisemites-l-affaire-jordan-bardella-plombe-la-sequence-budgetaire-du-rn_6789091_823448.html",
-     "resume": "Poursuivant sa stratégie de déni, le président du Rassemblement national a dû répondre, aux côtés de Marine Le Pen, aux questions des journalistes, lors d’une conférence de presse organisée pour présenter la trajectoire budgétaire de la candidate en cas de…",
+     "resume": "Poursuivant sa stratégie de déni, le président du RN a dû répondre, aux côtés de Marine Le Pen, aux questions des journalistes, lors de la présentation de la trajectoire budgétaire de la candidate en cas de victoire à l’élection présidentielle.",
      "date": "2026-10-06T20:16:26+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/06/1000/0/6000/3000/644/322/60/0/e84f176_upload-1-kjuyqmsrsfqt-cbi1340019.jpg"
     },
     {
-     "titre": "Allemagne : l’affaire August Hanning, l’ancien chef des services secrets soupçonné d’espionnage, illustre les failles de l’agence du renseignement extérieur",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/06/allemagne-l-arrestation-d-august-hanning-l-ancien-chef-du-bnd-accuse-d-espionnage-une-nouvelle-affaire-qui-illustre-les-failles-des-services-de-renseignement_6789057_3210.html",
-     "resume": "L’ancien responsable du BND, âgé de 80 ans, aurait continué à recevoir des informations confidentielles bien après son départ en 2005, et est accusé d’en avoir transmis certaines à une puissance étrangère. Il a été arrêté à son domicile.",
-     "date": "2026-10-06T19:48:31+02:00",
+     "titre": "7-Octobre, trois ans après : le traumatisme sans fin d’un ex-otage israélien détenu pendant 505 jours par le Hamas",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/07/7-octobre-trois-ans-apres-le-traumatisme-sans-fin-d-un-ex-otage-israelien-detenu-pendant-505-jours-par-le-hamas_6789165_3210.html",
+     "resume": "Depuis sa libération, le 22 février 2025, Omer Shem Tov a choisi, malgré de douloureuses réminiscences, de témoigner en Israël et dans le monde de ce qu’il a vécu durant sa captivité dans les tunnels de l’organisation islamiste à Gaza.",
+     "date": "2026-10-07T00:01:04+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/06/0/0/3310/1655/644/322/60/0/2c2bae3_ftp-1-aobcceetpeir-8d55b1a6cee342a5aea4caf604195dd8-0-0f71c7354de040aca6fa2230609ac1f0.jpg"
+     "image": "https://img.lemde.fr/2026/10/05/495/0/6328/3164/644/322/60/0/908c7ff_upload-1-2fvfzgbkfupe-ll-omer-shem-tov-ex-otage-israel-05.jpg"
     },
     {
-     "titre": "L’Arabie saoudite, le Pakistan et la Turquie posent le premier acte de leur accord de défense mutuelle face aux houthistes",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/07/l-arabie-saoudite-le-pakistan-et-la-turquie-posent-le-premier-acte-de-leur-accord-de-defense-mutuelle-face-aux-houthistes_6789398_3210.html",
-     "resume": "Mis en difficulté par les houthistes du Yémen, qui visent ses pétroliers et ses infrastructures, Riyad a activé lundi, avec ses deux alliés, le « pacte de La Mecque » conclu le 7 août. Tout en restant prudents à l’égard de ce conflit, Ankara et Islamabad ont…",
-     "date": "2026-10-07T04:45:07+02:00",
+     "titre": "Emmanuel Roman, patron du géant de la finance Pimco : « Les marchés envoient un signal sérieux à la France » sur sa dette, « l’heure est grave »",
+     "lien": "https://www.lemonde.fr/economie/article/2026/10/07/emmanuel-roman-patron-du-geant-de-la-finance-pimco-les-marches-envoient-un-signal-serieux-a-la-france-sur-sa-dette-l-heure-est-grave_6789539_3234.html",
+     "resume": "Dans un entretien au « Monde », le directeur général d’un des plus grands gérants d’actifs de la planète alerte sur la dérive budgétaire et l’instabilité politique en France. Il précise qu’il « ne retire pas » ses investissements dans la dette française,…",
+     "date": "2026-10-07T06:00:23+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/06/225/0/2700/1350/644/322/60/0/2983811_ftp-1-6crac2e1rvyq-5279309-01-06.jpg"
+     "image": "https://img.lemde.fr/2026/10/06/709/0/6000/3000/644/322/60/0/8c28229_upload-1-9mbqcelrbt7q-000-44pq8t3.jpg"
     },
     {
-     "titre": "A Pékin, l’heure de vérité pour le commissaire européen au commerce pour contrer l’envolée des exportations chinoises vers l’Europe",
-     "lien": "https://www.lemonde.fr/economie/article/2026/10/07/a-pekin-l-heure-de-verite-pour-le-commissaire-europeen-au-commerce-pour-contrer-l-envolee-des-exportations-chinoises-vers-l-europe_6789537_3234.html",
-     "resume": "Maros Sefcovic se rend en Chine les 8 et 9 octobre dans le cadre du dialogue lancé avec son homologue chinois. Anticipant des résultats limités, Berlin et Paris commencent à préparer l’après.",
-     "date": "2026-10-07T06:00:19+02:00",
+     "titre": "Christa Pike, dont l’exécution avait échoué aux Etats-Unis, est « contre toute attente, consciente et peut parler », selon ses avocats",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/07/christa-pike-condamnee-a-mort-aux-etats-unis-a-repris-connaissance-et-parle_6789231_3210.html",
+     "resume": "« Son rétablissement est sans précédent sur le plan médical. Son pronostic reste incertain », ont ajouté les avocats de la condamnée à la peine capitale, dont l’exécution a été un échec sans précédent, le 30 septembre, dans le Tennessee.",
+     "date": "2026-10-07T01:22:03+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/06/187/0/7521/3760/644/322/60/0/81a4323_upload-1-jydq3pix4vpd-000-c8yd6g4.jpg"
+     "image": "https://img.lemde.fr/2026/10/01/720/0/8640/4320/644/322/60/0/90ab303_ftp-1-dtjkfrypi8pm-ed9b7642e80e4dae9c585fa5679fdbff-0-73ed8037f7fb4b058e533c4d0b48e69f.jpg"
     },
     {
-     "titre": "Les exportations de pétrole du Golfe rebondissent au-delà de leurs niveaux d’avant-guerre",
-     "lien": "https://www.lemonde.fr/economie/article/2026/10/06/les-exportations-de-petrole-du-golfe-rebondissent-au-dela-de-leurs-niveaux-d-avant-guerre_6789050_3234.html",
-     "resume": "Malgré l’augmentation des flux de brut en provenance du Moyen-Orient, la pénurie croissante de navires pétroliers est en train de créer un nouveau goulet d’étranglement.",
-     "date": "2026-10-06T18:30:06+02:00",
+     "titre": "Eva Marie Saint, actrice américaine, héroïne de « La Mort aux trousses » d’Hitchcock, est morte à l’âge de 102 ans",
+     "lien": "https://www.lemonde.fr/disparitions/article/2026/10/07/eva-marie-saint-actrice-americaine-heroine-de-la-mort-aux-trousses-d-hitchcock-est-morte-a-l-age-de-102-ans_6789546_3382.html",
+     "resume": "Décédée mardi, elle avait reçu l’Oscar de la meilleure actrice dans un second rôle pour sa participation au film d’Elia Kazan « Sur les quais ».",
+     "date": "2026-10-07T07:52:25+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/06/406/0/3000/1500/644/322/60/0/00d7a8e_upload-1-xam41n5iud3q-gettyimages-2298236559.jpg"
+     "image": "https://img.lemde.fr/2025/10/24/60/0/1421/710/644/322/60/0/436d0fa_upload-1-vdypt4yqhbap-2002-10-05t000000z-830506401-rp3drifituaa-rtrmadp-3-premiere.JPG"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -129,58 +129,58 @@
    "nom": "La Croix",
    "couleur": "#c8102e",
    "une": {
-    "fichier": "unes/croix.webp",
+    "fichier": "unes/croix.jpg",
     "date": "2026-10-07",
-    "source": "https://www.frontpages.com/t/2026/10/07/la-croix-060933g9g@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/07/fr/lacroix.750.jpg"
    },
    "articles": [
     {
-     "titre": "Guerre au Moyen-Orient : frappe mortelle à Gaza ; minute de silence pour le 7-Octobre",
+     "titre": "Blocage des lycées : les cours suspendus dans 528 établissements ; Lecornu s’exprimera ce soir",
+     "lien": "https://www.la-croix.com/societe/blocage-des-lycees-les-cours-suspendus-dans-528-etablissements-lecornu-s-exprimera-ce-soir-20261007",
+     "resume": "Les cours sont « totalement ou partiellement suspendus » dans 528 établissements, selon le ministère de l’éducation. Le premier ministre Sébastien Lecornu s’exprimera depuis Matignon sur la situation dans la soirée. Suivez les informations sur la…",
+     "date": "2026-10-07T08:24:16+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/07/2554728-entre-266-000-et-450-000-personnes-ont-manifeste-m.jpg"
+    },
+    {
+     "titre": "Guerre au Moyen-Orient : frappe mortelle à Gaza ; message de Macron pour le 7-Octobre",
      "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-117-moyen-orient-bilan-resume-aujourdhui-20261007",
-     "resume": "Deux personnes ont péri dans des frappes de l’armée israélienne sur Gaza. Des personnes endeuillées ont observé une minute de silence sur des sites du sud d’Israël pris d’assaut par le Hamas il y a trois ans jour pour jour. Retrouvez l’actualité du conflit…",
-     "date": "2026-10-07T06:41:43+02:00",
+     "resume": "Deux personnes ont péri dans des frappes de l’armée israélienne sur Gaza. Le ministre français des affaires étrangères, Jean-Noël Barrot, a annoncé se trouver Israël à l’occasion des commémorations de l’attaque du 7-Octobre. Retrouvez l’actualité du conflit…",
+     "date": "2026-10-07T08:19:22+02:00",
      "source": "",
      "image": "https://i.la-croix.com/x/2026/10/07/2554676-des-palestiniens-inspectent-les-decombres-d-un-app.jpg"
     },
     {
-     "titre": "En Israël, trois ans après le 7-Octobre, le climat d’insécurité demeure : « Nous sommes encore dans le trauma »",
-     "lien": "https://www.la-croix.com/international/en-israel-trois-ans-apres-le-7-octobre-le-climat-d-insecurite-demeure-nous-sommes-encore-dans-le-trauma-20261006",
-     "resume": "À Ofakim, ville périphérique du sud d’Israël, le traumatisme du 7-Octobre continue de hanter le quotidien et de peser sur les choix politiques des habitants, à l’approche des élections législatives. Le sentiment de sécurité n’est jamais revenu.",
-     "date": "2026-10-07T06:23:04+02:00",
+     "titre": "L’appel des dirigeants des Scouts de France : « Faisons confiance à la jeunesse de notre pays ! »",
+     "lien": "https://www.la-croix.com/a-vif/l-appel-des-dirigeants-des-scouts-de-france-faisons-confiance-a-la-jeunesse-de-notre-pays-20261007",
+     "resume": "Parcoursup, manque d’enseignants, avenir incertain : des milliers de lycéens battent le pavé en France. Les dirigeants des Scouts et Guides de France, forts de 100 000 adhérents, interpellent adultes et institutions sur la nécessité de reconstruire la…",
+     "date": "2026-10-07T07:54:15+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/06/2553863-une-fresque-murale-en-hommage-aux-civils-et-membre.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/06/2554323-les-dirigeants-des-scouts-et-guides-de-france-qui-.jpg"
     },
     {
-     "titre": "Blocus des lycées : que dépense la France pour l’enseignement secondaire ?",
-     "lien": "https://www.la-croix.com/economie/blocus-des-lycees-que-depense-la-france-pour-l-enseignement-secondaire-20261006",
-     "resume": "Plus de moyens et de professeurs, moins d’heures et d’élèves par classe : nombreuses sont les revendications des lycéens qui crient leur colère face à la dégradation du système scolaire qu’ils perçoivent. L’occasion de plonger dans les chiffres des dépenses…",
-     "date": "2026-10-07T06:14:07+02:00",
+     "titre": "Changement climatique : la mortalité des forêts françaises a plus que doublé en vingt ans",
+     "lien": "https://www.la-croix.com/planete/changement-climatique-la-mortalite-des-forets-francaises-a-plus-que-double-en-vingt-ans-20261007",
+     "resume": "La mortalité des forêts françaises a été multipliée par 2,5 en vingt ans, selon un bilan publié mercredi 7 octobre par l’IGN. Changement climatique, scolytes, sécheresses : les arbres souffrent, menaçant la capacité de la France à séquestrer le carbone.",
+     "date": "2026-10-07T07:33:22+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/06/2554366-au-lycee-elisabeth-et-robert-badinter-a-cournonter.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/07/2554690-la-mortalite-des-forets-francaises-a-ete-multiplie.jpg"
     },
     {
-     "titre": "Dix ans après « Amoris laetitia », Léon XIV réunit l’Église pour reparler des familles",
-     "lien": "https://www.la-croix.com/religion/dix-ans-apres-amoris-laetitia-leon-xiv-reunit-l-eglise-pour-reparler-des-familles-20261006",
-     "resume": "Du 7 au 14 octobre, le pape réunit au Vatican les présidents des conférences épiscopales du monde entier et les chefs des Églises orientales autour de l’exhortation de François sur la famille. Selon nos informations, l’initiative revient à un groupe de…",
-     "date": "2026-10-07T06:13:06+02:00",
+     "titre": "Guerre en Ukraine : frappe mortelle à Kiev ; incendie sur un pétrolier au large de la Russie",
+     "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1683-point-conflit-ukrainien-poutine-aujourdhui-20261007",
+     "resume": "Deux personnes ont péri dans une attaque de missiles à Kiev. L’Ukraine a frappé un pétrolier au large de la côte sud de la Russie, déclenchant un immense incendie. Retrouvez l’actualité de ce mercredi 7 octobre sur la guerre en Ukraine.",
+     "date": "2026-10-07T07:16:52+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/06/2554209-leon-xiv-echange-avec-une-famille-lors-de-l-evenem.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/07/2554684-des-secouristes-ukrainiens-interviennent-sur-le-si.jpg"
     },
     {
-     "titre": "La prière du disciple. Commentaire de l’Évangile du mercredi 7 octobre 2026",
-     "lien": "https://www.la-croix.com/religion/la-priere-du-disciple-commentaire-de-l-evangile-du-mercredi-7-octobre-2026-20261004",
-     "resume": "Mercredi de la 27e semaine du temps ordinaire (Lc 11, 1-4)",
-     "date": "2026-10-07T06:05:00+02:00",
+     "titre": "Violences sur enfants : rétablissement d’un entretien obligatoire à l’école pour les détecter",
+     "lien": "https://www.la-croix.com/societe/violences-sur-enfants-retablissement-d-un-entretien-obligatoire-a-lecole-pour-les-detecter-20261007",
+     "resume": "Les députés ont voté mardi 6 octobre le rétablissement des entretiens obligatoires de détection des violences faites aux enfants à l’école, dans le cadre de la proposition de loi contre les violences sexuelles et sexistes.",
+     "date": "2026-10-07T07:00:48+02:00",
      "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/04/2552131-eglise-femme-notre-prerejpeg.jpeg"
-    },
-    {
-     "titre": "« The Social Reckoning » : lumière crue sur l’influence néfaste de Facebook",
-     "lien": "https://www.la-croix.com/culture/the-social-reckoning-lumiere-crue-sur-l-influence-nefaste-de-facebook-20261006",
-     "resume": "Après « The Social Network » en 2010, Aaron Sorkin s’en prend de nouveau à Facebook dans un film enquête, en salles mercredi 7 octobre 2026. Le réalisateur s’appuie sur les révélations de la lanceuse d’alerte Frances Haugen, qui ont conduit le réseau social…",
-     "date": "2026-10-07T06:01:06+02:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/06/2553762-the-social-reckoning-ausculte-les-methodes-douteus.jpg"
+     "image": "https://i.la-croix.com/x/2026/10/07/2554677-les-deputes-ont-retabli-mardi-6-octobre-2026-l-ent.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -190,58 +190,58 @@
    "nom": "L'Équipe",
    "couleur": "#e2001a",
    "une": {
-    "fichier": "unes/equipe.webp",
+    "fichier": "unes/equipe.jpg",
     "date": "2026-10-07",
-    "source": "https://www.frontpages.com/t/2026/10/07/l-equipe-020358ted@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/07/fr/l_equip.750.jpg"
    },
    "articles": [
     {
-     "titre": "NBA, UFC et maintenant NFL : pourquoi Paris est l'eldorado européen des acteurs du sport US",
-     "lien": "https://www.lequipe.fr/Tous-sports/Article/Nba-ufc-et-maintenant-nfl-pourquoi-paris-est-l-eldorado-europeen-des-acteurs-du-sport-us/1723100#at_medium=RSS_feeds",
-     "resume": "Après la NBA et l'UFC ou même Jordan Brand chez le PSG, c'est au tour de la NFL de s'installer à Paris le 25 octobre, avec le match Pittsburgh Steelers-New Orleans Saints au Stade de France. Au fil des ans, la capitale française est devenue la destination…",
-     "date": "2026-10-07T06:30:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/la-nfl-va-poser-ses-valises-a-paris-le-25-octobre-pour-un-match-devant-80-000-personnes-au-stade-de-france-f-faugere-l-equipe/1500000002603966/0:0,2000:1333-828-552-75/a503c.jpg"
-    },
-    {
-     "titre": "Sylvain Guillaume, médaillé d'argent de combiné nordique aux Jeux d'Albertville, devenu motard des Douanes",
-     "lien": "https://www.lequipe.fr/Combine-nordique/Article/Sylvain-guillaume-medaille-d-argent-de-combine-nordique-aux-jeux-d-albertville-devenu-motard-des-douanes/1721842#at_medium=RSS_feeds",
-     "resume": "Le vice-champion olympique de combiné nordique en 1992 est devenu motard des Douanes. Une reconversion entamée durant sa carrière et aux sensations aussi fortes qu'au-dessus des tremplins.",
-     "date": "2026-10-07T06:30:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/sylvain-guillaume-58-ans-et-sa-yamaha-fjr-1300-de-fonction-b-papon-l-equipe/1500000002599602/0:0,2000:1333-828-552-75/3e6c3.jpg"
-    },
-    {
-     "titre": "« Un joueur du calibre de Pelé ou Maradona » : ce que voulait entendre Cristiano Ronaldo de la part de son sélectionneur",
-     "lien": "https://www.lequipe.fr/Football/Actualites/-un-joueur-du-calibre-de-pele-ou-maradona-ce-que-voulait-entendre-cristiano-ronaldo-de-la-part-de-son-selectionneur/1723908#at_medium=RSS_feeds",
-     "resume": "Lors du long message où il a donné sa version de son départ du rassemblement de la sélection portugaise, Cristiano Ronaldo a aussi dévoilé les notes sur le discours qu'il attendait du coach Jorge Jesus. Elles résument l'image que l'attaquant a de lui-même.",
-     "date": "2026-10-07T06:02:25+02:00",
+     "titre": "Shanghai, Bruxelles, Paris... Quel est le programme d'Arthur Fils, candidat à la qualification pour les Finales ATP ?",
+     "lien": "https://www.lequipe.fr/Tennis/Actualites/Shanghai-bruxelles-paris-quel-est-le-programme-d-arthur-fils-candidat-a-la-qualification-pour-les-finales-atp/1723893#at_medium=RSS_feeds",
+     "resume": "Arthur Fils, qui vise la qualification pour les Finales ATP (15-22 novembre), conclut sa tournée asiatique au Masters 1000 de Shanghai après un quart de finale à Tokyo. Voici le programme prévu par le numéro 1 français.",
+     "date": "2026-10-07T08:08:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Le résumé vidéo de la dernière de Messi avec l’Argentine",
-     "lien": "https://www.lequipe.fr/Football/Video/Matches-amicaux-le-resume-d-argentine-benin/20242726#at_medium=RSS_feeds",
+     "titre": "Knicks, Sixers, Heat... Un équilibre vraiment bouleversé à l'Est ?",
+     "lien": "https://www.lequipe.fr/collection/podcasts/serie/step-back/#at_medium=RSS_feeds",
      "resume": "",
-     "date": "2026-10-07T06:00:00+02:00",
+     "date": "2026-10-07T08:07:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "Comment Zidane cherche à construire son « club France » pendant, mais aussi entre les rassemblements",
-     "lien": "https://www.lequipe.fr/Football/Article/Comment-zidane-cherche-a-construire-son-club-france-pendant-mais-aussi-entre-les-rassemblements/1723840#at_medium=RSS_feeds",
-     "resume": "Même sans match, ni entraînement, le sélectionneur de l'équipe de France Zinédine Zidane va poursuivre la refonte de son poste entre les deux rassemblements des Bleus. L'ancien numéro 10 souhaite manager sa sélection comme il gérait son club à Madrid.",
-     "date": "2026-10-07T05:47:00+02:00",
+     "titre": "Caliste, le petit prince de la Karmine Corp",
+     "lien": "https://www.lequipe.fr/Tous-sports/Actualites/Caliste-le-petit-prince-de-la-karmine-corp/1706548#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-07T08:00:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/zinedine-zidane-manage-les-bleus-comme-il-manageait-les-joueurs-du-real-madrid-p-lahalle-l-equipe/1500000002606581/166:107,1942:1290-828-552-75/cc7ac.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     },
     {
-     "titre": "« C'était le bon timing pour passer à autre chose » : sans drame ni haine ni revanche, Pierric Poupet retrouve déjà l'Asvel avec Paris",
-     "lien": "https://www.lequipe.fr/Basket/Article/-l-annee-derniere-a-ete-une-periode-plus-difficile-soit-on-s-ecroule-soit-on-saisit-l-opportunite-pour-rebondir-apres-son-depart-de-l-asvel-pour-paris-pierric-poupet-affronte-son-ancien-club-en-euroligue/1723835#at_medium=RSS_feeds",
-     "resume": "Après avoir tenu pendant deux saisons les rênes de l'Asvel, qui se présente à l'Adidas Arena mercredi soir en Euroligue (20 h 45), Pierric Poupet entame une nouvelle aventure à Paris, dans le costume de « head coach associé » au côté de Maxime Lefèvre.",
-     "date": "2026-10-07T05:42:00+02:00",
+     "titre": "Tout ce qu'il faut retenir de la dernière de Messi avec l'Argentine",
+     "lien": "https://www.lequipe.fr/serie/la-der-de-messi/#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-07T07:46:00+02:00",
      "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/pierric-poupet-ici-lors-de-la-defaite-de-paris-face-au-partizan-belgrade-en-ouverture-de-la-saison-d-euroligue-79-82-est-l-adjoint-de-maxime-lefevre-arrive-de-la-nba-depuis-le-debut-de-saison-s-mantey-l-equipe/1500000002606571/96:118,1675:1171-828-552-75/1e5da.jpg"
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Lorenzi : «Il y aura peut-être des moments où on sera sifflés»",
+     "lien": "https://www.lequipe.fr/Football/Article/Gregory-lorenzi-le-directeur-sportif-de-l-om-revient-sur-le-debut-de-saison-difficile-de-son-club-avant-dernier-de-l1-je-n-aime-pas-quand-on-est-dans-le-confort/1723897#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-07T07:33:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Le résumé vidéo de Croatie - Espagne",
+     "lien": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-le-resume-video-de-croatie-espagne/20242702#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-07T07:30:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -254,34 +254,24 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "En Israël, trois ans après le 7-Octobre, les traumatismes et les aveuglements d’un pays",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/07/en-israel-trois-ans-apres-le-7-octobre-les-traumatismes-et-les-aveuglements-d-un-pays_6789465_3210.html",
-     "resume": "En pleine campagne électorale, l’Etat hébreu commémore mardi les victimes de l’attaque terroriste du Hamas. Depuis le drame, le pays poursuit une guerre sans fin motivée par un désir de vengeance, sans s’interroger sur les failles qui ont conduit au désastre.",
-     "date": "2026-10-07T05:00:25+02:00",
+     "titre": "7-Octobre, trois ans après : le ministre des affaires étrangères, Jean-Noël Barrot, en Israël pour rendre hommage aux victimes",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/07/7-octobre-trois-ans-apres-le-ministre-des-affaires-etrangeres-francais-en-israel-pour-rendre-hommage-aux-victimes_6789544_3210.html",
+     "resume": "Le chef de la diplomatie doit se rendre à Tel-Aviv, Beeri, Nir Oz et Réim et participera aux commémorations sur le site du festival Tribe of Nova. Il doit aussi rencontrer des familles de victimes, notamment françaises.",
+     "date": "2026-10-07T07:43:02+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/05/720/0/8640/4320/644/322/60/0/a892d08_ftp-1-153yuuhzllov-8ba30acd179b437ab5dc4370bc427e58-0-6c661c3816b0444aa71f81f81386323b.jpg",
-     "reprises": 14,
-     "score": 38.88
+     "image": "https://img.lemde.fr/2026/10/06/633/0/5874/2937/644/322/60/0/1d4501a_ftp-1-qlp1u1ngcaiw-5282164-01-06.jpg",
+     "reprises": 15,
+     "score": 54.72
     },
     {
-     "titre": "En Cisjordanie occupée, un photojournaliste de l’Agence France-Presse roué de coups par des colons israéliens",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/07/en-cisjordanie-occupee-un-photojournaliste-de-l-agence-france-presse-roue-de-coups-par-des-colons-israeliens_6789331_3210.html",
-     "resume": "Jaafar Ashtiyeh, photographe palestinien de 58 ans, a été blessé à la tête et au torse et a été emmené à l’hôpital en ambulance, selon l’agence de presse internationale. Son directeur de l’information, Phil Chetwynd, dénonce « une attaque grave » et «…",
-     "date": "2026-10-07T02:43:01+02:00",
+     "titre": "Christa Pike, dont l’exécution avait échoué aux Etats-Unis, est « contre toute attente, consciente et peut parler », selon ses avocats",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/07/christa-pike-condamnee-a-mort-aux-etats-unis-a-repris-connaissance-et-parle_6789231_3210.html",
+     "resume": "« Son rétablissement est sans précédent sur le plan médical. Son pronostic reste incertain », ont ajouté les avocats de la condamnée à la peine capitale, dont l’exécution a été un échec sans précédent, le 30 septembre, dans le Tennessee.",
+     "date": "2026-10-07T01:22:03+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/06/675/0/8100/4050/644/322/60/0/9f56950_ftp-1-gjwwb2xdq1by-5279851-01-06.jpg",
-     "reprises": 5,
-     "score": 9.17
-    },
-    {
-     "titre": "Au Mali, la junte regagne du terrain en reprenant Kidal, fief des rebelles touareg",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/06/au-mali-la-junte-regagne-du-terrain-en-reprenant-kidal-fief-des-rebelles-touareg_6789125_3210.html",
-     "resume": "Les militaires maliens et leurs alliés russes avaient été chassés de la ville du Nord le 25 avril, durant l’offensive conjointe des indépendantistes du Front de libération de l’Azawad et des djihadistes du Groupe de soutien de l’islam et des musulmans.",
-     "date": "2026-10-06T21:03:55+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/09/10/142/0/5664/2832/644/322/60/0/8ecb790_upload-1-d3gdnuqy46z3-080-hl-smaouche-3234958.jpg",
-     "reprises": 4,
-     "score": 8.55
+     "image": "https://img.lemde.fr/2026/10/01/720/0/8640/4320/644/322/60/0/90ab303_ftp-1-dtjkfrypi8pm-ed9b7642e80e4dae9c585fa5679fdbff-0-73ed8037f7fb4b058e533c4d0b48e69f.jpg",
+     "reprises": 8,
+     "score": 24.36
     },
     {
      "titre": "L’Arabie saoudite annonce l’interception de missiles des houthistes du Yémen",
@@ -291,27 +281,37 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/05/121/0/3802/1901/644/322/60/0/e6a151d_ftp-1-mhl8w6k3car2-2026-10-05t161930z-1586261934-rc24xna55gzx-rtrmadp-3-saudi-yemen-strikes.JPG",
      "reprises": 3,
-     "score": 7.97
+     "score": 7.75
     },
     {
-     "titre": "Christa Pike, dont la mise à mort avait échoué aux Etats-Unis, a repris connaissance et parle",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/07/christa-pike-condamnee-a-mort-aux-etats-unis-a-repris-connaissance-et-parle_6789231_3210.html",
-     "resume": "« Son rétablissement est sans précédent sur le plan médical. Son pronostic reste incertain », ont fait savoir les avocats de la condamnée à la peine capitale, dont l’exécution a été un échec sans comparaison le 30 septembre, dans le Tennessee.",
-     "date": "2026-10-07T01:22:03+02:00",
+     "titre": "En Cisjordanie occupée, un photojournaliste de l’Agence France-Presse roué de coups par des colons israéliens",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/07/en-cisjordanie-occupee-un-photojournaliste-de-l-agence-france-presse-roue-de-coups-par-des-colons-israeliens_6789331_3210.html",
+     "resume": "Jaafar Ashtiyeh, photographe palestinien de 58 ans, a été blessé à la tête et au torse et a été emmené à l’hôpital en ambulance, selon l’agence de presse internationale. Son directeur de l’information, Phil Chetwynd, dénonce « une attaque grave » et «…",
+     "date": "2026-10-07T02:43:01+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/01/720/0/8640/4320/644/322/60/0/90ab303_ftp-1-dtjkfrypi8pm-ed9b7642e80e4dae9c585fa5679fdbff-0-73ed8037f7fb4b058e533c4d0b48e69f.jpg",
+     "image": "https://img.lemde.fr/2026/10/06/675/0/8100/4050/644/322/60/0/9f56950_ftp-1-gjwwb2xdq1by-5279851-01-06.jpg",
      "reprises": 4,
-     "score": 7.91
+     "score": 7.22
     },
     {
-     "titre": "EN DIRECT, guerre en Ukraine : deux morts à Kiev dans une attaque de missiles russes",
-     "lien": "https://www.lemonde.fr/international/live/2026/10/07/en-direct-guerre-en-ukraine-deux-morts-a-kiev-dans-une-attaque-de-missiles-russes_6787996_3210.html",
-     "resume": "Deux personnes ont été tuées tôt mercredi, dans le district de Darnytsky, dans le sud-est de la capitale, selon un premier bilan des autorités militaires, alors que Moscou intensifie ses frappes sur la capitale ukrainienne. La veille, le président Volodymyr…",
-     "date": "2026-10-07T06:43:21+02:00",
+     "titre": "Allemagne : l’affaire August Hanning, l’ancien chef des services secrets soupçonné d’espionnage, illustre les failles de l’agence du renseignement extérieur",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/06/allemagne-l-arrestation-d-august-hanning-l-ancien-chef-du-bnd-accuse-d-espionnage-une-nouvelle-affaire-qui-illustre-les-failles-des-services-de-renseignement_6789057_3210.html",
+     "resume": "L’ancien responsable du BND, âgé de 80 ans, aurait continué à recevoir des informations confidentielles bien après son départ en 2005, et est accusé d’en avoir transmis certaines à une puissance étrangère. Il a été arrêté à son domicile.",
+     "date": "2026-10-06T19:48:31+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/07/437/0/5247/2623/644/322/60/0/af6865d_ftp-1-dmymwzpqb7h8-2026-10-07t013917z-1893556552-rc20ynaq84co-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+     "image": "https://img.lemde.fr/2026/10/06/0/0/3310/1655/644/322/60/0/2c2bae3_ftp-1-aobcceetpeir-8d55b1a6cee342a5aea4caf604195dd8-0-0f71c7354de040aca6fa2230609ac1f0.jpg",
      "reprises": 4,
-     "score": 7.87
+     "score": 6.54
+    },
+    {
+     "titre": "Le prix Nobel de physique décerné au Belge Francis Halzen pour ses travaux sur les neutrinos",
+     "lien": "https://www.rfi.fr/fr/science/20261006-le-prix-nobel-de-physique-d%C3%A9cern%C3%A9-au-belge-francis-halzen",
+     "resume": "Le prix Nobel de physique 2026 a été décerné, mardi 6 octobre, au Belge Francis Halzen. Le physicien de 82 ans a été récompensé « pour ses contributions décisives à l'observatoire de neutrinos IceCube et à la découverte de neutrinos de haute énergie…",
+     "date": "2026-10-06T12:00:29+02:00",
+     "source": "Christine Olsson/TT News Agency  - Christine Olsson",
+     "image": "https://s.rfi.fr/media/display/0ac3d5a2-c173-11f1-854d-73f176a2394c/w:1024/p:16x9/AP26279361044171.jpg",
+     "reprises": 3,
+     "score": 4.46
     }
    ],
    "a_traduire": []
@@ -329,7 +329,7 @@
      "source": "Radio France",
      "image": null,
      "reprises": 15,
-     "score": 31.74
+     "score": 30.05
     },
     {
      "titre": "Anthropic élargit Claude Startups pour attirer les jeunes entreprises",
@@ -339,7 +339,17 @@
      "source": "Boursorama",
      "image": null,
      "reprises": 2,
-     "score": 7.15
+     "score": 6.79
+    },
+    {
+     "titre": "Sécurité, information, création, recherche… L’intelligence artificielle est-elle hors de contrôle ?",
+     "lien": "https://news.google.com/rss/articles/CBMingJBVV95cUxNbktCTHVHU2M0UUV1SmhuQ0VGWjU1UkFLYnc2Y3hNcFU0UGtaa0UtbENQdExCR0h4NHhEclcxX3FtVU1BYnVEYlpzSktBWTJiNFhQUHhEZGxyR3N6ZVZneUphUEc3aTJjRDRDSkY1amY5Y2dfSzRqamFGeEFMcU91Y2hsSHhTdktUZENHcURNMk5uSVdWVEx5d0Z5THpDS2MtaXhRUTVhQlBJTVlvcGJvRlg1dlZ4TGwwNFk0YmYzQ3B4SnJZNkJ1WGEtbnVNTHhsMGR0UE9PNkFZTXdYSGN6MDVBbEI4S3o0TDhOWkFjT05nQ2hkNDhSRmx5eUdMZGZfWExCa0ZoUmh4STM1T2dyb3p6MVBvNjJHUV9NaXpB?oc=5",
+     "resume": "",
+     "date": "2026-10-07T06:30:40+02:00",
+     "source": "Ouest-France",
+     "image": null,
+     "reprises": 3,
+     "score": 5.65
     },
     {
      "titre": "Anthropic met ses modèles d'IA les plus puissants à la disposition d'un plus grand nombre d'équipes de sécurit",
@@ -349,40 +359,20 @@
      "source": "Boursorama",
      "image": null,
      "reprises": 3,
-     "score": 4.4
+     "score": 4.28
     },
     {
-     "titre": "Sécurité, information, création, recherche… L’intelligence artificielle est-elle hors de contrôle ?",
-     "lien": "https://news.google.com/rss/articles/CBMingJBVV95cUxNbktCTHVHU2M0UUV1SmhuQ0VGWjU1UkFLYnc2Y3hNcFU0UGtaa0UtbENQdExCR0h4NHhEclcxX3FtVU1BYnVEYlpzSktBWTJiNFhQUHhEZGxyR3N6ZVZneUphUEc3aTJjRDRDSkY1amY5Y2dfSzRqamFGeEFMcU91Y2hsSHhTdktUZENHcURNMk5uSVdWVEx5d0Z5THpDS2MtaXhRUTVhQlBJTVlvcGJvRlg1dlZ4TGwwNFk0YmYzQ3B4SnJZNkJ1WGEtbnVNTHhsMGR0UE9PNkFZTXdYSGN6MDVBbEI4S3o0TDhOWkFjT05nQ2hkNDhSRmx5eUdMZGZfWExCa0ZoUmh4STM1T2dyb3p6MVBvNjJHUV9NaXpB?oc=5",
-     "resume": "",
-     "date": "2026-10-07T06:30:40+02:00",
-     "source": "Ouest-France",
+     "titre": "ChatGPT : vos textes générés par l’IA vont devenir traçables en Europe",
+     "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmMya0JFRkRSaHZkUVZOUTRlbEJIVV85eU9jMU9LeTl1b2dNZGhrZTctdmFxOElsUmRvVV9XYTJvcVQ5ZFI4Uy1wVmctQzZlT2piZmQxVFlaX1VrTHlVbU4wZXhuWjhBOEdERFJybUVqcXotRURDXzVkMjUtYXgxbXQ1akV4ZGdoYjgwdGFXMVJ4VFI0cXR3alJUOW4zN0RfRHYycVdn?oc=5",
+     "resume": "Les textes produits par ChatGPT et Codex auront prochainement un marquage invisible dans l’Union européenne. Le détecteur qui permet de révéler les contenus IA sera d’abord réservé à des chercheurs et organismes spécialisés.",
+     "date": "2026-10-07T07:17:00+02:00",
+     "source": "Mac4Ever",
      "image": null,
      "reprises": 2,
-     "score": 3.59
-    },
-    {
-     "titre": "IA : c’est quoi « l’inférence » ?",
-     "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNEk5R01PQUlpUUJTdEdyZW0zRVV4elQ0eXBsUzVzN2I1UmxWSXhIa0RKUkFxS3dZUG9ZSE01c0tkb0hEUDdaSHFpbVI0RUltX0Fra1BuaVdrLVUxdG1mUDFnQ2VqM2s4TDZNcUhoSHE1N3N4bTBEMjhDMk9TQjQxcjZpY1B4SEdFNUNYaFRMM1BHTW1YZXd1cU9uYXprWW80MFJzdkJlQnJxa2ZURW5kNWRLMGNRXzBqOGpTa182a0tfdw?oc=5",
-     "resume": "",
-     "date": "2026-10-07T05:30:03+02:00",
-     "source": "Ouest-France",
-     "image": null,
-     "reprises": 2,
-     "score": 2.8
+     "score": 3.16
     }
    ],
    "a_traduire": [
-    {
-     "titre": "OpenAI is adding text watermarking in ChatGPT and Codex",
-     "lien": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-     "resume": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for…",
-     "date": "2026-10-05T20:08:39+02:00",
-     "source": "theverge.com",
-     "image": null,
-     "reprises": 2,
-     "score": 2.68
-    },
     {
      "titre": "AI computing startup Lambda to raise $4B ahead of planned IPO",
      "lien": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
@@ -391,7 +381,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.45
+     "score": 1.42
     },
     {
      "titre": "Google is about to remove free access to Gemini Flash and Pro",
@@ -401,7 +391,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.34
+     "score": 1.31
     },
     {
      "titre": "The next hurdle for AI agents: getting websites to let them in",
@@ -411,7 +401,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.32
+     "score": 1.29
     },
     {
      "titre": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
@@ -421,7 +411,17 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.15
+     "score": 1.13
+    },
+    {
+     "titre": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+     "lien": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+     "resume": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+     "date": "2026-10-06T16:33:16+02:00",
+     "source": "techcrunch.com",
+     "image": null,
+     "reprises": 1,
+     "score": 1.02
     }
    ]
   },
@@ -431,25 +431,14 @@
    "sous_titre": "Libertés fondamentales, grandes juridictions, culture juridique pour le CRFPA",
    "items": [
     {
-     "titre": "Le Conseil d'État valide le PSE du groupe Auchan Retail France",
-     "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1NCb1N3cHdrOC1fTFpLQ0Q2b3FEbFdyWmZjVkJrelVMajdWR1BHSkRVSm9DTUtGUnZKMzBQQndkYWZpSldweklYRmJoRmxOUjlIT2lFdE9PN01FUWtNazZKMHI2VkREMG50WVF3U2o3VzVYLWpYSWtGT3ZTZ19MTHFpeENPbU1kWUY4aXJwaDhrWERqMkZLMFV5R0x5bXcy?oc=5",
+     "titre": "Le Conseil d'État confirme l'annulation des élections municipales dans cette commune de Creuse",
+     "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSmZTSkptTWI2RXhkV3U2N1BWdHZQVG0tN1psWV9wVHpNazc2RS1lU2l3N3NsUS1qMl9iZkFCNlRsVFphUXRFcFVsRkVoVUZOYlBLOTFheVhNVE5feUt6OUNwaXE0VE5hdWxkZ0NnVDBrUHl1Y3JOQTFjWlk5aGdwZ29CVWtvMHRnSFdsRkJYMXlubk9xTG1pRlBPLThBVDdfNjFzYndCTXRPMDBDRlE2TFhiXzdXVG9wNlJEQVF1dFZfaEh4dllOeHFJRG9uR3ZUTkczWWNXc3pyNzl5U2RKb00tQko5VWxfdnBmNlotMWVUU3RYYnVyOVdzRQ?oc=5",
      "resume": "",
-     "date": "2026-10-06T04:23:46+02:00",
-     "source": "AEF info",
+     "date": "2026-10-06T19:15:00+02:00",
+     "source": "La Montagne",
      "image": null,
-     "reprises": 7,
-     "score": 11.03,
-     "libertes": false
-    },
-    {
-     "titre": "Pays basque. « Nous ne sommes pas surpris de cet arrêt » : le Conseil d’État écarte le dernier recours en justice contre le projet Marienia, à Cambo-les-Bains",
-     "lien": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxONzhFVDZ2OExzMWcyeVdFV0MycnlYSzVSOUFNR2xiRmhjWTZKajkwdTBvS3RuTktqemYzVi16VTRCbEJURDNhQWc5bndWY3gwenU2NXZEWWVLVlBVVzVoRlZQNmFMNmhocl93YUV5cXc4V09sMnMyZ1hpdkMwRGRoOXRaelFDNnFjVi1sQmZMNk4yYjVTMkxEcU9xVzgyb1owVkg0bXNRVjFoZW5Ldk9ZbDhob1BZVmVJTjU3QUJPbTVQX2xfWXoxWFBIb1daWjJTSGFIWnJzdHdXVmlIZ2FZN25xMDJkLWZ5MEMtOWQzYkNzQUxZTERqTXc5T25hNEVKb09kSjFxR0NTcTdtWkhjOTFYTXI2X1J4R0ZLN1hSVkVlNXF4MDdmdmFuUC16NGltUXhVMHV5WTBJckltWGVTNXh3?oc=5",
-     "resume": "",
-     "date": "2026-10-04T17:15:00+02:00",
-     "source": "Sud Ouest",
-     "image": null,
-     "reprises": 6,
-     "score": 9.02,
+     "reprises": 5,
+     "score": 8.61,
      "libertes": false
     },
     {
@@ -460,7 +449,7 @@
      "source": "JIM.fr",
      "image": null,
      "reprises": 4,
-     "score": 7.86,
+     "score": 7.84,
      "libertes": false
     },
     {
@@ -471,30 +460,41 @@
      "source": "Outre-mer La 1ère",
      "image": null,
      "reprises": 3,
-     "score": 6.19,
+     "score": 6.15,
      "libertes": false
     },
     {
-     "titre": "Le Conseil d'État confirme l'annulation des élections municipales dans cette commune de Creuse",
-     "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSmZTSkptTWI2RXhkV3U2N1BWdHZQVG0tN1psWV9wVHpNazc2RS1lU2l3N3NsUS1qMl9iZkFCNlRsVFphUXRFcFVsRkVoVUZOYlBLOTFheVhNVE5feUt6OUNwaXE0VE5hdWxkZ0NnVDBrUHl1Y3JOQTFjWlk5aGdwZ29CVWtvMHRnSFdsRkJYMXlubk9xTG1pRlBPLThBVDdfNjFzYndCTXRPMDBDRlE2TFhiXzdXVG9wNlJEQVF1dFZfaEh4dllOeHFJRG9uR3ZUTkczWWNXc3pyNzl5U2RKb00tQko5VWxfdnBmNlotMWVUU3RYYnVyOVdzRQ?oc=5",
+     "titre": "Le Conseil d'État valide le PSE du groupe Auchan Retail France",
+     "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1NCb1N3cHdrOC1fTFpLQ0Q2b3FEbFdyWmZjVkJrelVMajdWR1BHSkRVSm9DTUtGUnZKMzBQQndkYWZpSldweklYRmJoRmxOUjlIT2lFdE9PN01FUWtNazZKMHI2VkREMG50WVF3U2o3VzVYLWpYSWtGT3ZTZ19MTHFpeENPbU1kWUY4aXJwaDhrWERqMkZLMFV5R0x5bXcy?oc=5",
      "resume": "",
-     "date": "2026-10-06T19:15:00+02:00",
-     "source": "La Montagne",
+     "date": "2026-10-06T04:23:46+02:00",
+     "source": "AEF info",
      "image": null,
-     "reprises": 3,
-     "score": 5.4,
+     "reprises": 4,
+     "score": 6.06,
      "libertes": false
     },
     {
-     "titre": "Jeu télé, podcast, réseaux sociaux… Le Conseil constitutionnel se modernise pour défendre l’État de droit",
-     "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVTlpTTZ6cGJFVGJoRDFGUU9ubjlqMEJqLUFnamRTZ19WR2l1TncyUkVfQ0tRME1lWDk1M0lJOEdMcXZBM3p0WFYwd2RGdXRQMHQ4TEUtaVdSazdZQmRlSzg3OURMU0hqTl9mck5KSU95UEJtUmt4LVFjQlBmb1VKM3RsNmZfQVo1OHhGc25idVhVUnFGOVNVRUt5QWVraEU0eXN6VG1kcjRXQVFBUkRvMTRKdktmRU9Ramh3cHpmYlFoRWtwMUdfNUQ2azVjbEVKQmk3aUd5dXhSanZoV2NJS0ZqaUVaR2Jnd0lRUWthMkZ6a1FfUWdaN0IydGxiZnR3WjQwS3N4Umx0VHM?oc=5",
+     "titre": "À Lannion, Lidl défend encore son projet de magasin rue Saint-Pierre devant le Conseil d’État",
+     "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWDlJRnlJRC1sMHdlNFZUOG53OEluRTQyeXJBM0JucGc2dTdaQ3ZPbFdzRmRDZ2xLN29YZGJYVG15bkQyQVZwdFhaWHE3WWZQWm9JdWRLOEdLQTJZRzlWSS1RN050VUoxVmlzRW9FNExDcGlDUXlJdkRSeTh5RE9VQjQwN292b0JmQ2I4a0ZoLTZyZnlGc3FialVIMTJOU1hYVE1CNjkxdXMtN0R4eEx5ai1fRnRyTVM2OUFja3A2OE5XUEVWb0pUM21WVndic1Yyamk2b3FZRGE5RklIc3h6Rl9GUmZmeTdRNWdZ?oc=5",
      "resume": "",
-     "date": "2026-10-05T13:04:48+02:00",
-     "source": "Le Parisien",
+     "date": "2026-10-05T15:36:11+02:00",
+     "source": "Ouest-France",
+     "image": null,
+     "reprises": 4,
+     "score": 5.25,
+     "libertes": false
+    },
+    {
+     "titre": "Le SDRIF-E définitivement confirmé par le Conseil d’État",
+     "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzlYRWp3VGZDZ0xndURMbmJLVEVJRkM3bFZtZWtjbWtxblZCVndLVDlfMDRQWlJ2WlpKOXkzeHRYdkViM1RxSml5Nmtzd2dtUkoxb2JlNG9XcE9BN1o0cXZoekRhY1doaVdsZnJRTVQtNTZ5eUFjaUxIc05ocTdyM0hDb3lvX2NGTmhGaGlySlFyVmhCdlpaZnBtQ3V0REp0eG9iRXh2MA?oc=5",
+     "resume": "",
+     "date": "2026-10-06T16:53:55+02:00",
+     "source": "Région Ile-de-France",
      "image": null,
      "reprises": 2,
-     "score": 3.55,
-     "libertes": true
+     "score": 3.72,
+     "libertes": false
     }
    ],
    "a_traduire": []
