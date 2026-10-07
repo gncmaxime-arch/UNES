@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "genere": "2026-10-07T06:55+02:00",
+ "genere": "2026-10-07T06:57+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -82,20 +82,20 @@
      "image": "https://img.lemde.fr/2026/10/07/666/0/8000/4000/644/322/60/0/bc15417_upload-1-oju3pq8ytxlv-jmug261006017.jpg"
     },
     {
-     "titre": "Allemagne : l’affaire August Hanning, l’ancien chef des services secrets soupçonné d’espionnage, illustre les failles de l’agence du renseignement extérieur",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/06/allemagne-l-arrestation-d-august-hanning-l-ancien-chef-du-bnd-accuse-d-espionnage-une-nouvelle-affaire-qui-illustre-les-failles-des-services-de-renseignement_6789057_3210.html",
-     "resume": "L’ancien responsable du BND, âgé de 80 ans, aurait continué à recevoir des informations confidentielles bien après son départ en 2005, et est accusé d’en avoir transmis certaines à une puissance étrangère. Il a été arrêté à son domicile.",
-     "date": "2026-10-06T19:48:31+02:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/10/06/0/0/3310/1655/644/322/60/0/2c2bae3_ftp-1-aobcceetpeir-8d55b1a6cee342a5aea4caf604195dd8-0-0f71c7354de040aca6fa2230609ac1f0.jpg"
-    },
-    {
      "titre": "Ecrits antisémites : l’affaire Jordan Bardella plombe la séquence budgétaire du RN",
      "lien": "https://www.lemonde.fr/politique/article/2026/10/06/ecrits-antisemites-l-affaire-jordan-bardella-plombe-la-sequence-budgetaire-du-rn_6789091_823448.html",
      "resume": "Poursuivant sa stratégie de déni, le président du Rassemblement national a dû répondre, aux côtés de Marine Le Pen, aux questions des journalistes, lors d’une conférence de presse organisée pour présenter la trajectoire budgétaire de la candidate en cas de…",
      "date": "2026-10-06T20:16:26+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/10/06/1000/0/6000/3000/644/322/60/0/e84f176_upload-1-kjuyqmsrsfqt-cbi1340019.jpg"
+    },
+    {
+     "titre": "Allemagne : l’affaire August Hanning, l’ancien chef des services secrets soupçonné d’espionnage, illustre les failles de l’agence du renseignement extérieur",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/06/allemagne-l-arrestation-d-august-hanning-l-ancien-chef-du-bnd-accuse-d-espionnage-une-nouvelle-affaire-qui-illustre-les-failles-des-services-de-renseignement_6789057_3210.html",
+     "resume": "L’ancien responsable du BND, âgé de 80 ans, aurait continué à recevoir des informations confidentielles bien après son départ en 2005, et est accusé d’en avoir transmis certaines à une puissance étrangère. Il a été arrêté à son domicile.",
+     "date": "2026-10-06T19:48:31+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/06/0/0/3310/1655/644/322/60/0/2c2bae3_ftp-1-aobcceetpeir-8d55b1a6cee342a5aea4caf604195dd8-0-0f71c7354de040aca6fa2230609ac1f0.jpg"
     },
     {
      "titre": "L’Arabie saoudite, le Pakistan et la Turquie posent le premier acte de leur accord de défense mutuelle face aux houthistes",
@@ -260,18 +260,8 @@
      "date": "2026-10-07T05:00:25+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/05/720/0/8640/4320/644/322/60/0/a892d08_ftp-1-153yuuhzllov-8ba30acd179b437ab5dc4370bc427e58-0-6c661c3816b0444aa71f81f81386323b.jpg",
-     "reprises": 13,
-     "score": 35.94
-    },
-    {
-     "titre": "L’Arabie saoudite annonce l’interception de missiles des houthistes du Yémen",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/07/l-arabie-saoudite-annonce-l-interception-de-missiles-des-houthistes-du-yemen_6789541_3210.html",
-     "resume": "Les opposants au gouvernement yéménite poursuivent leurs frappes contre Riyad et disent procéder à des tirs de drones, de missiles balistiques et de croisière.",
-     "date": "2026-10-07T06:22:43+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/05/121/0/3802/1901/644/322/60/0/e6a151d_ftp-1-mhl8w6k3car2-2026-10-05t161930z-1586261934-rc24xna55gzx-rtrmadp-3-saudi-yemen-strikes.JPG",
-     "reprises": 3,
-     "score": 9.75
+     "reprises": 14,
+     "score": 38.88
     },
     {
      "titre": "En Cisjordanie occupée, un photojournaliste de l’Agence France-Presse roué de coups par des colons israéliens",
@@ -281,7 +271,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/06/675/0/8100/4050/644/322/60/0/9f56950_ftp-1-gjwwb2xdq1by-5279851-01-06.jpg",
      "reprises": 5,
-     "score": 9.18
+     "score": 9.17
     },
     {
      "titre": "Au Mali, la junte regagne du terrain en reprenant Kidal, fief des rebelles touareg",
@@ -291,7 +281,17 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/09/10/142/0/5664/2832/644/322/60/0/8ecb790_upload-1-d3gdnuqy46z3-080-hl-smaouche-3234958.jpg",
      "reprises": 4,
-     "score": 8.52
+     "score": 8.55
+    },
+    {
+     "titre": "L’Arabie saoudite annonce l’interception de missiles des houthistes du Yémen",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/07/l-arabie-saoudite-annonce-l-interception-de-missiles-des-houthistes-du-yemen_6789541_3210.html",
+     "resume": "Les opposants au gouvernement yéménite poursuivent leurs frappes contre Riyad et disent procéder à des tirs de drones, de missiles balistiques et de croisière.",
+     "date": "2026-10-07T06:22:43+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/05/121/0/3802/1901/644/322/60/0/e6a151d_ftp-1-mhl8w6k3car2-2026-10-05t161930z-1586261934-rc24xna55gzx-rtrmadp-3-saudi-yemen-strikes.JPG",
+     "reprises": 3,
+     "score": 7.97
     },
     {
      "titre": "Christa Pike, dont la mise à mort avait échoué aux Etats-Unis, a repris connaissance et parle",
@@ -301,17 +301,17 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/01/720/0/8640/4320/644/322/60/0/90ab303_ftp-1-dtjkfrypi8pm-ed9b7642e80e4dae9c585fa5679fdbff-0-73ed8037f7fb4b058e533c4d0b48e69f.jpg",
      "reprises": 4,
-     "score": 8.03
+     "score": 7.91
     },
     {
-     "titre": "Allemagne : l’affaire August Hanning, l’ancien chef des services secrets soupçonné d’espionnage, illustre les failles de l’agence du renseignement extérieur",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/06/allemagne-l-arrestation-d-august-hanning-l-ancien-chef-du-bnd-accuse-d-espionnage-une-nouvelle-affaire-qui-illustre-les-failles-des-services-de-renseignement_6789057_3210.html",
-     "resume": "L’ancien responsable du BND, âgé de 80 ans, aurait continué à recevoir des informations confidentielles bien après son départ en 2005, et est accusé d’en avoir transmis certaines à une puissance étrangère. Il a été arrêté à son domicile.",
-     "date": "2026-10-06T19:48:31+02:00",
+     "titre": "EN DIRECT, guerre en Ukraine : deux morts à Kiev dans une attaque de missiles russes",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/07/en-direct-guerre-en-ukraine-deux-morts-a-kiev-dans-une-attaque-de-missiles-russes_6787996_3210.html",
+     "resume": "Deux personnes ont été tuées tôt mercredi, dans le district de Darnytsky, dans le sud-est de la capitale, selon un premier bilan des autorités militaires, alors que Moscou intensifie ses frappes sur la capitale ukrainienne. La veille, le président Volodymyr…",
+     "date": "2026-10-07T06:43:21+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/06/0/0/3310/1655/644/322/60/0/2c2bae3_ftp-1-aobcceetpeir-8d55b1a6cee342a5aea4caf604195dd8-0-0f71c7354de040aca6fa2230609ac1f0.jpg",
+     "image": "https://img.lemde.fr/2026/10/07/437/0/5247/2623/644/322/60/0/af6865d_ftp-1-dmymwzpqb7h8-2026-10-07t013917z-1893556552-rc20ynaq84co-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
      "reprises": 4,
-     "score": 6.81
+     "score": 7.87
     }
    ],
    "a_traduire": []
@@ -328,8 +328,8 @@
      "date": "2026-10-06T20:00:00+02:00",
      "source": "Radio France",
      "image": null,
-     "reprises": 14,
-     "score": 29.97
+     "reprises": 15,
+     "score": 31.74
     },
     {
      "titre": "Anthropic élargit Claude Startups pour attirer les jeunes entreprises",
@@ -338,8 +338,8 @@
      "date": "2026-10-06T20:50:00+02:00",
      "source": "Boursorama",
      "image": null,
-     "reprises": 3,
-     "score": 9.23
+     "reprises": 2,
+     "score": 7.15
     },
     {
      "titre": "Anthropic met ses modèles d'IA les plus puissants à la disposition d'un plus grand nombre d'équipes de sécurit",
@@ -349,7 +349,7 @@
      "source": "Boursorama",
      "image": null,
      "reprises": 3,
-     "score": 4.39
+     "score": 4.4
     },
     {
      "titre": "Sécurité, information, création, recherche… L’intelligence artificielle est-elle hors de contrôle ?",
@@ -369,7 +369,7 @@
      "source": "Ouest-France",
      "image": null,
      "reprises": 2,
-     "score": 2.79
+     "score": 2.8
     }
    ],
    "a_traduire": [
@@ -438,7 +438,7 @@
      "source": "AEF info",
      "image": null,
      "reprises": 7,
-     "score": 11.04,
+     "score": 11.03,
      "libertes": false
     },
     {
@@ -449,7 +449,7 @@
      "source": "Sud Ouest",
      "image": null,
      "reprises": 6,
-     "score": 9.03,
+     "score": 9.02,
      "libertes": false
     },
     {
