@@ -1,134 +1,134 @@
 {
- "date": "2026-10-07",
- "edito": "Plus de 250 000 personnes ont défilé mardi en soutien aux lycéens, et Sébastien Lecornu suspend certains cours dès ce mercredi pour un « temps de démocratie interne ». Israël commémore les trois ans du 7-Octobre en pleine campagne électorale, tandis que l'Arabie saoudite active son pacte de défense avec la Turquie et le Pakistan face aux houthistes. En droit, la Cour de cassation ordonne un nouveau procès pour Rodrigue Petitot.",
+ "date": "2026-10-08",
+ "edito": "Sébastien Lecornu a pris la parole mercredi soir face à une accumulation de crises, des lycées aux carburants, sans désamorcer l'« acte IV » lycéen prévu ce jeudi. La Russie a lancé 70 missiles sur l'Ukraine, faisant au moins 28 morts à Prylouky, et les houthistes frappent de nouveau l'aéroport de Riyad. En droit, le Conseil d'État valide la recommandation de vaccination des soignants.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro fait le récit d'une journée de mobilisation lycéenne massive marquée par des débordements. Il souligne une violence de rue à un niveau historique et suit les premières comparutions des personnes interpellées.",
+   "resume": "Le Figaro décrypte l'intervention de Sébastien Lecornu, qui cherche l'apaisement sur les lycées, les carburants et le budget. Il suit aussi l'« acte IV » lycéen et la grève CGT chez TotalEnergies.",
    "points": [
-    "Plus de 250 000 manifestants en France ; Sébastien Lecornu suspend certains cours dès mercredi.",
-    "Près de 700 agressions par jour : la violence de rue atteint un record selon le ministère de l'Intérieur.",
-    "À Paris et Bobigny, premières comparutions immédiates, surtout de mineurs.",
-    "Éditorial de Vincent Trémolet de Villers : « autodestruction ou redressement ? »."
+    "Le gouvernement libère 10 millions de barils de gazole des stocks stratégiques sur trois mois.",
+    "Lecornu promet une baisse de 12 à 18 centimes à la pompe ; Le Figaro en doute.",
+    "La CGT appelle à la grève dans les raffineries et stations TotalEnergies ce jeudi.",
+    "Guillaume Tabard : « gagner du temps ou avouer son impuissance ? »."
    ]
   },
   "monde": {
-   "resume": "Le Monde montre un gouvernement sur la défensive face à la polémique sur le maintien de l'ordre. Il revient aussi sur l'affaire des écrits antisémites qui embarrasse Jordan Bardella et sur l'activation d'une alliance militaire autour de Riyad.",
+   "resume": "Le Monde décrit un premier ministre accablé par « la superposition des crises ». Il analyse aussi le contre-budget du RN et la confiscation par Moscou des actifs russes d'entreprises françaises.",
    "points": [
-    "Le premier ministre s'exprime pour la première fois depuis le début du mouvement lycéen.",
-    "Écrits antisémites : l'affaire Bardella pèse sur la présentation du budget du RN.",
-    "Allemagne : August Hanning, ex-chef du BND, arrêté et soupçonné d'espionnage.",
-    "Le commissaire européen Maros Sefcovic à Pékin face à l'envolée des exportations chinoises."
+    "Lecornu se montre compréhensif envers les lycéens, mais prévient qu'il ne pourra pas tout satisfaire.",
+    "Le RN propose une taxe de 1 000 euros sur l'embauche d'un travailleur extra-européen.",
+    "Leroy-Merlin, Auchan, Nestlé : le Kremlin organise la reprise de leurs actifs via une société-écran.",
+    "WWF : les populations de vertébrés sauvages ont chuté de 73 % depuis 1970."
    ]
   },
   "croix": {
-   "resume": "La Croix consacre sa une aux trois ans du 7-Octobre, entre commémoration et traumatisme persistant en Israël. Elle s'intéresse aussi aux dépenses de la France pour le lycée et au synode sur la famille réuni par Léon XIV.",
+   "resume": "La Croix suit l'escalade dans le Golfe, avec une frappe houthiste sur l'aéroport de Riyad et un pétrolier touché au large du Qatar. Elle raconte aussi la dépendance aux énergies fossiles dans les campagnes.",
    "points": [
-    "Gaza : deux morts dans des frappes israéliennes le jour de la commémoration.",
-    "À Ofakim, le climat d'insécurité pèse sur les choix politiques à l'approche des législatives.",
-    "Du 7 au 14 octobre, Léon XIV réunit l'Église autour d'« Amoris laetitia »."
+    "Depuis la fermeture du détroit d'Ormuz, les ménages ruraux subissent la flambée des carburants.",
+    "L'astronaute Sophie Adenot revient sur Terre ce jeudi après huit mois dans l'ISS.",
+    "À Londres, le chef des Verts brigue le siège laissé vacant par Keir Starmer."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe s'interroge sur l'attrait de Paris pour les ligues sportives américaines, avant le match de NFL au Stade de France. Le journal suit aussi la reconstruction de l'équipe de France par Zinédine Zidane.",
+   "resume": "L'Équipe revient sur la défaite de Castres face à un Toulouse très remanié en Top 14. Le journal évoque aussi un possible retour de la F1 en Afrique, au Rwanda.",
    "points": [
-    "La NFL au Stade de France le 25 octobre, après la NBA et l'UFC.",
-    "Cristiano Ronaldo donne sa version de son départ de la sélection portugaise.",
-    "Basket : Pierric Poupet retrouve l'Asvel avec Paris en Euroligue."
+    "Euroligue : l'Asvel bat Paris 98-96 dans un duel parti pour devenir un classique.",
+    "La F1 serait sur le point de finaliser un Grand Prix au Rwanda.",
+    "Olivier Boscagli, défenseur de Brighton, rêve de l'équipe de France."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Arabie saoudite : la Turquie et le Pakistan activent le pacte de défense face aux houthistes",
-    "resume": "Visée par des missiles et des drones houthistes, Riyad a activé lundi le « pacte de La Mecque » conclu en août avec Ankara et Islamabad.",
-    "pourquoi": "La guerre au Yémen devient une confrontation régionale impliquant deux armées extérieures, dont une puissance nucléaire.",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/07/l-arabie-saoudite-le-pakistan-et-la-turquie-posent-le-premier-acte-de-leur-accord-de-defense-mutuelle-face-aux-houthistes_6789398_3210.html",
+    "titre": "Ukraine : au moins 28 morts à Prylouky après une vague de frappes russes",
+    "resume": "Selon Volodymyr Zelensky, 70 missiles et des drones ont visé 12 régions ; cinq enfants figurent parmi les victimes d'un immeuble touché.",
+    "pourquoi": "Une des attaques les plus meurtrières de l'automne, au moment où l'Europe renforce son aide militaire à Kiev.",
+    "lien": "https://www.lemonde.fr/international/live/2026/10/08/en-direct-guerre-en-ukraine-un-lourd-bilan-apres-de-nouvelles-frappes-russes-dont-au-moins-28-morts-a-prylouky-dans-le-nord-du-pays_6787996_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-07T04:45:07+02:00"
+    "date": "2026-10-08T01:19:21+02:00"
    },
    {
-    "titre": "Israël commémore les trois ans du 7-Octobre en pleine campagne électorale",
-    "resume": "Le pays honore les victimes de l'attaque du Hamas, alors que la guerre continue et que des frappes ont encore tué à Gaza.",
-    "pourquoi": "Le traumatisme du 7-Octobre pèse sur les législatives israéliennes et sur toute perspective de paix.",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/07/en-israel-trois-ans-apres-le-7-octobre-les-traumatismes-et-les-aveuglements-d-un-pays_6789465_3210.html",
-    "source": "Le Monde",
-    "date": "2026-10-07T05:00:25+02:00"
+    "titre": "Golfe : les houthistes frappent l'aéroport de Riyad, un pétrolier touché au large du Qatar",
+    "resume": "Les frappes de la veille avaient fait au moins trois morts ; la coalition saoudienne promet qu'elles ne resteront pas impunies.",
+    "pourquoi": "Avec le détroit d'Ormuz fermé, chaque attaque dans le Golfe pèse sur les prix de l'énergie en Europe.",
+    "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-118-moyen-orient-bilan-resume-aujourdhui-20261008",
+    "source": "La Croix",
+    "date": "2026-10-08T06:42:05+02:00"
    },
    {
-    "titre": "Mali : la junte reprend Kidal aux rebelles touareg",
-    "resume": "Chassés de la ville en avril par les indépendantistes et les djihadistes, l'armée malienne et ses alliés russes y reviennent.",
-    "pourquoi": "Kidal est le symbole du contrôle du Nord malien ; sa reprise rebat les cartes au Sahel.",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/06/au-mali-la-junte-regagne-du-terrain-en-reprenant-kidal-fief-des-rebelles-touareg_6789125_3210.html",
-    "source": "Le Monde",
-    "date": "2026-10-06T21:03:55+02:00"
-   },
-   {
-    "titre": "France : plus de 250 000 manifestants en soutien aux lycéens",
-    "resume": "La journée a été marquée par des débordements ; le gouvernement suspend certains cours mercredi pour un « temps de démocratie interne ».",
-    "pourquoi": "La crise des lycées devient un mouvement social large, et le maintien de l'ordre fait polémique.",
-    "lien": "https://www.lefigaro.fr/actualite-france/mobilisation-lyceenne-une-matinee-deja-sous-tension-avant-la-tempete-parisienne-20261006",
+    "titre": "France : Sébastien Lecornu tente de reprendre la main face aux crises",
+    "resume": "Lycées, carburants, électricité : le premier ministre annonce la libération de stocks stratégiques de gazole, mais l'« acte IV » lycéen est maintenu.",
+    "pourquoi": "Le gouvernement affronte simultanément une crise sociale et énergétique, à l'approche du débat budgétaire.",
+    "lien": "https://www.lefigaro.fr/politique/colere-lyceenne-carburants-electricite-ce-qu-il-faut-retenir-de-l-intervention-de-sebastien-lecornu-20261007",
     "source": "Le Figaro",
-    "date": "2026-10-06T20:21:03+02:00"
+    "date": "2026-10-08T00:40:09+02:00"
    },
    {
-    "titre": "Allemagne : un ancien chef des services secrets arrêté pour espionnage",
-    "resume": "August Hanning, 80 ans, ex-patron du BND, est soupçonné d'avoir transmis des informations confidentielles à une puissance étrangère.",
-    "pourquoi": "L'affaire révèle des failles graves dans le renseignement allemand, pilier de la sécurité européenne.",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/06/allemagne-l-arrestation-d-august-hanning-l-ancien-chef-du-bnd-accuse-d-espionnage-une-nouvelle-affaire-qui-illustre-les-failles-des-services-de-renseignement_6789057_3210.html",
+    "titre": "Russie : l'OMS, l'UE et les États-Unis demandent la transparence sur un soupçon de peste",
+    "resume": "La mort d'une technicienne de l'institut de lutte contre la peste d'Irkoutsk inquiète, malgré les démentis du Kremlin.",
+    "pourquoi": "Un incident de laboratoire mal expliqué ravive la crainte d'un risque sanitaire dissimulé.",
+    "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261007-russie-les-soup%C3%A7ons-de-peste-contaminent-les-r%C3%A9seaux-sociaux",
+    "source": "France 24",
+    "date": "2026-10-07T22:49:50+02:00"
+   },
+   {
+    "titre": "Biodiversité : les populations de vertébrés sauvages ont chuté de 73 % depuis 1970",
+    "resume": "La nouvelle édition de l'« indice planète vivante » du WWF montre une accélération du déclin.",
+    "pourquoi": "Un indicateur de référence de l'effondrement du vivant, au cœur des négociations internationales sur la biodiversité.",
+    "lien": "https://www.lemonde.fr/planete/article/2026/10/08/le-declin-des-populations-de-vertebres-sauvages-s-accentue-depuis-cinquante-ans_6789655_3244.html",
     "source": "Le Monde",
-    "date": "2026-10-06T19:48:31+02:00"
+    "date": "2026-10-08T00:25:30+02:00"
    }
   ],
   "ia": [
    {
-    "titre": "Mistral dévoile Mistral Large 4 pour revenir dans la course",
-    "resume": "Le champion français, jugé distancé par les modèles chinois et américains, présente un nouveau grand modèle surnommé « Chonk ».",
-    "pourquoi": "L'enjeu est la place de l'Europe dans les modèles de pointe, face aux géants américains et chinois.",
-    "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenZxNjZkMG9lbjJ0by15OUdQdl9rVWZBT09WczV0QVNOM2dlNUVCcDctX180cHpZZ3hxR0p5bkhIWVRCblNVQjFpOEVCdHVNV2xETHQyR3p2TkRLU2tTMUZGcXhvc3dzaWJaMEVkZHo2VnJmRUlWTFRNSjBydmZrbHZYV2wxRURkQldLNUozcEJiSTRuYVhyN0F3Y21ZREFiQkpJMFBTeW92Q1gxTm5SNl9CQkxteFdRckpRSlBURjMwYzhp?oc=5",
-    "source": "Radio France",
-    "date": "2026-10-06T20:00:00+02:00"
-   },
-   {
-    "titre": "Google réserve Gemini Flash et Pro aux abonnés payants",
-    "resume": "Dès le 9 octobre, les utilisateurs gratuits n'auront plus accès qu'au modèle Flash Lite ; les autres passent à 4,99 $ par mois.",
-    "pourquoi": "La fin de l'IA gratuite généreuse : les coûts de calcul poussent les géants à faire payer les usagers.",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+    "titre": "ChatGPT devient visuel : images, graphiques et boutons dans les réponses",
+    "resume": "OpenAI déploie « Intelligent UI » pour tous les utilisateurs, en même temps que GPT-6, selon The Verge.",
+    "pourquoi": "Le chatbot se transforme en interface complète, en concurrence directe avec les moteurs de recherche et les applications.",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
     "source": "The Verge",
-    "date": "2026-10-06T15:19:01+02:00"
+    "date": "2026-10-07T21:10:42+02:00"
    },
    {
-    "titre": "Anthropic ouvre ses modèles les plus puissants à davantage d'équipes de cybersécurité",
-    "resume": "L'entreprise élargit l'accès de ses modèles les plus avancés aux équipes chargées de la sécurité informatique.",
-    "pourquoi": "Les modèles avancés deviennent un outil de défense, mais aussi un risque s'ils tombent entre de mauvaises mains.",
-    "lien": "https://news.google.com/rss/articles/CBMingJBVV95cUxOY1IzQi1MRlY5eFFCampyamtJNEZVSW9FaHljaXVtZktBMzZPTmVzODkyLWZJSmlIOGZwRENoV2N2OGNHY0xMUXFHdGpTamZDNVJRMHlIUElzQW5sV2Y5T2FaUWV2aUNwT1VjSHBBNEZSRXB6MzBIcEVNaGpnNEowTUVzQTdoSHJKMl9uMVJ6Y3FCSHZvdXRTYTlSZWxEOWVRcE93MzJ6MU9CWVlnZFpUU1B3dHJHb3lBenMwUlVmQzN1OUg3QzMxTW9xdUVENlNtbHNaQVlzdTg1cDNNV0dnQVZBeFFOZGJjQ0pnU3Z1RlBVd2pXbzQ2cVVVWEliS2llU3lIeEliWERFSWVkOHhGY3ktTTBrR1pYREdfX3B30gGeAkFVX3lxTE5jUjNCLUxGVjl4UUJqanJqa0k0RlVJb0VoeWNpdW1mS0EzNk9OZXM4OTItZklKaUg4ZnBEQ2hXY3Y4Y0djTExRcUd0alNqZkM1UlEweUhQSXNBbmxXZjlPYVpRZXZpQ3BPVWNIcEE0RlJFcHozMEhwRU1oamc0SjBNRXNBN2hIckoyX24xUnpjcUJIdm91dFNhOVJlbEQ5ZVFwT3czMnoxT0JZWWdkWlRTUHd0ckdveUF6czBSVWZDM3U5SDdDMzFNb3F1RUQ2U21sc1pBWXN1ODVwM01XR2dBVkF4UU5kYmNDSmdTdnVGUFV3aldvNDZxVVVYSWJLaWVTeUh4SWJYREVJZWQ4eEZjeS1NMGtHWlhER19fcHc?oc=5",
-    "source": "Boursorama",
-    "date": "2026-10-06T21:00:40+02:00"
+    "titre": "Microsoft donne à Copilot le contrôle de Windows et des fichiers",
+    "resume": "L'assistant pourra accéder aux fichiers locaux et agir dans le système, au nom d'une « intelligence hybride ».",
+    "pourquoi": "Les agents IA arrivent au cœur de l'ordinateur, avec des enjeux de sécurité et de vie privée.",
+    "lien": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+    "source": "The Verge",
+    "date": "2026-10-07T20:01:20+02:00"
    },
    {
-    "titre": "Lambda, fournisseur de calcul pour l'IA, veut lever 4 milliards de dollars",
-    "resume": "Soutenue par Nvidia, la start-up est valorisée 14,5 milliards avant une introduction en Bourse prévue en 2027.",
-    "pourquoi": "L'argent continue d'affluer vers les infrastructures de l'IA, signe d'une course au calcul loin de ralentir.",
-    "lien": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-    "source": "TechCrunch",
-    "date": "2026-10-06T22:00:30+02:00"
+    "titre": "Anthropic lance Claude Haiku 5.5, son petit modèle plus puissant",
+    "resume": "Le modèle le plus léger et le moins cher d'Anthropic gagne en performances.",
+    "pourquoi": "Les petits modèles rapides sont ceux qui équipent la plupart des applications grand public et professionnelles.",
+    "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVEpwWUtQS1NfTS1xMExCUnFjUUdNTDVFSVhGaGFSbmdocEdpMERGMFNqZTM0Q0FPcEJKTG5tTHNxb0lSVmo5OHJld3FLaWNnOENVbHc3WTA1UzBBTnM4alF5TGVvZ3ZoaTN4VTdaTkdpVTJaWVhiSTltMjZPaWJyYXhKUl9JcnlwZUYxdmJRcUsxR2txd0RpQzNSbWVVeVhi?oc=5",
+    "source": "KultureGeek",
+    "date": "2026-10-07T22:56:00+02:00"
+   },
+   {
+    "titre": "Google ouvre à tous SynthID Detector, qui repère les contenus générés par IA",
+    "resume": "L'outil détecte le filigrane invisible des images, vidéos et sons créés par IA ; OpenAI et Nvidia l'adoptent aussi.",
+    "pourquoi": "La traçabilité des contenus IA devient une norme partagée, alors que l'AI Act impose la transparence.",
+    "lien": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxObTBnb0FOXzdDNlBYb08xNkJaOHBwc3RzVUZITHNKaFN4ckFnSHZTWUY2VU9zeGNhR3U2MVBqSW1SRThFMkRtRndYMjk2TVVrXzZDM0pxa2tzNWZUM1ZTckxhY3JuT3JWcENPVjF4Rk1lclFvSU9OWVhCT1ptSHV4WDd5UmtMMk85Tlp1bkswaUo1UXZGZF9wRWhqNVQ0MkhyVGNUMkplTUlmeHNEQTFpUHAwZ2szWnJRb1pXSzVqUDJKa05MVko5ZHIwUGJKNmpKWFpSUEt4N0l3ekpqQWVBVWZRNlVmVU5sSy1wX0haS29WRm5uOE9xLVA0UmgxbXhxaWlUcUs0THpfV2ZRQUVHYy1Pbno0Yl9GYVFsNDdRdnU2Y0sxQnR3WjVRV1RYR25vZll5QVNxV0k?oc=5",
+    "source": "L'Usine Digitale",
+    "date": "2026-10-07T16:00:00+02:00"
    }
   ],
   "droit": [
    {
-    "titre": "Vie chère en Martinique : la Cour de cassation ordonne un nouveau procès pour Rodrigue Petitot",
-    "resume": "La condamnation du leader du mouvement contre la vie chère est cassée ; il sera rejugé par une juridiction de Guadeloupe.",
+    "titre": "Vaccination des soignants : le Conseil d'État rejette le recours contre la recommandation de la HAS",
+    "resume": "La juridiction écarte la contestation de la recommandation de la Haute Autorité de santé sur la vaccination des professionnels de santé.",
     "libertes": true,
-    "angle_crfpa": "Contrôle de cassation et renvoi devant une autre juridiction (art. 609 et s. C. pr. pén.) ; liberté de manifester et répression des troubles.",
-    "lien": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPRTFuYXZ2b25CX1l5Y2Z3emlfZjI3TERiejNLRTFTdUJ2aW5jRklZRy1CVFRhWG5aUHU1MDdLNk5WX2J6Wmk1SjFfTVJrSDE4dnpENXktTmtiU0VPdWMxQ0xBUUtyRWNmN0dEOVdadEh5Rk85cDd0SElVTTdBb0N6RlBGTkQ0Yzl0eXhwNXBnNUNYUmNVVEtVMkN3VlYtaDI0TmdfYXpwZjhlWk1seGhtZm1LWlBsMnM1RUxQQlJPUWdYcUs1M3pSS3RHMUh6Y004N245Ty1ZSkhCYnRXNjJNYmUzVFNQYUtkSXhaM29GaEhwQ05rQXVGa3AwWVlMSllmTU0tb3RYOA?oc=5",
-    "source": "Outre-mer La 1ère",
-    "date": "2026-10-07T00:37:19+02:00"
+    "angle_crfpa": "Recevabilité des recours contre le droit souple (CE, Ass., 21 mars 2016, Fairvesta) et conciliation entre protection de la santé et libre consentement aux soins.",
+    "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM1pGVFM2ZWdycG1xa0k1OGNsRFRRTjRmMkRkM1JTZjNnRVlSS2djeU9haG5NVlZ0TWtFNExmUzQySFNSLVFHMG9DSnppRzlRWWVaa3Vjb0JVSVBIRlhidWdLRmhQazFOUndxenpwREdBM3dPWGp3clhoUFdaS1FYc1J2U2tJSWdvWXA3ZlRISUNJYUhkVmpkcEk2YUVneHh1aG1EMmdmZ0FZRE1ZYlNXVUtJNDd1bU85TDNyUE9XLWF3d04tQjdaalY5UHFGUQ?oc=5",
+    "source": "Le Media Social",
+    "date": "2026-10-07T18:24:38+02:00"
    }
   ]
  },
  "notion": {
-  "titre": "L'arrêt Nicolo : le juge administratif écarte la loi contraire à un traité",
-  "texte": "Saisi d'une contestation des élections européennes de 1989, le Conseil d'État accepte de contrôler la compatibilité d'une loi, même postérieure, avec un traité international. Il abandonne ainsi la jurisprudence des Semoules (1968), qui faisait prévaloir la loi plus récente. Il aligne sa position sur celle de la Cour de cassation (Jacques Vabre, 1975) en appliquant l'article 55 de la Constitution. Depuis, tout juge peut écarter une loi contraire au droit international ou européen : c'est le contrôle de conventionnalité.",
-  "reference": "CE, Ass., 20 octobre 1989, Nicolo, n° 108243"
+  "titre": "La décision « Liberté d'association » : naissance du bloc de constitutionnalité",
+  "texte": "Saisi d'une loi qui soumettait la création des associations à un contrôle préalable de l'autorité judiciaire, le Conseil constitutionnel la censure. Pour la première fois, il contrôle une loi au regard du Préambule de la Constitution, et non plus seulement de ses articles. Il consacre la liberté d'association comme un principe fondamental reconnu par les lois de la République, en s'appuyant sur la loi du 1er juillet 1901. Cette décision fonde le rôle du Conseil comme protecteur des droits et libertés.",
+  "reference": "Cons. const., 16 juillet 1971, n° 71-44 DC, Liberté d'association"
  }
 }
