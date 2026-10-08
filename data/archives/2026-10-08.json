@@ -1,6 +1,6 @@
 {
  "date": "2026-10-08",
- "genere": "2026-10-08T06:54+02:00",
+ "genere": "2026-10-08T06:56+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -254,16 +254,6 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "EN DIRECT, guerre en Ukraine : un lourd bilan après de nouvelles frappes russes, dont au moins 28 morts à Prylouky, dans le nord du pays",
-     "lien": "https://www.lemonde.fr/international/live/2026/10/08/en-direct-guerre-en-ukraine-un-lourd-bilan-apres-de-nouvelles-frappes-russes-dont-au-moins-28-morts-a-prylouky-dans-le-nord-du-pays_6787996_3210.html",
-     "resume": "Parmi les victimes d’une frappe de missile sur un immeuble, figurent notamment cinq enfants. Selon Volodymyr Zelensky, 70 missiles et des drones ont été envoyés sur 12 régions ukrainiennes. Moscou a affirmé que l’armée russe avait frappé, à Kiev, Prylouky et…",
-     "date": "2026-10-08T01:19:21+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/07/58/0/6048/3024/644/322/60/0/472d0e6_ftp-1-1scklk7iobzg-5290324-01-06.jpg",
-     "reprises": 8,
-     "score": 19.27
-    },
-    {
      "titre": "Russie : les soupçons de peste contaminent les réseaux sociaux",
      "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261007-russie-les-soup%C3%A7ons-de-peste-contaminent-les-r%C3%A9seaux-sociaux",
      "resume": "La Russie est appelée, de la part de l'OMS, de l'Union européenne et des Etats-Unis, à plus de transparence après la mort d'une technicienne de laboratoire en Sibérie. Daria Shipilova, qui travaillait à l'institut de lutte contre la peste d'Irkutsk, est…",
@@ -271,7 +261,17 @@
      "source": "france24.com",
      "image": "https://s.france24.com/media/display/f8f8ffaa-c28a-11f1-8758-ef6152f87623/w:1024/p:16x9/FRAN261007-2115-Live-CS2115.jpg",
      "reprises": 5,
-     "score": 15.29
+     "score": 15.11
+    },
+    {
+     "titre": "EN DIRECT, guerre en Ukraine : le point sur la situation au lendemain des nombreuses frappes russes qui ont fait plusieurs morts",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/08/en-direct-guerre-en-ukraine-le-point-sur-la-situation-au-lendemain-des-nombreuses-frappes-russes-qui-ont-fait-plusieurs-morts_6787996_3210.html",
+     "resume": "Au moins 28 personnes ont été tuées dans les attaques russes sur l’Ukraine, mercredi, dont cinq enfants dans un même immeuble éventré par un missile à Prylouky, dans le nord du pays. Moscou a affirmé que l’armée russe avait frappé, à Kiev, Prylouky et…",
+     "date": "2026-10-08T06:52:19+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/07/58/0/6048/3024/644/322/60/0/472d0e6_ftp-1-1scklk7iobzg-5290324-01-06.jpg",
+     "reprises": 6,
+     "score": 14.47
     },
     {
      "titre": "Crise du logement en Espagne : l’octogénaire expulsée à l’origine du mouvement de protestation est morte",
@@ -281,7 +281,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/07/108/0/3530/1765/644/322/60/0/c43530c_ftp-1-brb7osgslqje-5292231-01-06.jpg",
      "reprises": 5,
-     "score": 12.17
+     "score": 12.08
     },
     {
      "titre": "Nostalgie, résilience et tensions politiques : Israël rend hommage aux victimes du 7-Octobre",
@@ -291,7 +291,7 @@
      "source": "© Shir Torem, Reuters",
      "image": "https://s.france24.com/media/display/e1f2533c-c295-11f1-a6e3-27c2853ad5a5/w:1024/p:16x9/2026-10-07T201700Z-641476812-RC2JYNANODBH-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA-CEREMONY.jpg",
      "reprises": 7,
-     "score": 11.42
+     "score": 11.4
     },
     {
      "titre": "Trois ans après, Israël commémore les attaques du 7-Octobre",
@@ -300,18 +300,18 @@
      "date": "2026-10-07T17:43:31+02:00",
      "source": "france24.com",
      "image": "https://s.france24.com/media/display/b7263180-c265-11f1-a4d2-27c2853ad5a5/w:1024/p:16x9/FR-Miniature-9.jpg",
-     "reprises": 5,
-     "score": 7.99
+     "reprises": 6,
+     "score": 10.73
     },
     {
-     "titre": "Les Houthis du Yémen affirment avoir de nouveau frappé l'aéroport de Riyad",
-     "lien": "https://www.france24.com/fr/moyen-orient/20261008-houthis-lancent-attaques-trois-morts-aeroports-arabie-saoudite-riyad-riposte-detruit-cibles-militaires",
-     "resume": "Les Houthis ont visé jeudi l'aéroport international de Riyad. La veille, des frappes similaires avaient fait au moins trois morts. La coalition militaire d'Arabie saoudite a assuré que ces attaques ne resteraient pas \"impunies\" et annoncé avoir détruit en…",
-     "date": "2026-10-08T04:29:39+02:00",
-     "source": "© Reuters - Stringer",
-     "image": "https://s.france24.com/media/display/40a51f4e-b423-11f1-bcd8-ed3d9e22a40f/w:1024/p:16x9/2026-09-19T114802Z-1980126111-RC28MNAXZ2HR-RTRMADP-3-IRAN-CRISIS-SAUDI-YEMEN.jpg",
-     "reprises": 3,
-     "score": 5.93
+     "titre": "Christa Pike, qui a survécu à son exécution aux Etats-Unis, a repris connaissance et se dit « en colère et désorientée »",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/07/christa-pike-qui-a-survecu-a-son-execution-aux-etats-unis-a-repris-connaissance-et-se-dit-en-colere-et-desorientee_6789651_3210.html",
+     "resume": "Seule condamnée à avoir survécu à une injection létale aux Etats-Unis, la quinquagénaire reste menottée à son lit d’hôpital, selon ses avocats.",
+     "date": "2026-10-07T21:06:26+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/07/458/0/5843/2921/644/322/60/0/f9fae21_ftp-1-jecm2jc0vpjq-2026-10-07t181036z-1197181408-rc2iynalnfxx-rtrmadp-3-tennessee-execution.JPG",
+     "reprises": 4,
+     "score": 8.0
     }
    ],
    "a_traduire": []
@@ -329,7 +329,7 @@
      "source": "Abondance",
      "image": null,
      "reprises": 4,
-     "score": 8.58
+     "score": 6.76
     },
     {
      "titre": "Anthropic lance Claude Haiku 5.5, son petit modèle IA qui gagne en puissance",
@@ -339,7 +339,7 @@
      "source": "KultureGeek",
      "image": null,
      "reprises": 4,
-     "score": 6.19
+     "score": 6.12
     },
     {
      "titre": "INTELLIGENCE ARTIFICIELLE-L'IA veut guérir les maladies. Pour cela, elle a d'abord besoin de données.",
@@ -438,7 +438,7 @@
      "source": "La Montagne",
      "image": null,
      "reprises": 7,
-     "score": 12.41,
+     "score": 12.4,
      "libertes": false
     },
     {
@@ -471,7 +471,7 @@
      "source": "Outre-mer La 1ère",
      "image": null,
      "reprises": 3,
-     "score": 5.04,
+     "score": 5.21,
      "libertes": false
     },
     {
