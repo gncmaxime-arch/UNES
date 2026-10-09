@@ -1,134 +1,143 @@
 {
- "date": "2026-10-08",
- "edito": "Sébastien Lecornu a pris la parole mercredi soir face à une accumulation de crises, des lycées aux carburants, sans désamorcer l'« acte IV » lycéen prévu ce jeudi. La Russie a lancé 70 missiles sur l'Ukraine, faisant au moins 28 morts à Prylouky, et les houthistes frappent de nouveau l'aéroport de Riyad. En droit, le Conseil d'État valide la recommandation de vaccination des soignants.",
+ "date": "2026-10-09",
+ "edito": "Donald Trump exclut d'attaquer l'Iran avant les midterms du 3 novembre, après une flambée du pétrole. En Ukraine, les frappes russes de ces derniers jours ont fait 78 morts et Kiev a été presque entièrement plongée dans le noir. En France, l'« acte IV » lycéen a encore rassemblé massivement et la primaire de la gauche social-démocrate s'ouvre ce vendredi.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro décrypte l'intervention de Sébastien Lecornu, qui cherche l'apaisement sur les lycées, les carburants et le budget. Il suit aussi l'« acte IV » lycéen et la grève CGT chez TotalEnergies.",
+   "resume": "Le Figaro consacre sa une à Édouard Philippe, qui a marqué sa campagne à droite sur France 2. Il revient aussi sur le vol des données de 48 millions de propriétaires sur un site de l'État.",
    "points": [
-    "Le gouvernement libère 10 millions de barils de gazole des stocks stratégiques sur trois mois.",
-    "Lecornu promet une baisse de 12 à 18 centimes à la pompe ; Le Figaro en doute.",
-    "La CGT appelle à la grève dans les raffineries et stations TotalEnergies ce jeudi.",
-    "Guillaume Tabard : « gagner du temps ou avouer son impuissance ? »."
+    "Édouard Philippe promet de diviser par deux l'immigration légale et de redresser les comptes publics.",
+    "Il veut remplacer une partie des allocations familiales par une réduction d'impôt dès le premier enfant.",
+    "Fuite de données « Zéro logement vacant » : risques de squats et de cambriolages pour les propriétaires.",
+    "Une plateforme permet désormais aux bailleurs de vérifier les impayés d'un candidat locataire."
    ]
   },
   "monde": {
-   "resume": "Le Monde décrit un premier ministre accablé par « la superposition des crises ». Il analyse aussi le contre-budget du RN et la confiscation par Moscou des actifs russes d'entreprises françaises.",
+   "resume": "Le Monde ouvre sur la primaire de la gauche social-démocrate, plus incertaine que prévu avec plus de 140 000 votants. Il suit l'« acte IV » lycéen et l'écho international de la situation française.",
    "points": [
-    "Lecornu se montre compréhensif envers les lycéens, mais prévient qu'il ne pourra pas tout satisfaire.",
-    "Le RN propose une taxe de 1 000 euros sur l'embauche d'un travailleur extra-européen.",
-    "Leroy-Merlin, Auchan, Nestlé : le Kremlin organise la reprise de leurs actifs via une société-écran.",
-    "WWF : les populations de vertébrés sauvages ont chuté de 73 % depuis 1970."
+    "Primaire : Faure, Glucksmann, Guedj, Maurel et Royal en lice vendredi et samedi.",
+    "Lycées : l'« acte IV » a rassemblé massivement, le plus souvent dans le calme.",
+    "Dette record et mobilisation lycéenne : la France inquiète aux États-Unis, en Italie et au Royaume-Uni.",
+    "Privé de prêt bancaire, le RN veut financer la campagne de Marine Le Pen par des prêts de particuliers."
    ]
   },
   "croix": {
-   "resume": "La Croix suit l'escalade dans le Golfe, avec une frappe houthiste sur l'aéroport de Riyad et un pétrolier touché au large du Qatar. Elle raconte aussi la dépendance aux énergies fossiles dans les campagnes.",
+   "resume": "La Croix publie une étude montrant que l'encadrement des loyers fait économiser en moyenne 520 € par an aux locataires concernés. Elle explore aussi l'angoisse de l'orientation derrière la colère lycéenne.",
    "points": [
-    "Depuis la fermeture du détroit d'Ormuz, les ménages ruraux subissent la flambée des carburants.",
-    "L'astronaute Sophie Adenot revient sur Terre ce jeudi après huit mois dans l'ISS.",
-    "À Londres, le chef des Verts brigue le siège laissé vacant par Keir Starmer."
+    "Encadrement des loyers : de 500 à 1 700 € d'économie par an, alors que le dispositif pourrait s'éteindre.",
+    "Parcoursup et contrôle continu nourrissent l'angoisse des lycéens.",
+    "Le pamphlet antifiscal de Sarah Knafo s'est vendu à 200 000 exemplaires en un mois."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe revient sur la défaite de Castres face à un Toulouse très remanié en Top 14. Le journal évoque aussi un possible retour de la F1 en Afrique, au Rwanda.",
+   "resume": "L'Équipe annonce un choc Lens-OL pour la reprise de la Ligue 1 après la trêve. Le journal suit aussi Félix Lebrun, en course pour la place de numéro un mondial.",
    "points": [
-    "Euroligue : l'Asvel bat Paris 98-96 dans un duel parti pour devenir un classique.",
-    "La F1 serait sur le point de finaliser un Grand Prix au Rwanda.",
-    "Olivier Boscagli, défenseur de Brighton, rêve de l'équipe de France."
+    "Lens-OL ce vendredi soir : des Lensois revanchards face à des Lyonnais ambitieux.",
+    "Lille : la blessure d'Ethan Mbappé ouvre une porte à Dilane Bakwa.",
+    "Tennis de table : Félix Lebrun peut devenir numéro un mondial dès lundi."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Ukraine : au moins 28 morts à Prylouky après une vague de frappes russes",
-    "resume": "Selon Volodymyr Zelensky, 70 missiles et des drones ont visé 12 régions ; cinq enfants figurent parmi les victimes d'un immeuble touché.",
-    "pourquoi": "Une des attaques les plus meurtrières de l'automne, au moment où l'Europe renforce son aide militaire à Kiev.",
-    "lien": "https://www.lemonde.fr/international/live/2026/10/08/en-direct-guerre-en-ukraine-un-lourd-bilan-apres-de-nouvelles-frappes-russes-dont-au-moins-28-morts-a-prylouky-dans-le-nord-du-pays_6787996_3210.html",
+    "titre": "Trump exclut d'attaquer l'Iran avant les élections de mi-mandat",
+    "resume": "La déclaration intervient après une hausse du pétrole provoquée par des informations sur de nouvelles frappes américaines.",
+    "pourquoi": "Le prix de l'énergie, déjà au plus haut avec le détroit d'Ormuz fermé, devient un enjeu électoral majeur aux États-Unis.",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/08/donald-trump-exclut-d-attaquer-l-iran-avant-les-elections-de-mi-mandat_6790274_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-08T01:19:21+02:00"
+    "date": "2026-10-08T19:22:08+02:00"
    },
    {
-    "titre": "Golfe : les houthistes frappent l'aéroport de Riyad, un pétrolier touché au large du Qatar",
-    "resume": "Les frappes de la veille avaient fait au moins trois morts ; la coalition saoudienne promet qu'elles ne resteront pas impunies.",
-    "pourquoi": "Avec le détroit d'Ormuz fermé, chaque attaque dans le Golfe pèse sur les prix de l'énergie en Europe.",
-    "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-118-moyen-orient-bilan-resume-aujourdhui-20261008",
-    "source": "La Croix",
-    "date": "2026-10-08T06:42:05+02:00"
-   },
-   {
-    "titre": "France : Sébastien Lecornu tente de reprendre la main face aux crises",
-    "resume": "Lycées, carburants, électricité : le premier ministre annonce la libération de stocks stratégiques de gazole, mais l'« acte IV » lycéen est maintenu.",
-    "pourquoi": "Le gouvernement affronte simultanément une crise sociale et énergétique, à l'approche du débat budgétaire.",
-    "lien": "https://www.lefigaro.fr/politique/colere-lyceenne-carburants-electricite-ce-qu-il-faut-retenir-de-l-intervention-de-sebastien-lecornu-20261007",
-    "source": "Le Figaro",
-    "date": "2026-10-08T00:40:09+02:00"
-   },
-   {
-    "titre": "Russie : l'OMS, l'UE et les États-Unis demandent la transparence sur un soupçon de peste",
-    "resume": "La mort d'une technicienne de l'institut de lutte contre la peste d'Irkoutsk inquiète, malgré les démentis du Kremlin.",
-    "pourquoi": "Un incident de laboratoire mal expliqué ravive la crainte d'un risque sanitaire dissimulé.",
-    "lien": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261007-russie-les-soup%C3%A7ons-de-peste-contaminent-les-r%C3%A9seaux-sociaux",
-    "source": "France 24",
-    "date": "2026-10-07T22:49:50+02:00"
-   },
-   {
-    "titre": "Biodiversité : les populations de vertébrés sauvages ont chuté de 73 % depuis 1970",
-    "resume": "La nouvelle édition de l'« indice planète vivante » du WWF montre une accélération du déclin.",
-    "pourquoi": "Un indicateur de référence de l'effondrement du vivant, au cœur des négociations internationales sur la biodiversité.",
-    "lien": "https://www.lemonde.fr/planete/article/2026/10/08/le-declin-des-populations-de-vertebres-sauvages-s-accentue-depuis-cinquante-ans_6789655_3244.html",
+    "titre": "Ukraine : 78 morts en quelques jours, Kiev presque entièrement dans le noir",
+    "resume": "Les frappes russes sur Prylouky, Kramatorsk, Kiev et d'autres villes ont aussi fait 215 blessés, selon Volodymyr Zelensky.",
+    "pourquoi": "La Russie cible de nouveau le réseau électrique avant l'hiver, comme lors des hivers précédents.",
+    "lien": "https://www.lemonde.fr/international/live/2026/10/09/en-direct-guerre-en-ukraine-kiev-plongee-presque-entierement-dans-le-noir-jeudi-soir-une-rencontre-prevue-a-partir-de-vendredi-entre-les-negociateurs-ukrainiens-et-les-emissaires-de-donald-trump_6787996_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-08T00:25:30+02:00"
+    "date": "2026-10-09T01:10:25+02:00"
+   },
+   {
+    "titre": "Arabie saoudite : Riyad touchée par des fragments de missiles houthistes",
+    "resume": "Les houthistes revendiquent une nouvelle attaque contre l'aéroport de la capitale et menacent les installations pétrolières du royaume.",
+    "pourquoi": "Une menace directe sur la production pétrolière saoudienne aggraverait la crise énergétique mondiale.",
+    "lien": "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/arabie-saoudite-riyad-touchee-par-des-fragments-de-missiles-apres-une-attaque-des-houthis_8229043.html#xtor=RSS-3-%5Bgeneral%5D",
+    "source": "franceinfo",
+    "date": "2026-10-08T22:19:41+02:00"
+   },
+   {
+    "titre": "Italie : Giorgia Meloni fait adopter sa réforme électorale",
+    "resume": "La cheffe du gouvernement réintroduit la proportionnelle, au risque de rendre difficile la formation de coalitions.",
+    "pourquoi": "La réforme redessine le jeu politique italien avant les prochaines législatives.",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/09/en-italie-giorgia-meloni-fait-voter-sa-reforme-electorale_6790491_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-09T05:00:08+02:00"
+   },
+   {
+    "titre": "Espagne : la crise du logement mobilise des dizaines de milliers de personnes",
+    "resume": "Le mouvement lancé par l'expulsion de Maricarmen Abascal, 87 ans, morte cette semaine, prend de l'ampleur face à la flambée des loyers.",
+    "pourquoi": "Le logement devient la première source de colère sociale en Europe du Sud.",
+    "lien": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/crise-du-logement-le-ras-le-bol-monte-en-espagne_8228701.html#xtor=RSS-3-%5Bgeneral%5D",
+    "source": "franceinfo",
+    "date": "2026-10-09T06:00:11+02:00"
    }
   ],
   "ia": [
    {
-    "titre": "ChatGPT devient visuel : images, graphiques et boutons dans les réponses",
-    "resume": "OpenAI déploie « Intelligent UI » pour tous les utilisateurs, en même temps que GPT-6, selon The Verge.",
-    "pourquoi": "Le chatbot se transforme en interface complète, en concurrence directe avec les moteurs de recherche et les applications.",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+    "titre": "Google lance un agent Gemini « universel » pour le travail",
+    "resume": "L'agent planifie et exécute des tâches entre applications, délègue à des sous-agents et reçoit sa propre identité, avec une adresse e-mail.",
+    "pourquoi": "Les agents autonomes passent du stade de démonstration à celui d'outil de travail en entreprise.",
+    "lien": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
     "source": "The Verge",
-    "date": "2026-10-07T21:10:42+02:00"
+    "date": "2026-10-08T16:28:03+02:00"
    },
    {
-    "titre": "Microsoft donne à Copilot le contrôle de Windows et des fichiers",
-    "resume": "L'assistant pourra accéder aux fichiers locaux et agir dans le système, au nom d'une « intelligence hybride ».",
-    "pourquoi": "Les agents IA arrivent au cœur de l'ordinateur, avec des enjeux de sécurité et de vie privée.",
-    "lien": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+    "titre": "USA Today attaque OpenAI en justice pour l'entraînement de ses modèles",
+    "resume": "L'éditeur accuse OpenAI d'avoir copié « des centaines de milliers » d'articles de ses titres pour entraîner son IA.",
+    "pourquoi": "Les procès des médias contre les entreprises d'IA se multiplient et pourraient fixer les règles du droit d'auteur.",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
     "source": "The Verge",
-    "date": "2026-10-07T20:01:20+02:00"
+    "date": "2026-10-08T19:58:33+02:00"
    },
    {
-    "titre": "Anthropic lance Claude Haiku 5.5, son petit modèle plus puissant",
-    "resume": "Le modèle le plus léger et le moins cher d'Anthropic gagne en performances.",
-    "pourquoi": "Les petits modèles rapides sont ceux qui équipent la plupart des applications grand public et professionnelles.",
-    "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVEpwWUtQS1NfTS1xMExCUnFjUUdNTDVFSVhGaGFSbmdocEdpMERGMFNqZTM0Q0FPcEJKTG5tTHNxb0lSVmo5OHJld3FLaWNnOENVbHc3WTA1UzBBTnM4alF5TGVvZ3ZoaTN4VTdaTkdpVTJaWVhiSTltMjZPaWJyYXhKUl9JcnlwZUYxdmJRcUsxR2txd0RpQzNSbWVVeVhi?oc=5",
-    "source": "KultureGeek",
-    "date": "2026-10-07T22:56:00+02:00"
+    "titre": "Ecosia remplace Mistral par des modèles chinois",
+    "resume": "Le moteur de recherche berlinois, vitrine de la tech verte européenne, invoque notamment la qualité des modèles.",
+    "pourquoi": "Un revers symbolique pour la souveraineté européenne en IA, au profit des modèles ouverts chinois.",
+    "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc1lRWmE5RjVfM1RqanE2S2tkRnBiQ2VFQTNHS0VQUkk2ZU5SZWVDc2RoSmFUNEY4QVkxVlZydzEwcWZUam11UGN5U2xPRjc4SFFyZDRQNWwxVU1UaGtJYlhKNjlkcXloSUVIeWhpOG41dEg2WXg1a0h4SllCakNvRC1TREwxamxMVDlKZEI1bE1SRGlEc1JudmJEMWN2NUFtVVZlTW9OdThHeG9Ddml5ajVnZUtENlExem5BMFJWeThaMWwwamNCMXROTktBclNHVHR6ZW8yUURyR09BTk9XZWlGN3JZUnozNkE?oc=5",
+    "source": "MacGeneration",
+    "date": "2026-10-08T21:15:00+02:00"
    },
    {
-    "titre": "Google ouvre à tous SynthID Detector, qui repère les contenus générés par IA",
-    "resume": "L'outil détecte le filigrane invisible des images, vidéos et sons créés par IA ; OpenAI et Nvidia l'adoptent aussi.",
-    "pourquoi": "La traçabilité des contenus IA devient une norme partagée, alors que l'AI Act impose la transparence.",
-    "lien": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxObTBnb0FOXzdDNlBYb08xNkJaOHBwc3RzVUZITHNKaFN4ckFnSHZTWUY2VU9zeGNhR3U2MVBqSW1SRThFMkRtRndYMjk2TVVrXzZDM0pxa2tzNWZUM1ZTckxhY3JuT3JWcENPVjF4Rk1lclFvSU9OWVhCT1ptSHV4WDd5UmtMMk85Tlp1bkswaUo1UXZGZF9wRWhqNVQ0MkhyVGNUMkplTUlmeHNEQTFpUHAwZ2szWnJRb1pXSzVqUDJKa05MVko5ZHIwUGJKNmpKWFpSUEt4N0l3ekpqQWVBVWZRNlVmVU5sSy1wX0haS29WRm5uOE9xLVA0UmgxbXhxaWlUcUs0THpfV2ZRQUVHYy1Pbno0Yl9GYVFsNDdRdnU2Y0sxQnR3WjVRV1RYR25vZll5QVNxV0k?oc=5",
-    "source": "L'Usine Digitale",
-    "date": "2026-10-07T16:00:00+02:00"
+    "titre": "OpenAI approcherait 50 milliards de dollars de chiffre d'affaires annualisé",
+    "resume": "Selon une source citée par la presse financière, ce serait le niveau atteint en septembre.",
+    "pourquoi": "Une croissance spectaculaire qui alimente les spéculations sur une future introduction en Bourse.",
+    "lien": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNcURBSzFQMmdCWUE5ZzF2SnU2WDdMZXpKVVlubEFCMjZ4bTJOQzVFWjI4MVZ0aTV0RzI3aXdCT2JtblZyVEV1a2pwakZkTFdGUlJiejZ0c1VIckZJVmpQQnBJdkd0bElBWk5vOHNXOXRHLVdxTkVmODZGcEQ4cDNkMXJnMlN0T21DS2ZabWZwVUJuS0FYSEJrdFpUWHlCaUwwTFF2YVgya29hS3ZYdGN2Yng3Wk11YWQ1SmticFRJOWFYMzJKckplX0lqOWoxb2NsbHlnOTRaZjJPNVg3dVVQN3BtOGhQXzhPdDMycTFhSTVZSXFkM1RGdWlmQWd6OTlZVEZ5WG5weVhuNUxDVkJ1cl9ja3ptUjFJVkYwM0tTSDloY08tUUNrSWVKV3dwTWd0LVFXbjBSSVJJQzdYYVN6Q0FQUVk5eU4xVFpidW1HUF94WHJkMGJlclN3ZXlQaW4zaGs4aTltbzNndmF6QWVPdUxXZGpfeEJn0gH4AkFVX3lxTE1xREFLMVAyZ0JZQTlnMXZKdTZYN0xlekpVWW5sQUIyNnhtMk5DNUVaMjgxVnRpNXRHMjdpd0JPYm1uVnJURXVranBqRmRMV0ZSUmJ6NnRzVUhyRklWalBCcEl2R3RsSUFaTm84c1c5dEctV3FORWY4NkZwRDhwM2QxcmcyU3RPbUNLZlptZnBVQm5LQVhIQmt0WlRYeUJpTDBMUXZhWDJrb2FLdlh0Y3ZieDdaTXVhZDVKa2JwVEk5YVgzMkpySmVfSWo5ajFvY2xseWc5NFpmMk81WDd1VVA3cG04aFBfOE90MzJxMWFJNVlJcWQzVEZ1aWZBZ3o5OVlURnlYbnB5WG41TENWQnVyX2Nrem1SMUlWRjAzS1NIOWhjTy1RQ2tJZUpXd3BNZ3QtUVduMFJJUklDN1hhU3pDQVBRWTl5TjFUWmJ1bUdQX3hYcmQwYmVyU3dleVBpbjNoazhpOW1vM2d2YXpBZU91TFdkal94Qmc?oc=5",
+    "source": "Boursorama",
+    "date": "2026-10-09T04:12:13+02:00"
    }
   ],
   "droit": [
    {
-    "titre": "Vaccination des soignants : le Conseil d'État rejette le recours contre la recommandation de la HAS",
-    "resume": "La juridiction écarte la contestation de la recommandation de la Haute Autorité de santé sur la vaccination des professionnels de santé.",
+    "titre": "Réseaux sociaux et mineurs : la doctrine discute la censure du Conseil constitutionnel",
+    "resume": "Un commentaire critique revient sur la décision n° 2026-911 DC du 14 août 2026, qui a censuré l'interdiction des réseaux sociaux aux moins de 15 ans.",
     "libertes": true,
-    "angle_crfpa": "Recevabilité des recours contre le droit souple (CE, Ass., 21 mars 2016, Fairvesta) et conciliation entre protection de la santé et libre consentement aux soins.",
-    "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM1pGVFM2ZWdycG1xa0k1OGNsRFRRTjRmMkRkM1JTZjNnRVlSS2djeU9haG5NVlZ0TWtFNExmUzQySFNSLVFHMG9DSnppRzlRWWVaa3Vjb0JVSVBIRlhidWdLRmhQazFOUndxenpwREdBM3dPWGp3clhoUFdaS1FYc1J2U2tJSWdvWXA3ZlRISUNJYUhkVmpkcEk2YUVneHh1aG1EMmdmZ0FZRE1ZYlNXVUtJNDd1bU85TDNyUE9XLWF3d04tQjdaalY5UHFGUQ?oc=5",
-    "source": "Le Media Social",
-    "date": "2026-10-07T18:24:38+02:00"
+    "angle_crfpa": "Liberté de communication et protection de l'enfance : contrôle de proportionnalité, à rapprocher de la décision Hadopi (2009-580 DC).",
+    "lien": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNLWZuNllHX0VMTF93cjgwLWI5LXd0Q3M0ODJnMVRQV3U3UWtBM3NjQTZFRGpoQ0R4Snp1TVhVYUUzQ05iWmttMXFkVnNhY2ZtUHIyOGhKN3VWWjBZZGI5YlBMMk1XQnhhclZ4dGxSRzduYUctTGlpeWdtdFpSbTQyUFRLbjlXNXVYYWN6X2QxNHdTT2x4ZjVscW5aTllVOWFzYVBoS09ZY0o1TnE4QVJFaGlveVpTRjFvaFZFUGQyRGN4eldEWG9jMXB6a3BZUGRuUDNMdDFjcXllYjdycVdYSktvZXJwQlFGa3p1ZzBUNXowTElPV3J3TzRCME01dWQzeENNWV9vMkM1c0pnamUxQWNPcGJUaWl0X290aTV6R21KNHJwUFo0UENFYjMxMXBXNktXV0NYNzJHVG1LZVlsM0lpUkdrY1Z3UDNscWJn?oc=5",
+    "source": "JP blog",
+    "date": "2026-10-08T10:16:15+02:00"
+   },
+   {
+    "titre": "La CEDH écarte le recours du père d'Estelle Mouzin",
+    "resume": "Le père de la fillette victime de Michel Fourniret contestait devant la Cour européenne le traitement judiciaire de l'affaire.",
+    "libertes": true,
+    "angle_crfpa": "Conditions de recevabilité devant la CEDH (art. 35 Conv. EDH) et obligation procédurale d'enquête effective (art. 2).",
+    "lien": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOczQxYkpKVWN3bzBCWlhPNm42bTloOFdJU3VUa2ZjVzhIVjRvZmZ5ZG5wVFBCYldoVFNsU3cwT1pJME1vSi1xUjdyOGtaanE1Zm1ZeTlMUUhHZ0NxRFAxUWlZa2NLUFhndUVBS2ZZX2ZUQ2g4YWdpcm52bnhhdExhNDRjc005X1lrZzl3NXcyaTdpT0dxX2JvTGNtVy1oRndyV1JSR0ZNREU1R1AzSjRvMVl1ajVLa0xoNEl0MTBxOGdvUlFrc2FKUWhOU0JGT3pfMTRPaV9mNDlFZjUtN2YxM1ZpNXd0S241NXVPU2ZOTGh1ckNzVi1vSngwYm5vczR3UnY3SzFUdVItS29qelpFN3JJQTA?oc=5",
+    "source": "franceinfo",
+    "date": "2026-10-08T14:35:39+02:00"
    }
   ]
  },
  "notion": {
-  "titre": "La décision « Liberté d'association » : naissance du bloc de constitutionnalité",
-  "texte": "Saisi d'une loi qui soumettait la création des associations à un contrôle préalable de l'autorité judiciaire, le Conseil constitutionnel la censure. Pour la première fois, il contrôle une loi au regard du Préambule de la Constitution, et non plus seulement de ses articles. Il consacre la liberté d'association comme un principe fondamental reconnu par les lois de la République, en s'appuyant sur la loi du 1er juillet 1901. Cette décision fonde le rôle du Conseil comme protecteur des droits et libertés.",
-  "reference": "Cons. const., 16 juillet 1971, n° 71-44 DC, Liberté d'association"
+  "titre": "La décision Hadopi : l'accès à internet protégé par la liberté de communication",
+  "texte": "La loi « Création et Internet » confiait à une autorité administrative, la Hadopi, le pouvoir de suspendre l'accès à internet des abonnés qui téléchargeaient illégalement. Le Conseil constitutionnel censure ce pouvoir de sanction. Il juge que la liberté de communication des pensées et des opinions (article 11 de la Déclaration de 1789) implique la liberté d'accéder aux services de communication en ligne. Une restriction de cette liberté ne pouvait donc être prononcée que par un juge.",
+  "reference": "Cons. const., 10 juin 2009, n° 2009-580 DC, Loi favorisant la diffusion et la protection de la création sur internet"
  }
 }
