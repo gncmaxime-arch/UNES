@@ -1,6 +1,6 @@
 {
  "date": "2026-10-09",
- "genere": "2026-10-09T06:54+02:00",
+ "genere": "2026-10-09T06:57+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -254,14 +254,14 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "Donald Trump exclut d’attaquer l’Iran avant les élections de mi-mandat, le 3 novembre",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/08/donald-trump-exclut-d-attaquer-l-iran-avant-les-elections-de-mi-mandat_6790274_3210.html",
-     "resume": "Cette déclaration survient après que les cours du pétrole ont grimpé, jeudi, en raison d’informations de presse évoquant de nouvelles frappes américaines avant le scrutin, alors que les électeurs américains manifestent un fort mécontentement face à la hausse…",
-     "date": "2026-10-08T19:22:08+02:00",
+     "titre": "EN DIRECT, guerre en Ukraine : une rencontre prévue aux Etats-Unis, vendredi et samedi, entre les négociateurs ukrainiens et les émissaires de Donald Trump",
+     "lien": "https://www.lemonde.fr/international/live/2026/10/09/en-direct-guerre-en-ukraine-une-rencontre-prevue-aux-etats-unis-vendredi-et-samedi-entre-les-negociateurs-ukrainiens-et-les-emissaires-de-donald-trump_6787996_3210.html",
+     "resume": "Volodymyr Zelensky a dit « compter également sur la participation d’une équipe européenne » à ces discussions. Les frappes russes menées ces derniers jours sur plusieurs villes ukrainiennes ont fait 78 morts et 215 blessés, a fait savoir le président…",
+     "date": "2026-10-09T06:54:17+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/08/238/0/2861/1430/644/322/60/0/2d66f30_ftp-1-vh0kiayf74of-69aa44e520e543c78c1c5ca41b007db5-1-3394b978879a4e9798cc018a687b4b25.jpg",
-     "reprises": 4,
-     "score": 9.34
+     "image": "https://img.lemde.fr/2026/10/07/501/0/4000/2000/644/322/60/0/403f875_upload-1-lywzhzmwlkx3-raf-ukr-blackout-oct26-001a.JPG",
+     "reprises": 9,
+     "score": 26.54
     },
     {
      "titre": "En Italie, Giorgia Meloni fait voter sa réforme électorale",
@@ -271,27 +271,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/08/57/0/4691/2345/644/322/60/0/fae2a8f_ftp-1-brzekojusozp-5ebf83d5f3ae4a1d9035153755b7faa3-0-9dc8fb0c0dae429a9e3b2c06dc1a36f8.jpg",
      "reprises": 4,
-     "score": 8.29
-    },
-    {
-     "titre": "EN DIRECT, guerre en Ukraine : Kiev plongée presque entièrement dans le noir, jeudi soir ; une rencontre prévue à partir de vendredi entre les négociateurs ukrainiens et les émissaires de Donald Trump",
-     "lien": "https://www.lemonde.fr/international/live/2026/10/09/en-direct-guerre-en-ukraine-kiev-plongee-presque-entierement-dans-le-noir-jeudi-soir-une-rencontre-prevue-a-partir-de-vendredi-entre-les-negociateurs-ukrainiens-et-les-emissaires-de-donald-trump_6787996_3210.html",
-     "resume": "Les frappes russes menées ces derniers jours contre Prylouky, Kramatorsk, Kiev et d’autres villes ukrainiennes ont fait 78 morts et 215 blessés, a fait savoir le président ukrainien, Volodymyr Zelensky.",
-     "date": "2026-10-09T01:10:25+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/07/501/0/4000/2000/644/322/60/0/403f875_upload-1-lywzhzmwlkx3-raf-ukr-blackout-oct26-001a.JPG",
-     "reprises": 4,
-     "score": 7.88
-    },
-    {
-     "titre": "Crise du logement : le ras-le-bol monte en Espagne",
-     "lien": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/crise-du-logement-le-ras-le-bol-monte-en-espagne_8228701.html#xtor=RSS-3-%5Bgeneral%5D",
-     "resume": "🇪🇸 🏠Maricarmen Abascal est morte hier à Madrid. Mais le mouvement qu’avait déclenché l’expulsion de cette femme de 87 ans de son logement lui survit. Devant la flambée des loyers, des dizaines de milliers d’Espagnols ont manifesté le 3 octobre, juste après…",
-     "date": "2026-10-09T06:00:11+02:00",
-     "source": "franceinfo.fr",
-     "image": "https://www.franceinfo.fr/pictures/xU9luxoknJBLPsjM5Su4KxoJN-M/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/08/6ac7b500aba63189573414.jpg",
-     "reprises": 3,
-     "score": 7.46
+     "score": 8.21
     },
     {
      "titre": "Des images détournées et générées par IA alimentent les soupçons de peste en Russie",
@@ -301,7 +281,7 @@
      "source": "franceinfo.fr",
      "image": "https://www.franceinfo.fr/pictures/mH7c7P4x_Yrv81tv7O96Uh0pLUs/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/08/6ac7c01d5a7e0380453800.jpg",
      "reprises": 4,
-     "score": 6.78
+     "score": 7.1
     },
     {
      "titre": "Arabie saoudite : Riyad touchée par des \"fragments de missiles\" après une attaque des Houthis",
@@ -311,7 +291,27 @@
      "source": "franceinfo.fr",
      "image": "https://www.franceinfo.fr/pictures/BncuZds6VN212OU3OohA1PNXtG8/0x9:1467x834/432x243/filters:format(jpg)/2026/10/08/6ac7fa06a349d914887633.jpg",
      "reprises": 3,
-     "score": 6.25
+     "score": 6.19
+    },
+    {
+     "titre": "Mobilisation des lycéens : 3 000 professeurs annoncés et un nouvel appel à manifester le 13 octobre",
+     "lien": "https://www.france24.com/fr/france/20261008-mobilisation-lyc%C3%A9ens-3-000-professeurs-annonc%C3%A9s-nouvel-appel-manifestation-13-octobre",
+     "resume": "Après une nouvelle journée de mobilisation des lycéens, qui a rassemblé 71 500 personnes en France, dont 24 500 à Paris, le ministre de l’Éducation, Édouard Geffray, a annoncé l’arrivée imminente de 3 000 professeurs remplaçants dans les lycées où la…",
+     "date": "2026-10-08T22:57:38+02:00",
+     "source": "© Abdul Saboor, Reuters",
+     "image": "https://s.france24.com/media/display/c30eaa82-c31d-11f1-af1b-c55799ef8309/w:1024/p:16x9/2026-10-08T132513Z-1427703183-RC21ZNA7VQ0C-RTRMADP-3-FRANCE-PROTEST.jpg",
+     "reprises": 3,
+     "score": 4.96
+    },
+    {
+     "titre": "Le prix Nobel de littérature décerné à la Canadienne Anne Carson",
+     "lien": "https://www.rfi.fr/fr/culture/20261008-le-prix-nobel-de-litt%C3%A9rature-d%C3%A9cern%C3%A9-%C3%A0-la-canadienne-anne-carson",
+     "resume": "Quand elle a appris ce midi la bonne nouvelle, Anne Carson était en Islande, « listening to the wind », « écouter le vent ». À 76 ans, l’écrivaine canadienne, grande spécialiste de la poésie grecque, mais qui n’a pas peur de l’humour, a remporté ce jeudi 8…",
+     "date": "2026-10-08T13:06:03+02:00",
+     "source": "Andy Kropa/Invision/AP - Andy Kropa",
+     "image": "https://s.rfi.fr/media/display/2e719d0e-c308-11f1-8f3d-27c2853ad5a5/w:1024/p:16x9/AP24326138762555.jpg",
+     "reprises": 3,
+     "score": 4.52
     }
    ],
    "a_traduire": []
@@ -329,7 +329,7 @@
      "source": "franceinfo",
      "image": null,
      "reprises": 7,
-     "score": 17.37
+     "score": 17.38
     },
     {
      "titre": "Selon une source, le chiffre d'affaires annualisé d'OpenAI pour le mois de septembre avoisinerait les 50 milli",
@@ -339,7 +339,7 @@
      "source": "Boursorama",
      "image": null,
      "reprises": 5,
-     "score": 14.69
+     "score": 14.77
     },
     {
      "titre": "\"Quiconque utilise le terme 'intelligence artificielle' est un ennemi\": Donald Trump ne veut plus parler d'IA mais de \"super intelligence\", Meta et Elon Musk le suivent",
@@ -359,7 +359,7 @@
      "source": "MacGeneration",
      "image": null,
      "reprises": 3,
-     "score": 5.15
+     "score": 5.14
     },
     {
      "titre": "Modi souhaite que l'Inde soit le moteur de l'ère de l'IA. Les habitants s'y opposent",
@@ -438,7 +438,7 @@
      "source": "JP blog -",
      "image": null,
      "reprises": 22,
-     "score": 48.88,
+     "score": 48.87,
      "libertes": true
     },
     {
@@ -449,7 +449,7 @@
      "source": "BFM",
      "image": null,
      "reprises": 12,
-     "score": 24.66,
+     "score": 24.65,
      "libertes": false
     },
     {

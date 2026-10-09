@@ -1,7 +1,7 @@
 == Journaux
-  ok   50  https://dwh.lequipe.fr/api/edito/rss?path=/
-  ok   18  https://www.lefigaro.fr/rss/figaro_actualites.xml
   ok   16  https://www.lemonde.fr/rss/une.xml
+  ok   50  https://dwh.lequipe.fr/api/edito/rss?path=/
+  ok   20  https://www.lefigaro.fr/rss/figaro_actualites.xml
   ok   50  https://www.la-croix.com/feeds/rss/site.xml
   kiosko https://www.kiosko.net/fr/: URLError
   kiosko https://www.kiosko.net/fr/geo/Paris.html: HTTPError
@@ -14,12 +14,12 @@
   une La Croix (frontpages, édition du 2026-10-09): https://www.frontpages.com/t/2026/10/09/la-croix-0621409d0@2x.webp
   une L'Équipe (frontpages, édition du 2026-10-09): https://www.frontpages.com/t/2026/10/09/l-equipe-010039zw6@2x.webp
 == Sections
-  ok   24  https://www.france24.com/fr/rss
-  ok   70  https://news.google.com/rss/headlines/section/topic/WORLD?hl=fr&gl=FR&ceid=FR:fr
-  ok   23  https://www.rfi.fr/fr/rss
   ok   20  https://www.lemonde.fr/international/rss_full.xml
-  ok   55  https://news.google.com/rss/search?q=monde%20international%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+  ok   24  https://www.france24.com/fr/rss
+  ok   23  https://www.rfi.fr/fr/rss
   ok   20  https://www.francetvinfo.fr/monde.rss
+  ok   54  https://news.google.com/rss/search?q=monde%20international%20when%3A1d&hl=fr&gl=FR&ceid=FR:fr
+  ok   70  https://news.google.com/rss/headlines/section/topic/WORLD?hl=fr&gl=FR&ceid=FR:fr
   ok   10  https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
   ok   20  https://techcrunch.com/category/artificial-intelligence/feed/
   ok   15  https://www.numerama.com/tech/intelligence-artificielle/feed/
@@ -30,7 +30,7 @@
   ok   22  https://news.google.com/rss/search?q=CEDH%20OR%20%22Cour%20europ%C3%A9enne%20des%20droits%20de%20l%27homme%22%
   ok   46  https://news.google.com/rss/search?q=%22Conseil%20d%27%C3%89tat%22%20d%C3%A9cision%20when%3A3d&hl=fr&gl=FR&cei
   ok   45  https://news.google.com/rss/search?q=%22Cour%20de%20cassation%22%20arr%C3%AAt%20when%3A3d&hl=fr&gl=FR&ceid=FR:
-  ok   58  https://news.google.com/rss/search?q=%22libert%C3%A9s%20fondamentales%22%20OR%20%22libert%C3%A9%20d%27expressi
-  ERR ParseError: not well-formed (invalid token): line 14, column 87  https://www.dalloz-actualite.fr/rss.xml
-editorial.json daté du 2026-10-08 : ignoré
+  ok   56  https://news.google.com/rss/search?q=%22libert%C3%A9s%20fondamentales%22%20OR%20%22libert%C3%A9%20d%27expressi
+  ERR ParseError: not well-formed (invalid token): line 13, column 418  https://www.dalloz-actualite.fr/rss.xml
+== Éditorial Claude fusionné
 == site/index.html écrit
