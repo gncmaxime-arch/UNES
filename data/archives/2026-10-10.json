@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "genere": "2026-10-10T06:54+02:00",
+ "genere": "2026-10-10T06:57+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -196,6 +196,14 @@
    },
    "articles": [
     {
+     "titre": "Sans l'ogre Pogacar, tout est permis sur le Tour de Lombardie : « S'il est présent, on y va pour faire deuxième, sinon pour gagner »",
+     "lien": "https://www.lequipe.fr/Cyclisme-sur-route/Article/Sans-pogacar-tout-est-permis-sur-le-tour-de-lombardie-s-il-est-present-on-y-va-pour-faire-deuxieme-sinon-pour-gagner/1724619#at_medium=RSS_feeds",
+     "resume": "En l'absence de Tadej Pogacar, quintuple vainqueur du Tour de Lombardie, le peloton se réinvente et respire un peu, psychologiquement et tactiquement.",
+     "date": "2026-10-10T06:32:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/les-uae-emirates-xrg-vendredi-lors-de-la-presentation-des-equipes-avec-isaac-del-toro-maillot-de-champion-du-mexique-et-brandon-mcnulty-vetu-de-son-maillot-de-champion-du-monde-l-bettini-sprintcyclingagency-presse-sports/1500000002609083/0:0,2000:1333-828-552-75/3ba95.jpg"
+    },
+    {
      "titre": "Une réorganisation annoncée pour la saison prochaine : la préparation particulière de Clermont avant de recevoir l'UBB",
      "lien": "https://www.lequipe.fr/Rugby/Article/Debut-de-saison-moyen-et-problemes-offensifs-christophe-urios-elude-les-discussions-sur-la-reorganisation-de-clermont/1724562#at_medium=RSS_feeds",
      "resume": "Après l'annonce mercredi d'une réorganisation à la tête du sportif la saison prochaine, Clermont a tout fait pour recentrer l'attention sur la réception de l'UBB, ce samedi soir (21 heures).",
@@ -234,14 +242,6 @@
      "date": "2026-10-10T05:50:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
-    },
-    {
-     "titre": "« Je me suis dit : \"Est-ce que je vais survivre à une mêlée du Top 14 ?\" » : Jack Iscaro, le pari américain réussi du Stade Français",
-     "lien": "https://www.lequipe.fr/Rugby/Article/-je-me-suis-dit-est-ce-que-je-vais-survivre-a-une-melee-du-top-14-jack-iscaro-le-pari-americain-reussi-du-stade-francais/1724556#at_medium=RSS_feeds",
-     "resume": "Arrivé au Stade Français il y a tout juste un an comme joker médical, sans aucune référence et dans l'anonymat le plus total, l'Américain Jack Iscaro est aujourd'hui un pilier reconnu du Top 14. Histoire d'un pari réussi.",
-     "date": "2026-10-10T05:45:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/il-y-a-un-an-l-arrivee-de-jack-iscaro-a-paris-s-etait-faite-dans-l-indifference-generale-f-faugere-l-equipe/1500000002608975/139:109,1970:1329-828-552-75/f662b.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -261,7 +261,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/09/23/14/0/2103/1051/644/322/60/0/28c1400_ftp-1-3vknnqqwot7t-2026-09-23t215100z-460740872-rc2z7ga62bpa-rtrmadp-3-ukraine-crisis-russia-g20.JPG",
      "reprises": 18,
-     "score": 54.56
+     "score": 54.51
     },
     {
      "titre": "Un séisme de magnitude 7,7 a secoué le Panama, provoquant d’importants dégâts matériels",
@@ -271,7 +271,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/09/665/0/7976/3988/644/322/60/0/360c319_ftp-1-afw4zedm6vgn-5312068-01-06.jpg",
      "reprises": 6,
-     "score": 13.4
+     "score": 13.23
     },
     {
      "titre": "Le prix Nobel de la paix décerné à l’avocate sud-africaine Navanethem Pillay",
@@ -281,7 +281,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/09/366/0/4400/2200/644/322/60/0/dbbe2e4_ftp-1-xpccgbim1onb-9472714c5da34425af71a58c567f319c-0-917bd669c9fe4a6a9588836749b7413e.jpg",
      "reprises": 4,
-     "score": 13.07
+     "score": 13.13
     },
     {
      "titre": "Sanctions des Etats-Unis contre la CPI : Washington lance un ultimatum aux Etats membres",
@@ -291,7 +291,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/09/875/0/5250/2625/644/322/60/0/99a1c5f_ftp-1-fgoswygpezpc-5307615-01-06.jpg",
      "reprises": 6,
-     "score": 10.84
+     "score": 10.85
     },
     {
      "titre": "Vol Flydubai dérouté : le copilote planifiait une attaque suicide sur l’aéroport de Tel-Aviv, selon le procureur général des Emirats arabes unis",
@@ -301,7 +301,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/09/862/0/6000/3000/644/322/60/0/babdd00_ftp-1-0mqegt5m7vkn-2026-10-09t164523z-756657037-rc2otna6d6bq-rtrmadp-3-israel-gulf-flight.JPG",
      "reprises": 6,
-     "score": 10.66
+     "score": 10.62
     },
     {
      "titre": "Peloton d’exécution, diffusion en direct : à l’approche des élections de mi-mandat, Washington scénarise la mise à mort de Nidal Hasan",
@@ -349,7 +349,7 @@
      "source": "Courrier international",
      "image": null,
      "reprises": 5,
-     "score": 8.28
+     "score": 8.27
     },
     {
      "titre": "OpenAI assure que les trois chercheurs n’ont pas été licenciés pour avoir sonné l’alarme",
@@ -438,7 +438,7 @@
      "source": "JP blog -",
      "image": null,
      "reprises": 28,
-     "score": 60.92,
+     "score": 60.75,
      "libertes": true
     },
     {
@@ -448,8 +448,8 @@
      "date": "2026-10-09T11:05:17+02:00",
      "source": "Le journal Options",
      "image": null,
-     "reprises": 3,
-     "score": 5.78,
+     "reprises": 2,
+     "score": 3.83,
      "libertes": true
     },
     {
@@ -460,7 +460,18 @@
      "source": "Conseil constitutionnel",
      "image": null,
      "reprises": 1,
-     "score": 3.56,
+     "score": 3.55,
+     "libertes": true
+    },
+    {
+     "titre": "« Une entrave à la liberté d’expression » : à Paris, les forces de l’ordre ont confisqué des pancartes de lycéens à l’entrée des manifestations",
+     "lien": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQOTV6Mi1CNFo4YlpPN2xtUEtremVZTkhKZWZNSl9MYjNfZjE2NHFCVzFuMGpZSHRMSU85TFc3bU1KNnBINHRNRzhCRHRoN0t6Z2JoeHdQc3EzVVg1YWhBVG4xeHZRS0tjSHM2T05sSFduckdCa3hKQ1k5R1o1WTZKeGwyY0ZWTWtNVFpNeUdkQ0NYOTJNdnZwMTlxYTlleXliaDBycXdSOVp5Ym5SbWF1Q0JaNGpWM3RhekdNcTBYZ1ctV2pBcjg0QU1QeFNESXZBSXgyb21xbFN1dDQzVDVsUFUzZHB1T0lVUG5pUDlpVTlXSzZKU3A1WlljWEEtaGdLb0J5WmEyemYwTlV4VS1Oa3QyVkVaR1RiOUZGcjEyUVUxRUpvbjZOTXRXbV9OZ1MwX1VB?oc=5",
+     "resume": "",
+     "date": "2026-10-09T15:35:24+02:00",
+     "source": "Le Parisien",
+     "image": null,
+     "reprises": 2,
+     "score": 3.15,
      "libertes": true
     },
     {
@@ -483,17 +494,6 @@
      "image": null,
      "reprises": 2,
      "score": 2.92,
-     "libertes": false
-    },
-    {
-     "titre": "Rebondissement dans le procès Ullens : voici pourquoi la Cour de cassation va devoir trancher",
-     "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1Nka1I2b1FkX3lQcEJNeEE5MVpZUkMtS3NqYU1vSXBUN256WE1XR1JJanlJaGF5algzMkRxQjZucVVjcVFuWFRSZnBmUzYzYnVncGVUUUtrSlRhbExoaHZJbTAtR244bklwNDhOb1VoeG5vbVoxUERwbWZqUG9oTlZ4R3FUNEZQRUZmUm1hVnUxdXRSemxETTFYLTlRYktmVzNQQWMyQmJqM3JPWjZucTdGX1AtLXZqb0cyYzE4alRXenJJQlpsUjd0U2tEVGR6dmtqTUJWeUY2Zw?oc=5",
-     "resume": "",
-     "date": "2026-10-08T15:56:59+02:00",
-     "source": "RTL Info",
-     "image": null,
-     "reprises": 2,
-     "score": 2.63,
      "libertes": false
     }
    ],
