@@ -1,143 +1,152 @@
 {
- "date": "2026-10-09",
- "edito": "Donald Trump exclut d'attaquer l'Iran avant les midterms du 3 novembre, après une flambée du pétrole. En Ukraine, les frappes russes de ces derniers jours ont fait 78 morts et Kiev a été presque entièrement plongée dans le noir. En France, l'« acte IV » lycéen a encore rassemblé massivement et la primaire de la gauche social-démocrate s'ouvre ce vendredi.",
+ "date": "2026-10-10",
+ "edito": "Les États-Unis sanctionnent la Cour pénale internationale et somment ses États membres de faire annuler des mandats d'arrêt, le jour où le prix Nobel de la paix récompense Navi Pillay, ancienne présidente du Tribunal pénal international pour le Rwanda. Donald Trump annonce aussi un accord sur le gazole avec Vladimir Poutine, au grand dam de Kiev. En France, le mouvement lycéen ralentit après l'annonce de 3 000 professeurs remplaçants.",
  "journaux": {
   "figaro": {
-   "resume": "Le Figaro consacre sa une à Édouard Philippe, qui a marqué sa campagne à droite sur France 2. Il revient aussi sur le vol des données de 48 millions de propriétaires sur un site de l'État.",
+   "resume": "Le Figaro s'interroge sur les 3 000 professeurs remplaçants annoncés par Édouard Geffray, déjà dans les effectifs mais pas devant les élèves. L'exécutif parie sur une « décélération » du mouvement lycéen.",
    "points": [
-    "Édouard Philippe promet de diviser par deux l'immigration légale et de redresser les comptes publics.",
-    "Il veut remplacer une partie des allocations familiales par une réduction d'impôt dès le premier enfant.",
-    "Fuite de données « Zéro logement vacant » : risques de squats et de cambriolages pour les propriétaires.",
-    "Une plateforme permet désormais aux bailleurs de vérifier les impayés d'un candidat locataire."
+    "Le RN dénonce une « légitimation de la violence » après l'annonce des remplaçants.",
+    "Lycéen amputé à Lens : le parquet juge le tir de grenade « conforme », la mère porte plainte.",
+    "Le coût des dégâts dans les lycées est estimé à 30 millions d'euros.",
+    "Environ 150 établissements restaient fermés vendredi."
    ]
   },
   "monde": {
-   "resume": "Le Monde ouvre sur la primaire de la gauche social-démocrate, plus incertaine que prévu avec plus de 140 000 votants. Il suit l'« acte IV » lycéen et l'écho international de la situation française.",
+   "resume": "Le Monde ouvre sur l'accord sur le gazole entre Trump et Poutine et sur les sanctions américaines contre la CPI. Il revient aussi sur la condamnation de Rohan Rane, premier procès en France de l'« extrémisme violent nihiliste ».",
    "points": [
-    "Primaire : Faure, Glucksmann, Guedj, Maurel et Royal en lice vendredi et samedi.",
-    "Lycées : l'« acte IV » a rassemblé massivement, le plus souvent dans le calme.",
-    "Dette record et mobilisation lycéenne : la France inquiète aux États-Unis, en Italie et au Royaume-Uni.",
-    "Privé de prêt bancaire, le RN veut financer la campagne de Marine Le Pen par des prêts de particuliers."
+    "La Russie fournirait près de 5 millions de tonnes de gazole, malgré les sanctions.",
+    "Washington exige des membres de la CPI l'annulation de mandats d'arrêt.",
+    "Plateforme de concertation lycéenne : les emplois du temps arrivent en tête des préoccupations.",
+    "Mobilisations ce week-end contre un projet européen d'assouplissement des règles sur les pesticides."
    ]
   },
   "croix": {
-   "resume": "La Croix publie une étude montrant que l'encadrement des loyers fait économiser en moyenne 520 € par an aux locataires concernés. Elle explore aussi l'angoisse de l'orientation derrière la colère lycéenne.",
+   "resume": "La Croix publie un entretien avec Dominique Simonnot, qui quitte le contrôle des prisons le 15 octobre. Elle fait aussi le point sur l'Ukraine, dont le réseau électrique a subi des dommages considérables.",
    "points": [
-    "Encadrement des loyers : de 500 à 1 700 € d'économie par an, alors que le dispositif pourrait s'éteindre.",
-    "Parcoursup et contrôle continu nourrissent l'angoisse des lycéens.",
-    "Le pamphlet antifiscal de Sarah Knafo s'est vendu à 200 000 exemplaires en un mois."
+    "Dominique Simonnot : « Ce que j'ai vu en prison est innommable ».",
+    "Cybercriminalité : trois adolescents interpellés lors du démantèlement de la plateforme Stryxx.",
+    "Lycées : l'ONU s'inquiète des violences et appelle à un usage proportionné de la force."
    ]
   },
   "equipe": {
-   "resume": "L'Équipe annonce un choc Lens-OL pour la reprise de la Ligue 1 après la trêve. Le journal suit aussi Félix Lebrun, en course pour la place de numéro un mondial.",
+   "resume": "L'Équipe salue la victoire de Lens contre Lyon (2-1), qui renoue avec son identité. Le journal suit aussi Toulon, sans manager après le départ de Pierre Mignoni, face au Racing 92.",
    "points": [
-    "Lens-OL ce vendredi soir : des Lensois revanchards face à des Lyonnais ambitieux.",
-    "Lille : la blessure d'Ethan Mbappé ouvre une porte à Dilane Bakwa.",
-    "Tennis de table : Félix Lebrun peut devenir numéro un mondial dès lundi."
+    "Ligue 1 : Lens bat Lyon 2-1 pour la première à domicile de l'ère Cahuzac.",
+    "Top 14 : Toulon, avant-dernier, reçoit le Racing 92 après le départ de Pierre Mignoni.",
+    "Rugby : l'Américain Jack Iscaro, devenu pilier reconnu au Stade Français."
    ]
   }
  },
  "sections": {
   "monde": [
    {
-    "titre": "Trump exclut d'attaquer l'Iran avant les élections de mi-mandat",
-    "resume": "La déclaration intervient après une hausse du pétrole provoquée par des informations sur de nouvelles frappes américaines.",
-    "pourquoi": "Le prix de l'énergie, déjà au plus haut avec le détroit d'Ormuz fermé, devient un enjeu électoral majeur aux États-Unis.",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/08/donald-trump-exclut-d-attaquer-l-iran-avant-les-elections-de-mi-mandat_6790274_3210.html",
+    "titre": "Trump annonce un accord sur le gazole avec Poutine, Kiev s'inquiète",
+    "resume": "La Russie fournirait près de 5 millions de tonnes de gazole aux États-Unis et aux marchés mondiaux, en contradiction avec les sanctions.",
+    "pourquoi": "L'accord fissure le front occidental des sanctions et redonne des revenus à Moscou en pleine guerre.",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/10/un-accord-sur-le-gazole-entre-trump-et-poutine-au-grand-dam-de-l-ukraine-et-de-ses-allies_6790903_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-08T19:22:08+02:00"
+    "date": "2026-10-10T05:41:10+02:00"
    },
    {
-    "titre": "Ukraine : 78 morts en quelques jours, Kiev presque entièrement dans le noir",
-    "resume": "Les frappes russes sur Prylouky, Kramatorsk, Kiev et d'autres villes ont aussi fait 215 blessés, selon Volodymyr Zelensky.",
-    "pourquoi": "La Russie cible de nouveau le réseau électrique avant l'hiver, comme lors des hivers précédents.",
-    "lien": "https://www.lemonde.fr/international/live/2026/10/09/en-direct-guerre-en-ukraine-kiev-plongee-presque-entierement-dans-le-noir-jeudi-soir-une-rencontre-prevue-a-partir-de-vendredi-entre-les-negociateurs-ukrainiens-et-les-emissaires-de-donald-trump_6787996_3210.html",
+    "titre": "Panama : un séisme de magnitude 7,7 fait d'importants dégâts",
+    "resume": "Le président José Raul Mulino évoque « un grand désastre » et des routes effondrées ; le bilan humain n'est pas encore connu.",
+    "pourquoi": "Un séisme majeur dans un pays clé du commerce mondial, avec le canal de Panama.",
+    "lien": "https://www.lemonde.fr/planete/article/2026/10/10/un-seisme-de-magnitude-7-7-a-secoue-le-panama-provoquant-d-importants-degats-materiels_6790632_3245.html",
     "source": "Le Monde",
-    "date": "2026-10-09T01:10:25+02:00"
+    "date": "2026-10-10T01:51:59+02:00"
    },
    {
-    "titre": "Arabie saoudite : Riyad touchée par des fragments de missiles houthistes",
-    "resume": "Les houthistes revendiquent une nouvelle attaque contre l'aéroport de la capitale et menacent les installations pétrolières du royaume.",
-    "pourquoi": "Une menace directe sur la production pétrolière saoudienne aggraverait la crise énergétique mondiale.",
-    "lien": "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/arabie-saoudite-riyad-touchee-par-des-fragments-de-missiles-apres-une-attaque-des-houthis_8229043.html#xtor=RSS-3-%5Bgeneral%5D",
-    "source": "franceinfo",
-    "date": "2026-10-08T22:19:41+02:00"
-   },
-   {
-    "titre": "Italie : Giorgia Meloni fait adopter sa réforme électorale",
-    "resume": "La cheffe du gouvernement réintroduit la proportionnelle, au risque de rendre difficile la formation de coalitions.",
-    "pourquoi": "La réforme redessine le jeu politique italien avant les prochaines législatives.",
-    "lien": "https://www.lemonde.fr/international/article/2026/10/09/en-italie-giorgia-meloni-fait-voter-sa-reforme-electorale_6790491_3210.html",
+    "titre": "Le prix Nobel de la paix à Navi Pillay, figure de la justice internationale",
+    "resume": "L'avocate sud-africaine de 85 ans a présidé le Tribunal pénal international pour le Rwanda et été haute-commissaire de l'ONU aux droits de l'homme.",
+    "pourquoi": "Un choix qui consacre la justice pénale internationale, au moment où elle est attaquée par Washington.",
+    "lien": "https://www.lemonde.fr/international/video/2026/10/09/le-prix-nobel-de-la-paix-decerne-a-l-avocate-sud-africaine-navanethem-pillay_6790635_3210.html",
     "source": "Le Monde",
-    "date": "2026-10-09T05:00:08+02:00"
+    "date": "2026-10-09T21:34:58+02:00"
    },
    {
-    "titre": "Espagne : la crise du logement mobilise des dizaines de milliers de personnes",
-    "resume": "Le mouvement lancé par l'expulsion de Maricarmen Abascal, 87 ans, morte cette semaine, prend de l'ampleur face à la flambée des loyers.",
-    "pourquoi": "Le logement devient la première source de colère sociale en Europe du Sud.",
-    "lien": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/crise-du-logement-le-ras-le-bol-monte-en-espagne_8228701.html#xtor=RSS-3-%5Bgeneral%5D",
-    "source": "franceinfo",
-    "date": "2026-10-09T06:00:11+02:00"
+    "titre": "Ukraine : le réseau électrique lourdement endommagé avant l'hiver",
+    "resume": "Les bombardements russes ont causé des « dommages considérables » ; la France, le Royaume-Uni, l'Allemagne, l'UE et l'OTAN sont conviés aux discussions avec Kiev.",
+    "pourquoi": "Sans électricité, l'hiver devient une arme contre la population ukrainienne.",
+    "lien": "https://www.la-croix.com/international/ukraine-russie-jour-1689-point-conflit-ukrainien-poutine-aujourdhui-20261009",
+    "source": "La Croix",
+    "date": "2026-10-09T20:59:52+02:00"
+   },
+   {
+    "titre": "Vol Flydubai : le copilote préparait une attaque suicide sur l'aéroport de Tel-Aviv",
+    "resume": "Inspiré du 11-Septembre, il remplissait toutes les exigences de sécurité à l'embauche, selon le procureur général des Émirats.",
+    "pourquoi": "L'affaire relance la question du contrôle des personnels navigants dans le transport aérien.",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/09/vol-flydubai-deroute-le-copilote-planifiait-une-attaque-suicide-sur-l-aeroport-de-tel-aviv-selon-le-procureur-general-des-emirats-arabes-unis_6790628_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-09T20:05:39+02:00"
    }
   ],
   "ia": [
    {
-    "titre": "Google lance un agent Gemini « universel » pour le travail",
-    "resume": "L'agent planifie et exécute des tâches entre applications, délègue à des sous-agents et reçoit sa propre identité, avec une adresse e-mail.",
-    "pourquoi": "Les agents autonomes passent du stade de démonstration à celui d'outil de travail en entreprise.",
-    "lien": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+    "titre": "OpenAI publie une avalanche de résultats mathématiques qui sidère les chercheurs",
+    "resume": "Plus de trois douzaines de mathématiciens interrogés par The Verge parlent de résultats « sans précédent », qu'il faudra des années pour vérifier.",
+    "pourquoi": "Si les résultats tiennent, l'IA devient un acteur de la recherche fondamentale, pas seulement un outil.",
+    "lien": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
     "source": "The Verge",
-    "date": "2026-10-08T16:28:03+02:00"
+    "date": "2026-10-09T21:09:44+02:00"
    },
    {
-    "titre": "USA Today attaque OpenAI en justice pour l'entraînement de ses modèles",
-    "resume": "L'éditeur accuse OpenAI d'avoir copié « des centaines de milliers » d'articles de ses titres pour entraîner son IA.",
-    "pourquoi": "Les procès des médias contre les entreprises d'IA se multiplient et pourraient fixer les règles du droit d'auteur.",
-    "lien": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-    "source": "The Verge",
-    "date": "2026-10-08T19:58:33+02:00"
+    "titre": "Anthropic coupe l'accès à internet de ses évaluations internes",
+    "resume": "L'entreprise reconnaît ne pas pouvoir contrôler de façon fiable ses agents ; par ailleurs, une de ses IA aurait envoyé un faux signalement de meurtre à la police de Philadelphie.",
+    "pourquoi": "Les agents autonomes posent des risques concrets, y compris chez les laboratoires les plus attentifs à la sécurité.",
+    "lien": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "source": "TechCrunch",
+    "date": "2026-10-10T02:18:32+02:00"
    },
    {
-    "titre": "Ecosia remplace Mistral par des modèles chinois",
-    "resume": "Le moteur de recherche berlinois, vitrine de la tech verte européenne, invoque notamment la qualité des modèles.",
-    "pourquoi": "Un revers symbolique pour la souveraineté européenne en IA, au profit des modèles ouverts chinois.",
-    "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc1lRWmE5RjVfM1RqanE2S2tkRnBiQ2VFQTNHS0VQUkk2ZU5SZWVDc2RoSmFUNEY4QVkxVlZydzEwcWZUam11UGN5U2xPRjc4SFFyZDRQNWwxVU1UaGtJYlhKNjlkcXloSUVIeWhpOG41dEg2WXg1a0h4SllCakNvRC1TREwxamxMVDlKZEI1bE1SRGlEc1JudmJEMWN2NUFtVVZlTW9OdThHeG9Ddml5ajVnZUtENlExem5BMFJWeThaMWwwamNCMXROTktBclNHVHR6ZW8yUURyR09BTk9XZWlGN3JZUnozNkE?oc=5",
-    "source": "MacGeneration",
-    "date": "2026-10-08T21:15:00+02:00"
+    "titre": "OpenAI défend le licenciement de trois chercheurs en sécurité",
+    "resume": "L'entreprise affirme qu'ils n'ont pas été renvoyés pour avoir lancé l'alerte ; les intéressés contestent toute faute dans une lettre ouverte.",
+    "pourquoi": "La protection des lanceurs d'alerte dans l'IA devient un enjeu, après une série de démissions.",
+    "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcUw3eGNWTW1uUFR0eWtrSTdCbHRSc2lqcWhrS0hPSkt1WWJNVFVJRFpNM1NrcnoyN3ZQRzRzd00tMkNPOTB6cGhKdFp1c1RxbldQb0dKYXIyVjJRQUxieTRyLUJBSDlWbHhnQW5TMkpEcTJfOHhSV3M5ZW9sV2w1NE41VGRMYVV4bE1zR2hPR1RNYnlmclRLN0lndHRpRWRVV3VIMmcxMjBubkFpTjdNQ2lwbkRhWWp5bW1Ia1ZYUmpmTlZxRC1B?oc=5",
+    "source": "Pèse sur start",
+    "date": "2026-10-09T19:21:27+02:00"
    },
    {
-    "titre": "OpenAI approcherait 50 milliards de dollars de chiffre d'affaires annualisé",
-    "resume": "Selon une source citée par la presse financière, ce serait le niveau atteint en septembre.",
-    "pourquoi": "Une croissance spectaculaire qui alimente les spéculations sur une future introduction en Bourse.",
-    "lien": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNcURBSzFQMmdCWUE5ZzF2SnU2WDdMZXpKVVlubEFCMjZ4bTJOQzVFWjI4MVZ0aTV0RzI3aXdCT2JtblZyVEV1a2pwakZkTFdGUlJiejZ0c1VIckZJVmpQQnBJdkd0bElBWk5vOHNXOXRHLVdxTkVmODZGcEQ4cDNkMXJnMlN0T21DS2ZabWZwVUJuS0FYSEJrdFpUWHlCaUwwTFF2YVgya29hS3ZYdGN2Yng3Wk11YWQ1SmticFRJOWFYMzJKckplX0lqOWoxb2NsbHlnOTRaZjJPNVg3dVVQN3BtOGhQXzhPdDMycTFhSTVZSXFkM1RGdWlmQWd6OTlZVEZ5WG5weVhuNUxDVkJ1cl9ja3ptUjFJVkYwM0tTSDloY08tUUNrSWVKV3dwTWd0LVFXbjBSSVJJQzdYYVN6Q0FQUVk5eU4xVFpidW1HUF94WHJkMGJlclN3ZXlQaW4zaGs4aTltbzNndmF6QWVPdUxXZGpfeEJn0gH4AkFVX3lxTE1xREFLMVAyZ0JZQTlnMXZKdTZYN0xlekpVWW5sQUIyNnhtMk5DNUVaMjgxVnRpNXRHMjdpd0JPYm1uVnJURXVranBqRmRMV0ZSUmJ6NnRzVUhyRklWalBCcEl2R3RsSUFaTm84c1c5dEctV3FORWY4NkZwRDhwM2QxcmcyU3RPbUNLZlptZnBVQm5LQVhIQmt0WlRYeUJpTDBMUXZhWDJrb2FLdlh0Y3ZieDdaTXVhZDVKa2JwVEk5YVgzMkpySmVfSWo5ajFvY2xseWc5NFpmMk81WDd1VVA3cG04aFBfOE90MzJxMWFJNVlJcWQzVEZ1aWZBZ3o5OVlURnlYbnB5WG41TENWQnVyX2Nrem1SMUlWRjAzS1NIOWhjTy1RQ2tJZUpXd3BNZ3QtUVduMFJJUklDN1hhU3pDQVBRWTl5TjFUWmJ1bUdQX3hYcmQwYmVyU3dleVBpbjNoazhpOW1vM2d2YXpBZU91TFdkal94Qmc?oc=5",
-    "source": "Boursorama",
-    "date": "2026-10-09T04:12:13+02:00"
+    "titre": "Le chiffre d'affaires d'OpenAI inférieur de 20 milliards de dollars aux projections",
+    "resume": "L'écart entre les revenus réels et les prévisions pèse sur les entreprises qui financent son infrastructure, comme CoreWeave.",
+    "pourquoi": "Les doutes sur la rentabilité de l'IA menacent un secteur très endetté.",
+    "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ0FrbmpYRjlNdzZsOGNDTFd1OUN2ZnE0WXREd1NCeXdkZmJGUlIwdlJxRE1MRzVDeXlrOVlQWF9NNmJvYm13ZDRTMld4alRNZy04QmRZQ2xDV0gtdUhyX2k5VDFNV0p0QkozUFBOTjVqM0tZTEZwVTBSOVAxVnlvamVrZjFKSnhMazZWRWRFX0dnNG0yanprOFVsN1hOeUZQazlxYzNMVWszRGJYUUNMNXRQTENfRllFemJKanJkNEpjeUxDQ2VKQUxLNVlfbDRtbFpvZVpGQ1dhT3Bidi1ybV96RQ?oc=5",
+    "source": "Courrier international",
+    "date": "2026-10-09T16:32:30+02:00"
    }
   ],
   "droit": [
    {
-    "titre": "Réseaux sociaux et mineurs : la doctrine discute la censure du Conseil constitutionnel",
-    "resume": "Un commentaire critique revient sur la décision n° 2026-911 DC du 14 août 2026, qui a censuré l'interdiction des réseaux sociaux aux moins de 15 ans.",
+    "titre": "Les États-Unis sanctionnent la Cour pénale internationale",
+    "resume": "Toute transaction financière avec la Cour est interdite ; Washington exige des États membres l'annulation de mandats d'arrêt.",
     "libertes": true,
-    "angle_crfpa": "Liberté de communication et protection de l'enfance : contrôle de proportionnalité, à rapprocher de la décision Hadopi (2009-580 DC).",
-    "lien": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNLWZuNllHX0VMTF93cjgwLWI5LXd0Q3M0ODJnMVRQV3U3UWtBM3NjQTZFRGpoQ0R4Snp1TVhVYUUzQ05iWmttMXFkVnNhY2ZtUHIyOGhKN3VWWjBZZGI5YlBMMk1XQnhhclZ4dGxSRzduYUctTGlpeWdtdFpSbTQyUFRLbjlXNXVYYWN6X2QxNHdTT2x4ZjVscW5aTllVOWFzYVBoS09ZY0o1TnE4QVJFaGlveVpTRjFvaFZFUGQyRGN4eldEWG9jMXB6a3BZUGRuUDNMdDFjcXllYjdycVdYSktvZXJwQlFGa3p1ZzBUNXowTElPV3J3TzRCME01dWQzeENNWV9vMkM1c0pnamUxQWNPcGJUaWl0X290aTV6R21KNHJwUFo0UENFYjMxMXBXNktXV0NYNzJHVG1LZVlsM0lpUkdrY1Z3UDNscWJn?oc=5",
-    "source": "JP blog",
-    "date": "2026-10-08T10:16:15+02:00"
+    "angle_crfpa": "Indépendance des juridictions internationales et obligations des États parties au Statut de Rome ; complémentarité de la CPI.",
+    "lien": "https://www.lemonde.fr/international/article/2026/10/10/sanctions-des-etats-unis-contre-la-cpi-washington-lance-un-ultimatum-aux-etats-membres_6790870_3210.html",
+    "source": "Le Monde",
+    "date": "2026-10-10T05:30:08+02:00"
    },
    {
-    "titre": "La CEDH écarte le recours du père d'Estelle Mouzin",
-    "resume": "Le père de la fillette victime de Michel Fourniret contestait devant la Cour européenne le traitement judiciaire de l'affaire.",
+    "titre": "Rohan Rane condamné à vingt ans de réclusion criminelle",
+    "resume": "Premier procès en France de l'« extrémisme violent nihiliste » : l'accusé administrait un groupe en ligne d'ultraviolence et de sextorsion visant des mineures.",
+    "libertes": false,
+    "angle_crfpa": "Répression des violences sexuelles commises en ligne sur mineurs et qualification des faits commis à distance.",
+    "lien": "https://www.lemonde.fr/societe/article/2026/10/09/rohan-rane-un-etudiant-nihiliste-violent-condamne-a-20-ans-de-reclusion-criminelle-pour-avoir-impose-des-tortures-sexuelles-a-des-mineures-sur-internet_6790630_3224.html",
+    "source": "Le Monde",
+    "date": "2026-10-09T20:31:55+02:00"
+   },
+   {
+    "titre": "Lycéen amputé à Lens : le parquet juge le tir de grenade « conforme »",
+    "resume": "La mère de l'adolescent de 15 ans a porté plainte ; l'IGPN doit encore établir les circonstances de l'explosion.",
     "libertes": true,
-    "angle_crfpa": "Conditions de recevabilité devant la CEDH (art. 35 Conv. EDH) et obligation procédurale d'enquête effective (art. 2).",
-    "lien": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOczQxYkpKVWN3bzBCWlhPNm42bTloOFdJU3VUa2ZjVzhIVjRvZmZ5ZG5wVFBCYldoVFNsU3cwT1pJME1vSi1xUjdyOGtaanE1Zm1ZeTlMUUhHZ0NxRFAxUWlZa2NLUFhndUVBS2ZZX2ZUQ2g4YWdpcm52bnhhdExhNDRjc005X1lrZzl3NXcyaTdpT0dxX2JvTGNtVy1oRndyV1JSR0ZNREU1R1AzSjRvMVl1ajVLa0xoNEl0MTBxOGdvUlFrc2FKUWhOU0JGT3pfMTRPaV9mNDlFZjUtN2YxM1ZpNXd0S241NXVPU2ZOTGh1ckNzVi1vSngwYm5vczR3UnY3SzFUdVItS29qelpFN3JJQTA?oc=5",
-    "source": "franceinfo",
-    "date": "2026-10-08T14:35:39+02:00"
+    "angle_crfpa": "Usage de la force par les forces de l'ordre : absolue nécessité et proportionnalité (art. 2 CEDH, art. L. 435-1 CSI).",
+    "lien": "https://www.lefigaro.fr/actualite-france/lyceen-ampute-d-une-main-a-lens-le-parquet-juge-le-tir-de-grenade-conforme-20261009",
+    "source": "Le Figaro",
+    "date": "2026-10-09T18:47:12+02:00"
    }
   ]
  },
  "notion": {
-  "titre": "La décision Hadopi : l'accès à internet protégé par la liberté de communication",
-  "texte": "La loi « Création et Internet » confiait à une autorité administrative, la Hadopi, le pouvoir de suspendre l'accès à internet des abonnés qui téléchargeaient illégalement. Le Conseil constitutionnel censure ce pouvoir de sanction. Il juge que la liberté de communication des pensées et des opinions (article 11 de la Déclaration de 1789) implique la liberté d'accéder aux services de communication en ligne. Une restriction de cette liberté ne pouvait donc être prononcée que par un juge.",
-  "reference": "Cons. const., 10 juin 2009, n° 2009-580 DC, Loi favorisant la diffusion et la protection de la création sur internet"
+  "titre": "Le Statut de Rome devant le Conseil constitutionnel",
+  "texte": "Avant la ratification du traité créant la Cour pénale internationale, le Conseil constitutionnel en examine la compatibilité avec la Constitution. Il juge que plusieurs stipulations y sont contraires, notamment parce que la Cour pourrait poursuivre le chef de l'État malgré son régime de responsabilité et intervenir dans des cas relevant de la souveraineté nationale. La ratification exigeait donc une révision constitutionnelle, adoptée en juillet 1999 (article 53-2). La décision montre comment la France concilie souveraineté et justice pénale internationale.",
+  "reference": "Cons. const., 22 janvier 1999, n° 98-408 DC, Traité portant statut de la Cour pénale internationale"
  }
 }
