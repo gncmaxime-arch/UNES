@@ -1,6 +1,6 @@
 {
  "date": "2026-10-10",
- "genere": "2026-10-10T06:57+02:00",
+ "genere": "2026-10-10T08:30+02:00",
  "journaux": [
   {
    "id": "figaro",
@@ -13,28 +13,28 @@
    },
    "articles": [
     {
+     "titre": "Trump conclut un accord avec Poutine sur le diesel russe, Zelensky dénonce une «horrible» décision",
+     "lien": "https://www.lefigaro.fr/conjoncture/donald-trump-assure-que-la-russie-va-fournir-immediatement-300-000-tonnes-de-gazole-aux-marches-americain-et-mondial-20261009",
+     "resume": "L’annonce du président américain intervient après une discussion qualifiée par lui de « très fructueuse avec son homologue russe Vladimir Poutine.",
+     "date": "2026-10-10T07:28:22+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/orig/2026/10/09/65f8f9c96e730d8e5d789838c4053fd1796ad8a24d73f136d76ca026006ee707.JPG"
+    },
+    {
+     "titre": "Guerre en Ukraine : la France condamne les «attaques barbares» de Moscou contre des civils",
+     "lien": "https://www.lefigaro.fr/flash-actu/guerre-en-ukraine-la-france-condamne-les-attaques-barbares-de-moscou-contre-des-civils-20261009",
+     "resume": "«La France condamne avec la plus grande fermeté les frappes de la Russie contre les civils et les infrastructures ukrainiennes au cours des derniers jours», a cinglé le ministère des Affaires étrangères français dans un communiqué.",
+     "date": "2026-10-09T23:31:26+02:00",
+     "source": "",
+     "image": "https://i.f1g.fr/media/cms/3000x2095_crop/2026/10/09/9d36b2ec45014ac9da909defd93f05a9be7af319271bd00e1be6e3472f855923.jpg"
+    },
+    {
      "titre": "Crise lycéenne : les 3000 professeurs remplaçants sortis du chapeau par Edouard Geffray sèment le trouble",
      "lien": "https://www.lefigaro.fr/actualite-france/3000-professeurs-sortis-du-chapeau-la-troublante-mobilisation-express-de-remplacants-pour-calmer-la-colere-lyceenne-20261009",
      "resume": "DÉCRYPTAGE - En révélant que ce vivier serait disponible dès « les prochaines heures », le ministre de l’Éducation nationale, Édouard Geffray, a démontré que ces enseignants faisaient déjà partie des effectifs, mais n’étaient pas affectés. De quoi…",
      "date": "2026-10-09T20:11:51+02:00",
      "source": "",
      "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/09/382e09b6eaff1f5631d4c8ace62d9d172b401c0575aec20eba92eebc48d2d4a6.jpg"
-    },
-    {
-     "titre": "«C’est tu casses, tu reçois» : le RN dénonce une «légitimation de la violence» après l’annonce du déploiement de 3000 remplaçants dans les lycées",
-     "lien": "https://www.lefigaro.fr/politique/c-est-tu-casses-tu-recois-le-rn-denonce-une-legitimation-de-la-violence-apres-l-annonce-du-deploiement-de-3000-remplacants-dans-les-lycees-20261009",
-     "resume": "Le ministre de l’Éducation Édouard Geffray a annoncé jeudi soir le déploiement «dans les heures et les jours qui viennent» de 3000 professeurs remplaçants qui «actuellement ne sont pas devant les élèves».",
-     "date": "2026-10-09T11:24:57+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/10/09/1034a21a59736ccaf928083497d6947963f73384d927a45fbcff15dc3efa0f36.JPG"
-    },
-    {
-     "titre": "Mobilisation des lycéens : l’exécutif parie sur une «décélération» du mouvement",
-     "lien": "https://www.lefigaro.fr/politique/mobilisation-des-lyceens-l-executif-parie-sur-une-deceleration-du-mouvement-20261009",
-     "resume": "Le gouvernement observe un reflux des actions, moins violentes et plus territorialisées. Mais la vigilance reste forte avant une nouvelle journée de manifestation.",
-     "date": "2026-10-09T16:47:20+02:00",
-     "source": "",
-     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/09/68bd0de7daba2a47feb6545ee6515b19354f562dc02e41bf7c9699a719adea27.jpg"
     },
     {
      "titre": "Lycées : croyez-vous à la promesse du ministre de l'Éducation de mobiliser immédiatement 3000 professeurs supplémentaires ?",
@@ -45,20 +45,20 @@
      "image": null
     },
     {
-     "titre": "Lycéen amputé d’une main à Lens : le parquet juge le tir de grenade «conforme»",
-     "lien": "https://www.lefigaro.fr/actualite-france/lyceen-ampute-d-une-main-a-lens-le-parquet-juge-le-tir-de-grenade-conforme-20261009",
-     "resume": "La mère de l’adolescent de 15 ans, grièvement blessé lundi et toujours hospitalisé, a porté plainte, a annoncé vendredi le procureur de Béthune. L’enquête de l’IGPN doit encore établir les circonstances de l’explosion, notamment si le lycéen avait ramassé la…",
-     "date": "2026-10-09T18:47:12+02:00",
+     "titre": "«Pour moi, ça ferait 13.000 euros d’impôts en plus par an !» : les loueurs en meublé vent debout contre le coup de rabot fiscal du budget 2027",
+     "lien": "https://immobilier.lefigaro.fr/article/pour-moi-ca-ferait-13-000-euros-d-impot-en-plus-par-an-les-loueurs-en-meuble-vent-debout-contre-le-coup-de-rabot-fiscal-du-budget-2027-20261010",
+     "resume": "TÉMOIGNAGES - Cinq bailleurs en meublé de longue durée ont confié au Figaro leur colère de se retrouver coincés par un énième tour de vis fiscal et leurs regrets d’avoir opté pour le régime LMNP. Ils vont voir leurs impôts flamber.",
+     "date": "2026-10-10T08:02:41+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/orig/2026/10/09/220da2ac0b839032d68056dc9e69c0512e45eb1bf3dba3bf3be723d66efd02d3.JPG"
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/10/a61142b9a2bd8e946564a2ac3c39277a80df969c98c2537124ade1cd421a7f7c.jpg"
     },
     {
-     "titre": "EN DIRECT - Colère des lycéens : le coût des dégâts estimé à 30 millions d’euros",
-     "lien": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-des-lyceens-retour-en-classe-ou-poursuite-des-blocages-l-incertitude-plane-sur-la-suite-du-mouvement-ce-vendredi-20261009",
-     "resume": "Au lendemain de la promesse du déploiement en urgence de 3000 professeurs remplaçants, le mouvement lycéen est en «nette décélération», s’est-on félicité vendredi au sein de l’exécutif, même si quelque 150 établissements restent fermés et qu’une nouvelle…",
-     "date": "2026-10-09T20:26:02+02:00",
+     "titre": "Inondations et vents à 165 km/h : l'ouragan Isaias arrive aux États-Unis par la Floride",
+     "lien": "https://www.lefigaro.fr/international/inondations-et-vents-a-165-km-h-l-ouragan-isaias-arrive-aux-etats-unis-par-la-floride-20261010",
+     "resume": "Cet ouragan de catégorie 3 a d’ores et déjà mis à l’arrêt une part importante de la production pétrolière dans cette région de la côte est des États-Unis. Le gouverneur de Floride dit prendre «très, très au sérieux» la tempête et redoute des «dégâts…",
+     "date": "2026-10-10T08:07:47+02:00",
      "source": "",
-     "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/10/09/8ba95b0e5ffa1aa299e19a92b42479114fcc2a764f7f05266b23a8cd5118198d.jpg"
+     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/10/bc6cae39187f41fba4758d01af6d6f1d70b725514dc8caac1e2cd2de360fc5ef.jpg"
     }
    ],
    "flux_utilise": "https://www.lefigaro.fr/rss/figaro_actualites.xml"
@@ -74,12 +74,20 @@
    },
    "articles": [
     {
-     "titre": "Un accord sur le gazole entre Trump et Poutine, au grand dam de l’Ukraine et de ses alliés",
+     "titre": "Donald Trump et Vladimir Poutine signent un accord sur le gazole, au grand dam de l’Ukraine et de ses alliés",
      "lien": "https://www.lemonde.fr/international/article/2026/10/10/un-accord-sur-le-gazole-entre-trump-et-poutine-au-grand-dam-de-l-ukraine-et-de-ses-allies_6790903_3210.html",
-     "resume": "Le président des Etats-Unis a annoncé, vendredi, que la Russie s’engageait à fournir près de 5 millions de tonnes de gazole aux Etats-Unis et aux marchés mondiaux « dans une courte période ». Un accord qui va à l’encontre des sanctions qui pèsent sur le…",
-     "date": "2026-10-10T05:41:10+02:00",
+     "resume": "Le président américain a annoncé, vendredi, que la Russie s’engageait à fournir près de 5 millions de tonnes de gazole aux Etats-Unis et aux marchés mondiaux « dans une courte période ». Qu’importe les sanctions qui pèsent sur le pétrole russe. Ce « deal »…",
+     "date": "2026-10-10T05:41:07+02:00",
      "source": "",
      "image": "https://img.lemde.fr/2026/09/23/14/0/2103/1051/644/322/60/0/28c1400_ftp-1-3vknnqqwot7t-2026-09-23t215100z-460740872-rc2z7ga62bpa-rtrmadp-3-ukraine-crisis-russia-g20.JPG"
+    },
+    {
+     "titre": "Mobilisation lycéenne : les premières surprises de la plateforme de concertation",
+     "lien": "https://www.lemonde.fr/politique/article/2026/10/09/mobilisation-lyceenne-les-premieres-surprises-de-la-plateforme-de-concertation_6790617_823448.html",
+     "resume": "La question des emplois du temps arrive en tête, loin devant Parcoursup et l’interdiction des téléphones portables, d’après une synthèse nationale des premières dizaines de milliers de contributions postées sur la plateforme ouverte par le gouvernement.",
+     "date": "2026-10-09T18:50:40+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/09/959/0/5749/2874/644/322/60/0/3d6b1e1_ftp-1-zrkcprk5ilbv-5305334-01-06.jpg"
     },
     {
      "titre": "Sanctions des Etats-Unis contre la CPI : Washington lance un ultimatum aux Etats membres",
@@ -90,22 +98,6 @@
      "image": "https://img.lemde.fr/2026/10/09/875/0/5250/2625/644/322/60/0/99a1c5f_ftp-1-fgoswygpezpc-5307615-01-06.jpg"
     },
     {
-     "titre": "Mobilisation lycéenne : les premières surprises de la plateforme de concertation",
-     "lien": "https://www.lemonde.fr/politique/article/2026/10/09/mobilisation-lyceenne-les-premieres-surprises-de-la-plateforme-de-concertation_6790617_823448.html",
-     "resume": "La question des emplois du temps arrive en tête, devant Parcoursup et l’interdiction des téléphones portables, d’après une synthèse nationale des premières dizaines de milliers de contributions postées sur la plateforme ouverte par le gouvernement.",
-     "date": "2026-10-09T18:50:40+02:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/10/09/959/0/5749/2874/644/322/60/0/3d6b1e1_ftp-1-zrkcprk5ilbv-5305334-01-06.jpg"
-    },
-    {
-     "titre": "« Pesticides à vie ? Non merci ! » : partout en France, des mobilisations contre un projet européen de dérégulation « dévastateur »",
-     "lien": "https://www.lemonde.fr/planete/article/2026/10/10/pesticides-a-vie-non-merci-partout-en-france-des-mobilisations-contre-un-projet-europeen-de-deregulation-devastateur_6790949_3244.html",
-     "resume": "Des rassemblements « bruyants » sont prévus, samedi et dimanche, pour protester contre un projet de texte législatif de la Commission européenne comportant une série d’assouplissements sans précédent de la réglementation sur les pesticides.",
-     "date": "2026-10-10T06:00:55+02:00",
-     "source": "",
-     "image": "https://img.lemde.fr/2026/10/03/688/0/8256/4128/644/322/60/0/a185a9b_ftp-1-sxd5epjjtcdr-5253755-01-06.jpg"
-    },
-    {
      "titre": "Rohan Rane, un étudiant nihiliste violent, condamné à vingt ans de réclusion criminelle pour avoir imposé des tortures sexuelles à des mineures sur Internet",
      "lien": "https://www.lemonde.fr/societe/article/2026/10/09/rohan-rane-un-etudiant-nihiliste-violent-condamne-a-20-ans-de-reclusion-criminelle-pour-avoir-impose-des-tortures-sexuelles-a-des-mineures-sur-internet_6790630_3224.html",
      "resume": "Cet étudiant administrait un groupe en ligne spécialisé dans l’ultraviolence et la sextorsion. Son procès est le premier en France concernant cette mouvance, venue des Etats-Unis, qualifiée d’« extrémisme violent nihiliste ».",
@@ -114,12 +106,20 @@
      "image": "https://img.lemde.fr/2026/10/09/189/168/3908/1954/644/322/60/0/0550300_upload-1-sbzad1apoapf-rohan-rane-3-adria-fruitos.jpg"
     },
     {
-     "titre": "Que faire, que voir, où aller ? L’agenda culturel et lifestyle à partir du 10 octobre",
-     "lien": "https://www.lemonde.fr/m-styles/article/2026/10/10/que-faire-que-voir-ou-aller-l-agenda-culturel-et-lifestyle-a-partir-du-10-octobre_6790936_4497319.html",
-     "resume": "Chaque samedi, « Le Goût du Monde » vous proposer sa sélection de rendez-vous et d’adresses, à Paris et partout en France. Cette semaine, des toiles de l’artiste tanzanienne Sungi Mlengeya, une rencontre avec les artisans de Belleville, ou encore une…",
-     "date": "2026-10-10T06:00:04+02:00",
+     "titre": "« Pesticides à vie ? Non merci ! » : partout en France, des mobilisations contre un projet européen de dérégulation « dévastateur »",
+     "lien": "https://www.lemonde.fr/planete/article/2026/10/10/pesticides-a-vie-non-merci-partout-en-france-des-mobilisations-contre-un-projet-europeen-de-deregulation-devastateur_6790949_3244.html",
+     "resume": "Des rassemblements « bruyants » sont prévus, samedi et dimanche, pour protester contre un projet de texte législatif de la Commission européenne comportant une série d’assouplissements sans précédent de la réglementation sur les pesticides.",
+     "date": "2026-10-10T06:00:45+02:00",
      "source": "",
-     "image": "https://img.lemde.fr/2026/10/01/174/0/1500/750/644/322/60/0/97de794_ftp-1-2nzc2qaqcapl-446221-3506077.jpg"
+     "image": "https://img.lemde.fr/2026/10/03/688/0/8256/4128/644/322/60/0/a185a9b_ftp-1-sxd5epjjtcdr-5253755-01-06.jpg"
+    },
+    {
+     "titre": "Pourquoi des millions de contraceptifs destinés à plusieurs pays africains sont-ils bloqués en Belgique ?",
+     "lien": "https://www.lemonde.fr/videos/video/2026/10/10/pourquoi-des-millions-de-contraceptifs-destines-a-plusieurs-pays-africains-sont-ils-bloques-en-belgique_6790940_1669088.html",
+     "resume": "Financés à l’origine par l’Usaid, ces colis humanitaires sont immobilisés depuis plus d’un an, sans qu’une solution n’ait été trouvée.",
+     "date": "2026-10-10T06:00:18+02:00",
+     "source": "",
+     "image": "https://img.lemde.fr/2026/10/09/500/0/6000/3000/644/322/60/0/65739a6_upload-1-xlkx7hpmvzxy-000-84ct6ke.jpg"
     }
    ],
    "flux_utilise": "https://www.lemonde.fr/rss/une.xml"
@@ -130,10 +130,26 @@
    "couleur": "#c8102e",
    "une": {
     "fichier": "unes/croix.jpg",
-    "date": "2026-10-09",
-    "source": "https://img.kiosko.net/2026/10/09/fr/lacroix.750.jpg"
+    "date": "2026-10-10",
+    "source": "https://img.kiosko.net/2026/10/10/fr/lacroix.750.jpg"
    },
    "articles": [
+    {
+     "titre": "Cuisine d’automne : noix, champignons et châtaignes",
+     "lien": "https://www.la-croix.com/art-de-vivre/cuisine-d-automne-noix-champignons-et-chataignes-20261009",
+     "resume": "Après la lourdeur des canicules estivales, vive les premiers frissons salvateurs. C’est le retour des pulls douillets, des promenades dans les bois, des cueillettes en forêt et des petits moments réconfortants. L’automne ne se contente pas de changer les…",
+     "date": "2026-10-10T08:00:09+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/09/2535797-une-recette-automnale-a-base-de-chataignes-emblema.jpeg"
+    },
+    {
+     "titre": "« Plus dangereux que la loi Duplomb » : l’Omnibus sur les pesticides fédère contre lui ONG, médecins et mutuelles",
+     "lien": "https://www.la-croix.com/economie/plus-dangereux-que-la-loi-duplomb-l-omnibus-sur-les-pesticides-federe-contre-lui-ong-medecins-et-mutuelles-20261009",
+     "resume": "Alors que le Parlement européen se prépare à voter un « Omnibus » de dérégulation pour les pesticides et les biocides, une centaine d’organisations appellent à se rassembler samedi 10 et dimanche 11 octobre, pour protester contre ce retour en arrière qui…",
+     "date": "2026-10-10T07:00:06+02:00",
+     "source": "",
+     "image": "https://i.la-croix.com/x/2026/10/09/2557127-lors-d-un-rassemblement-pour-bloquer-la-production.jpg"
+    },
     {
      "titre": "Dominique Simonnot : « Ce que j’ai vu en prison est innommable »",
      "lien": "https://www.la-croix.com/societe/dominique-simonnot-ce-que-j-ai-vu-en-prison-est-innommable-20261009",
@@ -165,22 +181,6 @@
      "date": "2026-10-09T20:59:52+02:00",
      "source": "",
      "image": "https://i.la-croix.com/x/2026/10/09/2557339-des-habitants-se-rassemblent-sur-les-lieux-d-une-a.jpg"
-    },
-    {
-     "titre": "Blocage des lycées : l’ONU « inquiète » face aux violences... Le bilan du vendredi 9 octobre",
-     "lien": "https://www.la-croix.com/societe/blocage-des-lycees-141-etablissements-encore-fermes-ce-vendredi-20261009",
-     "resume": "Près de 150 établissements étaient fermés ce matin. L’ONU appelle au maintien de rassemblements pacifiques et à un usage proportionné de la force. Retrouvez les informations sur la mobilisation lycéenne du vendredi 9 octobre.",
-     "date": "2026-10-09T20:59:07+02:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/09/2557063-les-lyceens-occupent-la-statue-de-la-place-de-la-b.jpg"
-    },
-    {
-     "titre": "Guerre au Moyen-Orient : Poutine propose son aide... Le bilan du vendredi 9 octobre",
-     "lien": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-119-moyen-orient-bilan-resume-aujourdhui-20261009",
-     "resume": "Vladimir Poutine a proposé son aide pour contribuer au règlement de la guerre. Le porte-avions américain Abraham Lincoln, qui rentre de plusieurs mois de déploiement, est arrivé à son port d’attache de San Diego, en Californie. Retrouvez l’actualité du…",
-     "date": "2026-10-09T20:58:12+02:00",
-     "source": "",
-     "image": "https://i.la-croix.com/x/2026/10/09/2556998-des-palestiniens-se-rassemblent-autour-d-un-vehicu.jpg"
     }
    ],
    "flux_utilise": "https://www.la-croix.com/feeds/rss/site.xml"
@@ -190,58 +190,58 @@
    "nom": "L'Équipe",
    "couleur": "#e2001a",
    "une": {
-    "fichier": "unes/equipe.webp",
+    "fichier": "unes/equipe.jpg",
     "date": "2026-10-10",
-    "source": "https://www.frontpages.com/t/2026/10/10/l-equipe-005629zc5@2x.webp"
+    "source": "https://img.kiosko.net/2026/10/10/fr/l_equip.750.jpg"
    },
    "articles": [
     {
-     "titre": "Sans l'ogre Pogacar, tout est permis sur le Tour de Lombardie : « S'il est présent, on y va pour faire deuxième, sinon pour gagner »",
-     "lien": "https://www.lequipe.fr/Cyclisme-sur-route/Article/Sans-pogacar-tout-est-permis-sur-le-tour-de-lombardie-s-il-est-present-on-y-va-pour-faire-deuxieme-sinon-pour-gagner/1724619#at_medium=RSS_feeds",
-     "resume": "En l'absence de Tadej Pogacar, quintuple vainqueur du Tour de Lombardie, le peloton se réinvente et respire un peu, psychologiquement et tactiquement.",
-     "date": "2026-10-10T06:32:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/les-uae-emirates-xrg-vendredi-lors-de-la-presentation-des-equipes-avec-isaac-del-toro-maillot-de-champion-du-mexique-et-brandon-mcnulty-vetu-de-son-maillot-de-champion-du-monde-l-bettini-sprintcyclingagency-presse-sports/1500000002609083/0:0,2000:1333-828-552-75/3ba95.jpg"
-    },
-    {
-     "titre": "Une réorganisation annoncée pour la saison prochaine : la préparation particulière de Clermont avant de recevoir l'UBB",
-     "lien": "https://www.lequipe.fr/Rugby/Article/Debut-de-saison-moyen-et-problemes-offensifs-christophe-urios-elude-les-discussions-sur-la-reorganisation-de-clermont/1724562#at_medium=RSS_feeds",
-     "resume": "Après l'annonce mercredi d'une réorganisation à la tête du sportif la saison prochaine, Clermont a tout fait pour recentrer l'attention sur la réception de l'UBB, ce samedi soir (21 heures).",
-     "date": "2026-10-10T06:24:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/christophe-urios-veut-recentrer-les-discussions-sur-le-rugby-s-pillaud-icon-sport/1500000002608983/0:0,2000:1333-828-552-75/67ac3.jpg"
-    },
-    {
-     "titre": "« Je compte beaucoup sur la force du collectif pour régler les problèmes défensifs » : face aux absences derrière, Brest doit se réorganiser",
-     "lien": "https://www.lequipe.fr/Football/Actualites/-je-compte-beaucoup-sur-la-force-du-collectif-pour-regler-les-problemes-defensifs-face-aux-absences-derriere-brest-doit-se-reorganiser/1724538#at_medium=RSS_feeds",
-     "resume": "Privé de deux de ses trois défenseurs centraux, Julien Lachuer, l'entraîneur de Brest, va devoir composer, contre Angers (20h45 ce samedi en direct sur Ligue 1+, disponible sur L'Équipe), en faisant redescendre Lucas Tousart.",
-     "date": "2026-10-10T06:17:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/lucas-tousart-intervient-devant-le-parisien-dro-fernandez-0-1-le-13-septembre-f-faugere-l-equipe/1500000002608953/0:0,2000:1333-828-552-75/56721.jpg"
-    },
-    {
-     "titre": "« Monter encore en niveau pour pouvoir sortir le club de cette passe » : premier test face au Racing 92 afin de mesurer l'impact du départ de Mignoni de Toulon",
-     "lien": "https://www.lequipe.fr/Rugby/Article/Toulon-racing-92-un-premier-test-pour-mesurer-l-impact-du-depart-de-pierre-mignoni/1724537#at_medium=RSS_feeds",
-     "resume": "Lundi, Pierre Mignoni claquait la porte du RC Toulonnais, club de sa vie auquel il était engagé jusqu'en 2029. Avant dernier du Championnat, Toulon reçoit le Racing 92 samedi (16h35) à Mayol pour un match qui donnera la mesure de l'impact qu'a eu ce départ.",
-     "date": "2026-10-10T06:08:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/les-toulonnais-sont-actuellement-avant-derniers-du-championnat-f-faugere-l-equipe/1500000002608952/0:0,2000:1333-828-552-75/eb498.jpg"
-    },
-    {
-     "titre": "« Le groupe a joué avec personnalité, caractère » : face à Lyon, le Racing club de Lens a renoué avec son ADN",
-     "lien": "https://www.lequipe.fr/Football/Article/-le-groupe-a-joue-avec-personnalite-caractere-face-a-lyon-le-racing-club-de-lens-a-renoue-avec-son-adn/1724632#at_medium=RSS_feeds",
-     "resume": "Pour la première à domicile de l'ère Cahuzac, le RC Lens a enfin retrouvé la victoire en Ligue 1 face à Lyon, vendredi (2-1). Il a surtout renoué avec son ADN des dernières saisons, peut-être le début du renouveau.",
-     "date": "2026-10-10T06:04:00+02:00",
-     "source": "",
-     "image": "https://medias.lequipe.fr/img-photo-jpg/le-capitaine-lensois-florian-thauvin-a-montre-la-voie-a-son-equipe-en-delivrant-deux-passes-decisives-face-a-lyon-vendredi-2-1-j-b-autissier-l-equipe/1500000002609148/115:218,1648:1240-828-552-75/bbb9c.jpg"
-    },
-    {
-     "titre": "« Les gens aiment son style très italien, qu'il jette ses lunettes, qu'il attaque toujours » : Giulio Ciccone, le grimpeur expansif",
-     "lien": "https://www.lequipe.fr/Cyclisme-sur-route/Article/-les-gens-aiment-son-style-tres-italien-qu-il-jette-ses-lunettes-qu-il-attaque-toujours-giulio-ciccone-le-grimpeur-expansif/1724533#at_medium=RSS_feeds",
-     "resume": "Grand fan de Marco Pantani, attaquant taillé pour les courses d'un jour et grimpeur de talent, l'Italien Giulio Ciccone guette, ce samedi l'opportunité d'enfin décrocher la grande victoire qui lui manque.",
-     "date": "2026-10-10T05:50:00+02:00",
+     "titre": "Plus qu'un jeu, un laboratoire d'innovation",
+     "lien": "https://www.lequipe.fr/Tous-sports/Actualites/Plus-qu-un-jeu-un-laboratoire-d-innovation/1723483#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-10T08:00:00+02:00",
      "source": "",
      "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Ion Izagirre, Bauke Mollema, Pello Bilbao et Rudy Molard : des au revoir sur le Tour de Lombardie",
+     "lien": "https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Ion-izagirre-bauke-mollema-pello-bilbao-et-rudy-molard-des-au-revoir-sur-le-tour-de-lombardie/1724593#at_medium=RSS_feeds",
+     "resume": "Le Tour de Lombardie marque pour beaucoup la fin de saison et, pour certains, la fin de carrière dont Ion Izagirre de Cofidis qui, malgré une fracture d'un poignet, n'a pas voulu renoncer (à suivre sur Eurosport, disponible sur le site L'Équipe).",
+     "date": "2026-10-10T07:58:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/ion-izagirre-bauke-mollema-pello-bilbao-et-rudy-molard-e-garnier-b-papon-n-vereecken-l-equipe-photonews-presse-sports/1500000002609036/0:0,1500:1000-828-552-75/0f5db.jpg"
+    },
+    {
+     "titre": "« On peut se suivre partout » : d'un village sénégalais jusqu'à la tête de la Ligue 1 avec Monaco, Lamine Camara et Sadibou Sané racontent leur improbable destin commun",
+     "lien": "https://www.lequipe.fr/Football/Article/-on-peut-se-suivre-partout-d-un-village-senegalais-jusqu-a-la-tete-de-la-ligue-1-avec-monaco-lamine-camara-et-sadibou-sane-racontent-leur-improbable-destin-commun/1724568#at_medium=RSS_feeds",
+     "resume": "Originaires du même village, Lamine Camara et Sadibou Sané ont emprunté le même parcours, de leur académie au pays jusqu'à Monaco, en passant par la sélection sénégalaise. Ils racontent cette destinée commune.",
+     "date": "2026-10-10T07:48:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/lamine-camara-et-sadibou-sane-a-la-turbie-le-centre-d-entrainement-de-monaco-jeudi-c-mahoudeau-l-equipe/1500000002608991/0:0,919:613-828-552-75/c6739.jpg"
+    },
+    {
+     "titre": "Réveil attendu au PSG face au Mans",
+     "lien": "https://www.lequipe.fr/Football/Video/Ligue-1-psg-reveil-attendu-au-psg-apres-un-debut-de-saison-moyen-en-ligue-1/20242887#at_medium=RSS_feeds",
+     "resume": "",
+     "date": "2026-10-10T07:34:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Le profil du Tour de Lombardie, le dernier Monument de la saison",
+     "lien": "https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Le-profil-du-tour-de-lombardie-le-dernier-monument-de-la-saison/1724444#at_medium=RSS_feeds",
+     "resume": "Ce samedi aura lieu le dernier Monument cycliste de la saison, le Tour de Lombardie, en Italie. Découvrez le parcours et le profil de cette 120e édition de la « classique des feuilles mortes ».",
+     "date": "2026-10-10T07:31:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-png/-/1500000000833469/0-828-552-75/0cb67.png"
+    },
+    {
+     "titre": "Quasiment autant d'internationaux mobilisés que le PSG : comment Toulouse a géré une trêve inédite",
+     "lien": "https://www.lequipe.fr/Football/Actualites/Avec-16-internationaux-disperses-a-travers-le-monde-comment-toulouse-a-gere-cette-treve-inedite/1724540#at_medium=RSS_feeds",
+     "resume": "Amputé de seize internationaux durant la trêve, le TFC a dû trouver des solutions face à une situation nouvelle pour lui. Présents comme absents ont suivi un programme adapté avant de se déplacer à Monaco, samedi (20h45).",
+     "date": "2026-10-10T07:23:00+02:00",
+     "source": "",
+     "image": "https://medias.lequipe.fr/img-photo-jpg/le-toulousain-guillaume-restes-a-connu-sa-premiere-selection-avec-l-equipe-de-france-lundi-face-a-la-belgique-4-1-f-faugere-l-equipe/1500000002608957/0:0,912:608-828-552-75/918c4.jpg"
     }
    ],
    "flux_utilise": "https://dwh.lequipe.fr/api/edito/rss?path=/"
@@ -254,14 +254,24 @@
    "sous_titre": "Les informations les plus importantes, partout dans le monde",
    "items": [
     {
-     "titre": "Un accord sur le gazole entre Trump et Poutine, au grand dam de l’Ukraine et de ses alliés",
+     "titre": "Donald Trump et Vladimir Poutine signent un accord sur le gazole, au grand dam de l’Ukraine et de ses alliés",
      "lien": "https://www.lemonde.fr/international/article/2026/10/10/un-accord-sur-le-gazole-entre-trump-et-poutine-au-grand-dam-de-l-ukraine-et-de-ses-allies_6790903_3210.html",
-     "resume": "Le président des Etats-Unis a annoncé, vendredi, que la Russie s’engageait à fournir près de 5 millions de tonnes de gazole aux Etats-Unis et aux marchés mondiaux « dans une courte période ». Un accord qui va à l’encontre des sanctions qui pèsent sur le…",
+     "resume": "Le président américain a annoncé, vendredi, que la Russie s’engageait à fournir près de 5 millions de tonnes de gazole aux Etats-Unis et aux marchés mondiaux « dans une courte période ». Qu’importe les sanctions qui pèsent sur le pétrole russe. Ce « deal »…",
      "date": "2026-10-10T05:41:07+02:00",
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/09/23/14/0/2103/1051/644/322/60/0/28c1400_ftp-1-3vknnqqwot7t-2026-09-23t215100z-460740872-rc2z7ga62bpa-rtrmadp-3-ukraine-crisis-russia-g20.JPG",
-     "reprises": 18,
-     "score": 54.51
+     "reprises": 15,
+     "score": 51.66
+    },
+    {
+     "titre": "Sanctions des Etats-Unis contre la CPI : Washington lance un ultimatum aux Etats membres",
+     "lien": "https://www.lemonde.fr/international/article/2026/10/10/sanctions-des-etats-unis-contre-la-cpi-washington-lance-un-ultimatum-aux-etats-membres_6790870_3210.html",
+     "resume": "Après avoir menacé de démanteler la juridiction, les Etats-Unis ont annoncé vendredi imposer des sanctions contre la Cour pénale internationale, entraînant l’interdiction de toute transaction financière. Ils exigent l’annulation des mandats d’arrêt pour…",
+     "date": "2026-10-10T05:30:08+02:00",
+     "source": "lemonde.fr",
+     "image": "https://img.lemde.fr/2026/10/09/875/0/5250/2625/644/322/60/0/99a1c5f_ftp-1-fgoswygpezpc-5307615-01-06.jpg",
+     "reprises": 7,
+     "score": 17.58
     },
     {
      "titre": "Un séisme de magnitude 7,7 a secoué le Panama, provoquant d’importants dégâts matériels",
@@ -271,27 +281,7 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/09/665/0/7976/3988/644/322/60/0/360c319_ftp-1-afw4zedm6vgn-5312068-01-06.jpg",
      "reprises": 6,
-     "score": 13.23
-    },
-    {
-     "titre": "Le prix Nobel de la paix décerné à l’avocate sud-africaine Navanethem Pillay",
-     "lien": "https://www.lemonde.fr/international/video/2026/10/09/le-prix-nobel-de-la-paix-decerne-a-l-avocate-sud-africaine-navanethem-pillay_6790635_3210.html",
-     "resume": "Agée de 85 ans, Navi Pillay a notamment été juge et haut-commissaire des Nations unies aux droits de l’homme et présidente du Tribunal pénal international pour le Rwanda.",
-     "date": "2026-10-09T21:34:58+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/09/366/0/4400/2200/644/322/60/0/dbbe2e4_ftp-1-xpccgbim1onb-9472714c5da34425af71a58c567f319c-0-917bd669c9fe4a6a9588836749b7413e.jpg",
-     "reprises": 4,
-     "score": 13.13
-    },
-    {
-     "titre": "Sanctions des Etats-Unis contre la CPI : Washington lance un ultimatum aux Etats membres",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/10/sanctions-des-etats-unis-contre-la-cpi-washington-lance-un-ultimatum-aux-etats-membres_6790870_3210.html",
-     "resume": "Après avoir menacé de démanteler la juridiction, les Etats-Unis ont annoncé vendredi imposer des sanctions contre la Cour pénale internationale, entraînant l’interdiction de toute transaction financière. Ils exigent l’annulation des mandats d’arrêt pour…",
-     "date": "2026-10-10T05:30:08+02:00",
-     "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/09/875/0/5250/2625/644/322/60/0/99a1c5f_ftp-1-fgoswygpezpc-5307615-01-06.jpg",
-     "reprises": 6,
-     "score": 10.85
+     "score": 12.64
     },
     {
      "titre": "Vol Flydubai dérouté : le copilote planifiait une attaque suicide sur l’aéroport de Tel-Aviv, selon le procureur général des Emirats arabes unis",
@@ -301,17 +291,27 @@
      "source": "lemonde.fr",
      "image": "https://img.lemde.fr/2026/10/09/862/0/6000/3000/644/322/60/0/babdd00_ftp-1-0mqegt5m7vkn-2026-10-09t164523z-756657037-rc2otna6d6bq-rtrmadp-3-israel-gulf-flight.JPG",
      "reprises": 6,
-     "score": 10.62
+     "score": 10.24
     },
     {
-     "titre": "Peloton d’exécution, diffusion en direct : à l’approche des élections de mi-mandat, Washington scénarise la mise à mort de Nidal Hasan",
-     "lien": "https://www.lemonde.fr/international/article/2026/10/09/peloton-d-execution-diffusion-en-direct-a-l-approche-des-elections-de-mi-mandat-washington-scenarise-la-mise-a-mort-de-nidal-hasan_6790626_3210.html",
-     "resume": "Pete Hegseth, le secrétaire américain à la défense, a annoncé que le responsable de l’attaque terroriste sur la base de Fort Hood au Texas en 2009 sera fusillé par des soldats le 3 décembre, à 13 h 30 précises, soit l’heure à laquelle il avait ouvert le feu…",
-     "date": "2026-10-09T20:00:39+02:00",
+     "titre": "Le prix Nobel de la paix décerné à l’avocate sud-africaine Navanethem Pillay",
+     "lien": "https://www.lemonde.fr/international/video/2026/10/09/le-prix-nobel-de-la-paix-decerne-a-l-avocate-sud-africaine-navanethem-pillay_6790635_3210.html",
+     "resume": "Agée de 85 ans, Navi Pillay a notamment été juge et haut-commissaire des Nations unies aux droits de l’homme et présidente du Tribunal pénal international pour le Rwanda.",
+     "date": "2026-10-09T21:34:58+02:00",
      "source": "lemonde.fr",
-     "image": "https://img.lemde.fr/2026/10/06/535/0/4643/2321/644/322/60/0/eff7d80_ftp-1-cevit8qshsb2-90fab28860584e79b0e2537c32bf0b6f-0-0e63d3b702764fc5a6b672d05ea0b2ea.jpg",
+     "image": "https://img.lemde.fr/2026/10/09/366/0/4400/2200/644/322/60/0/dbbe2e4_ftp-1-xpccgbim1onb-9472714c5da34425af71a58c567f319c-0-917bd669c9fe4a6a9588836749b7413e.jpg",
      "reprises": 4,
-     "score": 6.7
+     "score": 9.0
+    },
+    {
+     "titre": "Gaza: un an après, un cessez-le-feu toujours pas respecté et une situation humanitaire catastrophique",
+     "lien": "https://www.rfi.fr/fr/moyen-orient/20261010-gaza-un-an-apr%C3%A8s-un-cessez-le-feu-toujours-pas-respect%C3%A9-et-une-situation-humanitaire-catastrophique",
+     "resume": "Le 10 octobre 2025, l’accord de cessez-le-feu à Gaza était conclu sous l’égide du président américain Donald Trump, censé mettre fin à deux ans de guerre et de massacres. Un an après, il n’existe que sur le papier. Les forces israéliennes continuent leurs…",
+     "date": "2026-10-10T06:55:38+02:00",
+     "source": "© AP/Jehad Alshrafi",
+     "image": "https://s.rfi.fr/media/display/40ab9f16-c460-11f1-9404-53993c5f1f18/w:1024/p:16x9/AP26282335659130.jpg",
+     "reprises": 3,
+     "score": 8.63
     }
    ],
    "a_traduire": []
@@ -322,16 +322,6 @@
    "sous_titre": "Modèles, entreprises, régulation, recherche",
    "items": [
     {
-     "titre": "Anthropic lance Claude Haiku 5.5",
-     "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQmU0bTBjNnpEWlpoRlEwY1FPbTZOTHdJYUpCeWdSdFExYlEzci1EdWk4THBqVnV2R2Q5bTdiTmtQRWJKZmlYMjVGYmZXdk92YjczTEVZdkdPbGU2eHlpdENCeERmUzVXVUM0NWI1eUtuUlY0aVRTdXhhN0ItVmpfNVFBWTZiaUVHaElWWFBpMHBGYWVrMXN1eTZB0gGeAUFVX3lxTE54Xy1YVHctTm1jMjNfMlNMV0I3M183dERZbzZyMDVmX293ZGw2MFdaVW5pblZDTFZvVGRJSG5tMGJqY0VVV2pEVV9mR2F2SDBQRmZ5MGYwOVZkLTh1cE5HMEFzNHRlVFhWRlBvUEpHMXF6cFhreXVqcjNvOUl5Um5wRnBRVjRrV3VCRlhaM1NRcGcyUlNOOUpqZGxJRWpn?oc=5",
-     "resume": "Anthropic met à jour sa politique d'utilisation et interdira à partir du 12 novembre les comportements cruels et répétés envers Claude. Une décision qui relance un débat sur les réseaux sociaux : pourquoi n'aurait-on pas le droit de maltraiter une IA dont…",
-     "date": "2026-10-09T09:55:09+02:00",
-     "source": "Le Monde Informatique",
-     "image": null,
-     "reprises": 6,
-     "score": 11.85
-    },
-    {
      "titre": "États-Unis : une IA d’Anthropic a envoyé à la police de Philadelphie un faux signalement sur un meurtre",
      "lien": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNYVVneDVsZEtITk9ZX0c2VmlFN0hvYkNDbE1rUm1TdUNhUjBpbU84UDVxdnVENW50aUFyMmM3WU5nZGpVV0pOUWlvQ3BQWlJTRTg0ekpEUkxGcmptNU9SMmV5WjFoUEpnam9WdTl2cFNJTVZSYU9SRE0tVGxxdDg1Y2djNzFpeXRlTWdMWm5MOG0wV2xyTGhMcmNqQ1JlUTIwU3FmeDRoMmxPZkRFdmxsR1FCSEw3d2F1YThlamUydTE1ZEIzNmJPLU8taGtJNnE3b25kRHV0YzJyUEhrTXk5Y2d4TV9pUjZVM0FITTV1WUw1YVdqcEpkU3JJcXFPOTJ1UDFERUVkcjdjNEQ5T1QzWDRZVmRGS2FZalhnMERBQWtJUmtacUxnaw?oc=5",
      "resume": "",
@@ -339,7 +329,7 @@
      "source": "Ouest-France",
      "image": null,
      "reprises": 4,
-     "score": 9.63
+     "score": 9.88
     },
     {
      "titre": "Le chiffre d’affaires d’OpenAI se révèle inférieur de 20 milliards de dollars aux projections",
@@ -348,8 +338,28 @@
      "date": "2026-10-09T16:32:30+02:00",
      "source": "Courrier international",
      "image": null,
-     "reprises": 5,
-     "score": 8.27
+     "reprises": 6,
+     "score": 9.78
+    },
+    {
+     "titre": "Claude d'Anthropic peut désormais orchestrer jusqu'à 1 000 agents IA en parallèle via des workflows dynamiques",
+     "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXpFR3NYSHlzM3NUMGtoaDNjQS1uelRtMkFNdm8wT2pzbk16Yk01M1VyYzJkcW5xUXRDdHdIcDV0UU9kNXk3aS1IZTFxRTJOZEpiWmpQVWlxR2hrQmtnTnR0Nmd5M0dPZWdZNUFLTGIyalNRcHBIZ1lWLV9kTm1Rek1HZm1pZkd6N2NaaEhIYXVzdTVFaC1pOUE0ZG1YZU81cXpnSjFVejlmYmIxVlJoeGwzWkRXMnNRZXpZNUthSnVZRldMSGJEaHBJbnFfWDNJbmU5ZDg3QVVWZDBOWjBzNVV2Zw?oc=5",
+     "resume": "Anthropic met à jour sa politique d'utilisation et interdira à partir du 12 novembre les comportements cruels et répétés envers Claude. Une décision qui relance un débat sur les réseaux sociaux : pourquoi n'aurait-on pas le droit de maltraiter une IA dont…",
+     "date": "2026-10-09T20:28:25+02:00",
+     "source": "lefilia.fr",
+     "image": null,
+     "reprises": 6,
+     "score": 9.54
+    },
+    {
+     "titre": "Insulter Claude pourrait bientôt vous coûter votre compte Anthropic",
+     "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDJFYVQwZ3dTS296UWEteFJLdzFMb0lucXBFdTZVUlRpdjlZNGJSNFp3SWxDRUQ4eXU3RnBFbkZ2ZGc4SkZta1A3X015ZzY0Rjh0RjhQN29ra0lxdlRMUWRKUm1iOEMxcFVMUFA4RTVLNVZydktwUnBtdlBFbk1hU2FjcWZxTnQxU0JzRU00VmxNLUQ1R0pxdjdPTm9iYTdldFY2SlMzYw?oc=5",
+     "resume": "",
+     "date": "2026-10-09T16:01:12+02:00",
+     "source": "Siècle Digital",
+     "image": null,
+     "reprises": 4,
+     "score": 6.11
     },
     {
      "titre": "OpenAI assure que les trois chercheurs n’ont pas été licenciés pour avoir sonné l’alarme",
@@ -359,17 +369,7 @@
      "source": "Pèse sur start",
      "image": null,
      "reprises": 3,
-     "score": 5.37
-    },
-    {
-     "titre": "Dialogue social de sourd - Wikipedia saturé d'agents - OpenAI corrigé - Chirurgie Doctolib - Juniors délaissés - PDG de l'IA...",
-     "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1URkc2YUtfYkk5YkNPV1NUYmhJZVZabmR6c3EtRlVXVXFTUFpxWTQ4TnhOdGxRTVNyU3ZiM3g0UWZzMjExc0FpWmZIdDc1UnRNR1prN0JIU2RkMmxOQ3ZQb0t1czlqWnZvSlBUdmZIYnI3MWxnUVlCbEg2dw?oc=5",
-     "resume": "",
-     "date": "2026-10-10T04:01:45+02:00",
-     "source": "Secrets de Data",
-     "image": null,
-     "reprises": 2,
-     "score": 5.22
+     "score": 5.07
     }
    ],
    "a_traduire": [
@@ -381,7 +381,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.52
+     "score": 1.5
     },
     {
      "titre": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
@@ -391,7 +391,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.44
+     "score": 1.41
     },
     {
      "titre": "CoreWeave Stock Fell Nearly 8% in a Day on an OpenAI Revenue Report. Here’s Why Its Borrowing Model Raises the Stakes",
@@ -401,7 +401,7 @@
      "source": "TIKR.com",
      "image": null,
      "reprises": 1,
-     "score": 1.41
+     "score": 1.38
     },
     {
      "titre": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
@@ -411,7 +411,7 @@
      "source": "techcrunch.com",
      "image": null,
      "reprises": 1,
-     "score": 1.35
+     "score": 1.32
     },
     {
      "titre": "Trump’s attempt to rename AI is looking awfully artificial",
@@ -421,7 +421,7 @@
      "source": "theverge.com",
      "image": null,
      "reprises": 1,
-     "score": 1.23
+     "score": 1.2
     }
    ]
   },
@@ -437,8 +437,8 @@
      "date": "2026-10-08T10:16:15+02:00",
      "source": "JP blog -",
      "image": null,
-     "reprises": 28,
-     "score": 60.75,
+     "reprises": 27,
+     "score": 60.62,
      "libertes": true
     },
     {
@@ -448,8 +448,8 @@
      "date": "2026-10-09T11:05:17+02:00",
      "source": "Le journal Options",
      "image": null,
-     "reprises": 2,
-     "score": 3.83,
+     "reprises": 3,
+     "score": 5.8,
      "libertes": true
     },
     {
@@ -460,18 +460,7 @@
      "source": "Conseil constitutionnel",
      "image": null,
      "reprises": 1,
-     "score": 3.55,
-     "libertes": true
-    },
-    {
-     "titre": "« Une entrave à la liberté d’expression » : à Paris, les forces de l’ordre ont confisqué des pancartes de lycéens à l’entrée des manifestations",
-     "lien": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQOTV6Mi1CNFo4YlpPN2xtUEtremVZTkhKZWZNSl9MYjNfZjE2NHFCVzFuMGpZSHRMSU85TFc3bU1KNnBINHRNRzhCRHRoN0t6Z2JoeHdQc3EzVVg1YWhBVG4xeHZRS0tjSHM2T05sSFduckdCa3hKQ1k5R1o1WTZKeGwyY0ZWTWtNVFpNeUdkQ0NYOTJNdnZwMTlxYTlleXliaDBycXdSOVp5Ym5SbWF1Q0JaNGpWM3RhekdNcTBYZ1ctV2pBcjg0QU1QeFNESXZBSXgyb21xbFN1dDQzVDVsUFUzZHB1T0lVUG5pUDlpVTlXSzZKU3A1WlljWEEtaGdLb0J5WmEyemYwTlV4VS1Oa3QyVkVaR1RiOUZGcjEyUVUxRUpvbjZOTXRXbV9OZ1MwX1VB?oc=5",
-     "resume": "",
-     "date": "2026-10-09T15:35:24+02:00",
-     "source": "Le Parisien",
-     "image": null,
-     "reprises": 2,
-     "score": 3.15,
+     "score": 3.53,
      "libertes": true
     },
     {
@@ -482,7 +471,7 @@
      "source": "Ouest-France",
      "image": null,
      "reprises": 2,
-     "score": 2.94,
+     "score": 2.92,
      "libertes": false
     },
     {
@@ -493,7 +482,18 @@
      "source": "LETROT",
      "image": null,
      "reprises": 2,
-     "score": 2.92,
+     "score": 2.91,
+     "libertes": false
+    },
+    {
+     "titre": "Rebondissement dans le procès Ullens : voici pourquoi la Cour de cassation va devoir trancher",
+     "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1Nka1I2b1FkX3lQcEJNeEE5MVpZUkMtS3NqYU1vSXBUN256WE1XR1JJanlJaGF5algzMkRxQjZucVVjcVFuWFRSZnBmUzYzYnVncGVUUUtrSlRhbExoaHZJbTAtR244bklwNDhOb1VoeG5vbVoxUERwbWZqUG9oTlZ4R3FUNEZQRUZmUm1hVnUxdXRSemxETTFYLTlRYktmVzNQQWMyQmJqM3JPWjZucTdGX1AtLXZqb0cyYzE4alRXenJJQlpsUjd0U2tEVGR6dmtqTUJWeUY2Zw?oc=5",
+     "resume": "",
+     "date": "2026-10-08T15:56:59+02:00",
+     "source": "RTL Info",
+     "image": null,
+     "reprises": 2,
+     "score": 2.6,
      "libertes": false
     }
    ],
